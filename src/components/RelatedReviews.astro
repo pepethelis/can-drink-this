@@ -1,0 +1,174 @@
+---
+import type { CollectionEntry } from "astro:content";
+import ReviewGrid from "@/components/ReviewGrid.astro";
+import getTitleFormAliases from "@/utils/getTitleFormAliases";
+import { slugifyTagPath } from "@/utils/slugify";
+
+type Props = {
+  post: CollectionEntry<"reviews">;
+  allReviews: CollectionEntry<"reviews">[];
+  maxByRelated?: number;
+  maxByBrand?: number;
+  maxByTaste?: number;
+  maxByType?: number;
+};
+
+const {
+  post,
+  allReviews,
+  maxByRelated = 20,
+  maxByBrand = 20,
+  maxByTaste = 12,
+  maxByType = 12,
+} = Astro.props;
+
+// Global title registry — deduplicates same-product entries that live in
+// separate files (different IDs, same display title). Seeded with the current
+// post so it can never appear in its own related sections.
+const seenTitles = new Set<string>([getTitleFormAliases(post.data.aliases)]);
+
+const dedupeByTitle = (r: CollectionEntry<"reviews">) => {
+  const t = getTitleFormAliases(r.data.aliases);
+  if (seenTitles.has(t)) return false;
+  seenTitles.add(t);
+  return true;
+};
+
+// ─── relatedPosts (wikilink resolution) ───────────────────────────────────────
+
+const normalizePathKey = (value: string) =>
+  slugifyTagPath(
+    value
+      .trim()
+      .replace(/^\.\//, "")
+      .replace(/\\/g, "/")
+      .replace(/\.(md|mdx)$/i, "")
+  );
+
+const parseWikilink = (value: string) => {
+  const stripped = value.replace(/^\[\[|\]\]$/g, "").trim();
+  const pipeIdx = stripped.indexOf("|");
+  if (pipeIdx === -1) return { title: stripped, path: null as string | null };
+  return { path: stripped.slice(0, pipeIdx).trim() || null, title: stripped.slice(pipeIdx + 1).trim() };
+};
+
+const relatedByField: CollectionEntry<"reviews">[] = (post.data.relatedPosts ?? [])
+  .map(parseWikilink)
+  .map(({ title, path }) => {
+    const normPath = path ? normalizePathKey(path) : null;
+    const normPathNoBase = normPath?.replace(/^(posts|reviews)\//, "") ?? null;
+    return allReviews.find(r => {
+      if (r.id === post.id) return false;
+      if (!normPath) return getTitleFormAliases(r.data.aliases) === title;
+      const idKey = normalizePathKey(r.id);
+      const idKeyNoBase = idKey.replace(/^(posts|reviews)\//, "");
+      const fileKey = r.filePath ? normalizePathKey(r.filePath) : "";
+      return (
+        idKey === normPath ||
+        idKey === normPathNoBase ||
+        idKeyNoBase === normPath ||
+        idKeyNoBase === normPathNoBase ||
+        fileKey === normPath ||
+        fileKey === normPathNoBase ||
+        fileKey.endsWith(`/${normPath}`) ||
+        (normPathNoBase && fileKey.endsWith(`/${normPathNoBase}`))
+      );
+    }) ?? null;
+  })
+  .filter((r): r is CollectionEntry<"reviews"> => r !== null && dedupeByTitle(r))
+  .slice(0, maxByRelated);
+
+// ─── Brand-related ────────────────────────────────────────────────────────────
+
+const getBrandBase = (brand: string | null | undefined): string | null => {
+  if (!brand) return null;
+  const idx = brand.indexOf("/");
+  return idx === -1 ? brand : brand.slice(0, idx);
+};
+
+const currentBrand = post.data.brand;
+const brandBase = getBrandBase(currentBrand);
+
+let relatedByBrand: CollectionEntry<"reviews">[] = [];
+if (brandBase && currentBrand) {
+  relatedByBrand = allReviews
+    .filter(r => r.id !== post.id && getBrandBase(r.data.brand) === brandBase)
+    .sort((a, b) => {
+      // Exact brand match (same line) sorts before other family members
+      const aExact = a.data.brand === currentBrand ? 0 : 1;
+      const bExact = b.data.brand === currentBrand ? 0 : 1;
+      return aExact - bExact;
+    })
+    .filter(dedupeByTitle)
+    .slice(0, maxByBrand);
+}
+
+const brandLabel = brandBase
+  ? brandBase.charAt(0).toUpperCase() + brandBase.slice(1)
+  : "";
+
+// ─── Taste-related ────────────────────────────────────────────────────────────
+
+const currentTastes = post.data.taste ?? [];
+
+const relatedByTaste: CollectionEntry<"reviews">[] = currentTastes.length > 0
+  ? allReviews
+      .filter(r => r.id !== post.id && (r.data.taste?.length ?? 0) > 0)
+      .map(r => ({
+        review: r,
+        score: r.data.taste!.filter(t => currentTastes.includes(t)).length,
+      }))
+      .filter(({ score }) => score > 0)
+      .sort((a, b) => b.score - a.score)
+      .filter(({ review }) => dedupeByTitle(review))
+      .slice(0, maxByTaste)
+      .map(({ review }) => review)
+  : [];
+
+// ─── Type-related ────────────────────────────────────────────────────────────
+
+const currentTypes = post.data.types ?? [];
+
+const relatedByType: CollectionEntry<"reviews">[] = currentTypes.length > 0
+  ? allReviews
+      .filter(r => r.id !== post.id && r.data.types?.some(t => currentTypes.includes(t)))
+      .filter(dedupeByTitle)
+      .slice(0, maxByType)
+  : [];
+
+const hasAny = relatedByField.length > 0 || relatedByBrand.length > 0 || relatedByTaste.length > 0 || relatedByType.length > 0;
+---
+
+{hasAny && (
+  <section class="mb-8">
+    <hr class="my-8 border-dashed" />
+
+    {relatedByField.length > 0 && (
+      <div class="mb-8">
+        <h2 class="mb-4 text-xl font-semibold">Related</h2>
+        <ReviewGrid reviews={relatedByField} />
+      </div>
+    )}
+
+    {relatedByBrand.length > 0 && (
+      <div class="mb-8">
+        <h2 class="mb-4 text-xl font-semibold">More {brandLabel}</h2>
+        <ReviewGrid reviews={relatedByBrand} />
+      </div>
+    )}
+
+    {relatedByTaste.length > 0 && (
+      <div class="mb-8">
+        <h2 class="mb-4 text-xl font-semibold">Similar taste: {currentTastes.join(", ")}</h2>
+        <ReviewGrid reviews={relatedByTaste} />
+      </div>
+    )}
+
+    {relatedByType.length > 0 && (
+      <div class="mb-8">
+        <h2 class="mb-4 text-xl font-semibold">Similar type: {currentTypes.join(", ")}</h2>
+        <ReviewGrid reviews={relatedByType} />
+      </div>
+    )}
+  </section>
+)}

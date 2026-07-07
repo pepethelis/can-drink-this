@@ -1,0 +1,154 @@
+---
+interface Props {
+  filterKey: string;
+  label: string;
+  tooltip?: string;
+  options: [string, number][];
+}
+const { filterKey, label, tooltip, options } = Astro.props;
+---
+
+<div class="filter-field" data-tooltip={tooltip}>
+  <label class="filter-label">{label}</label>
+  <div class="ms-root" data-ms-key={filterKey}>
+    <button
+      type="button"
+      class="filter-select ms-trigger"
+      aria-haspopup="listbox"
+    >
+      <span class="ms-label">All</span>
+    </button>
+    <div class="ms-panel" role="listbox" aria-multiselectable="true">
+      {
+        options.map(([name, count]) => (
+          <label class="ms-option">
+            <input
+              type="checkbox"
+              class="ms-checkbox"
+              data-ms-key={filterKey}
+              value={name}
+            />
+            <span class="ms-option-text">
+              {name} <span class="ms-count">({count})</span>
+            </span>
+          </label>
+        ))
+      }
+    </div>
+  </div>
+</div>
+
+<style>
+  .filter-field {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+  .filter-label {
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: color-mix(in srgb, var(--foreground) 40%, transparent);
+  }
+  .filter-field[data-tooltip]::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: calc(100% + 6px);
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: normal;
+    max-width: 220px;
+    width: max-content;
+    background-color: var(--foreground);
+    color: var(--background);
+    font-size: 0.7rem;
+    line-height: 1.4;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.375rem;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s;
+    z-index: 10;
+  }
+  .filter-field[data-tooltip]:hover::after {
+    opacity: 1;
+  }
+  .filter-select {
+    width: 100%;
+    background: var(--muted)
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%23888'/%3E%3C/svg%3E")
+      no-repeat right 0.5rem center;
+    color: var(--foreground);
+    border: 1px solid transparent;
+    border-radius: 0.5rem;
+    padding: 0.375rem 1.75rem 0.375rem 0.625rem;
+    font-size: 0.75rem;
+    line-height: 1.25;
+    cursor: pointer;
+    transition:
+      border-color 0.15s,
+      color 0.15s;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .filter-select:focus {
+    outline: none;
+    border-color: color-mix(in srgb, var(--accent) 60%, transparent);
+  }
+  .filter-select[data-active] {
+    color: var(--accent);
+    border-color: color-mix(in srgb, var(--accent) 35%, transparent);
+  }
+  .ms-root {
+    position: relative;
+  }
+  .ms-panel {
+    display: none;
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 0;
+    min-width: 100%;
+    max-height: 220px;
+    overflow-y: auto;
+    background: var(--background);
+    border: 1px solid color-mix(in srgb, var(--foreground) 15%, transparent);
+    border-radius: 0.5rem;
+    padding: 0.25rem;
+    z-index: 50;
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--foreground) 10%, transparent);
+  }
+  .ms-root.ms-open .ms-panel {
+    display: block;
+  }
+  .ms-option {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.3rem 0.5rem;
+    border-radius: 0.375rem;
+    font-size: 0.75rem;
+    cursor: pointer;
+    white-space: nowrap;
+    color: var(--foreground);
+    user-select: none;
+  }
+  .ms-option:hover {
+    background: var(--muted);
+  }
+  .ms-option.ms-disabled {
+    opacity: 0.3;
+    pointer-events: none;
+  }
+  .ms-checkbox {
+    accent-color: var(--accent);
+    cursor: pointer;
+    flex-shrink: 0;
+  }
+  .ms-count {
+    opacity: 0.5;
+  }
+</style>

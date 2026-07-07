@@ -1,0 +1,37 @@
+---
+import type { GetStaticPaths } from "astro";
+import { getCollection } from "astro:content";
+import Main from "@/layouts/Main.astro";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import CardReview from "@/components/CardReview.astro";
+import Pagination from "@/components/Pagination.astro";
+import getSortedPosts from "@/utils/getSortedPosts";
+import { SITE } from "@/config";
+import postFilter from "@/utils/postFilter";
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = await getCollection("reviews", ({ data }) =>
+    postFilter({ data })
+  );
+  const pages = paginate(getSortedPosts(posts), { pageSize: SITE.postPerPage });
+  // Skip page 1 — /reviews is handled by index.astro with client-side filtering
+  return pages.filter(p => p.params.page !== undefined);
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+---
+
+<Layout title={`Reviews | ${SITE.title}`}>
+  <Header />
+  <Main pageTitle="Reviews" pageDesc="All the reviews I've collected.">
+    <ul>
+      {page.data.map(data => <CardReview {...data} />)}
+    </ul>
+  </Main>
+
+  <Pagination {page} />
+
+  <Footer noMarginTop={page.lastPage > 1} />
+</Layout>

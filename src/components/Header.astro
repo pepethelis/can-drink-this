@@ -1,0 +1,333 @@
+---
+import IconX from "@/assets/icons/IconX.svg";
+import IconMoon from "@/assets/icons/IconMoon.svg";
+import IconSearch from "@/assets/icons/IconSearch.svg";
+import IconArchive from "@/assets/icons/IconArchive.svg";
+import IconSunHigh from "@/assets/icons/IconSunHigh.svg";
+import IconMenuDeep from "@/assets/icons/IconMenuDeep.svg";
+import IconList from "@/assets/icons/IconList.svg";
+import IconInfo from "@/assets/icons/IconInfo.svg";
+import IconHome from "@/assets/icons/IconHome.svg";
+import IconLayoutList from "@/assets/icons/IconLayoutList.svg";
+import IconCategory from "@/assets/icons/IconCategory.svg";
+import LinkButton from "./LinkButton.astro";
+import { SITE } from "@/config";
+import { SOCIALS } from "@/constants";
+
+const { pathname } = Astro.url;
+
+// Remove trailing slash from current pathname if exists
+const currentPath =
+  pathname.endsWith("/") && pathname !== "/" ? pathname.slice(0, -1) : pathname;
+
+const isActive = (path: string) => {
+  const currentPathArray = currentPath.split("/").filter(p => p.trim());
+  const pathArray = path.split("/").filter(p => p.trim());
+
+  return currentPath === path || currentPathArray[1] === pathArray[0];
+};
+
+const LINKS = [
+  { title: "Home", icon: IconHome, href: ``, activePath: "/" },
+  { title: "Reviews", icon: IconList, href: `reviews`, activePath: "/reviews" },
+  { title: "Posts", icon: IconLayoutList, href: `posts`, activePath: "/posts" },
+  {
+    title: "Search",
+    icon: IconSearch,
+    href: `search`,
+    activePath: "/search",
+  },
+  {
+    title: "Archives",
+    icon: IconArchive,
+    href: `archives`,
+    activePath: "/archives",
+  },
+  {
+    title: "Stats",
+    icon: IconCategory,
+    href: `stats`,
+    activePath: "/stats",
+  },
+  {
+    title: "About",
+    icon: IconInfo,
+    href: `about`,
+    activePath: "/about",
+  },
+];
+---
+
+<a
+  id="skip-to-content"
+  href="#main-content"
+  class="absolute start-16 -top-full z-50 bg-background px-3 py-2 text-accent backdrop-blur-lg transition-all focus:top-4"
+>
+  Skip to content
+</a>
+
+<header
+  class="w-full bg-background lg:fixed lg:inset-y-0 lg:left-0 lg:z-40 lg:w-72 lg:border-r lg:border-border"
+>
+  <div
+    id="top-nav-wrap"
+    class:list={[
+      "px-4 py-4 sm:py-6",
+      "border-b border-border",
+      "relative w-full bg-background",
+      "flex items-baseline justify-between lg:items-center",
+      "lg:hidden",
+    ]}
+  >
+    <a
+      href={`${import.meta.env.BASE_URL === "/" ? "/" : import.meta.env.BASE_URL}`}
+      class="absolute py-1 text-xl leading-8 font-semibold whitespace-nowrap lg:static lg:my-auto lg:text-2xl lg:leading-none"
+    >
+      {SITE.title}
+    </a>
+    <nav
+      id="nav-menu"
+      class="flex w-full flex-col items-center lg:ms-2 lg:flex-row lg:justify-end lg:space-x-4 lg:py-0"
+    >
+      <button
+        id="menu-btn"
+        class="focus-outline self-end p-2 lg:hidden"
+        aria-label="Open Menu"
+        aria-expanded="false"
+        aria-controls="menu-items"
+      >
+        <IconX id="close-icon" class="hidden" />
+        <IconMenuDeep id="menu-icon" />
+      </button>
+      <ul
+        id="menu-items"
+        class:list={[
+          "mt-4 grid w-44 grid-cols-2 place-content-center gap-2",
+          "[&>li>a]:block [&>li>a]:px-4 [&>li>a]:py-3 [&>li>a]:text-center [&>li>a]:font-medium [&>li>a]:hover:text-accent lg:[&>li>a]:px-2 lg:[&>li>a]:py-1",
+          "hidden",
+          "lg:mt-0 lg:flex lg:w-auto lg:gap-x-5 lg:gap-y-0",
+        ]}
+      >
+        <li class="col-span-2">
+          <LinkButton
+            href={`reviews`}
+            class:list={[
+              "focus-outline flex justify-center p-3 lg:p-1",
+              {
+                "active-nav [&>svg]:stroke-accent": isActive("/reviews"),
+              },
+            ]}
+            title="Posts"
+            aria-label="posts"
+          >
+            Reviews
+          </LinkButton>
+        </li>
+        <li class="col-span-2">
+          <LinkButton
+            href={`posts`}
+            class:list={[
+              "focus-outline flex justify-center p-3 lg:p-1",
+              {
+                "active-nav [&>svg]:stroke-accent": isActive("/posts"),
+              },
+            ]}
+            title="Posts"
+            aria-label="posts"
+          >
+            Posts
+          </LinkButton>
+        </li>
+        <li class="col-span-2">
+          <LinkButton
+            href={`stats`}
+            class:list={[
+              "focus-outline flex justify-center p-3 lg:p-1",
+              {
+                "active-nav [&>svg]:stroke-accent": isActive("/stats"),
+              },
+            ]}
+            title="Tags"
+            aria-label="tags"
+          >
+            Stats
+          </LinkButton>
+        </li>
+        <li class="col-span-2">
+          <LinkButton
+            href={`archives`}
+            class:list={[
+              "focus-outline flex justify-center p-3 lg:p-1",
+              {
+                "active-nav [&>svg]:stroke-accent": isActive("/archives"),
+              },
+            ]}
+            title="Archives"
+            aria-label="archives"
+          >
+            <IconArchive class="hidden lg:inline-block" />
+            <span class="lg">Archives</span>
+          </LinkButton>
+        </li>
+        <li class="col-span-2">
+          <LinkButton
+            href={`about`}
+            class:list={[
+              "focus-outline flex justify-center p-3 lg:p-1",
+              {
+                "active-nav [&>svg]:stroke-accent": isActive("/about"),
+              },
+            ]}
+            title="About"
+            aria-label="about"
+          >
+            About
+          </LinkButton>
+        </li>
+        <li class="col-span-1 flex items-center justify-center">
+          <LinkButton
+            href={`search`}
+            class:list={[
+              "focus-outline flex p-3 sm:p-1",
+              { "[&>svg]:stroke-accent": isActive("/search") },
+            ]}
+            title="Search"
+            aria-label="search"
+          >
+            <IconSearch />
+            <span class="sr-only">Search</span>
+          </LinkButton>
+        </li>
+        {
+          SITE.lightAndDarkMode && (
+            <li class="col-span-1 flex items-center justify-center">
+              <button
+                data-theme-btn
+                class="focus-outline relative size-12 p-4 sm:size-8 hover:[&>svg]:stroke-accent"
+                title="Toggles light & dark"
+                aria-label="auto"
+                aria-live="polite"
+              >
+                <IconMoon class="absolute top-[50%] left-[50%] -translate-[50%] scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90" />
+                <IconSunHigh class="absolute top-[50%] left-[50%] -translate-[50%] scale-0 rotate-90 transition-all dark:scale-100 dark:rotate-0" />
+              </button>
+            </li>
+          )
+        }
+      </ul>
+    </nav>
+  </div>
+
+  <div
+    class:list={[
+      "hidden lg:flex",
+      "h-full w-full flex-col gap-6 px-6 py-8",
+      "bg-background",
+    ]}
+  >
+    <a
+      href={`${import.meta.env.BASE_URL === "/" ? "/" : import.meta.env.BASE_URL}`}
+      class="whitespace-wrap py-1 text-2xl leading-none font-semibold"
+    >
+      {SITE.title}
+    </a>
+
+    <div class="text-sm leading-6 opacity-80">
+      {SITE.desc}
+    </div>
+    <div class="flex gap-2">
+      {
+        SOCIALS.map(social => (
+          <LinkButton
+            href={social.href}
+            class="p-2 hover:rotate-6 sm:p-1"
+            title={social.linkTitle}
+            raw
+          >
+            <social.icon class="inline-block size-6 scale-125 fill-transparent stroke-current stroke-2 opacity-90 group-hover:fill-transparent sm:scale-110" />
+            <span class="sr-only">{social.linkTitle}</span>
+          </LinkButton>
+        ))
+      }
+    </div>
+    <nav
+      class="flex w-full flex-1 flex-col items-start justify-start space-y-4"
+    >
+      <ul
+        class:list={[
+          "flex w-full flex-col gap-y-3",
+          "[&>li>a]:flex [&>li>a]:w-full [&>li>a]:items-center [&>li>a]:px-2 [&>li>a]:py-2 [&>li>a]:text-left [&>li>a]:font-medium [&>li>a]:hover:text-accent",
+        ]}
+      >
+        {
+          LINKS.map(link => (
+            <li>
+              <LinkButton
+                href={link.href}
+                class:list={[
+                  "focus-outline flex justify-start p-2",
+                  {
+                    "active-nav [&>svg]:stroke-accent": isActive(
+                      link.activePath
+                    ),
+                  },
+                ]}
+                title={link.title}
+                aria-label={link.title.toLowerCase()}
+              >
+                <link.icon />
+                <span class="ms-2">{link.title}</span>
+              </LinkButton>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+    {
+      SITE.lightAndDarkMode && (
+        <div class="mt-auto">
+          <button
+            data-theme-btn
+            class="focus-outline relative flex w-full items-center gap-2 p-2 hover:[&>svg]:stroke-accent"
+            title="Toggles light & dark"
+            aria-label="auto"
+            aria-live="polite"
+          >
+            <span class="relative size-5">
+              <IconMoon class="absolute top-[50%] left-[50%] -translate-[50%] scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90" />
+              <IconSunHigh class="absolute top-[50%] left-[50%] -translate-[50%] scale-0 rotate-90 transition-all dark:scale-100 dark:rotate-0" />
+            </span>
+            <span>Turn theme</span>
+          </button>
+        </div>
+      )
+    }
+  </div>
+</header>
+
+<script>
+  function toggleNav() {
+    const menuBtn = document.querySelector("#menu-btn");
+    const menuItems = document.querySelector("#menu-items");
+    const menuIcon = document.querySelector("#menu-icon");
+    const closeIcon = document.querySelector("#close-icon");
+
+    if (!menuBtn || !menuItems || !menuIcon || !closeIcon) return;
+
+    menuBtn.addEventListener("click", () => {
+      const openMenu = menuBtn.getAttribute("aria-expanded") === "true";
+
+      menuBtn.setAttribute("aria-expanded", openMenu ? "false" : "true");
+      menuBtn.setAttribute("aria-label", openMenu ? "Open Menu" : "Close Menu");
+
+      menuItems.classList.toggle("hidden");
+      menuIcon.classList.toggle("hidden");
+      closeIcon.classList.toggle("hidden");
+    });
+  }
+
+  toggleNav();
+
+  // Runs on view transitions navigation
+  document.addEventListener("astro:after-swap", toggleNav);
+</script>

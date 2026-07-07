@@ -1,0 +1,91 @@
+---
+import { normalizeMediaLink, resolveImageSrc, resolveVideoSrc, isVideo } from "@/utils";
+import type { ImageMetadata } from "astro";
+
+type ImageItem = ImageMetadata | string;
+
+type Props = {
+  images?: ImageItem[];
+};
+
+const { images = [] } = Astro.props;
+
+const cleanImages = images.filter(Boolean) as ImageItem[];
+
+// Load all video assets in the blog directory
+const videoAssets = import.meta.glob("/src/data/**/*.{mp4,webm,ogg}", {
+  eager: true,
+  query: "?url",
+  import: "default",
+});
+
+const imageAssets = import.meta.glob(
+  "/src/data/**/*.{png,jpg,jpeg,webp,avif,gif,svg}",
+  {
+    eager: true,
+    query: "?url",
+    import: "default",
+  }
+);
+
+const getSrc = (image: ImageItem) => {
+  if (typeof image === "string") {
+    const normalized = normalizeMediaLink(image);
+    return isVideo(normalized)
+      ? resolveVideoSrc(normalized, videoAssets)
+      : resolveImageSrc(normalized, imageAssets);
+  }
+  return image.src;
+};
+---
+
+{
+  cleanImages.length > 1 && (
+    <section
+      class:list={[
+        "mb-6 flex max-h-80 gap-3 overflow-x-auto rounded-lg",
+        "scrollbar-thin scrollbar-thumb-muted scrollbar-track-transparent",
+      ]}
+    >
+      {cleanImages.map((image, index) => {
+        const src = getSrc(image);
+        return isVideo(src) ? (
+          <video
+            src={src}
+            controls
+            preload="metadata"
+            class="h-80 max-h-80 w-auto rounded-lg object-cover"
+          />
+        ) : (
+          <img
+            src={src}
+            alt=""
+            loading={index === 0 ? "eager" : "lazy"}
+            class="h-80 max-h-80 w-auto rounded-lg object-cover"
+          />
+        );
+      })}
+    </section>
+  )
+}
+
+{
+  cleanImages.length === 1 && (
+    <div class="mb-6">
+      {isVideo(getSrc(cleanImages[0])) ? (
+        <video
+          src={getSrc(cleanImages[0])}
+          controls
+          preload="metadata"
+          class="w-full rounded-lg object-cover"
+        />
+      ) : (
+        <img
+          src={getSrc(cleanImages[0])}
+          alt=""
+          class="max-h-130 w-full rounded-lg object-cover"
+        />
+      )}
+    </div>
+  )
+}

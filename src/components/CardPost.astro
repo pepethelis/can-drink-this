@@ -1,0 +1,88 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { slugifyStr } from "@/utils/slugify";
+import { getPath } from "@/utils/getPath";
+import Datetime from "./Datetime.astro";
+import { Image } from "astro:assets";
+import placeholder from "@/assets/images/default.png";
+import Divider from "./Divider.astro";
+import { resolveImageAsset } from "@/utils";
+import getTitleFormAliases from "@/utils/getTitleFormAliases";
+
+type Props = {
+  variant?: "h2" | "h3";
+} & CollectionEntry<"posts">;
+
+const { variant: Heading = "h2", id, data, filePath } = Astro.props;
+
+const { aliases, summary, author, ogImage, ...props } = data;
+
+const title = getTitleFormAliases(aliases);
+
+const imageAssets = import.meta.glob(
+  "/src/data/**/*.{png,jpg,jpeg,webp,avif,gif,svg}",
+  { eager: true, import: "default" }
+);
+
+const coverSrc = resolveImageAsset(ogImage, imageAssets) || placeholder;
+---
+
+<div class="flex w-full justify-between gap-x-2 py-2 flex-col-reverse sm:flex-row">
+  <li class="my-3 sm:my-6">
+    <!-- <div class="flex items-center gap-2 text-xs uppercase tracking-wide opacity-80">
+      <span>{category}</span>
+      <Divider class={"opacity-80"} />
+      <span>{type}</span>
+    </div> -->
+    <a
+      href={getPath(id, filePath)}
+      class:list={[
+        "inline-block text-lg font-medium text-accent",
+        "decoration-dashed underline-offset-4 hover:underline",
+        "focus-visible:no-underline focus-visible:underline-offset-0",
+      ]}
+    >
+      <Heading
+        style={{ viewTransitionName: slugifyStr(title.replaceAll(".", "-")) }}
+      >
+        {title}
+      </Heading>
+    </a>
+    <div class="flex flex-wrap gap-x-2">
+      <Datetime {...props} />
+      <Divider class={"opacity-80"} />
+      <span class="opacity-80">{author}</span>
+    </div>
+
+    <p>{summary}</p>
+  </li>
+
+  {typeof coverSrc === "string" ? (
+    <img
+      src={coverSrc}
+      alt={title}
+      decoding="async"
+      loading="lazy"
+      class="h-5 rounded-2xl object-cover"
+    />
+  ) : (
+    <Image
+      src={coverSrc}
+      alt={title}
+      height={152}
+      width={152}
+      decoding="async"
+      loading="lazy"
+      class="h-5 rounded-2xl object-cover hidden sm:block"
+    />
+    <Image
+      src={coverSrc}
+      alt={title}
+      height={300}
+      width={545}
+      decoding="async"
+      loading="lazy"
+      class="h-5 rounded-2xl object-cover w-full sm:hidden"
+    />
+  )}
+</div>

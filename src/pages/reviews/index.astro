@@ -1,0 +1,126 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Main from "@/layouts/Main.astro";
+import CardReview from "@/components/CardReview.astro";
+import FilterBar from "@/components/reviews/FilterBar.astro";
+import getSortedPosts from "@/utils/getSortedPosts";
+import { SITE } from "@/config";
+import postFilter from "@/utils/postFilter";
+import type { BrandGroup } from "@/types/reviews";
+
+const allReviews = await getCollection("reviews", ({ data }) =>
+  postFilter({ data })
+);
+const sorted = getSortedPosts(allReviews);
+
+// ── Filter option maps ────────────────────────────────────────────────────────
+const catMap = new Map<string, number>();
+const typeMap = new Map<string, number>();
+const containerMap = new Map<string, number>();
+const tasteMap = new Map<string, number>();
+const colorMap = new Map<string, number>();
+const brandGroupMap = new Map<string, BrandGroup>();
+
+for (const r of sorted) {
+  catMap.set(r.data.category, (catMap.get(r.data.category) ?? 0) + 1);
+  for (const t of r.data.types ?? []) typeMap.set(t, (typeMap.get(t) ?? 0) + 1);
+
+  const brand = r.data.brand;
+  if (brand) {
+    const slashIdx = brand.indexOf("/");
+    const base = slashIdx === -1 ? brand : brand.slice(0, slashIdx);
+    const sub = slashIdx === -1 ? null : brand.slice(slashIdx + 1);
+    const group = brandGroupMap.get(base) ?? { base, total: 0, subs: [] };
+    group.total++;
+    if (sub) {
+      const existing = group.subs.find(s => s.name === sub);
+      if (existing) existing.count++;
+      else group.subs.push({ name: sub, count: 1 });
+    }
+    brandGroupMap.set(base, group);
+  }
+
+  for (const c of r.data.container ?? [])
+    containerMap.set(c, (containerMap.get(c) ?? 0) + 1);
+  for (const t of r.data.taste ?? [])
+    tasteMap.set(t, (tasteMap.get(t) ?? 0) + 1);
+  for (const col of r.data.primaryColors ?? [])
+    colorMap.set(col, (colorMap.get(col) ?? 0) + 1);
+}
+
+const categories = [...catMap.entries()].sort((a, b) => b[1] - a[1]);
+const types = [...typeMap.entries()].sort((a, b) => b[1] - a[1]);
+const containers = [...containerMap.entries()].sort((a, b) => b[1] - a[1]);
+const tastes = [...tasteMap.entries()].sort((a, b) => b[1] - a[1]);
+const colors = [...colorMap.entries()].sort((a, b) => b[1] - a[1]);
+const brandGroups = [...brandGroupMap.values()]
+  .sort((a, b) => a.base.localeCompare(b.base))
+  .map(g => ({ ...g, subs: g.subs.sort((a, b) => b.count - a.count) }));
+
+const availMap = new Map<string, number>();
+for (const r of sorted) {
+  if (r.data.availability == null) continue;
+  const k = String(r.data.availability);
+  availMap.set(k, (availMap.get(k) ?? 0) + 1);
+}
+const availValues: [string, number][] = [...availMap.entries()].sort(
+  (a, b) => Number(a[0]) - Number(b[0])
+);
+
+const sponsorMap = new Map<string, number>();
+for (const r of sorted)
+  for (const s of r.data.sponsor ?? [])
+    sponsorMap.set(s, (sponsorMap.get(s) ?? 0) + 1);
+const sponsors = [...sponsorMap.entries()].sort((a, b) => b[1] - a[1]);
+---
+
+<Layout title={`Reviews | ${SITE.title}`}>
+  <Header />
+  <Main pageTitle="Reviews" pageDesc="All the reviews I've collected.">
+    <FilterBar
+      categories={categories}
+      types={types}
+      containers={containers}
+      tastes={tastes}
+      colors={colors}
+      sponsors={sponsors}
+      brandGroups={brandGroups}
+      availValues={availValues}
+    />
+
+    <div id="reviews-list">
+      {
+        sorted.map(review => {
+          const brand = review.data.brand ?? "";
+          const slashIdx = brand.indexOf("/");
+          const brandBase = slashIdx === -1 ? brand : brand.slice(0, slashIdx);
+          return (
+            <div
+              data-review
+              data-category={review.data.category}
+              data-types={JSON.stringify(review.data.types ?? [])}
+              data-brand={brand}
+              data-brand-base={brandBase}
+              data-containers={JSON.stringify(review.data.container ?? [])}
+              data-tastes={JSON.stringify(review.data.taste ?? [])}
+              data-colors={JSON.stringify(review.data.primaryColors ?? [])}
+              data-availability={JSON.stringify(
+                review.data.availability != null
+                  ? [String(review.data.availability)]
+                  : []
+              )}
+              data-sponsors={JSON.stringify(review.data.sponsor ?? [])}
+              data-favorite={review.data.favorite ? "1" : ""}
+            >
+              <CardReview {...review} />
+            </div>
+          );
+        })
+      }
+    </div>
+  </Main>
+  <Footer />
+</Layout>

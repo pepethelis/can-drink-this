@@ -1,0 +1,624 @@
+---
+import { render, type CollectionEntry } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Datetime from "@/components/Datetime.astro";
+import BackButton from "@/components/BackButton.astro";
+import BackToTopButton from "@/components/BackToTopButton.astro";
+import Gallery from "@/components/Gallery.astro";
+import Comments from "@/components/Comments.astro";
+import RelatedReviews from "@/components/RelatedReviews.astro";
+import { getPath } from "@/utils/getPath";
+import { slugifyStr } from "@/utils/slugify";
+import IconChevronLeft from "@/assets/icons/IconChevronLeft.svg";
+import IconChevronRight from "@/assets/icons/IconChevronRight.svg";
+import { SITE } from "@/config";
+import TgPost from "@/components/TgPost.astro";
+import { AUTHORS, SPONSORS } from "@/constants";
+import Divider from "@/components/Divider.astro";
+import { normalizeMediaLink, resolveImageAsset } from "@/utils";
+import getTitleFormAliases from "@/utils/getTitleFormAliases";
+
+type Props = {
+  post: CollectionEntry<"reviews">;
+  posts: CollectionEntry<"reviews">[];
+};
+
+const imageAssets = import.meta.glob(
+  "/src/data/**/*.{png,jpg,jpeg,webp,avif,gif,svg}",
+  { eager: true, import: "default" }
+);
+
+const { post, posts } = Astro.props;
+
+const {
+  aliases,
+  author,
+  sponsor,
+  summary,
+  gallery,
+  cover: initOgImage,
+  canonicalURL,
+  publishedAt,
+  updatedAt,
+  contentTgPosts,
+  category,
+  types: drinkTypes,
+  brand,
+  taste,
+  container,
+  sweeteners,
+  primaryColors,
+  caffeine,
+  alco,
+  favorite,
+  availability,
+  manufacturer,
+  volume,
+  packager,
+} = post.data;
+
+const title = getTitleFormAliases(aliases);
+
+const { Content, remarkPluginFrontmatter, headings } = await render(post);
+
+// Resolve product photo URL (for gallery display)
+let productPhotoUrl: string | undefined;
+if (typeof initOgImage === "string") {
+  const resolved = resolveImageAsset(
+    normalizeMediaLink(initOgImage),
+    imageAssets
+  );
+  productPhotoUrl = typeof resolved === "string" ? resolved : resolved?.src;
+} else if (initOgImage?.src) {
+  productPhotoUrl = initOgImage.src;
+}
+
+// OG image for social sharing: use generated image (photo + title + category + type)
+// when dynamic OG is enabled; otherwise fall back to the raw product photo
+let ogImageUrl: string | undefined;
+if (SITE.dynamicOgImage) {
+  ogImageUrl = `${getPath(post.id, post.filePath)}/index.png`;
+} else {
+  ogImageUrl = productPhotoUrl ?? SITE.ogImage;
+}
+if (!ogImageUrl) ogImageUrl = SITE.ogImage;
+
+// Resolve OG image URL (or fallback to SITE.ogImage / default `og.png`)
+const ogImage = ogImageUrl
+  ? new URL(ogImageUrl, Astro.url.origin).href
+  : undefined;
+
+const galleryItems = [
+  initOgImage ? productPhotoUrl : null,
+  ...(gallery || []),
+].filter((item): item is NonNullable<typeof item> => Boolean(item));
+
+const layoutProps = {
+  title: `${title} | ${SITE.title}`,
+  author,
+  summary,
+  publishedAt,
+  updatedAt,
+  canonicalURL,
+  ogImage,
+  scrollSmooth: true,
+  showToc: true,
+  tocItems: headings.filter(heading => heading.depth >= 2 && heading.depth <= 3),
+};
+
+const authorObj = AUTHORS.find(a => a.name === author);
+const sponsorObj = SPONSORS.find(a => sponsor?.includes(a.name));
+
+/* ========== Prev/Next Posts ========== */
+
+const allPostsMapped = posts.map(({ data: { aliases }, id, filePath }) => ({
+  id,
+  title: getTitleFormAliases(aliases),
+  filePath,
+}));
+
+const currentPostIndex = allPostsMapped.findIndex(a => a.id === post.id);
+
+const prevPost = currentPostIndex !== 0 ? allPostsMapped[currentPostIndex - 1] : null;
+const nextPost =
+  currentPostIndex !== allPostsMapped.length ? allPostsMapped[currentPostIndex + 1] : null;
+---
+
+<Layout {...layoutProps}>
+  <Header />
+  <BackButton />
+  <div
+    id="main-content"
+    class:list={[
+      "content-layout article pb-12",
+      { "mt-8": !SITE.showBackButton },
+    ]}
+    data-pagefind-body
+  >
+    <article class="article__content">
+      <h1
+        transition:name={slugifyStr(title.replaceAll(".", "-"))}
+        class="inline-block text-2xl font-bold text-accent sm:text-3xl"
+      >
+        {title}
+      </h1>
+      {aliases.length > 1 && (
+        <p class="mt-1 text-sm opacity-60">
+          also known as: {aliases.slice(1).join(", ")}
+        </p>
+      )}
+      <div class="my-2 flex flex-wrap items-center gap-2">
+        {
+          publishedAt && (
+            <Datetime {publishedAt} {updatedAt} size="lg" />
+          )
+        }
+        <Divider />
+        by {
+          authorObj ? (
+            <a
+              href={authorObj.href}
+              class="text-accent underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"
+            >
+              {authorObj.name}
+            </a>
+          ) : (
+            <span>{author}</span>
+          )
+        }
+
+        {
+          sponsorObj && (
+            <>
+              <Divider />
+              Sponsored by
+              <a
+                href={sponsorObj.href}
+                class="text-accent underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"
+              >
+                {sponsorObj.name}
+              </a>
+            </>
+          )
+        }
+        <Divider />
+        <p>{remarkPluginFrontmatter.minutesRead}</p>
+      </div>
+      <Gallery images={galleryItems} />
+      <article
+        id="article"
+        class="app-prose mt-8 w-full max-w-app prose-pre:bg-(--shiki-light-bg) dark:prose-pre:bg-(--shiki-dark-bg)"
+      >
+        <Content />
+      </article>
+      <article
+        id="article"
+        class="app-prose mt-8 w-full max-w-app prose-pre:bg-(--shiki-light-bg) dark:prose-pre:bg-(--shiki-dark-bg)"
+      >
+        {contentTgPosts?.map(tgPost => <TgPost tgPost={tgPost} />)}
+      </article>
+
+      <hr class="my-6 border-dashed" />
+      
+      <BackToTopButton />
+
+      <dl class="taxonomy">
+        <div class="taxonomy-row">
+          <dt>Category</dt>
+          <dd>
+            <a href={`/reviews?category=${encodeURIComponent(category)}`} class="taxonomy-link">{category}</a>
+          </dd>
+        </div>
+        {drinkTypes && drinkTypes.length > 0 && (
+          <div class="taxonomy-row">
+            <dt>Type</dt>
+            <dd>
+              {drinkTypes.map(t => (
+                <a href={`/reviews?type=${encodeURIComponent(t)}`} class="taxonomy-link">{t}</a>
+              ))}
+            </dd>
+          </div>
+        )}
+        {brand && (
+          <div class="taxonomy-row">
+            <dt>Brand</dt>
+            <dd>
+              <a href={`/reviews?brand=${encodeURIComponent(brand)}`} class="taxonomy-link">{brand}</a>
+            </dd>
+          </div>
+        )}
+        {container && container.length > 0 && (
+          <div class="taxonomy-row">
+            <dt>Container</dt>
+            <dd class="taxonomy-chips">
+              {container.map(c => (
+                <a href={`/reviews?container=${encodeURIComponent(c)}`} class="taxonomy-link">{c}</a>
+              ))}
+            </dd>
+          </div>
+        )}
+        {taste && taste.length > 0 && (
+          <div class="taxonomy-row">
+            <dt>Taste</dt>
+            <dd class="taxonomy-chips">
+              {taste.map(t => (
+                <a href={`/reviews?taste=${encodeURIComponent(t)}`} class="taxonomy-link">{t}</a>
+              ))}
+            </dd>
+          </div>
+        )}
+        {primaryColors && primaryColors.length > 0 && (
+          <div class="taxonomy-row">
+            <dt>Color</dt>
+            <dd class="taxonomy-chips">
+              {primaryColors.map(c => (
+                <a href={`/reviews?color=${encodeURIComponent(c)}`} class="taxonomy-link">{c}</a>
+              ))}
+            </dd>
+          </div>
+        )}
+        {sweeteners && sweeteners.length > 0 && (
+          <div class="taxonomy-row">
+            <dt>Sweeteners</dt>
+            <dd class="taxonomy-chips">
+              {sweeteners.map(s => <span class="taxonomy-tag">{s}</span>)}
+            </dd>
+          </div>
+        )}
+        {caffeine != null && (
+          <div class="taxonomy-row">
+            <dt>Caffeine</dt>
+            <dd><span class="taxonomy-tag">{caffeine} mg/100ml</span></dd>
+          </div>
+        )}
+        {alco != null && alco !== 0 && (
+          <div class="taxonomy-row">
+            <dt>Alcohol</dt>
+            <dd><span class="taxonomy-tag">{alco}%</span></dd>
+          </div>
+        )}
+        {favorite && (
+          <div class="taxonomy-row">
+            <dt>Favourite</dt>
+            <dd><span class="taxonomy-tag">★ Favourite</span></dd>
+          </div>
+        )}
+        {volume && volume.length > 0 && (
+          <div class="taxonomy-row">
+            <dt>Volume</dt>
+            <dd class="taxonomy-chips">
+              {volume.map(v => <span class="taxonomy-tag">{v} L</span>)}
+            </dd>
+          </div>
+        )}
+        {availability != null && (
+          <div class="taxonomy-row">
+            <dt>Availability</dt>
+            <dd><span class="taxonomy-tag">{availability} / 5</span></dd>
+          </div>
+        )}
+        {manufacturer && (
+          <div class="taxonomy-row">
+            <dt>Manufacturer</dt>
+            <dd><span class="taxonomy-tag">{manufacturer}</span></dd>
+          </div>
+        )}
+        {packager && (
+          <div class="taxonomy-row">
+            <dt>Packager</dt>
+            <dd><span class="taxonomy-tag">{packager}</span></dd>
+          </div>
+        )}
+      </dl>
+
+
+      <RelatedReviews post={post} allReviews={posts} />
+    </article>
+
+    <hr class="my-6 border-dashed" />
+    <!-- Previous/Next Post Buttons -->
+    <div data-pagefind-ignore class="grid grid-cols-1 gap-6 sm:grid-cols-2">
+      {
+        prevPost && (
+          <a
+            href={getPath(prevPost.id, prevPost.filePath)}
+            class="flex w-full gap-1 hover:opacity-75"
+          >
+            <IconChevronLeft class="inline-block flex-none rtl:rotate-180" />
+            <div>
+              <span>Previous Post</span>
+              <div class="text-sm text-accent/85">{prevPost.title}</div>
+            </div>
+          </a>
+        )
+      }
+      {
+        nextPost && (
+          <a
+            href={getPath(nextPost.id, nextPost.filePath)}
+            class="flex w-full justify-end gap-1 text-end hover:opacity-75 sm:col-start-2"
+          >
+            <div>
+              <span>Next Post</span>
+              <div class="text-sm text-accent/85">{nextPost.title}</div>
+            </div>
+            <IconChevronRight class="inline-block flex-none rtl:rotate-180" />
+          </a>
+        )
+      }
+    </div>
+    <Comments />
+  </div>
+  <Footer />
+</Layout>
+
+<style>
+  .taxonomy {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    font-size: 0.8rem;
+  }
+  .taxonomy-row {
+    display: grid;
+    grid-template-columns: 7rem 1fr;
+    align-items: baseline;
+    gap: 0.5rem;
+  }
+  .taxonomy-row dt {
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: color-mix(in srgb, var(--foreground) 40%, transparent);
+    padding-top: 0.15rem;
+  }
+  .taxonomy-row dd {
+    margin: 0;
+  }
+  .taxonomy-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+  }
+  .taxonomy-link {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    background-color: color-mix(in srgb, var(--accent) 12%, transparent);
+    color: var(--accent);
+    text-decoration: none;
+    transition: background-color 0.15s;
+  }
+  .taxonomy-link:hover {
+    background-color: color-mix(in srgb, var(--accent) 25%, transparent);
+  }
+  .taxonomy-tag {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    background-color: var(--muted);
+    color: var(--foreground);
+  }
+</style>
+
+<script is:inline data-astro-rerun>
+  /** Create a progress indicator
+   *  at the top */
+  function createProgressBar() {
+    // Create the main container div
+    const progressContainer = document.createElement("div");
+    progressContainer.className =
+      "progress-container fixed top-0 z-10 h-1 w-full bg-background";
+
+    // Create the progress bar div
+    const progressBar = document.createElement("div");
+    progressBar.className = "progress-bar h-1 w-0 bg-accent";
+    progressBar.id = "myBar";
+
+    // Append the progress bar to the progress container
+    progressContainer.appendChild(progressBar);
+
+    // Append the progress container to the document body or any other desired parent element
+    document.body.appendChild(progressContainer);
+  }
+  createProgressBar();
+
+  /** Update the progress bar
+   *  when user scrolls */
+  function updateScrollProgress() {
+    document.addEventListener("scroll", () => {
+      const winScroll =
+        document.body.scrollTop || document.documentElement.scrollTop;
+      const height =
+        document.documentElement.scrollHeight -
+        document.documentElement.clientHeight;
+      const scrolled = (winScroll / height) * 100;
+      if (document) {
+        const myBar = document.getElementById("myBar");
+        if (myBar) {
+          myBar.style.width = scrolled + "%";
+        }
+      }
+    });
+  }
+  updateScrollProgress();
+
+  /** Attaches links to headings in the document,
+   *  allowing sharing of sections easily */
+  function addHeadingLinks() {
+    const headings = Array.from(
+      document.querySelectorAll("h2, h3, h4, h5, h6")
+    );
+    for (const heading of headings) {
+      heading.classList.add("group");
+      const link = document.createElement("a");
+      link.className =
+        "heading-link ms-2 no-underline opacity-75 md:opacity-0 md:group-hover:opacity-100 md:focus:opacity-100";
+      link.href = "#" + heading.id;
+
+      const span = document.createElement("span");
+      span.ariaHidden = "true";
+      span.innerText = "#";
+      link.appendChild(span);
+      heading.appendChild(link);
+    }
+  }
+  addHeadingLinks();
+
+  /** Attaches copy buttons to code blocks in the document,
+   * allowing users to copy code easily. */
+  function attachCopyButtons() {
+    const copyButtonLabel = "Copy";
+    const codeBlocks = Array.from(document.querySelectorAll("pre"));
+
+    for (const codeBlock of codeBlocks) {
+      const wrapper = document.createElement("div");
+      wrapper.style.position = "relative";
+
+      // Check if --file-name-offset custom property exists
+      const computedStyle = getComputedStyle(codeBlock);
+      const hasFileNameOffset =
+        computedStyle.getPropertyValue("--file-name-offset").trim() !== "";
+
+      // Determine the top positioning class
+      const topClass = hasFileNameOffset
+        ? "top-(--file-name-offset)"
+        : "-top-3";
+
+      const copyButton = document.createElement("button");
+      copyButton.className = `copy-code absolute end-3 ${topClass} rounded bg-muted border border-muted px-2 py-1 text-xs leading-4 text-foreground font-medium`;
+      copyButton.innerHTML = copyButtonLabel;
+      codeBlock.setAttribute("tabindex", "0");
+      codeBlock.appendChild(copyButton);
+
+      // wrap codebock with relative parent element
+      codeBlock?.parentNode?.insertBefore(wrapper, codeBlock);
+      wrapper.appendChild(codeBlock);
+
+      copyButton.addEventListener("click", async () => {
+        await copyCode(codeBlock, copyButton);
+      });
+    }
+
+    async function copyCode(block, button) {
+      const code = block.querySelector("code");
+      const text = code?.innerText;
+
+      await navigator.clipboard.writeText(text ?? "");
+
+      // visual feedback that task is completed
+      button.innerText = "Copied";
+
+      setTimeout(() => {
+        button.innerText = copyButtonLabel;
+      }, 700);
+    }
+  }
+  attachCopyButtons();
+
+  const TG_WIDGET_SRC = "https://telegram.org/js/telegram-widget.js?23";
+
+  function renderTelegramPosts() {
+    const containers = Array.from(
+      document.querySelectorAll("[data-tg-post]")
+    );
+
+    if (!containers.length) return;
+
+    for (const container of containers) {
+      const href = container.getAttribute("data-tg-post");
+      if (!href) continue;
+
+      container.innerHTML = "";
+
+      const script = document.createElement("script");
+      script.async = true;
+      script.src = TG_WIDGET_SRC;
+      script.setAttribute("data-telegram-post", href);
+
+      const width = container.getAttribute("data-tg-width");
+      if (width) script.setAttribute("data-width", width);
+
+      const color = container.getAttribute("data-tg-color");
+      if (color) script.setAttribute("data-color", color);
+
+      const dark = container.getAttribute("data-tg-dark");
+      if (dark) script.setAttribute("data-dark", dark);
+
+      const darkColor = container.getAttribute("data-tg-dark-color");
+      if (darkColor) script.setAttribute("data-dark-color", darkColor);
+
+      container.appendChild(script);
+    }
+  }
+
+  renderTelegramPosts();
+
+  function renderGiscus() {
+    const container = document.querySelector("[data-giscus]");
+
+    if (!container) return;
+
+    container.innerHTML = "";
+
+    const src = container.getAttribute("data-src");
+    if (!src) return;
+
+    const script = document.createElement("script");
+    script.async = true;
+    script.src = src;
+
+    const attributes = [
+      "data-repo",
+      "data-repo-id",
+      "data-category",
+      "data-category-id",
+      "data-mapping",
+      "data-strict",
+      "data-reactions-enabled",
+      "data-emit-metadata",
+      "data-input-position",
+      "data-theme",
+      "data-lang",
+      "data-loading",
+      "data-crossorigin",
+    ];
+
+    for (const attr of attributes) {
+      const value = container.getAttribute(attr);
+      if (value !== null) {
+        script.setAttribute(attr, value);
+      }
+    }
+    
+    container.appendChild(script);
+  }
+
+  renderGiscus();
+
+  function renderVideos() {
+    const videos = Array.from(document.querySelectorAll("video"));
+    if (!videos.length) return;
+
+    for (const video of videos) {
+      if (!video.getAttribute("src") && video.currentSrc) {
+        video.setAttribute("src", video.currentSrc);
+      }
+
+      video.load();
+    }
+  }
+
+  renderVideos();
+
+  /* Go to page start after page swap */
+  document.addEventListener("astro:after-swap", () => {
+    window.scrollTo({ left: 0, top: 0, behavior: "instant" });
+    renderTelegramPosts();
+    renderGiscus();
+    renderVideos();
+  });
+</script>

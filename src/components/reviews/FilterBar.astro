@@ -1,0 +1,515 @@
+---
+import type { BrandGroup } from "@/types/reviews";
+import FilterDropdown from "./FilterDropdown.astro";
+import FilterBrandDropdown from "./FilterBrandDropdown.astro";
+import FilterMultiSelect from "./FilterMultiSelect.astro";
+import FilterBoolToggle from "./FilterBoolToggle.astro";
+
+interface Props {
+  categories: [string, number][];
+  types: [string, number][];
+  containers: [string, number][];
+  tastes: [string, number][];
+  colors: [string, number][];
+  sponsors: [string, number][];
+  brandGroups: BrandGroup[];
+  availValues: [string, number][];
+}
+
+const {
+  categories,
+  types,
+  containers,
+  tastes,
+  colors,
+  sponsors,
+  brandGroups,
+  availValues,
+} = Astro.props;
+
+const SINGLE_KEYS = [
+  "category",
+  "type",
+  "brand",
+  "container",
+  "sponsor",
+] as const;
+const MULTI_KEYS = ["taste", "color", "availability"] as const;
+const ALL_FILTER_KEYS = [...SINGLE_KEYS, ...MULTI_KEYS, "favorite"] as const;
+---
+
+<!-- Filter bar -->
+<div id="filter-bar" class="mb-4 grid grid-cols-2 gap-2 lg:grid-cols-3">
+  <FilterDropdown
+    filterKey="category"
+    label="Category"
+    tooltip="Категорія огляду"
+    options={categories}
+  />
+  <FilterDropdown
+    filterKey="type"
+    label="Type"
+    tooltip="Тип напою"
+    options={types}
+  />
+  <FilterBrandDropdown
+    label="Brand"
+    tooltip="Бренд напою"
+    groups={brandGroups}
+  />
+  <FilterDropdown
+    filterKey="container"
+    label="Container"
+    tooltip="Контейнери, у яких можна знайти конкретний напій. Конкретний напій може бути у кількох видах контейнерів"
+    options={containers}
+  />
+  <FilterDropdown
+    filterKey="sponsor"
+    label="Sponsor"
+    tooltip="Спонсор огляду"
+    options={sponsors}
+  />
+  <FilterMultiSelect
+    filterKey="taste"
+    label="Taste"
+    tooltip="Смак напою"
+    options={tastes}
+  />
+  <FilterMultiSelect
+    filterKey="color"
+    label="Color"
+    tooltip="Основний колір упаковки"
+    options={colors}
+  />
+  <FilterMultiSelect
+    filterKey="availability"
+    label="Availability"
+    tooltip="Оцінка доступності напою у місцевих магазинах (0–5)"
+    options={availValues}
+  />
+  <FilterBoolToggle
+    filterKey="favorite"
+    label="Favorites"
+    tooltip="Тільки улюблені напої"
+    icon="★"
+  />
+</div>
+
+<!-- Active filter badges -->
+<div id="active-filters" class="mb-4 hidden flex-wrap items-center gap-2">
+  <span class="text-xs text-foreground/50">Active:</span>
+  {
+    ALL_FILTER_KEYS.map(key => (
+      <button
+        id={`active-${key}-chip`}
+        data-remove-key={key}
+        class="hidden items-center gap-1 rounded-full bg-accent px-2.5 py-0.5 text-xs text-background"
+      >
+        {key}:{" "}
+        <>
+          <span id={`active-${key}-label`} />
+          <span class="ml-0.5 opacity-70">×</span>
+        </>
+      </button>
+    ))
+  }
+  <button
+    id="clear-all-btn"
+    class="ml-1 text-xs text-foreground/50 hover:text-accent"
+  >
+    clear all
+  </button>
+</div>
+
+<!-- Count -->
+<p id="result-count" class="mb-4 text-sm text-foreground/40"></p>
+
+<!-- Empty state -->
+<p id="empty-state" class="hidden py-8 text-center text-foreground/50">
+  No reviews match the selected filters.
+</p>
+
+<script>
+  const SINGLE_KEYS = [
+    "category",
+    "type",
+    "brand",
+    "container",
+    "sponsor",
+  ] as const;
+  const MULTI_KEYS = ["taste", "color", "availability"] as const;
+  const BOOL_KEYS = ["favorite"] as const;
+  type SingleKey = (typeof SINGLE_KEYS)[number];
+  type MultiKey = (typeof MULTI_KEYS)[number];
+
+  // ── URL helpers ──────────────────────────────────────────────────────────────
+  function getParams() {
+    return new URLSearchParams(location.search);
+  }
+
+  function getMulti(params: URLSearchParams, key: MultiKey): string[] {
+    const v = params.get(key);
+    return v ? v.split(",").filter(Boolean) : [];
+  }
+
+  function setMulti(params: URLSearchParams, key: MultiKey, vals: string[]) {
+    if (vals.length) params.set(key, vals.join(","));
+    else params.delete(key);
+  }
+
+  // ── Data helpers ─────────────────────────────────────────────────────────────
+  function parseArr(s: string | undefined): string[] {
+    try {
+      return JSON.parse(s ?? "[]");
+    } catch {
+      return [];
+    }
+  }
+
+  function matchesBrand(item: HTMLElement, brand: string) {
+    return brand.includes("/")
+      ? item.dataset.brand === brand
+      : item.dataset.brandBase === brand;
+  }
+
+  function itemMatches(item: HTMLElement, params: URLSearchParams): boolean {
+    const cat = params.get("category");
+    const type = params.get("type");
+    const brand = params.get("brand");
+    const container = params.get("container");
+    const tastes = getMulti(params, "taste");
+    const colors = getMulti(params, "color");
+    const sponsor = params.get("sponsor");
+
+    if (cat && item.dataset.category !== cat) return false;
+    if (type && !parseArr(item.dataset.types).includes(type)) return false;
+    if (brand && !matchesBrand(item, brand)) return false;
+    if (container && !parseArr(item.dataset.containers).includes(container))
+      return false;
+    if (sponsor && !parseArr(item.dataset.sponsors).includes(sponsor))
+      return false;
+    if (
+      tastes.length &&
+      !tastes.some(t => parseArr(item.dataset.tastes).includes(t))
+    )
+      return false;
+    if (
+      colors.length &&
+      !colors.some(c => parseArr(item.dataset.colors).includes(c))
+    )
+      return false;
+    const availFilters = getMulti(params, "availability");
+    if (
+      availFilters.length &&
+      !availFilters.some(a => parseArr(item.dataset.availability).includes(a))
+    )
+      return false;
+    if (params.get("favorite") === "1" && item.dataset.favorite !== "1")
+      return false;
+    return true;
+  }
+
+  // ── Apply filters ─────────────────────────────────────────────────────────────
+  function applyFilters(params: URLSearchParams) {
+    const items = document.querySelectorAll<HTMLElement>("[data-review]");
+    let visible = 0;
+    items.forEach(item => {
+      const show = itemMatches(item, params);
+      item.hidden = !show;
+      if (show) visible++;
+    });
+
+    const emptyEl = document.getElementById("empty-state");
+    if (emptyEl) emptyEl.hidden = visible > 0;
+
+    const countEl = document.getElementById("result-count");
+    if (countEl) {
+      const total = items.length;
+      const hasFilter =
+        SINGLE_KEYS.some(k => params.get(k)) ||
+        MULTI_KEYS.some(k => getMulti(params, k).length > 0) ||
+        BOOL_KEYS.some(k => params.get(k) === "1");
+      countEl.textContent = hasFilter
+        ? `${visible} of ${total} reviews`
+        : `${total} reviews`;
+    }
+  }
+
+  // ── Sync controls → URL ───────────────────────────────────────────────────────
+  function updateControls(params: URLSearchParams) {
+    SINGLE_KEYS.forEach(key => {
+      const active = params.get(key) ?? "";
+      const root = document.querySelector<HTMLElement>(
+        `.dd-root[data-dd-key="${key}"]`
+      );
+      if (!root) return;
+      const trigger = root.querySelector<HTMLButtonElement>(".dd-trigger");
+      const label = root.querySelector<HTMLSpanElement>(".dd-label");
+      const activeOpt = root.querySelector<HTMLElement>(
+        `.dd-option[data-value="${CSS.escape(active)}"]`
+      );
+      const labelText =
+        active && activeOpt
+          ? (activeOpt.childNodes[0] as Text)?.data?.trim() || active
+          : "All";
+      if (label) label.textContent = labelText;
+      if (trigger) trigger.toggleAttribute("data-active", !!active);
+      root.querySelectorAll<HTMLElement>(".dd-option").forEach(opt => {
+        opt.classList.toggle(
+          "dd-active",
+          opt.dataset.value === active && !!active
+        );
+      });
+    });
+
+    BOOL_KEYS.forEach(key => {
+      const active = params.get(key) === "1";
+      const btn = document.querySelector<HTMLButtonElement>(
+        `[data-bool-key="${key}"]`
+      );
+      if (!btn) return;
+      btn.toggleAttribute("data-active", active);
+      btn.setAttribute("aria-pressed", String(active));
+      const label = btn.querySelector<HTMLElement>(".bool-toggle-label");
+      if (label) label.textContent = active ? "Favorites only" : "All";
+    });
+
+    MULTI_KEYS.forEach(key => {
+      const selected = getMulti(params, key);
+      const root = document.querySelector<HTMLElement>(
+        `.ms-root[data-ms-key="${key}"]`
+      );
+      if (!root) return;
+      root
+        .querySelectorAll<HTMLInputElement>(`.ms-checkbox[data-ms-key="${key}"]`)
+        .forEach(cb => {
+          cb.checked = selected.includes(cb.value);
+        });
+      const trigger = root.querySelector<HTMLButtonElement>(".ms-trigger");
+      const label = root.querySelector<HTMLSpanElement>(".ms-label");
+      if (label)
+        label.textContent = selected.length
+          ? `${selected.length} selected`
+          : "All";
+      if (trigger) trigger.toggleAttribute("data-active", selected.length > 0);
+    });
+  }
+
+  // ── Availability ──────────────────────────────────────────────────────────────
+  function updateAvailability(params: URLSearchParams) {
+    const allItems = Array.from(
+      document.querySelectorAll<HTMLElement>("[data-review]")
+    );
+
+    SINGLE_KEYS.forEach(key => {
+      const active = params.get(key) ?? "";
+      const root = document.querySelector<HTMLElement>(
+        `.dd-root[data-dd-key="${key}"]`
+      );
+      if (!root) return;
+      root.querySelectorAll<HTMLElement>(".dd-option").forEach(opt => {
+        const val = opt.dataset.value ?? "";
+        if (!val || val === active) {
+          opt.classList.remove("dd-disabled");
+          return;
+        }
+        const test = new URLSearchParams(params);
+        test.set(key, val);
+        opt.classList.toggle(
+          "dd-disabled",
+          allItems.filter(i => itemMatches(i, test)).length === 0
+        );
+      });
+    });
+
+    MULTI_KEYS.forEach(key => {
+      const root = document.querySelector<HTMLElement>(
+        `.ms-root[data-ms-key="${key}"]`
+      );
+      if (!root) return;
+      root
+        .querySelectorAll<HTMLInputElement>(`.ms-checkbox[data-ms-key="${key}"]`)
+        .forEach(cb => {
+          if (cb.checked) {
+            cb.closest<HTMLElement>(".ms-option")?.classList.remove(
+              "ms-disabled"
+            );
+            return;
+          }
+          const test = new URLSearchParams(params);
+          test.set(key, cb.value);
+          const count = allItems.filter(i => itemMatches(i, test)).length;
+          cb.closest<HTMLElement>(".ms-option")?.classList.toggle(
+            "ms-disabled",
+            count === 0
+          );
+        });
+    });
+  }
+
+  // ── Badges ────────────────────────────────────────────────────────────────────
+  function updateBadges(params: URLSearchParams) {
+    const row = document.getElementById("active-filters");
+    let hasAny = false;
+
+    SINGLE_KEYS.forEach(key => {
+      const value = params.get(key);
+      const chip = document.getElementById(`active-${key}-chip`);
+      const labelEl = document.getElementById(`active-${key}-label`);
+      if (labelEl) labelEl.textContent = value ?? "";
+      if (chip) {
+        chip.classList.toggle("hidden", !value);
+        chip.classList.toggle("inline-flex", !!value);
+      }
+      if (value) hasAny = true;
+    });
+
+    MULTI_KEYS.forEach(key => {
+      const vals = getMulti(params, key);
+      const chip = document.getElementById(`active-${key}-chip`);
+      const labelEl = document.getElementById(`active-${key}-label`);
+      if (labelEl) labelEl.textContent = vals.join(", ");
+      if (chip) {
+        chip.classList.toggle("hidden", vals.length === 0);
+        chip.classList.toggle("inline-flex", vals.length > 0);
+      }
+      if (vals.length) hasAny = true;
+    });
+
+    BOOL_KEYS.forEach(key => {
+      const active = params.get(key) === "1";
+      const chip = document.getElementById(`active-${key}-chip`);
+      const labelEl = document.getElementById(`active-${key}-label`);
+      if (labelEl) labelEl.textContent = active ? "★" : "";
+      if (chip) {
+        chip.classList.toggle("hidden", !active);
+        chip.classList.toggle("inline-flex", active);
+      }
+      if (active) hasAny = true;
+    });
+
+    if (row) {
+      row.classList.toggle("hidden", !hasAny);
+      row.classList.toggle("flex", hasAny);
+    }
+  }
+
+  // ── Push state ────────────────────────────────────────────────────────────────
+  function pushFilter(params: URLSearchParams) {
+    const qs = params.toString();
+    history.pushState(
+      {},
+      "",
+      qs ? `${location.pathname}?${qs}` : location.pathname
+    );
+    applyFilters(params);
+    updateControls(params);
+    updateBadges(params);
+    updateAvailability(params);
+  }
+
+  function clearAllFilters() {
+    history.pushState({}, "", location.pathname);
+    const empty = new URLSearchParams();
+    applyFilters(empty);
+    updateControls(empty);
+    updateBadges(empty);
+    updateAvailability(empty);
+  }
+
+  function init() {
+    const params = getParams();
+    applyFilters(params);
+    updateControls(params);
+    updateBadges(params);
+    updateAvailability(params);
+  }
+
+  // ── Events ────────────────────────────────────────────────────────────────────
+
+  function closeAllDropdowns() {
+    document
+      .querySelectorAll(".dd-root.dd-open, .ms-root.ms-open")
+      .forEach(r => {
+        r.classList.remove("dd-open", "ms-open");
+      });
+  }
+
+  document.getElementById("filter-bar")?.addEventListener("click", e => {
+    const trigger = (e.target as HTMLElement).closest<HTMLElement>(
+      ".dd-trigger, .ms-trigger"
+    );
+    if (!trigger) return;
+    const root = trigger.closest<HTMLElement>(".dd-root, .ms-root")!;
+    const isOpen =
+      root.classList.contains("dd-open") || root.classList.contains("ms-open");
+    closeAllDropdowns();
+    if (!isOpen)
+      root.classList.add(
+        root.classList.contains("dd-root") ? "dd-open" : "ms-open"
+      );
+  });
+
+  document.getElementById("filter-bar")?.addEventListener("click", e => {
+    const opt = (e.target as HTMLElement).closest<HTMLElement>(
+      ".dd-root .dd-option"
+    );
+    if (!opt) return;
+    const root = opt.closest<HTMLElement>(".dd-root")!;
+    const key = root.dataset.ddKey as SingleKey;
+    const value = opt.dataset.value ?? "";
+    const params = getParams();
+    if (value) params.set(key, value);
+    else params.delete(key);
+    closeAllDropdowns();
+    pushFilter(params);
+  });
+
+  document.getElementById("filter-bar")?.addEventListener("change", e => {
+    const cb = e.target as HTMLInputElement;
+    if (cb.type !== "checkbox" || !cb.dataset.msKey) return;
+    const key = cb.dataset.msKey as MultiKey;
+    const params = getParams();
+    const current = getMulti(params, key);
+    const next = cb.checked
+      ? [...current, cb.value]
+      : current.filter(v => v !== cb.value);
+    setMulti(params, key, next);
+    pushFilter(params);
+  });
+
+  document.getElementById("filter-bar")?.addEventListener("click", e => {
+    const btn = (e.target as HTMLElement).closest<HTMLButtonElement>(
+      "[data-bool-key]"
+    );
+    if (!btn?.dataset.boolKey) return;
+    const params = getParams();
+    if (params.get(btn.dataset.boolKey) === "1")
+      params.delete(btn.dataset.boolKey);
+    else params.set(btn.dataset.boolKey, "1");
+    pushFilter(params);
+  });
+
+  document.addEventListener("click", e => {
+    if (!(e.target as HTMLElement).closest(".dd-root, .ms-root")) {
+      closeAllDropdowns();
+    }
+  });
+
+  document.getElementById("active-filters")?.addEventListener("click", e => {
+    const target = e.target as HTMLElement;
+    if (target.closest("#clear-all-btn")) {
+      clearAllFilters();
+      return;
+    }
+    const badge = target.closest<HTMLElement>("[data-remove-key]");
+    if (badge?.dataset.removeKey) {
+      const params = getParams();
+      params.delete(badge.dataset.removeKey);
+      pushFilter(params);
+    }
+  });
+
+  window.addEventListener("popstate", init);
+  document.addEventListener("astro:page-load", init);
+</script>

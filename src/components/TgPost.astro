@@ -1,0 +1,25 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+type Props = {
+  tgPost: NonNullable<CollectionEntry<"reviews">["data"]["contentTgPosts"]>[number];
+};
+
+const { tgPost } = Astro.props;
+
+// path like channel/123456789 or https://t.me/channel/123456789 or https://telesco.pe/channel/123456789
+const href = tgPost?.replace(/^(https?:\/\/)?(t\.me|telesco\.pe)\//, "").trim();
+---
+
+{
+  href && (
+    <div
+      class="telegram-post"
+      data-tg-post={href}
+      data-tg-width="100%"
+      data-tg-color="E22F38"
+      data-tg-dark="1"
+      data-tg-dark-color="FF6B01"
+    />
+  )
+}

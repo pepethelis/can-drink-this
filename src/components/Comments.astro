@@ -1,0 +1,30 @@
+---
+import { SITE } from "@/config";
+
+const config = SITE.giscus;
+---
+
+{
+  config.enabled && (
+    <section class="mx-auto mt-12">
+      <div
+        data-giscus
+        data-src="https://giscus.app/client.js"
+        data-repo={config.repo}
+        data-repo-id={config.repoId}
+        data-category={config.category}
+        data-category-id={config.categoryId}
+        data-mapping={config.mapping}
+        data-strict="0"
+        data-reactions-enabled={config.reactions}
+        data-emit-metadata={config.emitMetadata}
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        data-crossorigin="anonymous"
+        data-async="true"
+      />
+    </section>
+  )
+}

@@ -1,0 +1,58 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { Image } from "astro:assets";
+import { getPath } from "@/utils/getPath";
+import { resolveImageAsset, normalizeMediaLink } from "@/utils";
+import getTitleFormAliases from "@/utils/getTitleFormAliases";
+import defaultImage from "@/assets/images/default.png";
+
+type Props = {
+  reviews: CollectionEntry<"reviews">[];
+};
+
+const { reviews } = Astro.props;
+
+const imageAssets = import.meta.glob(
+  "/src/data/**/*.{png,jpg,jpeg,webp,avif,gif,svg}",
+  { eager: true, import: "default" }
+);
+
+const resolveOgImage = (review: CollectionEntry<"reviews">) => {
+  const raw = review.data.cover;
+  if (typeof raw === "string") return resolveImageAsset(normalizeMediaLink(raw), imageAssets);
+  return resolveImageAsset(raw ?? undefined, imageAssets);
+};
+---
+
+<div class="flex gap-4 overflow-x-auto pb-2 rounded">
+  {reviews.map(review => {
+    const title = getTitleFormAliases(review.data.aliases);
+    const img = resolveOgImage(review);
+    return (
+      <a
+        href={getPath(review.id, review.filePath)}
+        class="group relative w-44 shrink-0 overflow-hidden rounded text-accent underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"
+      >
+        {typeof img === "string" ? (
+          <img
+            src={img}
+            alt={title}
+            class="relative z-0 h-72 w-full rounded object-cover transition-transform duration-300 group-hover:scale-105"
+          />
+        ) : (
+          <Image
+            src={img ?? defaultImage}
+            alt={title}
+            width={176}
+            height={288}
+            class="relative z-0 h-72 w-full rounded object-cover transition-transform duration-300 group-hover:scale-105"
+          />
+        )}
+        <div class="absolute inset-0 z-20 flex flex-col justify-end bg-linear-to-t from-background/80 from-20% to-transparent to-50% p-3 text-foreground">
+          <div class="text-xs opacity-80">{(review.data.types ?? []).join(", ")} | {review.data.author}</div>
+          <div class="text-sm font-bold leading-tight">{title}</div>
+        </div>
+      </a>
+    );
+  })}
+</div>

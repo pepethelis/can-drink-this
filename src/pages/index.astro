@@ -1,0 +1,138 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Socials from "@/components/Socials.astro";
+import LinkButton from "@/components/LinkButton.astro";
+import CardReview from "@/components/CardReview.astro";
+import getSortedPosts from "@/utils/getSortedPosts";
+import IconRss from "@/assets/icons/IconRss.svg";
+import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
+import { SITE } from "@/config";
+import { SOCIALS } from "@/constants";
+import CardPost from "@/components/CardPost.astro";
+import type { CollectionEntry } from "astro:content";
+import postFilter from "@/utils/postFilter";
+
+const reviews = await getCollection("reviews", ({ data }) =>
+    postFilter({ data })
+  );
+
+const sortedReviews = getSortedPosts(reviews);
+const pinnedReviews = sortedReviews.filter(({ data }) => data.pinned);
+const recentReviews = sortedReviews.filter(({ data }) => !data.pinned);
+
+const posts = await getCollection("posts");
+
+const sortedPosts = getSortedPosts(posts);
+const pinnedPosts = sortedPosts.filter(({ data }) => data.pinned);
+const recentPosts = sortedPosts.filter(({ data }) => !data.pinned);
+
+const sortedContent = getSortedPosts([...recentPosts, ...recentReviews]);
+const sortedPinnedContent = getSortedPosts([...pinnedPosts, ...pinnedReviews]);
+---
+
+<Layout>
+  <Header />
+  <main id="main-content" data-layout="index" class="content-layout">
+    <section id="hero" class:list={["pt-8 pb-6", "border-b border-border"]}>
+      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
+        Astro Paper Reviews Test
+      </h1>
+      <a
+        target="_blank"
+        href={`${import.meta.env.BASE_URL}/rss.xml`}
+        class="inline-block"
+        aria-label="rss feed"
+        title="RSS Feed"
+      >
+        <IconRss
+          width={20}
+          height={20}
+          class="scale-125 stroke-accent stroke-3 rtl:-rotate-90"
+        />
+        <span class="sr-only">RSS Feed</span>
+      </a>
+
+      <p>Review and thoughts about drinks and beverages</p>
+      {
+        // only display if at least one social link is enabled
+        SOCIALS.length > 0 && (
+          <div class="mt-4 flex max-sm:flex-col sm:items-center">
+            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Social Links:</div>
+            <Socials />
+          </div>
+        )
+      }
+    </section>
+
+    {
+      sortedPinnedContent.length > 0 && (
+        <section
+          id="featured"
+          class:list={[
+            "pt-12 pb-6",
+            { "border-b border-border": sortedPosts.length > 0 },
+          ]}
+        >
+          <h2 class="text-2xl font-semibold tracking-wide">Featured</h2>
+          <ul>
+            {sortedPinnedContent.map(data => ("types" in data.data ? (
+                <CardReview
+                  variant="h3"
+                  {...(data as CollectionEntry<"reviews">)}
+                />
+              ) : (
+                <CardPost
+                  variant="h3"
+                  {...(data as CollectionEntry<"posts">)}
+                />
+              )))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      sortedContent.length > 0 && (
+        <section id="recent-posts" class="pt-12 pb-6">
+          <h2 class="text-2xl font-semibold tracking-wide">Recent Content</h2>
+          <ul>
+            {sortedContent.map((data, index) =>
+              index < SITE.postPerIndex && ("types" in data.data ? (
+                <CardReview
+                  variant="h3"
+                  {...(data as CollectionEntry<"reviews">)}
+                />
+              ) : (
+                <CardPost
+                  variant="h3"
+                  {...(data as CollectionEntry<"posts">)}
+                />
+              ))
+            )}
+          </ul>
+        </section>
+      )
+    }
+
+    <div class="my-8 text-center">
+      <LinkButton href="reviews">
+        All Reviews
+        <IconArrowRight class="inline-block rtl:-rotate-180" />
+      </LinkButton>
+    </div>
+  </main>
+  <Footer />
+</Layout>
+
+<script>
+  document.addEventListener("astro:page-load", () => {
+    const indexLayout = (document.querySelector("#main-content") as HTMLElement)
+      ?.dataset?.layout;
+    if (indexLayout) {
+      sessionStorage.setItem("backUrl", "/");
+    }
+  });
+</script>
