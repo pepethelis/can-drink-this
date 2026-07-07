@@ -1,0 +1,89 @@
+name: Publish site
+
+# Runs on a schedule (04:00 Europe/Kyiv) or when manually triggered from the
+# Actions tab ("Run workflow" — the "publish" button). Never runs on push,
+# so editing content on `main` does not by itself trigger a rebuild.
+on:
+  schedule:
+    # GitHub Actions cron has no timezone support, and Kyiv shifts between
+    # UTC+2 (EET) and UTC+3 (EEST) with DST. Both offsets are scheduled and
+    # the guard step below skips the run unless it's actually 04:00 Kyiv
+    # time, so this stays correct year-round without manual edits.
+    - cron: "0 1 * * *" # 04:00 EEST (summer)
+    - cron: "0 2 * * *" # 04:00 EET  (winter)
+  workflow_dispatch: {}
+
+concurrency:
+  group: publish
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Guard against duplicate DST cron fire
+        id: guard
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            hour=$(TZ=Europe/Kyiv date +%H)
+            if [ "$hour" != "04" ]; then
+              echo "Not 04:00 Kyiv time (it's $hour:00) — skipping this scheduled fire."
+              echo "skip=true" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
+      - name: Checkout content (main)
+        if: steps.guard.outputs.skip != 'true'
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: content
+
+      - name: Checkout site code
+        if: steps.guard.outputs.skip != 'true'
+        uses: actions/checkout@v4
+        with:
+          ref: site
+          path: site
+
+      - name: Sync content into site
+        if: steps.guard.outputs.skip != 'true'
+        run: |
+          rm -rf site/src/data/posts site/src/data/reviews site/src/data/assets
+          mkdir -p site/src/data
+          cp -r content/posts site/src/data/posts
+          cp -r content/reviews site/src/data/reviews
+          cp -r content/assets site/src/data/assets
+
+      - name: Setup Bun
+        if: steps.guard.outputs.skip != 'true'
+        uses: oven-sh/setup-bun@v2
+
+      - name: Install dependencies
+        if: steps.guard.outputs.skip != 'true'
+        working-directory: site
+        run: bun install --frozen-lockfile
+
+      - name: Build site
+        if: steps.guard.outputs.skip != 'true'
+        working-directory: site
+        run: bun run build
+
+      - name: Upload Pages artifact
+        if: steps.guard.outputs.skip != 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
+      - name: Deploy to GitHub Pages
+        if: steps.guard.outputs.skip != 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
