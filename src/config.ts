@@ -1,6 +1,6 @@
 export const SITE = {
   website: "https://pepethelis.github.io", // replace this with your deployed domain
-  base: "reviews-test", // replace this with your repo name
+  base: "can-drink-this", // replace this with your repo name
   author: "pepethelis",
   profile: "https://t.me/kallection",
   desc: "Ваші енергоси вже оглянуті",
@@ -13,11 +13,11 @@ export const SITE = {
   showArchives: true,
   showBackButton: true, // show back button in post detail
   giscus: {
-    // Disabled: repoId/categoryId below belong to astro-paper-test's
+    // Disabled: repoId/categoryId below belong to can-drink-this's
     // Discussions and won't resolve against this repo. Reconfigure at
-    // giscus.app for pepethelis/reviews-test before re-enabling.
+    // giscus.app for pepethelis/can-drink-this before re-enabling.
     enabled: false,
-    repo: "pepethelis/astro-paper-test",
+    repo: "pepethelis/can-drink-this",
     repoId: "R_kgDOSSVlPA",
     category: "General",
     categoryId: "DIC_kwDOSSVlPM4C8Nng",

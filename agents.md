@@ -2,13 +2,13 @@
 
 ## Overview
 
-A beverage review blog (primarily energy drinks) built on Astro 5. Content is written in Markdown using Obsidian vault conventions. The site is deployed to GitHub Pages under `pepethelis.github.io/astro-paper-test`.
+A beverage review blog (primarily energy drinks) built on Astro 5. Content is written in Markdown using Obsidian vault conventions. The site is deployed to GitHub Pages under `pepethelis.github.io/can-drink-this`.
 
 - **Framework**: Astro 5.16.6
 - **Package manager**: Bun
 - **Styling**: Tailwind CSS v4
 - **Language**: TypeScript (strict)
-- **Site URL**: `https://pepethelis.github.io/astro-paper-test`
+- **Site URL**: `https://pepethelis.github.io/can-drink-this`
 - **Author**: pepethelis (Telegram: `@kallection`)
 - **Site description**: "Ваші енергоси вже оглянуті" (Your energy drinks are already reviewed)
 
