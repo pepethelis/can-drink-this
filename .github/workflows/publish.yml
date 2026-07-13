@@ -45,7 +45,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: main
-          path: content
+          path: vault
 
       - name: Checkout site code
         if: steps.guard.outputs.skip != 'true'
@@ -59,9 +59,9 @@ jobs:
         run: |
           rm -rf site/src/data/posts site/src/data/reviews site/src/data/assets
           mkdir -p site/src/data
-          cp -r content/posts site/src/data/posts
-          cp -r content/reviews site/src/data/reviews
-          cp -r content/assets site/src/data/assets
+          cp -r vault/content/posts site/src/data/posts
+          cp -r vault/content/reviews site/src/data/reviews
+          cp -r vault/content/assets site/src/data/assets
 
       - name: Setup Bun
         if: steps.guard.outputs.skip != 'true'

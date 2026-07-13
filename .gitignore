@@ -1,0 +1,5 @@
+# Vault-internal files — only content/ is synced/published
+.obsidian/
+guide.md
+todo.md
+*.canvas
