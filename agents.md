@@ -1,4 +1,4 @@
-# Project: Astro Paper Reviews Test
+# Project: Can Drink This
 
 ## Overview
 

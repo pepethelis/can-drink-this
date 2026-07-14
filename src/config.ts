@@ -4,7 +4,7 @@ export const SITE = {
   author: "pepethelis",
   profile: "https://t.me/kallection",
   desc: "Ваші енергоси вже оглянуті",
-  title: "Astro Paper Reviews Test",
+  title: "Огля даю",
   ogImage: "default.png", 
   lightAndDarkMode: true,
   postPerIndex: 7,
