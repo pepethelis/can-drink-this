@@ -4,6 +4,6 @@ filters:
 views:
   - type: table
     name: Таблиця
-    filters:
-      and:
-        - brand == "monster/ultra"
+    sort:
+      - property: publishedAt
+        direction: DESC

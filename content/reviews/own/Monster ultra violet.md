@@ -9,7 +9,7 @@ taste:
   - citrus
   - grape
 publishedAt:
-favorite:
+favorite: true
 container:
   - can
 sweeteners:
