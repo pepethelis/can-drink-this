@@ -1,0 +1,67 @@
+filters:
+  and:
+    - file.folder == "content/reviews/own"
+formulas:
+  Untitled: if(cover, "", "no cover")
+views:
+  - type: table
+    name: Wait for publication
+    filters:
+      and:
+        - status == "to publish"
+    order:
+      - file.name
+      - summary
+      - file.mtime
+      - cover
+      - types
+    sort:
+      - property: file.mtime
+        direction: ASC
+    columnSize:
+      note.summary: 90
+      file.mtime: 178
+  - type: table
+    name: Wait for update
+    filters:
+      and:
+        - status == "to update"
+    order:
+      - file.name
+      - related
+  - type: table
+    name: Wait to create
+    filters:
+      and:
+        - status == "to create"
+    order:
+      - file.name
+      - related
+      - sponsor
+      - volume
+    sort:
+      - property: sponsor
+        direction: ASC
+  - type: table
+    name: Wait to enrich
+    filters:
+      and:
+        - status == "to enrich"
+  - type: table
+    name: Needs update
+    filters:
+      and:
+        - status == "needs update"
+  - type: table
+    name: Prebuild
+    filters:
+      and:
+        - status == "prebuild"
+    order:
+      - file.name
+      - related
+  - type: table
+    name: Published
+    filters:
+      and:
+        - status == "published"

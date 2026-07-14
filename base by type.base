@@ -1,0 +1,69 @@
+filters:
+  and:
+    - file.folder == "content/reviews/own"
+views:
+  - type: table
+    name: alco
+    filters:
+      and:
+        - type == "alco"
+  - type: table
+    name: alco-energy
+    filters:
+      and:
+        - type == "alco-energy"
+  - type: table
+    name: ayran
+    filters:
+      and:
+        - type == "ayran"
+  - type: table
+    name: coffee
+    filters:
+      and:
+        - type == "coffee"
+  - type: table
+    name: energy
+    filters:
+      and:
+        - type == "energy"
+  - type: table
+    name: fizzy
+    filters:
+      and:
+        - type == "fizzy"
+  - type: table
+    name: juice
+    filters:
+      and:
+        - type == "juice"
+  - type: table
+    name: kvas
+    filters:
+      and:
+        - type == "kvas"
+  - type: table
+    name: plant-based
+    filters:
+      and:
+        - type == "plant-based"
+  - type: table
+    name: radler
+    filters:
+      and:
+        - type == "radler"
+  - type: table
+    name: tea
+    filters:
+      and:
+        - type == "tea"
+  - type: table
+    name: tea-energy
+    filters:
+      and:
+        - type == "tea-energy"
+  - type: table
+    name: water
+    filters:
+      and:
+        - type == "water"

@@ -1,0 +1,53 @@
+filters:
+  and:
+    - file.folder == "content/reviews/own"
+formulas:
+  Untitled: if(cover, "", "no cover")
+views:
+  - type: table
+    name: All (table)
+    order:
+      - file.name
+      - file.mtime
+      - publication
+    sort:
+      - property: file.mtime
+        direction: DESC
+      - property: publication
+        direction: ASC
+      - property: file.size
+        direction: DESC
+    columnSize:
+      note.availability: 125
+  - type: cards
+    name: All (cards)
+    order:
+      - file.name
+      - taste
+      - type
+    cardSize: 210
+    image: note.cover
+    imageAspectRatio: 1
+    imageFit: ""
+  - type: cards
+    name: With covers
+    filters:
+      and:
+        - and:
+            - "!cover.isEmpty()"
+            - cover != link("placeholder.svg")
+    cardSize: 110
+    image: note.cover
+  - type: table
+    name: Without covers
+    filters:
+      or:
+        - cover.isEmpty()
+        - cover == link("placeholder.svg")
+    cardSize: 210
+    image: note.cover
+  - type: table
+    name: By status
+    groupBy:
+      property: type
+      direction: ASC
