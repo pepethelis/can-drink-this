@@ -1,6 +1,6 @@
 export const SITE = {
-  website: "https://pepethelis.github.io", // replace this with your deployed domain
-  // base: "", // replace this with your repo name
+  website: "https://reviews.pepethelis.top", // replace this with your deployed domain
+  base: "" as string, // replace this with your repo name
   author: "pepethelis",
   profile: "https://t.me/kallection",
   desc: "Ваші енергоси вже оглянуті",
