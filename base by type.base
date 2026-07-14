@@ -6,57 +6,57 @@ views:
     name: alco
     filters:
       and:
-        - type == "alco"
+        - types.containsAny("alco")
   - type: table
     name: alco-energy
     filters:
       and:
-        - type == "alco-energy"
+        - types.containsAll("alco", "energy")
   - type: table
     name: ayran
     filters:
       and:
-        - type == "ayran"
+        - types.containsAny("ayran")
   - type: table
     name: coffee
     filters:
       and:
-        - type == "coffee"
+        - types.containsAny("coffee")
   - type: table
     name: energy
     filters:
       and:
-        - type == "energy"
+        - types.containsAny("energy")
   - type: table
     name: fizzy
     filters:
       and:
-        - type == "fizzy"
+        - types.containsAny("fizzy")
   - type: table
     name: juice
     filters:
       and:
-        - type == "juice"
+        - types.containsAny("juice")
   - type: table
-    name: kvas
+    name: kvass
     filters:
       and:
-        - type == "kvas"
+        - types.containsAny("kvass")
   - type: table
     name: plant-based
     filters:
       and:
-        - type == "plant-based"
+        - types.containsAny("plant-based")
   - type: table
     name: radler
     filters:
       and:
-        - type == "radler"
+        - types.containsAny("radler")
   - type: table
     name: tea
     filters:
       and:
-        - type == "tea"
+        - types.containsAll("tea", "energy")
   - type: table
     name: tea-energy
     filters:
@@ -66,4 +66,4 @@ views:
     name: water
     filters:
       and:
-        - type == "water"
+        - types.containsAny("water")
