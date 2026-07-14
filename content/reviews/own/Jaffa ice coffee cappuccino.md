@@ -23,6 +23,12 @@ aliases:
   - Jaffa ice coffee cappuccino
 types:
   - coffee
+related:
+  - "[[Jacobs ice presso latte]]"
+  - "[[Hell ice coffee latte]]"
+  - "[[Hell ice coffee strawberry latte]]"
+  - "[[Vega Milk banana]]"
+  - "[[Vega Milk coconut]]"
 ---
 **Jaffa ice coffee cappuccino**. Офіційний смак - капучіно
 
@@ -63,7 +69,3 @@ types:
 По висновку - смачний кавовий, але не енергосний напій. По сумісництву один з кращих кавових напоїв, що був на тестах. Смакує добре, чисто по смаку можна радити. Щодо незначної кількості кофеїну - юзери енергосів не зацінять. Також не зацінять ті, хто вважає, що фуллпрайс 67 це багато
 
 Imagine this at 3 am score - 0/5
-
-
-Пов'язані огляди:  [[Jaffa ice coffee moccaccino]], [[Jaffa ice coffee coconut latte]], [[Jacobs ice presso latte]], [[Hell ice coffee latte]], [[Hell ice coffee strawberry latte]], [[Vega Milk banana]], [[Vega Milk coconut]]
-#огляди
