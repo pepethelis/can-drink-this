@@ -9,7 +9,7 @@ views:
     order:
       - file.name
       - file.mtime
-      - publication
+      - aliases
     sort:
       - property: file.mtime
         direction: DESC

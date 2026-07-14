@@ -1,6 +1,7 @@
 ---
 status: to publish
 aliases:
+  - Taller
 externalUrl:
 brand: taller
 types:

@@ -1,6 +1,7 @@
 ---
 status: to publish
 aliases:
+  - Pinkel cider melon
 externalUrl:
 brand: pinkel
 types:
