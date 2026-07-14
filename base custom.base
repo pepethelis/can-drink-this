@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.folder == "content/reviews/own"
+views:
+  - type: table
+    name: Таблиця
+    filters:
+      and:
+        - brand == "monster/ultra"
