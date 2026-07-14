@@ -47,6 +47,7 @@ export const beverageType = z.enum([
   "energy",
   "fizzy",
   "juice",
+  "yogurt",
   "kvass",
   "kombucha",
   "plant-based",
