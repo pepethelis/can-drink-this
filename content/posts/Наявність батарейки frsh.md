@@ -2,7 +2,7 @@
 publishedAt: 2026-05-04
 summary: ""
 canonicalURL: https://t.me/kallection/35940
-ogImage: "[[IMG_8601.jpg]]"
+cover: "[[IMG_8601.jpg]]"
 aliases:
   - Наявність батарейки frsh
 ---
