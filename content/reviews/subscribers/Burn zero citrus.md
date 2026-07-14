@@ -13,7 +13,8 @@ volume:
 status: published
 externalUrl: https://t.me/kallection/37092
 aliases:
-  - BURN ZERO SUGAR
+  - Burn zero citrus
+caffeine: 30
 ---
 BURN ZERO SUGAR 
 
