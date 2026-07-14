@@ -35,7 +35,7 @@ views:
       and:
         - and:
             - "!cover.isEmpty()"
-            - cover != link("placeholder.svg")
+            - cover != link("default.png")
     cardSize: 110
     image: note.cover
   - type: table
@@ -43,7 +43,7 @@ views:
     filters:
       or:
         - cover.isEmpty()
-        - cover == link("placeholder.svg")
+        - cover == link("default.png")
     cardSize: 210
     image: note.cover
   - type: table
