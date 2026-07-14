@@ -14,6 +14,7 @@ status: published
 externalUrl: https://t.me/kallection/34765
 aliases:
   - Redbull spring edition kirsche-sakura
+cover: "[[photo_2026-02-22_17-00-01.jpg]]"
 ---
 Redbull spring edition kirsche-sakura
 

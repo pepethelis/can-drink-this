@@ -16,7 +16,7 @@ container:
 sweeteners:
   - acesulfame
   - sucralose
-cover: "[[default.png]]"
+cover: "[[photo_2026-07-12_08-07-30.jpg]]"
 availability:
 summary:
 primaryColors:

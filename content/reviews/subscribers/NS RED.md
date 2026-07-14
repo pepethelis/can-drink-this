@@ -13,6 +13,7 @@ status: published
 externalUrl: https://t.me/kallection/36732
 aliases:
   - NS RED
+cover: "[[photo_2026-06-15_17-49-56.jpg]]"
 ---
 "NS RED" закос на помаранчевий "NON-STOP", від російського бренду "World's best drinks"
 

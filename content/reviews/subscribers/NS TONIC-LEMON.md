@@ -15,6 +15,7 @@ status: published
 externalUrl: https://t.me/kallection/37069
 aliases:
   - NS TONIC-LEMON
+cover: "[[photo_2026-07-02_17-47-00.jpg]]"
 ---
 "NS TONIC-LEMON" закос на >якийсь-там< "NON-STOP", від російського бренду "World's best drinks"
 

@@ -14,6 +14,7 @@ status: published
 externalUrl: https://t.me/kallection/37044
 aliases:
   - Monster juiced viking berry
+cover: "[[photo_2026-06-30_23-48-15.jpg]]"
 ---
 Огляд на Monster Juiced Viking Berry
 

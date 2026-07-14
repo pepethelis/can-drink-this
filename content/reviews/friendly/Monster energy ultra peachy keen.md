@@ -14,6 +14,7 @@ status: published
 externalUrl: https://t.me/kallection/35710
 aliases:
   - Monster ultra peachy keen
+cover: "[[photo_2026-04-17_09-24-50.jpg]]"
 ---
 M∅NSTER ENERGY ULTRA PEACHY KEEN
 

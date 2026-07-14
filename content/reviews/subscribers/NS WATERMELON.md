@@ -15,6 +15,7 @@ externalUrl: https://t.me/kallection/37181
 aliases:
   - NS WATERMELON
 telegram_format: html
+cover: "[[photo_2026-07-06_18-22-24.jpg]]"
 ---
 "NS WATERMELON" закос на кавуновий "NON-STOP", від російського бренду "World's best drinks"
 
