@@ -14,7 +14,7 @@ sweeteners:
   - coconut water
   - extract/guarana
   - extract/damiana
-cover: "[[default.png]]"
+cover: "[[IMG_5011.jpeg]]"
 availability:
 summary:
 primaryColors:
