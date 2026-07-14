@@ -40,6 +40,7 @@ export const volumeType = z.enum([
 
 export const beverageType = z.enum([
   "alco",
+  "beer",
   "cider",
   "ayran",
   "coffee",
