@@ -55,5 +55,6 @@ export function getPath(
     return slugPath;
   }
 
-  return [baseUrl, basePath, slugPath].filter(Boolean).join("/");
+  const joinedPath = [baseUrl, basePath, slugPath].filter(Boolean).join("/");
+  return joinedPath.startsWith("/") ? joinedPath : `/${joinedPath}`;
 }

@@ -7,7 +7,12 @@ const { disabled, class: className, ...attrs } = Astro.props;
 
 const Button = disabled ? "span" : "a";
 
-const href = attrs.raw ? attrs.href : [import.meta.env.BASE_URL, attrs.href].filter(Boolean).join("/");
+const href = attrs.raw
+  ? attrs.href
+  : `/${[import.meta.env.BASE_URL, attrs.href].filter(Boolean).join("/")}`.replace(
+      /\/{2,}/g,
+      "/"
+    );
 ---
 
 <Button

@@ -31,6 +31,8 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.pinned);
 
 const sortedContent = getSortedPosts([...recentPosts, ...recentReviews]);
 const sortedPinnedContent = getSortedPosts([...pinnedPosts, ...pinnedReviews]);
+
+const rssHref = `/${import.meta.env.BASE_URL}/rss.xml`.replace(/\/{2,}/g, "/");
 ---
 
 <Layout>
@@ -42,7 +44,7 @@ const sortedPinnedContent = getSortedPosts([...pinnedPosts, ...pinnedReviews]);
       </h1>
       <a
         target="_blank"
-        href={`${import.meta.env.BASE_URL}/rss.xml`}
+        href={rssHref}
         class="inline-block"
         aria-label="rss feed"
         title="RSS Feed"
