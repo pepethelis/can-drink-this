@@ -1,5 +1,5 @@
 ---
-status: to create
+status: to publish
 aliases:
   - Borjomi aromati citrus & ginger root
 externalUrl:
@@ -14,7 +14,7 @@ favorite:
 container:
   - can
 sweeteners:
-cover: "[[default.png]]"
+cover: "[[IMG_5048.jpeg]]"
 availability:
 summary:
 primaryColors:
@@ -64,4 +64,3 @@ volume:
 
 
 По висновку - в принципі та сама вода боржомі, тільки тепер з ароматом апельсина та/чи лимона. Кореня женьшеню я не відчув. А загалом можна вважати, що це та сама вода боржомі, та й усе. Хто любить мінералки - той і сам вже все знає, а хто не любить, тому і радити не варто. От я і не раджу
-
