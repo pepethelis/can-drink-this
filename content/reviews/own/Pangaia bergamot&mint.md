@@ -1,12 +1,12 @@
 ---
-status: to publish
+status: published
 tags:
-externalUrl:
+externalUrl: https://t.me/kallection/37360
 brand: pangaia
 taste:
   - bergamot
   - mint
-publishedAt:
+publishedAt: 2026-07-15
 favorite:
 container:
   - can
@@ -28,6 +28,10 @@ aliases:
   - Pangaia bergamot&mint
 types:
   - alco
+related:
+  - "[[Pangaia mango blossom|Pangaia mango blossom]]"
+  - "[[Чернігівське біле fruter кавун|Чернігівське біле fruter кавун]]"
+  - "[[Чернігівське біле fruter капуоранж|Чернігівське біле fruter капуоранж]]"
 ---
 **Pangaia bergamot&mint**. Офіційний смак - бергамот-мʼята
 

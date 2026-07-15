@@ -1,5 +1,5 @@
 ---
-status: prebuild
+status: published
 aliases:
   - Burn zero персик манго
 externalUrl:
@@ -9,7 +9,7 @@ types:
 taste:
   - peach
   - mango
-publishedAt:
+publishedAt: 2026-07-15
 favorite:
 container:
   - can
