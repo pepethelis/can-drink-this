@@ -37,7 +37,7 @@ types:
 ---
 **Komodo juicy watermelon**. Офіційний смак - кавун
 
-==ОПИС ЗАПАХУ ЗАПАХУ==
+Запах слабкий, але точно не конвенційно кавунячий, це точно не [[Hell watermelon|Hell watermelon]] чи [[Monster ultra watermelon|Monster ultra watermelon]], та навіть не [[Nonstop zoom|Nonstop zoom]]
 
 ==ОПИС ЗАПАХУ СМАКУ==
 
