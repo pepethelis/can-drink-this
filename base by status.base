@@ -39,7 +39,10 @@ views:
       - related
       - sponsor
       - volume
+      - types
     sort:
+      - property: types
+        direction: ASC
       - property: sponsor
         direction: ASC
   - type: table
