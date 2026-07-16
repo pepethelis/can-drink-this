@@ -1,5 +1,5 @@
 ---
-status: to create
+status: to publish
 aliases:
   - Borjomi aromati cherry & pomegranate
 externalUrl:
@@ -14,7 +14,7 @@ favorite:
 container:
   - can
 sweeteners:
-cover: "[[default.png]]"
+cover: "[[IMG_5092.jpeg]]"
 availability: 3.5
 summary:
 primaryColors:
@@ -63,5 +63,4 @@ volume:
 Бляшанка від canpack
 
 
-По висновку - ==ВИСНОВОК==
-
+По висновку - просто мінералка боржомі з гламурним запахом та дефолтним смаком. Айтем для тих кому просто мінералка вже нудно, а пити її все одно хочеться/треба. Радити не буду, хто шарить, той шарить, а іншим краще взяти щось типу [[Aquarte relax|гламурного aquarte]] чи [[Buvette Vitamin Water ківі огірок|гламурного бювета]], чи взагалі моршинську хоч [[Моршинська преміум вода негазована|преміум]], хоч звичайну
