@@ -1,5 +1,5 @@
 ---
-status: to create
+status: to publish
 tags:
   - country/poland
   - package/amp
@@ -17,7 +17,7 @@ sweeteners:
   - extract/ginseng root
   - extract/guarana
   - inositol
-cover: "[[default.png]]"
+cover: "[[IMG_5068.jpeg]]"
 availability: 3
 summary:
 volume:
