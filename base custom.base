@@ -6,7 +6,7 @@ views:
     name: Таблиця
     filters:
       and:
-        - publishedAt <= "2026-05-22"
+        - taste.containsAny("watermelon")
     sort:
       - property: publishedAt
         direction: DESC
