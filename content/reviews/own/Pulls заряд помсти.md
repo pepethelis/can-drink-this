@@ -1,14 +1,14 @@
 ---
-status: to publish
+status: published
 tags:
   - package/canpack
-externalUrl:
+externalUrl: https://t.me/kallection/37466
 brand: pulls
 taste:
   - barberry
   - guarana
   - tutti-frutti
-publishedAt:
+publishedAt: 2026-07-18
 favorite:
 container:
   - can

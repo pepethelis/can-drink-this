@@ -1,11 +1,11 @@
 ---
-status: to publish
+status: published
 tags:
-externalUrl:
+externalUrl: https://t.me/kallection/37473
 brand: beer mix
 taste:
   - coconut
-publishedAt:
+publishedAt: 2026-07-18
 favorite:
 container:
   - can
