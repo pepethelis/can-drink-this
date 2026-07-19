@@ -6,7 +6,7 @@ views:
     name: Таблиця
     filters:
       and:
-        - taste.containsAny("watermelon")
+        - types.containsAny("alco")
     sort:
       - property: publishedAt
         direction: DESC
