@@ -7,11 +7,11 @@ taste:
 types:
   - energy
 brand: ns
-publishedAt:
+publishedAt: 2026-07-19
 volume:
   - "0.45"
-status: to publish
-externalUrl:
+status: published
+externalUrl: https://t.me/kallection/37503
 aliases:
   - NS PEACH
 cover: "[[photo_2026-07-18_12-34-36.jpg]]"
@@ -53,5 +53,4 @@ cover: "[[photo_2026-07-18_12-34-36.jpg]]"
 Висновки: мені реально сподобалося,як і всі фруктові НС, що оглядала раніше. Не приторно, майже без смаку "енергетику", фруктово, точно куплю ще раз,якщо побачу
 
 
-——
 Черговий пост від Рисі у рубриці #огляди_від_підписників

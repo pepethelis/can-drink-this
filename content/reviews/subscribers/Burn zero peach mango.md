@@ -2,7 +2,7 @@
 status: published
 aliases:
   - Burn zero персик манго
-externalUrl:
+externalUrl: https://t.me/kallection/37353
 brand: burn/zero
 types:
   - energy
