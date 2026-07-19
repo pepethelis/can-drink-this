@@ -1,13 +1,13 @@
 ---
-status: to publish
+status: published
 tags:
   - country/poland
   - package/canpack
-externalUrl:
+externalUrl: https://t.me/kallection/37510
 brand: monster/ultra
 taste:
   - peach
-publishedAt:
+publishedAt: 2026-07-19
 favorite:
 container:
   - can
