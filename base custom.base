@@ -4,9 +4,6 @@ filters:
 views:
   - type: table
     name: Таблиця
-    filters:
-      and:
-        - types.containsAny("alco")
     sort:
       - property: publishedAt
         direction: DESC
