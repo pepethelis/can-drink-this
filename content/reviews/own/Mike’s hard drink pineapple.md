@@ -1,5 +1,5 @@
 ---
-status: prebuild
+status: to publish
 aliases:
   - Mike’s hard drink pineapple
 externalUrl:
@@ -13,15 +13,27 @@ favorite:
 container:
   - glass
 sweeteners:
+  - barley malt
+  - glucose-fructose syrup
+  - sugar
+  - juice/lemon
 cover: "[[default.png]]"
-availability:
+availability: 3.5
 summary:
 primaryColors:
-manufacturer:
+  - blue
+  - yellow
+manufacturer: ПРАТ "Абінбев Ефес Україна"
 caffeine:
 volume:
   - "0.43"
-alco:
+alco: 4.4
+related:
+  - "[[Garage mandarin|Garage mandarin]]"
+  - "[[Garage hardcore]]"
+  - "[[Garage pineberry&mint]]"
+  - "[[Garage hardcore exotic kiss]]"
+  - "[[Garage hardcore pomegranate fizz]]"
 ---
 **Mike’s hard drink pineapple**. Офіційний смак - ананас
 
@@ -32,7 +44,7 @@ alco:
 Гази на місці доречі, дрібні і гострі
 
 
-==Дизайн==
+Дизайн в принципі нормальний/дефолтний. Я хз що про нього ще сказати, взагалі нуль ідей
 
 Кольорове кодування в лінійці наявне, є ще червоний та жовтий на додачу до цього блакитного
 
@@ -41,7 +53,7 @@ alco:
 
 Колір напою - мутний жовтий 
 
-Об'єм 0,43л
+Об'єм 0,43л (реально навіть не 0,45)
 
 Кофеїну нема
 
@@ -54,7 +66,7 @@ alco:
 Підсолоджувач: солод ячмінний світлий, сироп глюкозно-фруктозний, цукор, лимонний сік
 
 
-Не імпорт, виготовлено в україні конторкою ПРАТ "Абінбев Ефес Україна"
+Не імпорт, виготовлено конторкою ПРАТ "Абінбев Ефес Україна" в Україні, у Чернігові. Лицьова частина повністю англійською, окрім малого тексту знизу. Інформаційна частина - українською
 
 Доступність десь 3,5 бали з 5 можливих
 
