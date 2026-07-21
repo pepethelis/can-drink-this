@@ -40,11 +40,7 @@ views:
       - sponsor
       - volume
       - types
-    sort:
-      - property: volume
-        direction: ASC
-      - property: sponsor
-        direction: ASC
+    sort: []
   - type: table
     name: Wait to enrich
     filters:
