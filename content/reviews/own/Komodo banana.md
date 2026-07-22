@@ -1,13 +1,13 @@
 ---
-status: to publish
+status: published
 tags:
   - country/poland
   - package/amp
-externalUrl:
+externalUrl: https://t.me/kallection/37628
 brand: komodo
 taste:
   - banana
-publishedAt:
+publishedAt: 2026-07-22
 favorite:
 container:
   - can
