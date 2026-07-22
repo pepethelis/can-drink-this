@@ -1,12 +1,12 @@
 ---
-status: to publish
+status: published
 tags:
   - package/bagpak
-externalUrl:
+externalUrl: https://t.me/kallection/37613
 brand: exstase
 taste:
   - peach
-publishedAt:
+publishedAt: 2026-07-22
 favorite:
 container:
   - can

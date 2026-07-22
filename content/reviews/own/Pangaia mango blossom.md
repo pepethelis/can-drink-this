@@ -1,11 +1,11 @@
 ---
-status: to publish
+status: published
 tags:
-externalUrl:
+externalUrl: https://t.me/kallection/37622
 brand: pangaia
 taste:
   - mango
-publishedAt:
+publishedAt: 2026-07-22
 favorite:
 container:
   - can
