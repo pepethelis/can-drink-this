@@ -29,6 +29,7 @@ aliases:
   - Exstase blueberry coconut
 types:
   - energy
+createdAt: 2026-07-19
 ---
 **Exstase blueberry coconut**. Офіційний смак - чорниця та кокос
 
