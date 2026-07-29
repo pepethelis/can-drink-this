@@ -324,22 +324,35 @@ Monster rehab:
 - [[King’s bridge gin&cherry|gin&cherry]]
 - [[King’s bridge gin&basil|gin&basil]]
 
+**Hike vibe:**
+- [[Hike vibe income tax|income tax]]
+- [[Hike vibe mojito|mojito]]
+- lemon drop пробував, але без огляду
+
+**Чернігівське біле fruter:**
+- [[Чернігівське біле fruter кавун|кавун]]
+- [[Чернігівське біле fruter капуоранж|капуоранж]]
+
+**Pangaia:**
+- [[Pangaia bergamot&mint|bergamot&mint]]
+- [[Pangaia mango blossom|mango blossom]]
+
 [[Johan Freitag gin&tonic]]
 [[Sangria Don Garcia]]
-[[Schöfferhofer wild cherry|Schöfferhofer Wild Cherry]]
+[[Schöfferhofer wild cherry|Schöfferhofer wild cherry]]
 [[Schöfferhofer passion fruit]]
 [[Shake red]]
 [[Solveza Mojito|Mezcla De Cerveza Solveza Beer Drink]]
 [[Toosecco, сидр сухий]]
-[[Чернігівське біле fruter кавун]]
 [[Gosser natur radler]]
 [[Senor cartel lemon]]
-[[Hike vibe income tax]]
-[[Hike vibe mojito]]
 [[Bummer]]
 [[Bummer espresso]]
 [[Gardenz cola]]
 [[Happy Joe dry apple cider]]
+[[Чайка чорноморська lemon-lime]]
+[[Somersby guava peach]]
+[[Pinkel cider melon|Pinkel cider melon]]
 
 ---
 
@@ -350,6 +363,11 @@ Monster rehab:
 [[Zibert grapefruit|Zibert 0% grapefruit]]
 
 **Гламурна вода:**
+
+**Borjomi:** 
+- [[Borjomi]], звичайна вода
+- [[Borjomi aromati citrus|aromati citrus]]
+- [[Borjomi aromati cherry&pomegranate|aromati cherry&pomegranate]]
 
 **4move:** 
 - [[4move green vitamins|vitamins]]
@@ -436,6 +454,10 @@ Monster rehab:
 - [[Jaffa ice coffee moccaccino|moccaccino]]
 - [[Jaffa ice coffee coconut latte|coconut latte]]
 
+**Грузинський букет:**
+- [[Грузинський букет тархун]]
+- [[Грузинський букет троянда|Грузинський букет троянда]]
+
 [[Buvette Watermelon Water]]
 [[Моршинська лимонад апельсин та персик]]
 [[Моршинська вода + сік яблука]]
@@ -449,6 +471,6 @@ Monster rehab:
 [[День у день білий персик]]
 [[Яготинський айран з кропом]]
 [[Ever aid bubble tea grapefruit passion fruit mango]]
-[[Грузинський букет тархун]]
+[[Erbe ice tea orange mint|Erbe ice tea orange mint]]
 
 ---
