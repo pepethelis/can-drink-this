@@ -311,9 +311,9 @@ Monster rehab:
 - [[Львівське радлер лимон|лимон-мʼята🟡]]
 
 **Garage:** 
-- [[Garage hardcore|hardcore🔴🟢]]
 - [[Garage mandarin|mandarin🍊]]
 - [[Garage pineberry&mint|pineberry&mint🍓]]
+- [[Garage hardcore|hardcore cherry + starfruit]]
 
 **King's bridge:** 
 - [[King’s bridge gin&tonic|gin&tonic]]
