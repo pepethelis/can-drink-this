@@ -33,6 +33,7 @@ aliases:
 types:
   - alco
   - energy
+createdAt: 2026-07-12
 ---
 **Revo kokos**, блакитне. Офіційний смак - кокос
 

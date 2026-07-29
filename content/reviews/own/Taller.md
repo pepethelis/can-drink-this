@@ -27,6 +27,7 @@ caffeine:
 volume:
   - "0.5"
 alco: 5
+createdAt: 2026-07-09
 ---
 **Taller**, пиво світле. Офіційний смак - "Original Lager" lmao)
 
