@@ -131,8 +131,10 @@ Battery juiced:
 - [[Bronx zero berries|berries]]
 
 **Cheat code:** 
-- [[Cheat code ultra]]
-- [[Cheat code charge]]
+- [[Cheat code ultra|ultra]]
+- [[Cheat code charge|charge]]
+- [[Cheat code exotic|exotic]]
+- [[Cheat code original|original]]
 
 [[Ice wolf classic]]
 [[ДВІЖ]]
@@ -161,21 +163,21 @@ Monster juiced:
 - [[Monster juiced pipeline punch|pipeline punch]]
 - [[Monster juiced rio punch|rio punch]]
 **Monster ultra:** 
-- [[Monster ultra white|white⚪️]]
-- [[Monster ultra black|black⚫️]]
-- [[Monster ultra watermelon|watermelon🔴]]
-- [[Monster ultra fantasy ruby red|ruby red🔴🟣]]
-- [[Monster ultra blue|blue🔵]]
-- [[Monster ultra paradise|paradise🟢]]
-- [[Monster ultra fiesta mango|fiesta mango🔵]]
+- [[Monster ultra white|white]]
+- [[Monster ultra black|black]]
+- [[Monster ultra watermelon|watermelon]]
+- [[Monster ultra fantasy ruby red|ruby red]]
+- [[Monster ultra blue|blue]]
+- [[Monster ultra paradise|paradise]]
+- [[Monster ultra fiesta mango|fiesta mango]]
 - [[Monster ultra peachy keen|peachy keen]]
 - [[Monster ultra vice guava|vice guava]]
 - [[Monster ultra violet|violet]]
 **Monster nitro:** 
-- [[Monster nitro green|dry🟢]]
-- [[Monster nitro cosmic peach|orange peach🟠]]
+- [[Monster nitro green|dry]]
+- [[Monster nitro cosmic peach|orange peach]]
 Monster rehab: 
-- [[Monster rehab tea + lemonade|tea+lemonade🟡]]
+- [[Monster rehab tea + lemonade|tea+lemonade]]
 
 **Redbull:** 
 - [[Redbull classic|original/класичний]]
@@ -204,13 +206,13 @@ Monster rehab:
 - [[Burn orange fire|orange fire🟠]]
 
 **Hell:** 
-- [[Hell classic|classic🔴]]
-- [[Hell peach-lemon|peach-lemon🟡]]
-- [[Hell goji berry|goji berry🔵]]
-- [[Hell black cherry|black cherry🟣]]
-- [[Hell green apple|green apple🟢]]
-- [[Hell strawberry-banana|strawberry-banana🩷]]
-- [[Hell watermelon|watermelon🍉]]
+- [[Hell classic|classic]]
+- [[Hell peach-lemon|peach-lemon]]
+- [[Hell goji berry|goji berry]]
+- [[Hell black cherry|black cherry]]
+- [[Hell green apple|green apple]]
+- [[Hell strawberry-banana|strawberry-banana]]
+- [[Hell watermelon|watermelon]]
 - [[Hell sparkler|sparkler]]
 **Hell plus:** 
 - [[Hell classic plus|Hell classic+]]
@@ -244,8 +246,8 @@ Monster rehab:
 - [[Frugo dragonfruit-chilli|dragonfruit-chilli⚫️]]
 
 **Rockstar:** 
-- [[Rockstar mango|mango🩵]]
-- [[Rockstar berries|blueberry💙]]
+- [[Rockstar mango|mango]]
+- [[Rockstar berries|blueberry]]
 
 **Dark dog:** 
 - [[Dark dog|класичний]]
