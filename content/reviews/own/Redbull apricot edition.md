@@ -1,14 +1,14 @@
 ---
-status: to publish
+status: published
 tags:
   - package/ball
   - country/france
-externalUrl:
+externalUrl: https://t.me/kallection/37770
 brand: redbull/edition
 taste:
   - apricot
   - strawberry
-publishedAt:
+publishedAt: 2026-07-29
 favorite:
 container:
   - can
