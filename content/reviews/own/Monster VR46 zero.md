@@ -29,7 +29,7 @@ aliases:
   - Monster VR46 zero
 types:
   - energy
-createdAt:
+createdAt: 2026-07-18
 ---
 **Monster VR46 zero**. Офіційний смак на банці не вказано, але на сайті - "Light, crisp, refreshing citrus"
 
