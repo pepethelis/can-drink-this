@@ -11,7 +11,7 @@ favorite:
 container:
   - can
 sweeteners:
-cover: "[[default.png]]"
+cover: "[[IMG_5365.jpeg]]"
 availability: 4
 summary:
 primaryColors:

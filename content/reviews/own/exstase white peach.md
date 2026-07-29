@@ -28,6 +28,7 @@ aliases:
   - Exstase white peach
 types:
   - energy
+createdAt: 2026-06-27
 ---
 **Exstase white peach**. Офіційний смак - білий персик
 
