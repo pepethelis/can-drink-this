@@ -81,6 +81,7 @@ Nonstop stalker:
 - [[Nonstop stalker orange|кавун🟠]]
 - [[Nonstop stalker violet|манго-груша🟣]]
 - [[Nonstop stalker green|лайм-м'ята-ожина🟢]]
+- [[Nonstop stalker red|вишня-ром-ананас🔴]]
 Nonstop juice: 
 - [[Nonstop juice series splash|splash]]
 
@@ -151,9 +152,10 @@ Battery juiced:
 - [[Monster black zero|black zero]]
 - [[Monster VR46|The Doctor/VR46]]
 - [[Monster VR46 zero|VR46 zero]]
-- [[Monster assault|Assault]]
+- [[Monster assault|assault]]
 - [[Monster lewis hamilton|Lewis Hamilton/Top Speed]]
-Monster juiced: 
+- [[Monster lando norris|Lando Norris]]
+**Monster juiced:** 
 - [[Monster juiced mango loco|mango loco]]
 - [[Monster juiced pacific punch|pacific punch]]
 - [[Monster juiced aussie style lemonade|aussie style lemonade]]
@@ -197,13 +199,14 @@ Monster rehab:
 - [[Redbull organics viva mate|viva mate]]
 
 **Burn:** 
-- [[Burn red|original🔴]]
-- [[Burn green apple-kiwi|apple-kiwi🟢]]
-- [[Burn mango|mango🔵]]
-- [[Burn dark energy|dark energy🟡]]
-- [[Burn fruit punch|fruit punch🔵]]
-- [[Burn guava|guava🟡]]
-- [[Burn orange fire|orange fire🟠]]
+- [[Burn red|original]]
+- [[Burn green apple-kiwi|apple-kiwi]]
+- [[Burn mango|mango]]
+- [[Burn dark energy|dark energy]]
+- [[Burn fruit punch|fruit punch]]
+- [[Burn guava|guava]]
+- [[Burn orange fire|orange fire]]
+- [[Burn white gummy bear|white gummy bear]]
 
 **Hell:** 
 - [[Hell classic|classic]]
@@ -350,9 +353,11 @@ Monster rehab:
 [[Bummer espresso]]
 [[Gardenz cola]]
 [[Happy Joe dry apple cider]]
+[[Enzo alco energy|Enzo alco energy]]
 [[Чайка чорноморська lemon-lime]]
 [[Somersby guava peach]]
 [[Pinkel cider melon|Pinkel cider melon]]
+[[Mike’s hard drink pineapple|Mike’s hard drink pineapple]]
 
 ---
 
@@ -454,9 +459,17 @@ Monster rehab:
 - [[Jaffa ice coffee moccaccino|moccaccino]]
 - [[Jaffa ice coffee coconut latte|coconut latte]]
 
+**Jaffa ice coffee:**
+- [[Jaffa ice coffee cappuccino|cappuccino]]
+- [[Jaffa ice coffee moccaccino|moccaccino]]
+
 **Грузинський букет:**
 - [[Грузинський букет тархун]]
 - [[Грузинський букет троянда|Грузинський букет троянда]]
+
+**Borjomi limonati:**
+- [[Borjomi limonati pear|pear]]
+- [[Borjomi limonati mandarin|mandarin]]
 
 [[Buvette Watermelon Water]]
 [[Моршинська лимонад апельсин та персик]]
@@ -472,5 +485,6 @@ Monster rehab:
 [[Яготинський айран з кропом]]
 [[Ever aid bubble tea grapefruit passion fruit mango]]
 [[Erbe ice tea orange mint|Erbe ice tea orange mint]]
+[[Молокія йогурт персик+обіпиха]]
 
 ---
