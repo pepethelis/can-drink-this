@@ -1,14 +1,14 @@
 ---
-status: to publish
+status: published
 aliases:
   - Garage hardcore pomegranate fizz
-externalUrl:
+externalUrl: https://t.me/kallection/37779
 brand: garage/hardcore
 types:
   - alco
 taste:
   - pomegranate
-publishedAt:
+publishedAt: 2026-07-29
 favorite:
 container:
   - glass
