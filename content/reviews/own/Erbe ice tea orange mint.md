@@ -28,6 +28,7 @@ caffeine:
 volume:
   - "0.33"
 alco:
+createdAt: 2026-07-21
 ---
 **Erbe ice tea orange mint**. Офіційний смак - "фруктовий чай апельсин-м'ята"
 
