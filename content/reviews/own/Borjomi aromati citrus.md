@@ -26,6 +26,7 @@ manufacturer: IDS Borjomi Beverages Co. N.V.
 caffeine:
 volume:
   - "0.33"
+createdAt: 2026-07-16
 ---
 **Borjomi aromati citrus & ginger root**. Офіційний смак - цитрус і корень женьшеня
 

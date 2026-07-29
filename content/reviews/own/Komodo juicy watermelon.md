@@ -34,6 +34,7 @@ aliases:
   - Komodo juicy watermelon
 types:
   - energy
+createdAt: 2026-07-16
 ---
 **Komodo juicy watermelon**. Офіційний смак - кавун
 
