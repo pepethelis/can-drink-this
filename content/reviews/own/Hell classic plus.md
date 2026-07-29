@@ -51,5 +51,5 @@ types:
 По висновку - добрий класичний енергос, не без тутті фрутті, але жити загалом можна, аби тільки коштував не дорожче монстра в перерахунку на літр. Не абсолютна імба, але, час від часу сьорбнути можна
 Особливо якщо жирного орбана ВИЇБУТЬ на майбутніх виборах
 
-Пов'язані огляди: [[Hell classic]], [[Hell focus+]], [[Hell multi+]], [[Hell sparkler]], [[Hell Spritz Lime]], [[Hell Spritz Maracuja]], [[Hell Summer Groovy Grapefruit]], [[Hell Summer Chillin’ Guanabana]]
+Пов'язані огляди: [[Hell classic]], [[Hell focus plus]], [[Hell multi plus]], [[Hell sparkler]], [[Hell Spritz Lime]], [[Hell Spritz Maracuja]], [[Hell Summer Groovy Grapefruit]], [[Hell Summer Chillin’ Guanabana]]
 #огляди

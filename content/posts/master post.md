@@ -459,9 +459,9 @@ Monster rehab:
 - [[Jaffa ice coffee moccaccino|moccaccino]]
 - [[Jaffa ice coffee coconut latte|coconut latte]]
 
-**Jaffa ice coffee:**
-- [[Jaffa ice coffee cappuccino|cappuccino]]
-- [[Jaffa ice coffee moccaccino|moccaccino]]
+**Моршинська чай:**
+- [[Моршинська чай чорний - лимон-лемонграс|чорний - лимон-лемонграс]]
+- [[Моршинська чай зелений - виноград-м'ята|зелений - виноград-м'ята]]
 
 **Грузинський букет:**
 - [[Грузинський букет тархун]]
@@ -484,6 +484,7 @@ Monster rehab:
 [[День у день білий персик]]
 [[Яготинський айран з кропом]]
 [[Ever aid bubble tea grapefruit passion fruit mango]]
+[[Spraga комбуча дюшес|Spraga комбуча дюшес]]
 [[Erbe ice tea orange mint|Erbe ice tea orange mint]]
 [[Молокія йогурт персик+обіпиха]]
 
