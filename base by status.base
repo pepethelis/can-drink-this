@@ -12,9 +12,9 @@ views:
     order:
       - file.name
       - summary
-      - file.mtime
       - cover
       - types
+      - createdAt
     sort:
       - property: file.mtime
         direction: ASC

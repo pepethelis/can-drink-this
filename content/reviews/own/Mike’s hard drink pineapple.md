@@ -34,6 +34,7 @@ related:
   - "[[Garage pineberry&mint]]"
   - "[[Garage hardcore exotic kiss]]"
   - "[[Garage hardcore pomegranate fizz]]"
+createdAt: 2026-07-21
 ---
 **Mike’s hard drink pineapple**. Офіційний смак - ананас
 
