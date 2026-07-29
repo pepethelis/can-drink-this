@@ -143,14 +143,13 @@ Battery juiced:
 
 **Monster:** 
 - [[Monster black|black]]
-- [[Monster black mega 0,553|black mega (🇫🇷)]]
-- [[Monster black zero|black zero(🇺🇦)]]
-- [[Monster black zero (de)|black zero (🇩🇪)]]
+- [[Monster black mega 0,553|black mega 0.533л]]
+- [[Monster black zero|black zero]]
+- [[Monster black zero|black zero]]
 - [[Monster VR46|The Doctor/VR46]]
 - [[Monster VR46 zero|VR46 zero]]
 - [[Monster assault|Assault]]
-- [[Monster lewis hamilton|Lewis Hamilton/]]
-- [[Monster top speed|top speed]]
+- [[Monster lewis hamilton|Lewis Hamilton/Top Speed]]
 Monster juiced: 
 - [[Monster juiced mango loco|mango loco]]
 - [[Monster juiced pacific punch|pacific punch]]
@@ -178,15 +177,14 @@ Monster rehab:
 - [[Monster rehab tea + lemonade|tea+lemonade🟡]]
 
 **Redbull:** 
-- [[Redbull classic|original (🇺🇦)]]
+- [[Redbull classic|original/класичний]]
 **Redbull edition:** 
-- [[Redbull red edition|red edition (🇩🇪)]]
-- [[Redbull yellow edition|yellow edition (🇺🇦)]]
-- [[Redbull green edition|green edition (🇩🇪)]]
-- [[Redbull white edition|white edition (🇫🇷)]]
-- [[Redbull winter edition (fr)|winter edition (🇫🇷)]]
-- [[Redbull winter edition|winter edition (🇩🇪)]]
-- [[Redbull apricot edition|apricot edition (🇫🇷)]]
+- [[Redbull red edition|red edition]]
+- [[Redbull yellow edition|yellow edition]]
+- [[Redbull green edition|green edition]]
+- [[Redbull white edition|white edition]]
+- [[Redbull winter edition|winter edition]]
+- [[Redbull apricot edition|apricot edition]]
 - [[Redbull lilac edition zero|lilac edition zero]]
 - [[Redbull purple edition zero|purple edition zero]]
 **Redbull organics:** 
@@ -214,9 +212,9 @@ Monster rehab:
 - [[Hell watermelon|watermelon🍉]]
 - [[Hell sparkler|sparkler]]
 **Hell plus:** 
-- [[Hell classic+|classic+]]
-- [[Hell focus+|focus+]]
-- [[Hell multi+|multi+]]
+- [[Hell classic plus|Hell classic+]]
+- [[Hell focus plus|focus+]]
+- [[Hell multi plus|multi+]]
 **Hell ice coffee:** 
 - [[Hell ice coffee latte|latte]]
 - [[Hell ice coffee strawberry latte|pink latte]]
@@ -408,7 +406,7 @@ Monster rehab:
 - [[Cola coffee caramel|coffee caramel]]
 
 **Пепсі:**
-- [[admin/Огля дати/db/Pepsi крем-сода|крем-сода]]
+- [[Pepsi крем-сода|крем-сода]]
 
 **Доктор пеппер:**
 - [[Dr pepper default|дефолтний]] 
