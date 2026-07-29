@@ -273,6 +273,15 @@ Monster rehab:
 - [[Exstase white peach|white peach]]
 - [[Exstase blueberry coconut|blueberry coconut]]
 
+**Komodo:**
+- [[Komodo classic|Komodo classic]]
+- [[Komodo banana|Komodo banana]]
+- [[Komodo frozen mojito|Komodo frozen mojito]]
+- [[Komodo wild strawberry|Komodo wild strawberry]]
+- [[Komodo juicy watermelon|Komodo juicy watermelon]]
+- [[Komodo cactus|Komodo cactus]]
+- [[Komodo cannabis limited|Komodo cannabis limited]]
+
 **B52:** 
 - [[B52 red|звичайний червоний]]
 - [[B52 blue|блакитний без цукру]]
@@ -314,8 +323,8 @@ Monster rehab:
 - [[Львівське радлер лимон|лимон-мʼята🟡]]
 
 **Garage:** 
-- [[Garage mandarin|mandarin🍊]]
-- [[Garage pineberry&mint|pineberry&mint🍓]]
+- [[Garage mandarin|mandarin]]
+- [[Garage pineberry&mint|pineberry&mint]]
 - [[Garage hardcore|hardcore cherry + hardcore starfruit]]
 - [[Garage hardcore exotic kiss|hardcore exotic kiss]]
 - [[Garage hardcore pomegranate fizz|hardcore pomegranate fizz]]
