@@ -32,6 +32,7 @@ types:
   - energy
 related:
   - "[[Effect strawberry apricot|Effect strawberry apricot]]"
+createdAt: 2026-07-04
 ---
 **Redbull apricot edition**. Офіційний смак - абрикос-полуниця
 

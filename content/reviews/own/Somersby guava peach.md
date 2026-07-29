@@ -33,6 +33,7 @@ related:
   - "[[Pinkel cider melon|Pinkel cider melon]]"
   - "[[Toosecco, сидр сухий|Toosecco, сидр сухий]]"
   - "[[Happy Joe dry apple cider|Happy Joe dry apple cider]]"
+createdAt: 2026-07-03
 ---
 **Somersby**. Офіційний смак - персик-гуава
 

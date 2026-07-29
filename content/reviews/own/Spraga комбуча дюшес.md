@@ -25,6 +25,7 @@ manufacturer: ТОВ "Спрага дистриб'юшн"
 caffeine:
 volume:
   - "0.33"
+createdAt: 2026-07-08
 ---
 **Spraga комбуча**. Офіційний смак - дюшес
 

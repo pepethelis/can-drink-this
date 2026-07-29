@@ -25,6 +25,7 @@ caffeine:
 volume:
   - "0.44"
 alco: 8
+createdAt: 2026-07-08
 ---
 **Garage hardcore pomegranate fizz**. Офіційний смак - гранатовий
 
