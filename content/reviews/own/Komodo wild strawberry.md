@@ -14,7 +14,7 @@ container:
 sweeteners:
   - sugar
   - inositol
-cover: "[[default.png]]"
+cover: "[[IMG_5900.jpeg]]"
 availability: 3
 summary:
 volume:
