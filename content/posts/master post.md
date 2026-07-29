@@ -313,7 +313,9 @@ Monster rehab:
 **Garage:** 
 - [[Garage mandarin|mandarin🍊]]
 - [[Garage pineberry&mint|pineberry&mint🍓]]
-- [[Garage hardcore|hardcore cherry + starfruit]]
+- [[Garage hardcore|hardcore cherry + hardcore starfruit]]
+- [[Garage hardcore exotic kiss|hardcore exotic kiss]]
+- [[Garage hardcore pomegranate fizz|hardcore pomegranate fizz]]
 
 **King's bridge:** 
 - [[King’s bridge gin&tonic|gin&tonic]]
@@ -364,7 +366,6 @@ Monster rehab:
 - [[Buvette Vitamin Water ківі огірок]]
 - [[Buvette Vitamin Water грейпфрут розмарин]]
 **Buvette Healthy Tea:** 
-- [[Buvette Healthy Tea лемонграс]]
 - [[Buvette Healthy Tea каркаде журавлина мʼята]]
 - [[Buvette Healthy Tea абрикос тангерин]]
 - [[Buvette Healthy Tea троянда лимон імбир]]
