@@ -33,6 +33,7 @@ related:
   - "[[Revo energy cherry|Revo energy cherry]]"
   - "[[Revo energy grape]]"
 telegram_format: html
+createdAt: 2026-07-02
 ---
 **Bronx zero berries**. Офіційний смак - ягоди. Так, просто ягоди
 
