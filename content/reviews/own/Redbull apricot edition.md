@@ -30,6 +30,8 @@ aliases:
   - Redbull apricot edition
 types:
   - energy
+related:
+  - "[[Effect strawberry apricot|Effect strawberry apricot]]"
 ---
 **Redbull apricot edition**. Офіційний смак - абрикос-полуниця
 
