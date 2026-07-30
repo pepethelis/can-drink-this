@@ -1,10 +1,11 @@
 ---
 status: prebuild
 aliases:
-  - "Buvette Healthy Tea лемонграс"
+  - Buvette Healthy Tea лемонграс
 externalUrl:
 brand:
 types:
+  - tea
 taste:
 publishedAt:
 favorite:
