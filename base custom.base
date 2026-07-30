@@ -4,6 +4,9 @@ filters:
 views:
   - type: table
     name: Таблиця
+    order:
+      - file.name
+      - createdAt
     sort:
-      - property: publishedAt
+      - property: file.mtime
         direction: DESC

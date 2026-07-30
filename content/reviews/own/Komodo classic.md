@@ -28,6 +28,7 @@ aliases:
   - Komodo classic
 types:
   - energy
+createdAt: 2026-05-26
 ---
 **Komodo classic**. Офіційний смак - класичний
 

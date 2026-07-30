@@ -32,6 +32,7 @@ aliases:
   - Monster ultra peachy keen
 types:
   - energy
+createdAt: 2026-05-30
 ---
 **Monster ultra peachy keen**. Офіційний смак - персиковий, а згідно з сайтом - Refreshing Peach
 

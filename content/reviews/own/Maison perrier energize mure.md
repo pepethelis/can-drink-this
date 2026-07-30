@@ -31,6 +31,7 @@ types:
   - energy
 publication: 2026-06-30
 telegram_format: html
+createdAt: 2026-06-06
 ---
 **Maison perrier energize mure**. Офіційний смак - mure/чорниця
 

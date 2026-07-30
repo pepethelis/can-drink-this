@@ -30,6 +30,7 @@ aliases:
   - Maison perrier energize citron & citron vert
 types:
   - energy
+createdAt: 2026-05-21
 ---
 **Maison perrier energize citron & citron vert**. Офіційний смак - лимон та лайм
 
