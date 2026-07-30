@@ -155,7 +155,7 @@ Battery juiced:
 - [[Monster assault|assault]]
 - [[Monster lewis hamilton|Lewis Hamilton/Top Speed]]
 - [[Monster lando norris|Lando Norris]]
-**Monster juiced:** 
+Monster juiced: 
 - [[Monster juiced mango loco|mango loco]]
 - [[Monster juiced pacific punch|pacific punch]]
 - [[Monster juiced aussie style lemonade|aussie style lemonade]]
@@ -164,7 +164,7 @@ Battery juiced:
 - [[Monster juiced khaotic|khaotic]]
 - [[Monster juiced pipeline punch|pipeline punch]]
 - [[Monster juiced rio punch|rio punch]]
-**Monster ultra:** 
+Monster ultra: 
 - [[Monster ultra white|white]]
 - [[Monster ultra black|black]]
 - [[Monster ultra watermelon|watermelon]]
@@ -175,7 +175,7 @@ Battery juiced:
 - [[Monster ultra peachy keen|peachy keen]]
 - [[Monster ultra vice guava|vice guava]]
 - [[Monster ultra violet|violet]]
-**Monster nitro:** 
+Monster nitro: 
 - [[Monster nitro green|dry]]
 - [[Monster nitro cosmic peach|orange peach]]
 Monster rehab: 
@@ -183,16 +183,16 @@ Monster rehab:
 
 **Redbull:** 
 - [[Redbull classic|original/класичний]]
-**Redbull edition:** 
+Redbull edition: 
 - [[Redbull red edition|red edition]]
 - [[Redbull yellow edition|yellow edition]]
 - [[Redbull green edition|green edition]]
+- [[Redbull apricot edition|apricot edition]]
 - [[Redbull white edition|white edition]]
 - [[Redbull winter edition|winter edition]]
-- [[Redbull apricot edition|apricot edition]]
 - [[Redbull lilac edition zero|lilac edition zero]]
 - [[Redbull purple edition zero|purple edition zero]]
-**Redbull organics:** 
+Redbull organics: 
 - [[Redbull organics simply cola|simply cola]]
 - [[Redbull organics black orange|black orange]]
 - [[Redbull organics easy lemon|easy lemon]]
@@ -217,19 +217,19 @@ Monster rehab:
 - [[Hell strawberry-banana|strawberry-banana]]
 - [[Hell watermelon|watermelon]]
 - [[Hell sparkler|sparkler]]
-**Hell plus:** 
+Hell plus: 
 - [[Hell classic plus|Hell classic+]]
 - [[Hell focus plus|focus+]]
 - [[Hell multi plus|multi+]]
-**Hell ice coffee:** 
-- [[Hell ice coffee latte|latte]]
-- [[Hell ice coffee strawberry latte|pink latte]]
-**Hell summer:** 
+Hell summer: 
 - [[Hell Summer Groovy Grapefruit|groovy grapefruit]]
 - [[Hell Summer Chillin’ Guanabana|chillin' guanabana-mango]]
-**Hell spritz:** 
+Hell spritz: 
 - [[Hell Spritz Maracuja|maracuja]]
 - [[Hell Spritz Lime|lime]]
+Hell ice coffee: 
+- [[Hell ice coffee latte|latte]]
+- [[Hell ice coffee strawberry latte|pink latte]]
 
 **Effect:** 
 - [[Effect original|original⚪️🔴]]
@@ -286,17 +286,17 @@ Monster rehab:
 - [[B52 red|звичайний червоний]]
 - [[B52 blue|блакитний без цукру]]
 
-[[28 black sour mango kiwi]]
-[[Booster energy drink absolute zero]]
-[[Booster cola|Real cola by booster]]
-[[Dr pepper energy|Dr pepper energy]]
-[[Energy drink mit Hanf-Kräuter Extrakt]]
-[[Jacobs ice presso latte]]
-[[Arizona energy mucho mango]]
-[[Celsius live fit cosmic vibe]]
-[[Crazy tiger]]
-[[Tiger energy]]
-[[X2 Ice Boost Energy]]
+- [[28 black sour mango kiwi]]
+- [[Booster energy drink absolute zero]]
+- [[Booster cola|Real cola by booster]]
+- [[Dr pepper energy|Dr pepper energy]]
+- [[Energy drink mit Hanf-Kräuter Extrakt]]
+- [[Jacobs ice presso latte]]
+- [[Arizona energy mucho mango]]
+- [[Celsius live fit cosmic vibe]]
+- [[Crazy tiger]]
+- [[Tiger energy]]
+- [[X2 Ice Boost Energy]]
 
 --- 
 
@@ -314,8 +314,11 @@ Monster rehab:
 - [[Bronx orange|помаранчевий]]
 - [[Bronx green|зелений]]
 
-[[Revo next blue|Who is next alco-enery pink fire]]
-[[Revo next yellow|Who is next alco-enery purple fire]]
+- [[Revo next blue|Who is next alco-enery pink fire]]
+- [[Revo next yellow|Who is next alco-enery purple fire]]
+- [[Bummer]]
+- [[Bummer espresso]]
+- [[Enzo alco energy|Enzo alco energy]]
 
 **Алкогольні напої:**
 
@@ -350,33 +353,30 @@ Monster rehab:
 - [[Pangaia bergamot&mint|bergamot&mint]]
 - [[Pangaia mango blossom|mango blossom]]
 
-[[Johan Freitag gin&tonic]]
-[[Sangria Don Garcia]]
-[[Schöfferhofer wild cherry|Schöfferhofer wild cherry]]
-[[Schöfferhofer passion fruit]]
-[[Shake red]]
-[[Solveza Mojito|Mezcla De Cerveza Solveza Beer Drink]]
-[[Toosecco, сидр сухий]]
-[[Gosser natur radler]]
-[[Senor cartel lemon]]
-[[Bummer]]
-[[Bummer espresso]]
-[[Gardenz cola]]
-[[Happy Joe dry apple cider]]
-[[Enzo alco energy|Enzo alco energy]]
-[[Beer mix coconut]]
-[[Чайка чорноморська lemon-lime]]
-[[Somersby guava peach]]
-[[Pinkel cider melon|Pinkel cider melon]]
-[[Mike’s hard drink pineapple|Mike’s hard drink pineapple]]
+- [[Johan Freitag gin&tonic]]
+- [[Sangria Don Garcia]]
+- [[Schöfferhofer wild cherry|Schöfferhofer wild cherry]]
+- [[Schöfferhofer passion fruit]]
+- [[Shake red]]
+- [[Solveza Mojito|Mezcla De Cerveza Solveza Beer Drink]]
+- [[Toosecco, сидр сухий]]
+- [[Gosser natur radler]]
+- [[Senor cartel lemon]]
+- [[Gardenz cola]]
+- [[Happy Joe dry apple cider]]
+- [[Beer mix coconut]]
+- [[Чайка чорноморська lemon-lime]]
+- [[Somersby guava peach]]
+- [[Pinkel cider melon|Pinkel cider melon]]
+- [[Mike’s hard drink pineapple|Mike’s hard drink pineapple]]
 
 ---
 
 **Безалкогольні радлери:**
 
-[[Lomza radler watermelon|LOMZA Radler 0% кавун]]
-[[Lomza radler cherry|LOMZA Radler 0% вишня]]
-[[Zibert grapefruit|Zibert 0% grapefruit]]
+- [[Lomza radler watermelon|LOMZA Radler 0% кавун]]
+- [[Lomza radler cherry|LOMZA Radler 0% вишня]]
+- [[Zibert grapefruit|Zibert 0% grapefruit]]
 
 **Гламурна вода:**
 
@@ -404,9 +404,9 @@ Monster rehab:
 - [[Buvette Healthy Tea абрикос тангерин]]
 - [[Buvette Healthy Tea троянда лимон імбир]]
 
-[[Buvette ice coffee апельсин]]
-[[Моршинська преміум вода негазована|Моршинська преміум вода негазована💅]]
-[[Своя лінія «поляна купель»]]
+- [[Buvette ice coffee апельсин]]
+- [[Моршинська преміум вода негазована|Моршинська преміум вода негазована💅]]
+- [[Своя лінія «поляна купель»]]
 
 **Інші напої:**
 
@@ -482,21 +482,21 @@ Monster rehab:
 - [[Borjomi limonati pear|pear]]
 - [[Borjomi limonati mandarin|mandarin]]
 
-[[Buvette Watermelon Water]]
-[[Моршинська лимонад апельсин та персик]]
-[[Моршинська вода + сік яблука]]
-[[Квас тарас flower power]]
-[[Садочок яблуко-виноград]]
-[[Fanta Shokata Zero Sugar]]
-[[Moloko soft drink]]
-[[Moloko mango+kalamansi]]
-[[FRATELLI Naturali Limonata Frizzante]]
-[[Розумний вибір Тархун]]
-[[День у день білий персик]]
-[[Яготинський айран з кропом]]
-[[Ever aid bubble tea grapefruit passion fruit mango]]
-[[Spraga комбуча дюшес|Spraga комбуча дюшес]]
-[[Erbe ice tea orange mint|Erbe ice tea orange mint]]
-[[Молокія йогурт персик+обіпиха]]
+- [[Buvette Watermelon Water]]
+- [[Моршинська лимонад апельсин та персик]]
+- [[Моршинська вода + сік яблука]]
+- [[Квас тарас flower power]]
+- [[Садочок яблуко-виноград]]
+- [[Fanta Shokata Zero Sugar]]
+- [[Moloko soft drink]]
+- [[Moloko mango+kalamansi]]
+- [[FRATELLI Naturali Limonata Frizzante]]
+- [[Розумний вибір Тархун]]
+- [[День у день білий персик]]
+- [[Яготинський айран з кропом]]
+- [[Ever aid bubble tea grapefruit passion fruit mango]]
+- [[Spraga комбуча дюшес|Spraga комбуча дюшес]]
+- [[Erbe ice tea orange mint|Erbe ice tea orange mint]]
+- [[Молокія йогурт персик+обіпиха]]
 
 ---
