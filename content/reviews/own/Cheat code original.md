@@ -3,12 +3,14 @@ status: prebuild
 aliases:
   - Cheat code original
 externalUrl:
-brand:
+brand: cheat code
 types:
+  - energy
 taste:
 publishedAt:
 favorite:
 container:
+  - can
 sweeteners:
 cover: "[[default.png]]"
 availability:
