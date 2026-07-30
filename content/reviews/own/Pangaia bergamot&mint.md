@@ -32,6 +32,7 @@ related:
   - "[[Pangaia mango blossom|Pangaia mango blossom]]"
   - "[[Чернігівське біле fruter кавун|Чернігівське біле fruter кавун]]"
   - "[[Чернігівське біле fruter капуоранж|Чернігівське біле fruter капуоранж]]"
+createdAt: 2026-06-19
 ---
 **Pangaia bergamot&mint**. Офіційний смак - бергамот-мʼята
 

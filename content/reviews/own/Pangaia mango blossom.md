@@ -27,6 +27,7 @@ aliases:
   - Pangaia mango blossom
 types:
   - alco
+createdAt: 2026-06-25
 ---
 **Pangaia mango blossom**. Офіційний смак - манго
 

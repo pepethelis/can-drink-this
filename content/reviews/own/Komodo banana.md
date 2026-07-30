@@ -30,6 +30,7 @@ aliases:
   - Komodo banana
 types:
   - energy
+createdAt: 2026-06-27
 ---
 **Komodo banana**. Офіційний смак - банан
 

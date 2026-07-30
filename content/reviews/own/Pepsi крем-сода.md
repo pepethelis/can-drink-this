@@ -36,6 +36,7 @@ related:
   - "[[Cola zero 0.15]]"
   - "[[Dr pepper default]]"
   - "[[Dr pepper cherry]]"
+createdAt: 2026-06-13
 ---
 **Pepsi крем-сода**. Офіційний смак - власне крем-сода
 

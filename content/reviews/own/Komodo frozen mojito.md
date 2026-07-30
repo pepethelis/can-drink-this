@@ -33,6 +33,7 @@ aliases:
   - Komodo frozen mojito
 types:
   - energy
+createdAt: 2026-06-12
 ---
 **Komodo frozen mojito**. Офіційний смак - мохіто
 

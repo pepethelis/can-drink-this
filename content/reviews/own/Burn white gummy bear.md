@@ -27,6 +27,7 @@ aliases:
   - Burn white gummy bear
 types:
   - energy
+createdAt: 2026-06-17
 ---
 **Burn white gummy bear**. Офіційний смак - білий желейний ведмедик
 
