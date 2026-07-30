@@ -1,14 +1,16 @@
 ---
 status: prebuild
 aliases:
-  - "Buvette Healthy Tea манго-обліпиха"
+  - Buvette Healthy Tea манго-обліпиха
 externalUrl:
 brand:
 types:
+  - tea
 taste:
 publishedAt:
 favorite:
 container:
+  - plastic
 sweeteners:
 cover: "[[default.png]]"
 availability:
