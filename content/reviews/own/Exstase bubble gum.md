@@ -16,6 +16,7 @@ cover: "[[default.png]]"
 availability: 2
 summary:
 related:
+  - "[[Candy Can bubble gum]]"
 sponsor:
   - gdgood
 volume:
@@ -29,8 +30,6 @@ aliases:
   - Exstase bubble gum
 types:
   - energy
-related:
-  - "[[Candy Can bubble gum]]"
 ---
 **Exstase bubble gum**. Офіційний смак - бубблегум
 
