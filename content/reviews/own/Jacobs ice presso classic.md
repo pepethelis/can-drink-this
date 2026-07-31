@@ -7,6 +7,7 @@ brand: jacobs
 types:
   - coffee
 taste:
+  - coffee
 publishedAt:
 favorite:
 container:
