@@ -1,8 +1,8 @@
 ---
-status: to publish
+status: published
 tags:
   - package/canpack
-externalUrl: https://t.me/kallection/23622
+externalUrl: https://t.me/kallection/37826
 aliases:
   - Monster lewis hamilton
   - Monster full throttle
@@ -13,7 +13,7 @@ taste:
   - nectarine
 container:
   - can
-publishedAt: 2024-10-24
+publishedAt: 2026-08-01
 cover: "[[IMG_9830.jpg]]"
 sweeteners:
   - sugar
