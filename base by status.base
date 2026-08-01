@@ -16,7 +16,7 @@ views:
       - types
       - createdAt
     sort:
-      - property: file.mtime
+      - property: createdAt
         direction: ASC
     columnSize:
       note.summary: 90

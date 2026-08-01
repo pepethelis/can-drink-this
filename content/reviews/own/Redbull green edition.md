@@ -27,6 +27,7 @@ aliases:
   - Redbull green edition
 types:
   - energy
+createdAt: 2026-08-01
 ---
 **Redbull green edition**, тобто зелений редбул. Офіційний смак - kaktusfrucht/owoc kaktusa, а саме опунція(prickly pear) чи фрукт дракона(пітахая). Є думки, що мова саме про опунцію
 

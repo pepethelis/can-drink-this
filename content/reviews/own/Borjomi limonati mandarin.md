@@ -30,6 +30,7 @@ aliases:
   - Borjomi limonati mandarin
 types:
   - fizzy
+createdAt: 2026-07-31
 ---
 **Borjomi limonati mandarin**. Офіційний смак - мандарин
 
