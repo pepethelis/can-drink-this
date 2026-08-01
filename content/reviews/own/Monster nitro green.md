@@ -33,7 +33,7 @@ aliases:
   - Monster nitro dry
 types:
   - energy
-createdAt: 2026-07-13
+createdAt: 2026-06-13
 ---
 **Monster nitro green**, банка, огляд на яку я мав замутити ще давно, але деякий гівнюк випив в соло і натомість підігнав мені рева. Офіційний смак - хуй зна, написано super dry. На сайті - "Refreshing Citrus"
 
