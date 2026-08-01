@@ -1,15 +1,15 @@
 ---
-status: to publish
+status: published
 aliases:
   - Pinkel cider melon
-externalUrl:
+externalUrl: https://t.me/kallection/37834
 brand: pinkel
 types:
   - alco
   - cider
 taste:
   - melon
-publishedAt:
+publishedAt: 2026-08-01
 favorite:
 container:
   - can
