@@ -1,14 +1,13 @@
 ---
 status: prebuild
 aliases:
-  - Hell carnival cactus twist
+  - Hell carnival cotton candy
 externalUrl:
 brand: hell/carnival
 types:
   - energy
 taste:
-  - strawberry
-  - lemon
+  - cotton candy
 publishedAt:
 favorite:
 container:
@@ -19,7 +18,7 @@ cover: "[[default.png]]"
 availability: 3.5
 summary:
 primaryColors:
-  - green
+  - pink
   - creme
 manufacturer: hell energy
 caffeine: 32
@@ -30,7 +29,7 @@ related:
   - "[[Komodo cactus|Komodo cactus]]"
   - "[[Redbull green edition|Redbull green edition]]"
 ---
-**Hell carnival cactus twist**. Офіційний смак - полуниця і лимон (наєбали виходить)
+**Hell carnival cotton candy**. Офіційний смак - цукрова вата
 
 ==ОПИС ЗАПАХУ ЗАПАХУ==
 
@@ -39,7 +38,7 @@ related:
 
 ==Дизайн==
 
-Кольорове кодування в лінійці наявне - окрім цього типу зеленого смаку є ще [[Hell carnival cotton candy|типу рожевий]]. Спільні риси є, відмінність від інших лінійок є, банки - відрізняються між собою, тому кольорове кодування зараховуємо
+Кольорове кодування в лінійці наявне - окрім цього типу рожевого смаку є ще [[Hell carnival cactus twist|типу зелений]]. Спільні риси є, відмінність від інших лінійок є, банки - відрізняються між собою, тому кольорове кодування зараховуємо
 
 Ключик та верхівка дефолтні, з типовим для хелла широким ключиком
 
@@ -50,7 +49,7 @@ related:
 
 Кофеїну 32мг/100мл
 
-180кДж або ж 42ккал /100мл
+195кДж або ж 42ккал /100мл
 
 Вуглеводів 10г, серед них цукрів 10г /100мл
 

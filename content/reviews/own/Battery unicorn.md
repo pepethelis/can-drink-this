@@ -6,7 +6,6 @@ externalUrl: https://t.me/kallection/26142
 brand: battery
 taste:
   - cotton candy
-  - ORIGINAL
 favorite: true
 container:
   - can
@@ -31,6 +30,7 @@ types:
   - energy
 related:
   - "[[Burn white gummy bear|Burn white gummy bear]]"
+  - "[[Hell carnival cotton candy|Hell carnival cotton candy]]"
 ---
 **Battery unicorn**, він же батарейка/плюсик синій
 
