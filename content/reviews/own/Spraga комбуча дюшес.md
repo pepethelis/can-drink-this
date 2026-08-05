@@ -1,14 +1,14 @@
 ---
-status: to publish
+status: published
 aliases:
   - Spraga комбуча дюшес
-externalUrl:
+externalUrl: https://t.me/kallection/37908
 brand: spraga
 types:
   - kombucha
 taste:
   - pear
-publishedAt:
+publishedAt: 2026-08-05
 favorite:
 container:
   - can
