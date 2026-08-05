@@ -1,15 +1,15 @@
 ---
-status: to publish
+status: published
 aliases:
   - Taller
-externalUrl:
+externalUrl: https://t.me/kallection/37896
 brand: taller
 types:
   - alco
   - beer
 taste:
   - ORIGINAL
-publishedAt:
+publishedAt: 2026-08-05
 favorite:
 container:
   - can

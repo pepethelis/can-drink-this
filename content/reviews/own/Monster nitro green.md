@@ -1,15 +1,15 @@
 ---
-status: to publish
+status: published
 tags:
   - package/ag
   - country/poland
-externalUrl: https://t.me/kallection/28695
+externalUrl: https://t.me/kallection/37892
 brand: monster/nitro
 taste:
   - citrus
 container:
   - can
-publishedAt: 2025-05-24
+publishedAt: 2026-08-05
 cover: "[[IMG_6710.jpg]]"
 sweeteners:
   - sugar
