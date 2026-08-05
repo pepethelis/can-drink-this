@@ -27,6 +27,8 @@ manufacturer: оболонь
 aliases:
   - Bronx zero pink
   - Бронкс зіро рожевий
+  - Bronx zero pomegranate
+  - Бронкс зіро гранатовий
 types:
   - energy
 ---
