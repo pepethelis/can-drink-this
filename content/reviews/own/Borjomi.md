@@ -1,12 +1,12 @@
 ---
-status: to publish
-externalUrl:
+status: published
+externalUrl: https://t.me/kallection/37901
 brand: borjomi
 types:
   - water
 taste:
   - clear
-publishedAt:
+publishedAt: 2026-08-05
 favorite:
 container:
   - can
