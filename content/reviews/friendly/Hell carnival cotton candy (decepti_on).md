@@ -16,5 +16,7 @@ related:
 aliases:
   - Hell carnival cotton candy
 summary: Огляд на хелл солодка вата 😄
+contentTgPosts:
+  - https://t.me/sonechkin_rzekich/34088
 ---
 Огляд на хелл солодка вата 😄
