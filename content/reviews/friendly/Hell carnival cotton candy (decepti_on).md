@@ -1,0 +1,18 @@
+---
+author: decepti_on
+container:
+  - can
+taste:
+  - cotton candy
+types:
+  - energy
+brand: hell/carnival
+publishedAt: 2026-08-06
+volume:
+  - "0.25"
+status: published
+related:
+  - "[[Hell carnival cotton candy]]"
+aliases:
+  - Hell carnival cotton candy
+---

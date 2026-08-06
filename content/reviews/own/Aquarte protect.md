@@ -1,5 +1,5 @@
 ---
-status: to create
+status: to publish
 aliases:
   - Aquarte protect
 externalUrl:
@@ -16,7 +16,7 @@ container:
 sweeteners:
   - fructose
   - extract/acerola
-cover: "[[default.png]]"
+cover: "[[IMG_6137.jpeg]]"
 availability: 3.5
 summary:
 primaryColors:
@@ -27,6 +27,7 @@ caffeine:
 volume:
   - "0.5"
 alco:
+createdAt: 2026-08-06
 ---
 **Aquarte protect**. Офіційний смак - ацерола та апельсин
 
@@ -64,4 +65,4 @@ alco:
 Пляшка хз від кого
 
 
-По висновку - ==ВИСНОВОК==
+По висновку - добра гламурна вода, як і зазвичай це буває у aquarte. Мені сподобалось, можу радити
