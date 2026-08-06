@@ -15,4 +15,6 @@ related:
   - "[[Hell carnival cotton candy]]"
 aliases:
   - Hell carnival cotton candy
+summary: Огляд на хелл солодка вата 😄
 ---
+Огляд на хелл солодка вата 😄
