@@ -11,8 +11,6 @@ views:
         - status == "to publish"
     order:
       - file.name
-      - summary
-      - cover
       - types
       - createdAt
     sort:
@@ -64,3 +62,9 @@ views:
     filters:
       and:
         - status == "published"
+    order:
+      - file.name
+      - types
+    sort:
+      - property: publishedAt
+        direction: DESC
