@@ -1,5 +1,5 @@
 ---
-status: pu
+status: published
 tags:
   - package/canpack
   - country/poland
