@@ -1,14 +1,14 @@
 ---
-status: to publish
+status: pu
 tags:
   - package/canpack
   - country/poland
-externalUrl:
+externalUrl: https://t.me/kallection/37954
 brand: monster/ultra
 taste:
   - citrus
   - grape
-publishedAt:
+publishedAt: 2026-08-08
 favorite: true
 container:
   - can
