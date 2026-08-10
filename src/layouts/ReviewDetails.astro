@@ -197,7 +197,9 @@ const nextPost =
         id="article"
         class="app-prose mt-8 w-full max-w-app prose-pre:bg-(--shiki-light-bg) dark:prose-pre:bg-(--shiki-dark-bg)"
       >
-        {contentTgPosts?.map(tgPost => <TgPost tgPost={tgPost} />)}
+        <div class="flex flex-col gap-4">
+          {contentTgPosts?.map(tgPost => <TgPost tgPost={tgPost} />)}
+        </div>
       </article>
 
       <hr class="my-6 border-dashed" />
@@ -521,6 +523,12 @@ const nextPost =
 
   const TG_WIDGET_SRC = "https://telegram.org/js/telegram-widget.js?23";
 
+  function getTelegramDarkValue() {
+    return document.documentElement.getAttribute("data-theme") === "dark"
+      ? "1"
+      : "0";
+  }
+
   function renderTelegramPosts() {
     const containers = Array.from(
       document.querySelectorAll("[data-tg-post]")
@@ -546,7 +554,12 @@ const nextPost =
       if (color) script.setAttribute("data-color", color);
 
       const dark = container.getAttribute("data-tg-dark");
-      if (dark) script.setAttribute("data-dark", dark);
+      if (dark) {
+        script.setAttribute(
+          "data-dark",
+          dark === "auto" ? getTelegramDarkValue() : dark
+        );
+      }
 
       const darkColor = container.getAttribute("data-tg-dark-color");
       if (darkColor) script.setAttribute("data-dark-color", darkColor);
@@ -556,6 +569,19 @@ const nextPost =
   }
 
   renderTelegramPosts();
+
+  let currentTelegramDarkValue = getTelegramDarkValue();
+  const telegramThemeObserver = new MutationObserver(() => {
+    const nextTelegramDarkValue = getTelegramDarkValue();
+    if (nextTelegramDarkValue === currentTelegramDarkValue) return;
+
+    currentTelegramDarkValue = nextTelegramDarkValue;
+    renderTelegramPosts();
+  });
+
+  telegramThemeObserver.observe(document.documentElement, {
+    attributeFilter: ["data-theme"],
+  });
 
   function renderGiscus() {
     const container = document.querySelector("[data-giscus]");

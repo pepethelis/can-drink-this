@@ -17,9 +17,28 @@ const href = tgPost?.replace(/^(https?:\/\/)?(t\.me|telesco\.pe)\//, "").trim();
       class="telegram-post"
       data-tg-post={href}
       data-tg-width="100%"
-      data-tg-color="E22F38"
-      data-tg-dark="1"
+      data-tg-color="FF6B01"
+      data-tg-dark="auto"
       data-tg-dark-color="FF6B01"
     />
   )
 }
+
+<style>
+  .telegram-post {
+    background-color: transparent;
+  }
+
+  html[data-theme="dark"] .telegram-post {
+    background-color: #212737;
+  }
+
+  .telegram-post :global(iframe) {
+    background-color: transparent !important;
+  }
+
+  html[data-theme="dark"] .telegram-post :global(iframe) {
+    background-color: #212737 !important;
+    color-scheme: dark;
+  }
+</style>

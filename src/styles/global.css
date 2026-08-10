@@ -51,6 +51,24 @@ html[data-theme="dark"] {
   }
 }
 
+a[href^="http://"]:not([href^="http://reviews.pepethelis.top"]):not(
+    [href^="https://reviews.pepethelis.top"]
+  )::after,
+a[href^="https://"]:not([href^="http://reviews.pepethelis.top"]):not(
+    [href^="https://reviews.pepethelis.top"]
+  )::after,
+a[href^="//"]:not([href^="//reviews.pepethelis.top"])::after {
+  content: "↗";
+  display: inline-block;
+  margin-inline-start: 0.25em;
+  color: currentColor;
+  font-size: 0.8em;
+  line-height: 1;
+  text-decoration: none;
+  transform: translateY(-0.08em);
+  opacity: 0.75;
+}
+
 @utility max-w-app {
   @apply max-w-3xl;
 }
