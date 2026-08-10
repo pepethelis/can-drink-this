@@ -30,14 +30,14 @@ aliases:
 types:
   - energy
 related:
-- "[[Battery juiced sour apple]]"
-- "[[Battery juiced peach lemonade]]"
-- "[[Monster juiced monarch]]"
-- "[[Monster juiced khaotic]]"
-- "[[Monster juiced bad apple]]"
-- "[[Monster juiced mango loco]]"
-- "[[Monster juiced pacific punch]]"
-- "[[Monster juiced rio punch]]"
+  - "[[Battery juiced sour apple]]"
+  - "[[Battery juiced peach lemonade]]"
+  - "[[Monster juiced monarch]]"
+  - "[[Monster juiced khaotic]]"
+  - "[[content/reviews/own/Monster juiced bad apple]]"
+  - "[[Monster juiced mango loco]]"
+  - "[[Monster juiced pacific punch]]"
+  - "[[Monster juiced rio punch]]"
 ---
 **Nonstop juice series splash**. Офіційний смак - ніде не вказано
 

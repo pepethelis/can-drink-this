@@ -62,5 +62,5 @@ types:
 По висновку - добрий смачний гарний монстр. Неповторний оригінал, яким надихалися при створенні [[Nonstop juice series splash]]. Але воно на те й неповторне, оскільки його підробка і на половину не така добра. За загальним вайбом нагадує [[Monster juiced rio punch]]. Смачно, радити можу, навіть наполегливо. Хіба що тільки не за дикий оверпрайс
 Пост вийшов завдяки [спонсору оглядів](https://t.me/dekanat_tef), підписуйтесь на Дмитра
 
-Пов'язані огляди: [[Monster juiced monarch]], [[Monster juiced khaotic]], [[Monster juiced bad apple]],  [[Monster juiced mango loco]], [[Monster juiced pacific punch]], [[Monster rehab tea + lemonade]], [[Monster VR46]]
+Пов'язані огляди: [[Monster juiced monarch]], [[Monster juiced khaotic]], [[content/reviews/own/Monster juiced bad apple]],  [[Monster juiced mango loco]], [[Monster juiced pacific punch]], [[Monster rehab tea + lemonade]], [[Monster VR46]]
 #огляди

@@ -2,7 +2,7 @@
 author: sanb_s
 aliases:
   - Hunter energy
-publishedAt:
+publishedAt: 2025-10-30
 status: published
 brand:
 container:
@@ -11,6 +11,7 @@ volume:
   - "0.5"
 summary:
 taste:
+cover: "[[photo_2025-10-30_14-13-24.jpg]]"
 ---
 Так, ну що я можу сказати про HUNTER ENERGY  
 

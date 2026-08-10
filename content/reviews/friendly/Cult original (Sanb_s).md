@@ -2,7 +2,7 @@
 author: sanb_s
 aliases:
   - Cult original
-publishedAt:
+publishedAt: 2025-11-04
 status: published
 brand: cult
 container:

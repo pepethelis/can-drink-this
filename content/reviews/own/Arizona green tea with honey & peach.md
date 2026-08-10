@@ -56,5 +56,5 @@ types:
 
 По висновку - ==ВИСНОВОК==
 
-Повʼязані огляди: [[Arizona green tea with honey]], [[Arizona energy mucho mango]], [[Monster rehab tea + lemonade]] [[Buvette Healthy Tea лемонграс]], [[Buvette Healthy Tea абрикос тангерин]], [[Buvette Healthy Tea троянда лимон імбир]], [[Buvette Healthy Tea каркаде журавлина мʼята]]
+Повʼязані огляди: [[Arizona green tea with honey]], [[content/reviews/own/Arizona energy mucho mango]], [[Monster rehab tea + lemonade]] [[Buvette Healthy Tea лемонграс]], [[Buvette Healthy Tea абрикос тангерин]], [[Buvette Healthy Tea троянда лимон імбир]], [[Buvette Healthy Tea каркаде журавлина мʼята]]
 #огляди

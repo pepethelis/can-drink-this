@@ -62,5 +62,5 @@ types:
 По висновку - коштує дефолтної ціни і це зроз - офіційний імпорт творить дива. Загалом доволі добрий смак, нехай буде, тимпаче якщо за дефолт прайс. Якщо не нудить від самого слова «манго», то піде добре. Якщо ж з манго або ціною проблеми - то ~~хапаємо нонстоп ультра~~ сумуємо. Якщо брати серед усіх оглянутих монстрів (більше двох десятків), то він мабуть точно буде вище середнього. Десь відразу за класичним чорним буде
 Бтв поки писав цей огляд на мене поліцію викликали бо типу підозрілий чел
 
-Пов'язані огляди: [[Monster black]], [[Monster juiced monarch]], [[Monster juiced khaotic]], [[Monster juiced aussie style lemonade]], [[Monster juiced bad apple]], [[Monster juiced pacific punch]], [[Monster juiced rio punch]], [[Monster ultra fiesta mango]]
+Пов'язані огляди: [[Monster black]], [[Monster juiced monarch]], [[Monster juiced khaotic]], [[Monster juiced aussie style lemonade]], [[content/reviews/own/Monster juiced bad apple]], [[Monster juiced pacific punch]], [[Monster juiced rio punch]], [[Monster ultra fiesta mango]]
 #огляди
