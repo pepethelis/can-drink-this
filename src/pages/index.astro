@@ -1,5 +1,6 @@
 ---
 import { getCollection } from "astro:content";
+import { getImage } from "astro:assets";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
@@ -7,6 +8,7 @@ import Socials from "@/components/Socials.astro";
 import LinkButton from "@/components/LinkButton.astro";
 import CardReview from "@/components/CardReview.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
+import defaultImage from "@/assets/images/default.png";
 import IconRss from "@/assets/icons/IconRss.svg";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
@@ -16,14 +18,14 @@ import type { CollectionEntry } from "astro:content";
 import postFilter from "@/utils/postFilter";
 
 const reviews = await getCollection("reviews", ({ data }) =>
-    postFilter({ data })
-  );
+  postFilter({ data })
+);
 
 const sortedReviews = getSortedPosts(reviews);
 const pinnedReviews = sortedReviews.filter(({ data }) => data.pinned);
 const recentReviews = sortedReviews.filter(({ data }) => !data.pinned);
 
-const posts = await getCollection("posts");
+const posts = await getCollection("posts", ({ data }) => postFilter({ data }));
 
 const sortedPosts = getSortedPosts(posts);
 const pinnedPosts = sortedPosts.filter(({ data }) => data.pinned);
@@ -33,9 +35,22 @@ const sortedContent = getSortedPosts([...recentPosts, ...recentReviews]);
 const sortedPinnedContent = getSortedPosts([...pinnedPosts, ...pinnedReviews]);
 
 const rssHref = `/${import.meta.env.BASE_URL}/rss.xml`.replace(/\/{2,}/g, "/");
+const homeOgImage = await getImage({
+  src: defaultImage,
+  width: 1200,
+  height: 630,
+  format: "jpg",
+  quality: 82,
+});
+const homeOgImageUrl = new URL(homeOgImage.src, Astro.url.origin).href;
 ---
 
-<Layout>
+<Layout
+  title={SITE.title}
+  description={SITE.desc}
+  ogImage={homeOgImageUrl}
+  canonicalURL={new URL(Astro.url.pathname, Astro.url).href}
+>
   <Header />
   <main id="main-content" data-layout="index" class="content-layout">
     <section id="hero" class:list={["pt-8 pb-6", "border-b border-border"]}>
