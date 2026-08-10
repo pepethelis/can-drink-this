@@ -1,15 +1,15 @@
 ---
-status: to publish
+status: published
 aliases:
   - Чайка чорноморська lemon-lime
-externalUrl:
+externalUrl: https://t.me/kallection/37958
 brand: чайка чорноморська
 types:
   - alco
 taste:
   - lemon
   - lime
-publishedAt:
+publishedAt: 2026-08-08
 favorite:
 container:
   - can

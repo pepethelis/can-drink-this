@@ -1,15 +1,15 @@
 ---
-status: to publish
+status: published
 aliases:
   - Borjomi aromati citrus & ginger root
-externalUrl:
+externalUrl: https://t.me/kallection/37965
 brand: borjomi/aromati
 types:
   - water
 taste:
   - citrus
   - ginger
-publishedAt:
+publishedAt: 2026-08-08
 favorite:
 container:
   - can
