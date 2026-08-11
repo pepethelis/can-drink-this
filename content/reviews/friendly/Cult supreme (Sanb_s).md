@@ -10,6 +10,8 @@ brand: cult
 volume:
   - "0.5"
 cover: "[[photo_2025-11-06_11-43-44.jpg]]"
+types:
+  - energy
 ---
 CULT supreme  
 

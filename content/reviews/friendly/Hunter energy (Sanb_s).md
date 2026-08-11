@@ -12,6 +12,8 @@ volume:
 summary:
 taste:
 cover: "[[photo_2025-10-30_14-13-24.jpg]]"
+types:
+  - energy
 ---
 Так, ну що я можу сказати про HUNTER ENERGY  
 

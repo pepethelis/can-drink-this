@@ -12,6 +12,8 @@ volume:
 summary:
 taste:
 cover: "[[photo_2024-09-14_18-47-56.jpg]]"
+types:
+  - energy
 ---
 **MONSTER ENERGY LEWIS HAMILTON ZERO SUGAR**  
 Смак: точно не вказано, я визначив як тропічний мультифрукт.  

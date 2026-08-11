@@ -13,6 +13,8 @@ summary:
 taste:
   - apple
 cover: "[[photo_2024-11-18_09-35-15.jpg]]"
+types:
+  - energy
 ---
 MФNSTER ПОДВІЙНЕ ЯБЛУЧКО😈🍎🍏🤙💨
 

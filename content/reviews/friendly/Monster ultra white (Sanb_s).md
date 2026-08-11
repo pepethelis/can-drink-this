@@ -14,6 +14,8 @@ taste:
   - ORIGINAL
 contentTgPosts:
   - https://t.me/ukr_satan/4172
+types:
+  - energy
 ---
 Огляд на Мфnstr ultra zero sugar  
 

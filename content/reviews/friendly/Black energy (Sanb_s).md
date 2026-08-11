@@ -14,6 +14,8 @@ summary: |-
 taste:
   - CLASSIC
 cover: "[[photo_2024-12-10_12-12-30.jpg]]"
+types:
+  - energy
 ---
 Огляд на біле "Чорне" #енергохарчування 
 

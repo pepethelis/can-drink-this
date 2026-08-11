@@ -14,6 +14,8 @@ taste:
   - peach
   - lemon
 cover: "[[photo_2024-09-06_07-21-28.jpg]]"
+types:
+  - energy
 ---
 **HELL PEACH-LEMON** від HELL ENERGY  
 Смак: червоний персик, лимон, лайм та тутті-фрутті  

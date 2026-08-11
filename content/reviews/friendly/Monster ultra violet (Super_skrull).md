@@ -13,6 +13,8 @@ summary:
 taste:
   - grape
 cover: "[[photo_2024-09-06_20-01-27.jpg]]"
+types:
+  - energy
 ---
 **MONSTER ENERGY ULTRA VIOLET**  
 Смак: виноград  

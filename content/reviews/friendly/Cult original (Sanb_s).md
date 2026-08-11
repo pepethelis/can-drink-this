@@ -13,6 +13,8 @@ summary:
 taste:
   - ORIGINAL
 cover: "[[photo_2025-11-04_22-37-04.jpg]]"
+types:
+  - energy
 ---
 CULT energy activator Original  
 

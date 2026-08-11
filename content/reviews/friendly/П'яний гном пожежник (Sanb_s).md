@@ -12,6 +12,9 @@ summary:
 taste:
 cover: "[[photo_2025-01-05_10-15-21.jpg]]"
 alco: 4
+types:
+  - alco
+  - beer
 ---
 А ще ранок починається з огляду на пиво!
 

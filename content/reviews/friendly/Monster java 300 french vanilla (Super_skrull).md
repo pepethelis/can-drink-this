@@ -11,6 +11,9 @@ volume:
   - "0.5"
 summary:
 taste:
+types:
+  - energy
+  - coffee
 ---
 **JAVA MONSTER FRENCH VANILLA TRIPLE SHOT**  
 Смак: френч ванілла  

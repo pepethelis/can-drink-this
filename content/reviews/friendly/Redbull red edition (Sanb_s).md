@@ -13,6 +13,8 @@ summary:
 taste:
   - watermelon
 cover: "[[photo_2025-02-10_10-56-55.jpg]]"
+types:
+  - energy
 ---
 Раптовий огляд на редбулівське кавуняче #енергохарчування 
 

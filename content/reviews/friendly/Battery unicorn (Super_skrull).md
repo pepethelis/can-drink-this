@@ -14,6 +14,8 @@ taste:
   - ORIGINAL
   - cotton candy
 cover: "[[photo_2024-09-05_08-57-16.jpg]]"
+types:
+  - energy
 ---
 **BATTERY UNICRON** від Карлсберг Україна  
   
