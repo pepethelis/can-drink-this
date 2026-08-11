@@ -174,7 +174,7 @@ Monster ultra:
 - [[Monster ultra fiesta mango|fiesta mango]]
 - [[Monster ultra peachy keen|peachy keen]]
 - [[Monster ultra vice guava|vice guava]]
-- [[Monster ultra violet|violet]]
+- [[content/reviews/own/Monster ultra violet|violet]]
 Monster nitro: 
 - [[Monster nitro green|dry]]
 - [[Monster nitro cosmic peach|orange peach]]
