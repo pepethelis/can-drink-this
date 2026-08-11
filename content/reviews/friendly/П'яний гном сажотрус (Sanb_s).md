@@ -1,9 +1,10 @@
 ---
 author: sanb_s
 aliases:
+  - П'яний гном сажотрус
 publishedAt: 2024-09-21
 status: published
-brand:
+brand: п'яний гном
 container:
   - glass
 volume:
