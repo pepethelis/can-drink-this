@@ -1,15 +1,15 @@
 ---
-status: to publish
+status: published
 aliases:
   - Borjomi aromati cherry & pomegranate
-externalUrl:
+externalUrl: https://t.me/kallection/38043
 brand: borjomi/aromati
 types:
   - water
 taste:
   - cherry
   - pomegranate
-publishedAt:
+publishedAt: 2026-08-12
 favorite:
 container:
   - can

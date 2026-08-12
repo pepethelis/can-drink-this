@@ -1,13 +1,13 @@
 ---
-status: to publish
+status: published
 tags:
   - country/poland
   - package/amp
-externalUrl:
+externalUrl: https://t.me/kallection/38037
 brand: komodo
 taste:
   - watermelon
-publishedAt:
+publishedAt: 2026-08-12
 favorite:
 container:
   - can
