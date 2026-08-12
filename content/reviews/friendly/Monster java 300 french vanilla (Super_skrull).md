@@ -14,6 +14,7 @@ taste:
 types:
   - energy
   - coffee
+cover: "[[photo_2024-09-07_08-30-33.jpg]]"
 ---
 **JAVA MONSTER FRENCH VANILLA TRIPLE SHOT**  
 Смак: френч ванілла  
