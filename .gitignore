@@ -29,3 +29,6 @@ public/pagefind
 
 # obsifian
 .obsidian/
+
+# content
+src/data/**/*.md
