@@ -88,7 +88,7 @@ Nonstop juice:
 **Battery:** 
 - [[Battery black|original⚫️]]
 - [[Battery binance|binance🟡]]
-- [[Battery unicorn|unicorn🔵🟣]]
+- [[content/reviews/own/Battery unicorn|unicorn🔵🟣]]
 - [[Battery mix|mix🟣🟢]]
 - [[Battery frsh|frsh🟡🔴]]
 - [[Battery exotic|exotic🟡🟣]]

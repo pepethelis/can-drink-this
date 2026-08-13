@@ -1,12 +1,14 @@
 ---
-author:
+author: super_skrull
 aliases:
-  - "{{title}}"
+  - Monster ultra rosa
 publishedAt:
 status: published
-brand:
+brand: monster/ultra
 container:
+  - can
 volume:
+  - "0.5"
 summary:
 taste:
 types:

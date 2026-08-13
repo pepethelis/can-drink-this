@@ -46,5 +46,5 @@ types:
 
 По висновку - класичний енергос, що для мене було доволі несподівано, хоч і загалом доволі логічно. Рік тому робив на батарейки огляди, і тоді мені якось зовсім не сподобалось. Цього ж разу норм, можна хапанути разок замість нонстопу, особливо зважаючи на ціну. А ціна ясна річ менша за бьорн або редбул і в середньому на пару гривень більша за нонстопчік. Дружні адміни, зробіть пж у перервах між хеллом та монстром огляд на цейво батареку, а то може я не викупив щось
 
-Пов'язані огляди: [[Battery mix]], [[Battery frsh]], [[Battery exotic]], [[Battery unicorn]], [[Battery cola]], [[Battery juiced sour apple]], [[Battery juiced peach lemonade]], [[Nonstop original]]
+Пов'язані огляди: [[Battery mix]], [[Battery frsh]], [[Battery exotic]], [[content/reviews/own/Battery unicorn]], [[Battery cola]], [[Battery juiced sour apple]], [[Battery juiced peach lemonade]], [[Nonstop original]]
 #огляди

@@ -50,5 +50,5 @@ types:
 Як і [[Battery juiced peach lemonade|peach lemonade]], це такий собі свіженький напій на літо. Складно сказати як воно пасуватиме наприклад до осені чи зими. Мені здається, втратить актуальність 
 Також є [сатанячий огляд тут](https://t.me/ukr_satan/5391)
 
-Пов'язані огляди: [[Battery black]], [[Battery frsh]], [[Battery exotic]], [[Battery mix]], [[Battery unicorn]], [[Battery cola]], [[Battery juiced sour apple]], [[Battery juiced peach lemonade]]
+Пов'язані огляди: [[Battery black]], [[Battery frsh]], [[Battery exotic]], [[Battery mix]], [[content/reviews/own/Battery unicorn]], [[Battery cola]], [[Battery juiced sour apple]], [[Battery juiced peach lemonade]]
 #огляди 
