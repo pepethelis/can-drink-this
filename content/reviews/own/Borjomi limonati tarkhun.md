@@ -14,7 +14,7 @@ sweeteners:
   - sugar
   - juice/apple
   - juice/lemon
-cover: "[[default.png]]"
+cover: "[[IMG_6414.jpeg]]"
 availability: 4
 summary: Овепрайс тархун😍😍
 primaryColors:
