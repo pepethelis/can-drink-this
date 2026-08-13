@@ -15,6 +15,7 @@ taste:
   - apple
 types:
   - energy
+cover: "[[photo_2024-09-16_14-35-40.jpg]]"
 ---
 **BLACK ENERGY DRINK Яблуко**
 

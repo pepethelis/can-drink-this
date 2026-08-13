@@ -14,6 +14,7 @@ taste:
   - pineapple
 types:
   - energy
+cover: "[[photo_2025-03-08_17-35-00.jpg]]"
 ---
 **M∅NSTER ENERGY ULTRA GOLDEN PINEAPPLE** 
 

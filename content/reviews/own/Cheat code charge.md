@@ -55,5 +55,5 @@ types:
 
 По висновку - це не вишневий сік звісно, але у якості енергосу смакує добре і навіть дуже. Навряд чи б я його радив одночасно через його відносну рідкісність, але якщо є в доступності, то чого б і не спробувати
 
-Пов'язані огляди: [[Cheat code ultra]], [[Nonstop 20 years edition]], [[Monster ultra black]], [[Frugo wild cherry]], [[Revo energy cherry]]
+Пов'язані огляди: [[Cheat code ultra]], [[content/reviews/own/Nonstop 20 years edition]], [[Monster ultra black]], [[Frugo wild cherry]], [[Revo energy cherry]]
 #огляди

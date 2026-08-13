@@ -75,8 +75,8 @@ publishedAt: 2025-12-20
 - [[Nonstop boost|boost🟣]]
 - [[Nonstop ultra|ultra🟠]]
 - [[Nonstop zoom|zoom🍉]]
-- [[Nonstop spark|spark🟡]]
-- [[Nonstop 20 years edition|лімітка до двадцятиріччя🎉]]
+- [[content/reviews/own/Nonstop spark|spark🟡]]
+- [[content/reviews/own/Nonstop 20 years edition|лімітка до двадцятиріччя🎉]]
 Nonstop stalker: 
 - [[Nonstop stalker orange|кавун🟠]]
 - [[Nonstop stalker violet|манго-груша🟣]]
@@ -163,7 +163,7 @@ Monster juiced:
 - [[content/reviews/own/Monster juiced bad apple|bad apple]]
 - [[Monster juiced khaotic|khaotic]]
 - [[Monster juiced pipeline punch|pipeline punch]]
-- [[Monster juiced rio punch|rio punch]]
+- [[content/reviews/own/Monster juiced rio punch|rio punch]]
 Monster ultra: 
 - [[Monster ultra white|white]]
 - [[Monster ultra black|black]]
@@ -177,7 +177,7 @@ Monster ultra:
 - [[content/reviews/own/Monster ultra violet|violet]]
 Monster nitro: 
 - [[Monster nitro green|dry]]
-- [[Monster nitro cosmic peach|orange peach]]
+- [[content/reviews/own/Monster nitro cosmic peach|orange peach]]
 Monster rehab: 
 - [[Monster rehab tea + lemonade|tea+lemonade]]
 
