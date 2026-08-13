@@ -17,7 +17,7 @@ aliases:
 cover: "[[photo_2026-04-17_09-24-50.jpg]]"
 contentTgPosts:
   - https://t.me/super_skrulling/3434
-summary: Спонсор огляду [ЯНМУНД](https://t.me/kallection). Прислав дві баночки на огляд, за що йому велике дякую ❤️
+summary: Спонсор огляду ЯНМУНД. Прислав дві баночки на огляд, за що йому велике дякую ❤️
 ---
 M∅NSTER ENERGY ULTRA PEACHY KEEN
 
