@@ -55,6 +55,7 @@ export const beverageType = z.enum([
   "radler",
   "tea",
   "water",
+  "pre-workout",
   "other",
 ]);
 
