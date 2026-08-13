@@ -110,7 +110,7 @@ const rewriteWikiLinks = () => (tree: any) => {
 
 // https://astro.build/config
 export default defineConfig({
-  site: SITE.website,
+  site: process.env.PUBLIC_SITE_URL || SITE.website,
   base: SITE.base,
   trailingSlash: "never",
   integrations: [
