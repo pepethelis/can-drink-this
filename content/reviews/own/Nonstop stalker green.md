@@ -52,5 +52,5 @@ types:
 
 По висновку - точно смачніший за [[Nonstop stalker violet|минулий сталкер]]. Доволі смачний, але як на мене трохи різкуватий. Думаю він може бути достатньо освіжаючим. Наприклад зараз би я ще одну таку баночку лупанув. Напій достатньо смачний щоб можна було рекомендувати. Сам я теж обовʼязково ще випʼю
 
-Пов'язані огляди: [[Nonstop stalker orange]], [[Nonstop stalker violet]], [[Nonstop jungle]]
+Пов'язані огляди: [[content/reviews/own/Nonstop stalker orange]], [[Nonstop stalker violet]], [[Nonstop jungle]]
 #огляди

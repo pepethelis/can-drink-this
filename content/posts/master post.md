@@ -78,7 +78,7 @@ publishedAt: 2025-12-20
 - [[content/reviews/own/Nonstop spark|spark🟡]]
 - [[content/reviews/own/Nonstop 20 years edition|лімітка до двадцятиріччя🎉]]
 Nonstop stalker: 
-- [[Nonstop stalker orange|кавун🟠]]
+- [[content/reviews/own/Nonstop stalker orange|кавун🟠]]
 - [[Nonstop stalker violet|манго-груша🟣]]
 - [[Nonstop stalker green|лайм-м'ята-ожина🟢]]
 - [[Nonstop stalker red|вишня-ром-ананас🔴]]
@@ -429,7 +429,7 @@ Hell ice coffee:
 
 **Mojo:**
 - [[Mojo mint-lime|mint-lime]]
-- [[Mojo chinotto|chinotto]]
+- [[content/reviews/own/Mojo chinotto|chinotto]]
 - [[Mojo pineapple twist|pineapple twist]]
 
 **Garage fun zero:**
