@@ -94,7 +94,7 @@ const posts = defineCollection({
   schema: ({ image }) =>
     z.object({
       // article metadata
-      publishedAt: z.date(),
+      publishedAt: z.date().nullish(),
       updatedAt: z.date().nullish(),
       aliases: z.array(z.string()).min(1),
       summary: z.string().optional(),

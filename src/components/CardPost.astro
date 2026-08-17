@@ -49,7 +49,7 @@ const coverSrc = resolveImageAsset(ogImage, imageAssets) || placeholder;
       </Heading>
     </a>
     <div class="flex flex-wrap gap-x-2">
-      <Datetime {...props} />
+      {props.publishedAt && <Datetime publishedAt={props.publishedAt} updatedAt={props.updatedAt} />}
       <Divider class={"opacity-80"} />
       <span class="opacity-80">{author}</span>
     </div>
