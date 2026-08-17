@@ -8,7 +8,7 @@ brand: dark dog
 taste:
   - ORIGINAL
   - CLASSIC
-publishedAt:
+publishedAt: 2026-03-05
 favorite:
 container:
   - can
