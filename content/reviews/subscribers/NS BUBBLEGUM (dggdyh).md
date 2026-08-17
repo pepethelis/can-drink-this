@@ -14,7 +14,7 @@ brand: ns
 volume:
   - "0.45"
 publishedAt:
-status:
+status: to publish
 related:
   - "[[Exstase bubble gum|Exstase bubble gum]]"
   - "[[Exstase bubble gum|Exstase bubble gum]]"
