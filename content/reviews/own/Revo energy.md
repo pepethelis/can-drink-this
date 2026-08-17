@@ -28,7 +28,7 @@ caffeine: 32
 volume:
   - "0.25"
 alco: 0
-createdAt:
+createdAt: 2026-08-17
 ---
 **Revo energy**. Офіційний смак - «смак рева»😳
 
