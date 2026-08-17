@@ -1,7 +1,7 @@
 ---
 author: dggdyh
 types:
-  - ene
+  - energy
 aliases:
   - NS ORIGINAL
 container:
