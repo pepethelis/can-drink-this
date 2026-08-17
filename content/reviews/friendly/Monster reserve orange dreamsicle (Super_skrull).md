@@ -14,7 +14,7 @@ taste:
   - orange
 types:
   - energy
-cover:
+cover: "[[photo_2025-09-28_15-52-07.jpg]]"
 ---
 **M∅NSTER ENERGY Reserve Orange Dreamsicle**
 

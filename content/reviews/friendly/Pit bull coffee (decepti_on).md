@@ -14,7 +14,7 @@ taste:
   - coffee
 types:
   - energy
-cover:
+cover: "[[default2.png]]"
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32381
 ---

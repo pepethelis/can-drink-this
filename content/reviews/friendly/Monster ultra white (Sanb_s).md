@@ -16,6 +16,7 @@ contentTgPosts:
   - https://t.me/ukr_satan/4172
 types:
   - energy
+cover: "[[default2.png]]"
 ---
 Огляд на Мфnstr ultra zero sugar  
 
