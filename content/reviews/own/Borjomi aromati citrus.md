@@ -15,7 +15,7 @@ container:
   - can
 sweeteners:
 cover: "[[IMG_5048.jpeg]]"
-availability:
+availability: 4
 summary:
 primaryColors:
   - blue
