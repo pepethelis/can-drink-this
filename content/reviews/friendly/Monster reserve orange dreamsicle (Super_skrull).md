@@ -8,6 +8,7 @@ brand: monster/reserve
 container:
   - can
 volume:
+  - "0.473"
 summary:
 taste:
   - orange
