@@ -26,7 +26,7 @@ types:
   - alco
 telegram_format: html
 createdAt: 2026-06-08
-alco:
+alco: 8
 ---
 **Garage hardcore exotic kiss**. Офіційний смак не вказано 
 
