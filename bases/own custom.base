@@ -4,6 +4,9 @@ filters:
 views:
   - type: table
     name: Таблиця
+    filters:
+      and:
+        - sponsor.containsAny("makmed1337")
     order:
       - file.name
       - createdAt
