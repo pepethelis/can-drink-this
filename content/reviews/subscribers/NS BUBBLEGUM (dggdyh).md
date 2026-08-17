@@ -15,6 +15,9 @@ volume:
   - "0.45"
 publishedAt:
 status:
+related:
+  - "[[Exstase bubble gum|Exstase bubble gum]]"
+  - "[[Exstase bubble gum|Exstase bubble gum]]"
 ---
 "NS BUBBLEGUM" закос на баблгам "NON-STOP" (якщо таке є взагалі), від російського бренду "World's best drinks"
 
@@ -51,3 +54,5 @@ status:
 
 
 Висновки: такоє, на огляд раз купила і все. Не зайшло,хоч і не прям погано. Просто не моє. Загалом, на тверду трієчку
+
+Черговий пост від Рисі у рубриці #огляди_від_підписників

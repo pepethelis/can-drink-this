@@ -8,12 +8,16 @@ container:
   - can
 volume:
   - "0.45"
-status:
-publishedAt:
+status: published
+publishedAt: 2026-08-17
 brand: ns
 taste:
   - CLASSIC
 cover:
+related:
+  - "[[Nonstop original]]"
+  - "[[Nonstop original zero|Nonstop original zero]]"
+externalUrl: https://t.me/kallection/38145
 ---
 "NS ORIGINAL" закос на класичний "NON-STOP" від російського бренду "World's best drinks"
 
@@ -51,3 +55,4 @@ cover:
 
 Висновки: 50/50, просто звичайний енергетик без приколів. Якщо не буде інших смаків - візьму,а так хз. Просто щось класичне та нудне
 
+Черговий пост від Рисі у рубриці #огляди_від_підписників
