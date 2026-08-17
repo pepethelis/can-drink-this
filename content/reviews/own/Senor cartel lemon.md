@@ -15,7 +15,7 @@ sweeteners:
   - sugar
 cover: "[[IMG_4005.jpeg]]"
 availability: 4
-summary: Типу гараж, але від їболоня
+summary: Типу гараж, але від їболоня. Тут би оновити огляд
 volume:
   - "0.33"
 alco: 4.6

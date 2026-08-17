@@ -19,18 +19,18 @@ sweeteners:
   - acesulfame
   - extract/ginseng root
   - extract/guarana
-cover: "[[default.png]]"
-availability:
+cover: "[[IMG_6104.jpeg]]"
+availability: 3
 summary:
 primaryColors:
   - blue
   - silver
   - orange
-manufacturer:
-caffeine:
+manufacturer: оболонь
+caffeine: 32
 volume:
   - "0.33"
-alco:
+alco: 0
 createdAt: 2026-08-05
 ---
 **Cheat code exotic**. Офіційний смак - манго, лимон, м'ята
@@ -71,4 +71,4 @@ createdAt: 2026-08-05
 
 По висновку - прикольна енергуйка, яка може повторити долю [[Cheat code ultra|іншого чіт кода]], який, я нагадаю, мені сподобався і я знайшов його цікавим, але [сатана](https://t.me/ukr_satan/6519) його не зацінив. Тут може бути те саме - хтось скаже, зо це чергова бурда від їболоня, а хтось згайде для себе усю глибину цього смаку. Тож я поставлю цю банку у трійцю кращих енергосів їболоня, у один ряд до того ж [[Cheat code ultra|Cheat code ultra]] та [[Bronx zero pink|Bronx zero гранатового/рожевого]]. Але на відміну від того ж бронкса рожевого, цей айтем в улюблені не йде. Тут буде звання «почесна добра згадка». Радити можу, але не всім. Якщо зацікавило - дійте, а якщо є вагання, то краще взяти щось надійніше 
 
-Imagine this at 3am score не скажу, бо бо дописую огляд  занадто теплим
+Imagine this at 3am score не скажу, бо бо дописую огляд занадто теплим

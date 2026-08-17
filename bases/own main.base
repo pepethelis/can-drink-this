@@ -4,21 +4,6 @@ filters:
 formulas:
   Untitled: if(cover, "", "no cover")
 views:
-  - type: table
-    name: All (table)
-    order:
-      - file.name
-      - file.mtime
-      - aliases
-    sort:
-      - property: file.mtime
-        direction: DESC
-      - property: publication
-        direction: ASC
-      - property: file.size
-        direction: DESC
-    columnSize:
-      note.availability: 125
   - type: cards
     name: All (cards)
     order:

@@ -1,0 +1,46 @@
+filters:
+  and:
+    - file.folder.startsWith("content/reviews/own")
+views:
+  - type: table
+    name: aliases is empty
+    filters:
+      and:
+        - aliases.isEmpty()
+  - type: table
+    name: types is empty
+    filters:
+      and:
+        - types.isEmpty()
+  - type: table
+    name: published, but not full
+    filters:
+      and:
+        - status == "published"
+        - or:
+            - cover.isEmpty()
+            - cover == link("default.png")
+            - externalUrl.isEmpty()
+            - publishedAt.isEmpty()
+            - and:
+                - types.containsAny("energy")
+                - caffeine.isEmpty()
+            - and:
+                - types.containsAny("alco")
+                - alco.isEmpty()
+            - availability.isEmpty()
+  - type: table
+    name: to publish, but not full
+    filters:
+      and:
+        - status == "to publish"
+        - or:
+            - cover.isEmpty()
+            - cover == link("default.png")
+            - and:
+                - types.containsAny("energy")
+                - caffeine.isEmpty()
+            - and:
+                - types.containsAny("alco")
+                - alco.isEmpty()
+            - availability.isEmpty()

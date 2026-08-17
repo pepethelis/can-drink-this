@@ -4,6 +4,9 @@ filters:
 views:
   - type: table
     name: Таблиця
+    filters:
+      and:
+        - sponsor.containsAny("verfolomei")
     order:
       - file.name
       - createdAt

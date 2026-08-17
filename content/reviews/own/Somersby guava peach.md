@@ -34,6 +34,7 @@ related:
   - "[[Toosecco, сидр сухий|Toosecco, сидр сухий]]"
   - "[[Happy Joe dry apple cider|Happy Joe dry apple cider]]"
 createdAt: 2026-07-03
+alco:
 ---
 **Somersby**. Офіційний смак - персик-гуава
 

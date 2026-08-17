@@ -16,7 +16,9 @@ publishedAt: 2025-12-20
 **Спонсори:**
 Хочу відмітити спонсорів оглядів. За 2025 додалося двоє. А зважаючи, що до того не було жодного, то колосальне це зростання. Отже, зустрічайте:
 - [@gdgood](https://t.me/dekanat_tef) - 10 рівень спонсора
+- [@makmed1337](https://t.me/ed_shitpost) - 6 рівень спонсора
 - [@ritual_huitual](https://t.me/whatchadoinghereguyz) - 3 рівень спонсора
+- @Verfolomei - 2 рівень спонсора
 - @ukrainian_simple_guy - 1 рівень спонсора і також перший спонсор евер
 Рівень рахуємо за формулою `level = floor((sqrt(8 * S + 1) - 1) / 2)`, де S - кількість айтемів на огляд
 
@@ -35,11 +37,10 @@ publishedAt: 2025-12-20
 - [CULT Buble gum](https://t.me/ukr_satan/6641)
 - [Monster lando norris](https://t.me/ukr_satan/6831)
 ***Super_skrulling:***
-- [Monster pipeline punch](https://t.me/super_skrulling/813)
-- [Monster ultra rosa](https://t.me/super_skrulling/808)
+- [[Monster juiced pipeline punch (Super_skrull)|Monster juiced pipleine punch]]
+- [[Monster ultra rosa (Super_skrull)|Monster ultra rosa]]
 - [Monster java 300 синій](https://t.me/super_skrulling/169)
-- [Monster ultra violet](https://t.me/super_skrulling/165)
-- [Monster reserve orange dreamsicle](https://t.me/super_skrulling/2252)
+- [[Monster reserve orange dreamsicle (Super_skrull)|Monster reserve orange dreamsicle]]
 ***Сонічка:*** 
 - [Monster java 300 червоний](https://t.me/sonechkin_rzekich/33079)
 - [енергосік по кіберпанку 1](https://t.me/sonechkin_rzekich/32560)
@@ -113,6 +114,7 @@ Battery juiced:
 **Pitbull:** 
 - [[Pitbull exotic|exotic]]
 - [[Pitbull silver|silver]]
+- інші поки не в планах 
 
 **Своя лінія:** 
 - [[Своя лінія recharge wild dog classic|wild dog classic]]
@@ -124,6 +126,7 @@ Battery juiced:
 - [[Revo energy original|original]]
 - [[Revo energy grape|grape]]
 - [[Revo energy cherry|cherry]]
+- [[Revo energy|“revo taste”]]
 
 **Bronx zero:** 
 - [[Bronx zero|original]]
@@ -227,6 +230,9 @@ Hell summer:
 Hell spritz: 
 - [[Hell Spritz Maracuja|maracuja]]
 - [[Hell Spritz Lime|lime]]
+Hell carnival:
+- [[Hell carnival cactus twist|cactus twist]]
+- [[Hell carnival cotton candy|cotton candy]]
 Hell ice coffee: 
 - [[Hell ice coffee latte|latte]]
 - [[Hell ice coffee strawberry latte|pink latte]]
@@ -343,15 +349,17 @@ Hell ice coffee:
 **Hike vibe:**
 - [[Hike vibe income tax|income tax]]
 - [[Hike vibe mojito|mojito]]
-- lemon drop пробував, але без огляду
+- lemon drop пробував, але без огляду. він добрий
 
 **Чернігівське біле fruter:**
 - [[Чернігівське біле fruter кавун|кавун]]
 - [[Чернігівське біле fruter капуоранж|капуоранж]]
+- є ще купа смаків, але не в планах
 
 **Pangaia:**
 - [[Pangaia bergamot&mint|bergamot&mint]]
 - [[Pangaia mango blossom|mango blossom]]
+- є ще два смаки, але нема в планах 
 
 - [[Johan Freitag gin&tonic]]
 - [[Sangria Don Garcia]]
@@ -393,6 +401,7 @@ Hell ice coffee:
 - [[Aquarte focus|focus]]
 - [[Aquarte energy|energy]]
 - [[Aquarte relax|relax]]
+- [[Aquarte protect|protect]]
 
 **Buvette Vitamin Water:**
 - [[Buvette Vitamin Water абрикос інжир]]
@@ -481,6 +490,7 @@ Hell ice coffee:
 **Borjomi limonati:**
 - [[Borjomi limonati pear|pear]]
 - [[Borjomi limonati mandarin|mandarin]]
+- [[Borjomi limonati tarkhun|tarkhun]]
 
 - [[Buvette Watermelon Water]]
 - [[Моршинська лимонад апельсин та персик]]
