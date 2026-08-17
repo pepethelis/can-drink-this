@@ -4,7 +4,7 @@ types:
   - energy
 taste:
   - bubblegum
-cover:
+cover: "[[photo_2026-08-16_14-30-30.jpg]]"
 aliases:
   - NS BUBBLEGUM
 container:

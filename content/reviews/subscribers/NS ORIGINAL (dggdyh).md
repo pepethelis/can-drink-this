@@ -13,7 +13,7 @@ publishedAt: 2026-08-17
 brand: ns
 taste:
   - CLASSIC
-cover:
+cover: "[[photo_2026-08-17_13-28-44.jpg]]"
 related:
   - "[[Nonstop original]]"
   - "[[Nonstop original zero|Nonstop original zero]]"
