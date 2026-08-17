@@ -6,7 +6,7 @@ views:
     name: Таблиця
     filters:
       and:
-        - sponsor.containsAny("makmed1337")
+        - sponsor.containsAny("verfolomei")
     order:
       - file.name
       - createdAt

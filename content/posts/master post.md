@@ -16,7 +16,7 @@ publishedAt: 2025-12-20
 **Спонсори:**
 Хочу відмітити спонсорів оглядів. За 2025 додалося двоє. А зважаючи, що до того не було жодного, то колосальне це зростання. Отже, зустрічайте:
 - [@gdgood](https://t.me/dekanat_tef) - 10 рівень спонсора
-- [@makmed1337](https://t.me/ed_shitpost)
+- [@makmed1337](https://t.me/ed_shitpost) - 6 рівень спонсора
 - [@ritual_huitual](https://t.me/whatchadoinghereguyz) - 3 рівень спонсора
 - @Verfolomei - 2 рівень спонсора
 - @ukrainian_simple_guy - 1 рівень спонсора і також перший спонсор евер
@@ -37,10 +37,9 @@ publishedAt: 2025-12-20
 - [CULT Buble gum](https://t.me/ukr_satan/6641)
 - [Monster lando norris](https://t.me/ukr_satan/6831)
 ***Super_skrulling:***
-- [Monster pipeline punch](https://t.me/super_skrulling/813)
-- [Monster ultra rosa](https://t.me/super_skrulling/808)
+- [[Monster juiced pipeline punch (Super_skrull)|Monster juiced pipleine punch]]
+- [[Monster ultra rosa (Super_skrull)|Monster ultra rosa]]
 - [Monster java 300 синій](https://t.me/super_skrulling/169)
-- [Monster ultra violet](https://t.me/super_skrulling/165)
 - [Monster reserve orange dreamsicle](https://t.me/super_skrulling/2252)
 ***Сонічка:*** 
 - [Monster java 300 червоний](https://t.me/sonechkin_rzekich/33079)
