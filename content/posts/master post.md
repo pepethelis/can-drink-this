@@ -40,7 +40,7 @@ publishedAt: 2025-12-20
 - [[Monster juiced pipeline punch (Super_skrull)|Monster juiced pipleine punch]]
 - [[Monster ultra rosa (Super_skrull)|Monster ultra rosa]]
 - [Monster java 300 синій](https://t.me/super_skrulling/169)
-- [Monster reserve orange dreamsicle](https://t.me/super_skrulling/2252)
+- [[Monster reserve orange dreamsicle (Super_skrull)|Monster reserve orange dreamsicle]]
 ***Сонічка:*** 
 - [Monster java 300 червоний](https://t.me/sonechkin_rzekich/33079)
 - [енергосік по кіберпанку 1](https://t.me/sonechkin_rzekich/32560)
@@ -114,6 +114,7 @@ Battery juiced:
 **Pitbull:** 
 - [[Pitbull exotic|exotic]]
 - [[Pitbull silver|silver]]
+- інші поки не в планах 
 
 **Своя лінія:** 
 - [[Своя лінія recharge wild dog classic|wild dog classic]]
@@ -125,6 +126,7 @@ Battery juiced:
 - [[Revo energy original|original]]
 - [[Revo energy grape|grape]]
 - [[Revo energy cherry|cherry]]
+- [[Revo energy|“revo taste”]]
 
 **Bronx zero:** 
 - [[Bronx zero|original]]
@@ -228,6 +230,9 @@ Hell summer:
 Hell spritz: 
 - [[Hell Spritz Maracuja|maracuja]]
 - [[Hell Spritz Lime|lime]]
+Hell carnival:
+- [[Hell carnival cactus twist|cactus twist]]
+- [[Hell carnival cotton candy|cotton candy]]
 Hell ice coffee: 
 - [[Hell ice coffee latte|latte]]
 - [[Hell ice coffee strawberry latte|pink latte]]
@@ -344,15 +349,17 @@ Hell ice coffee:
 **Hike vibe:**
 - [[Hike vibe income tax|income tax]]
 - [[Hike vibe mojito|mojito]]
-- lemon drop пробував, але без огляду
+- lemon drop пробував, але без огляду. він добрий
 
 **Чернігівське біле fruter:**
 - [[Чернігівське біле fruter кавун|кавун]]
 - [[Чернігівське біле fruter капуоранж|капуоранж]]
+- є ще купа смаків, але не в планах
 
 **Pangaia:**
 - [[Pangaia bergamot&mint|bergamot&mint]]
 - [[Pangaia mango blossom|mango blossom]]
+- є ще два смаки, але нема в планах 
 
 - [[Johan Freitag gin&tonic]]
 - [[Sangria Don Garcia]]
@@ -394,6 +401,7 @@ Hell ice coffee:
 - [[Aquarte focus|focus]]
 - [[Aquarte energy|energy]]
 - [[Aquarte relax|relax]]
+- [[Aquarte protect|protect]]
 
 **Buvette Vitamin Water:**
 - [[Buvette Vitamin Water абрикос інжир]]
@@ -482,6 +490,7 @@ Hell ice coffee:
 **Borjomi limonati:**
 - [[Borjomi limonati pear|pear]]
 - [[Borjomi limonati mandarin|mandarin]]
+- [[Borjomi limonati tarkhun|tarkhun]]
 
 - [[Buvette Watermelon Water]]
 - [[Моршинська лимонад апельсин та персик]]
