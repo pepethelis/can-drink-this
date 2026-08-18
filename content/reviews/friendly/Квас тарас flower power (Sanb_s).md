@@ -15,7 +15,6 @@ contentTgPosts:
   - https://t.me/ukr_satan/1591
 types:
   - kvass
-cover: "[[default2.png]]"
 ---
 Ну шо їбать огляд на НЕ енергетик, чекали? Звичайно ж ні!  
 

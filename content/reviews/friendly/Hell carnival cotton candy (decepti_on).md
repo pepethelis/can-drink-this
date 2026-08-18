@@ -19,6 +19,5 @@ summary: Огляд на хелл солодка вата 😄
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34088
   - https://t.me/sonechkin_rzekich/34089
-cover: "[[default2.png]]"
 ---
 Огляд на хелл солодка вата 😄

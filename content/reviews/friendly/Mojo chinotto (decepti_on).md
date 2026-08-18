@@ -14,7 +14,6 @@ taste:
   - chinotto
 types:
   - fizzy
-cover: "[[default2.png]]"
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32250
 ---
