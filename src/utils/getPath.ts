@@ -45,7 +45,8 @@ export function getPath(
   const blogId = trimmedId.split("/");
   const slug = blogId.length > 0 ? blogId.slice(-1) : blogId;
 
-  const normalizedSlug = Array.isArray(slug) ? slug[0] : slug;
+  const rawNormalizedSlug = Array.isArray(slug) ? slug[0] : slug;
+  const normalizedSlug = slugifyStr(rawNormalizedSlug);
   const safePathSegments = derivedPathSegments?.filter(
     segment => segment !== normalizedSlug
   );
