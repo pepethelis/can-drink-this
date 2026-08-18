@@ -204,7 +204,6 @@ const nextPost =
 
       <hr class="my-6 border-dashed" />
       
-      <BackToTopButton />
 
       <dl class="taxonomy">
         <div class="taxonomy-row">
@@ -319,7 +318,6 @@ const nextPost =
       <RelatedReviews post={post} allReviews={posts} />
     </article>
 
-    <hr class="my-6 border-dashed" />
     <!-- Previous/Next Post Buttons -->
     <div data-pagefind-ignore class="grid grid-cols-1 gap-6 sm:grid-cols-2">
       {
@@ -351,6 +349,11 @@ const nextPost =
         )
       }
     </div>
+
+    <hr class="my-6 border-dashed" />
+
+    <BackToTopButton />
+    
     <Comments />
   </div>
   <Footer />

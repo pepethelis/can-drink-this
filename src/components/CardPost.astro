@@ -5,9 +5,11 @@ import { getPath } from "@/utils/getPath";
 import Datetime from "./Datetime.astro";
 import { Image } from "astro:assets";
 import placeholder from "@/assets/images/default.png";
+import placeholder2 from "@/assets/images/default2.png";
 import Divider from "./Divider.astro";
 import { resolveImageAsset } from "@/utils";
 import getTitleFormAliases from "@/utils/getTitleFormAliases";
+import { SITE } from "@/config";
 
 type Props = {
   variant?: "h2" | "h3";
@@ -24,7 +26,10 @@ const imageAssets = import.meta.glob(
   { eager: true, import: "default" }
 );
 
-const coverSrc = resolveImageAsset(ogImage, imageAssets) || placeholder;
+const coverSrc = resolveImageAsset(ogImage, imageAssets) ||
+author === SITE.author
+  ? placeholder
+  : placeholder2;
 ---
 
 <div class="flex w-full justify-between gap-x-2 py-2 flex-col-reverse sm:flex-row">
