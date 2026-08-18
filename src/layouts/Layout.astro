@@ -36,6 +36,11 @@ const {
 
 const socialImageURL = new URL(ogImage, Astro.url);
 const faviconHref = `/${import.meta.env.BASE_URL}/favicon.svg`.replace(/\/{2,}/g, "/");
+const canonicalHref =
+  canonicalURL instanceof URL
+    ? canonicalURL.href
+    : new URL(Astro.url.pathname, Astro.url).href;
+const currentOgType = pubDate ? "article" : "website";
 
 const structuredData = {
   "@context": "https://schema.org",
@@ -85,10 +90,14 @@ const structuredData = {
     <link rel="sitemap" href="/sitemap-index.xml" />
 
     <!-- Open Graph / Facebook -->
+    <meta property="og:type" content={currentOgType} />
+    <meta property="og:site_name" content={SITE.title} />
+    <meta property="og:locale" content={SITE.lang ?? "en"} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:url" content={canonicalHref} />
     <meta property="og:image" content={socialImageURL} />
+    <meta property="og:image:alt" content={title} />
 
     <!-- Article Published/Modified time -->
     {
@@ -110,9 +119,9 @@ const structuredData = {
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content={canonicalURL} />
+    <meta property="twitter:url" content={canonicalHref} />
     <meta property="twitter:title" content={title} />
-    <meta property="twitter:summary" content={description} />
+    <meta property="twitter:description" content={description} />
     <meta property="twitter:image" content={socialImageURL} />
 
     <!-- Google JSON-LD Structured data -->
