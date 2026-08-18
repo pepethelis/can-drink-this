@@ -3,7 +3,7 @@ author: cvrslxrd
 types:
   - energy
 aliases:
-  - NS TROPIC (cvrslxrd)
+  - NS TROPIC
 container:
   - can
 volume:
@@ -13,6 +13,8 @@ publishedAt:
 brand: ns
 taste:
 cover: "[[photo_2026-08-18_23-16-50.jpg]]"
+related:
+  - "[[Nonstop boost|Nonstop boost]]"
 ---
 “NS TROPIC” закос на класичний “NON-STOP” від російського бренду “World’s best drinks”
 
