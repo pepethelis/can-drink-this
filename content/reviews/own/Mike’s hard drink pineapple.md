@@ -5,7 +5,6 @@ aliases:
 externalUrl:
 brand: mike’s
 types:
-  - alco
 taste:
   - pineapple
 publishedAt:

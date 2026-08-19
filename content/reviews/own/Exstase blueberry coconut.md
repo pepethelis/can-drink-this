@@ -1,13 +1,13 @@
 ---
-status: to publish
+status: published
 tags:
   - package/bagpak
-externalUrl:
+externalUrl: https://t.me/kallection/38152
 brand: exstase
 taste:
   - blueberry
   - coconut
-publishedAt:
+publishedAt: 2026-08-17
 favorite:
 container:
   - can
