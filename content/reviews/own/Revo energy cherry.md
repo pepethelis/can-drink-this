@@ -29,6 +29,7 @@ aliases:
   - Revo energy cherry
 types:
   - energy
+createdAt: 2025-12-20
 ---
 **Revo energy cherry**. Офіційний смак - вишня
 

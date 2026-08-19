@@ -37,6 +37,7 @@ aliases:
   - Monster juiced mango loco
 types:
   - energy
+createdAt: 2026-02-25
 ---
 **Monster Energy Juiced Mango Loco**, він же синій зі скелетами
 Офіційний смак - манго

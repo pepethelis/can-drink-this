@@ -33,6 +33,7 @@ aliases:
   - Celsius live fit cosmic vibe
 types:
   - energy
+createdAt: 2026-01-05
 ---
 Енергос **Celsius live fit cosmic vibe**. Офіційний смак - космік вайб, або, як сказано на сайті, "juicy fruit punch"
 По запаху ніби легкий цитрусовий, доволі солодкий

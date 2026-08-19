@@ -29,6 +29,7 @@ aliases:
   - Revo energy original
 types:
   - energy
+createdAt: 2025-12-13
 ---
 **Revo energy original**. Офіційний смак на банці не вказано, але ми знаємо що там буде смак рева
 

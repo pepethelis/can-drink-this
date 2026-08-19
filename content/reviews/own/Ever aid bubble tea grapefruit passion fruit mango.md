@@ -29,6 +29,7 @@ aliases:
   - Ever aid bubble tea grapefruit passion fruit mango
 types:
   - tea
+createdAt: 2026-02-25
 ---
 **Ever aid bubble tea grapefruit passion fruit mango**. Офіційний смак - грейпфрут, маракуя, манго
 

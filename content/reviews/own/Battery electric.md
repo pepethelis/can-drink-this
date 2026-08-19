@@ -30,6 +30,7 @@ aliases:
   - Батарейка синя
 types:
   - energy
+createdAt: 2026-03-05
 ---
 **Battery electric**. Офіційний смак - "синя" малина
 

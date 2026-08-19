@@ -30,6 +30,7 @@ aliases:
   - Revo energy grape
 types:
   - energy
+createdAt: 2025-12-17
 ---
 **Revo energy grape**. Офіційний смак - виноград
 

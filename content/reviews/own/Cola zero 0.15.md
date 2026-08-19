@@ -32,6 +32,7 @@ related:
   - "[[Cola coffee caramel]]"
   - "[[Monster assault]]"
   - "[[Redbull organics simply cola]]"
+createdAt: 2025-11-04
 ---
 **Coca cola zero**, тобто звичайна кола, але без цукру. Офіційний смак - кола лол
 

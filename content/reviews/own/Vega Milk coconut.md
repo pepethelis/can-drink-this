@@ -25,6 +25,7 @@ aliases:
   - Vega Milk coconut
 types:
   - plant-based
+createdAt: 2025-11-10
 ---
 Плент-бейзд дрінк **Vega Milk coconut with rice**. Офіційний смак - кокос
 

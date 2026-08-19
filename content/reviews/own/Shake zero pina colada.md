@@ -25,6 +25,7 @@ aliases:
   - Shake zero pina colada
 types:
   - fizzy
+createdAt: 2025-12-13
 ---
 **Shake zero pina colada**. Несподіваний камбек лінійки шейк зіро. Я думав я з нею закінчив, а тут отаке
 

@@ -29,12 +29,13 @@ aliases:
 types:
   - energy
 related:
-- "[[Hell Spritz Maracuja]]"
-- "[[Hell Spritz Lime]]"
-- "[[Hell multi plus]]"
-- "[[Hell focus plus]]"
-- "[[Hell Summer Groovy Grapefruit]]"
-- "[[Hell Summer Groovy Grapefruit]]"
+  - "[[Hell Spritz Maracuja]]"
+  - "[[Hell Spritz Lime]]"
+  - "[[Hell multi plus]]"
+  - "[[Hell focus plus]]"
+  - "[[Hell Summer Groovy Grapefruit]]"
+  - "[[Hell Summer Groovy Grapefruit]]"
+createdAt: 2025-12-27
 ---
 **Hell sparkler**. Офіційний смак - виноград
 
