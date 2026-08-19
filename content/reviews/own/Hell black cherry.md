@@ -28,6 +28,7 @@ aliases:
   - Хелл фіолетовий
 types:
   - energy
+createdAt: 2024-10-16
 ---
 **Hell black cherry**, він же фіолетовий
 Офіційний смак - черешня
