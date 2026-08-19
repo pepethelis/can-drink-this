@@ -31,6 +31,7 @@ aliases:
   - Моджо жовте
 types:
   - fizzy
+createdAt: 2026-04-19
 ---
 **Mojo pineapple twist**. Офіційний смак - ананас/полуниця/лемонграс
 

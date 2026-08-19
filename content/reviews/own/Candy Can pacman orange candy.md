@@ -30,6 +30,7 @@ aliases:
   - Candy Can pacman orange candy
 types:
   - fizzy
+createdAt: 2026-05-12
 ---
 **Candy Can pacman orange candy**. Офіційний смак - апельсин, малина, ананас
 

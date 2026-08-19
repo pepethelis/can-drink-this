@@ -28,6 +28,7 @@ aliases:
   - Candy Can birthday cake
 types:
   - fizzy
+createdAt: 2026-04-21
 ---
 **Candy Can birthday cake**. Офіційний смак - полуниця-ваніль
 

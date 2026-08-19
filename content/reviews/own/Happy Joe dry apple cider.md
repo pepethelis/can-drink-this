@@ -33,6 +33,7 @@ related:
   - "[[Lomza radler watermelon]]"
   - "[[Gosser natur radler]]"
   - "[[Toosecco, сидр сухий]]"
+createdAt: 2026-04-12
 ---
 **Happy Joe dry apple cider**. Офіційний смак - сухий сидр
 

@@ -25,6 +25,7 @@ aliases:
   - Shake zero mojito
 types:
   - fizzy
+createdAt: 2026-05-16
 ---
 **Shake zero mojito**. Друга банка з новітньої партії. Першою була [[Shake zero pina colada|піна колада]]
 

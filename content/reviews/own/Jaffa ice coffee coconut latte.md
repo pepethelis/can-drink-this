@@ -29,6 +29,7 @@ related:
   - "[[Hell ice coffee strawberry latte]]"
   - "[[Vega Milk banana]]"
   - "[[Vega Milk coconut]]"
+createdAt: 2026-05-04
 ---
 **Jaffa ice coffee coconut latte**. Офіційний смак - лате кокосове
 

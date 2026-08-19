@@ -30,6 +30,7 @@ aliases:
   - Monster black zero
 types:
   - energy
+createdAt: 2026-05-02
 ---
 **Monster Energy black zero**, він же монстр чорний, але без цукру
 Офіційний смак згідно із сайтом - "Такий самий, тільки без цукру!"

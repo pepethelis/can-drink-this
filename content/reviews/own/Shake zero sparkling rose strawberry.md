@@ -30,6 +30,7 @@ aliases:
   - Shake zero sparkling rose strawberry
 types:
   - fizzy
+createdAt: 2026-04-01
 ---
 **Shake zero sparkling rose strawberry**
 Офіційний смак - ігриста полуниця

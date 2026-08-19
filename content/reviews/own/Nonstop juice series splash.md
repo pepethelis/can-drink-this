@@ -38,6 +38,7 @@ related:
   - "[[Monster juiced mango loco]]"
   - "[[Monster juiced pacific punch]]"
   - "[[content/reviews/own/Monster juiced rio punch]]"
+createdAt: 2026-04-01
 ---
 **Nonstop juice series splash**. Офіційний смак - ніде не вказано
 

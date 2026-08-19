@@ -32,6 +32,7 @@ aliases:
   - Моджо зелене
 types:
   - fizzy
+createdAt: 2026-04-17
 ---
 **Mojo mint-lime**. Офіційний смак - м'ята та лайм
 

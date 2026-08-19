@@ -28,6 +28,7 @@ aliases:
 types:
   - alco
   - energy
+createdAt: 2026-04-27
 ---
 Кавовий алко-енержи **Bummer espresso**. Офіційний смак - еспресо
 

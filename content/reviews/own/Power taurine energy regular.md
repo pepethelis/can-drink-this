@@ -33,6 +33,7 @@ aliases:
   - Power taurine energy regular
 types:
   - energy
+createdAt: 2026-03-17
 ---
 **Power taurine energy regular**. Офіційний смак - regular, тому очікуємо класичний
 Запах класичний, солодкий, ніби навіть трохи мармеладний. На запах прикольно, мені подобається 
