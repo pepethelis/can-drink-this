@@ -28,7 +28,6 @@ views:
             - and:
                 - types.containsAny("alco")
                 - alco.isEmpty()
-            - availability.isEmpty()
   - type: table
     name: to publish, but not full
     filters:
@@ -43,4 +42,3 @@ views:
             - and:
                 - types.containsAny("alco")
                 - alco.isEmpty()
-            - availability.isEmpty()

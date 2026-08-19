@@ -18,6 +18,7 @@ related:
   - "[[Nonstop original]]"
   - "[[Nonstop original zero|Nonstop original zero]]"
 externalUrl: https://t.me/kallection/38145
+caffeine: 33
 ---
 "NS ORIGINAL" закос на класичний "NON-STOP" від російського бренду "World's best drinks"
 

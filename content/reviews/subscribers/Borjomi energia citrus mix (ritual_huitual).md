@@ -25,6 +25,7 @@ primaryColors:
   - blue
   - white
 createdAt: 2026-08-19
+caffeine: 30
 ---
 Citrus Mix Energia by Borjomi
 
@@ -51,3 +52,5 @@ Citrus Mix Energia by Borjomi
 
 
 Не вмріть від серцевого нападу!
+
+#огляди_від_підписників, [канал авторки](https://t.me/whatchadoinghereguyz)
