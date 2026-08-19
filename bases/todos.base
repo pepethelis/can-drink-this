@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.folder.startsWith("content/reviews/own")
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - createdAt.isEmpty()
+        - cover != link("default.png")
+    order:
+      - file.name
+      - cover
+      - createdAt
+      - formula.Untitled

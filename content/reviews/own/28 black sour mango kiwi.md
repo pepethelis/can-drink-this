@@ -34,6 +34,7 @@ related:
   - "[[Frugo mango]]"
   - "[[Rockstar mango]]"
   - "[[Monster juiced mango loco]]"
+createdAt: 2025-03-21
 ---
 **28 black**. Офіційний смак - **sour mango-kivi**
 
