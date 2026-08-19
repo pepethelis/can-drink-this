@@ -30,6 +30,7 @@ aliases:
   - Monster ultra fantasy ruby red
 types:
   - energy
+createdAt: 2025-10-04
 ---
 **Monster ultra fantasy ruby red**. Офіційний смак на банці не вказано, але на сайті - "Fresh Pink Pamplemousse", тобто помело або грейпфрут, тобто черговий цитрус
 Запах наче дійсно цитрус-грейпфрут, але я відчуваю його якось надто слабо. Запах є, запах приємний, але здається заслабким

@@ -27,6 +27,7 @@ aliases:
   - Hell Spritz Lime
 types:
   - energy
+createdAt: 2025-11-15
 ---
 **Hell Lime Spritz**. Офіційний смак - лайм та мʼята
 Пахне в принципі як треба - лаймом. Причому доволі автентично, надиво

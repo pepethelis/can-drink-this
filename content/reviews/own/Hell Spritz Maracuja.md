@@ -27,10 +27,11 @@ aliases:
 types:
   - energy
 related:
-- "[[Hell multi plus|Hell multi+]]"
-- "[[Hell focus plus|Hell focus+]]"
-- "[[Hell Summer Groovy Grapefruit]]"
-- "[[Hell Summer Chillin’ Guanabana]]"
+  - "[[Hell multi plus|Hell multi+]]"
+  - "[[Hell focus plus|Hell focus+]]"
+  - "[[Hell Summer Groovy Grapefruit]]"
+  - "[[Hell Summer Chillin’ Guanabana]]"
+createdAt: 2025-08-24
 ---
 **Hell Maracuja Spritz**, фіолетовий hell із лінійки spritz
 
