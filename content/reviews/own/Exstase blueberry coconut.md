@@ -1,5 +1,5 @@
 ---
-status: to publish
+status: published
 tags:
   - package/bagpak
 externalUrl: https://t.me/kallection/38152

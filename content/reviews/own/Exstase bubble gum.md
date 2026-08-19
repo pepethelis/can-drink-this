@@ -17,7 +17,6 @@ cover: "[[IMG_6444.jpeg]]"
 availability: 2
 summary:
 related:
-  - "[[Candy Can bubble gum]]"
 sponsor:
   - gdgood
 volume:
