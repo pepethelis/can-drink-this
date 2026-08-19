@@ -23,6 +23,7 @@ aliases:
   - Garage mandarin
 types:
   - alco
+createdAt: 2024-08-21
 ---
 **Garage Mandarin**🍊
 Як сука і будь-який інший гараж піниться як тварюка. Тупо найгірший напій, що можна брати на гуляння

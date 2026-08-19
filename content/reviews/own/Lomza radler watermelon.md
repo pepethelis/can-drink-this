@@ -24,6 +24,7 @@ aliases:
   - Lomza radler watermelon
 types:
   - radler
+createdAt: 2024-08-27
 ---
 **LOMZA Radler зі смаком кавуна та полуниці**
 Якийсь польський безалкогольний кавунячий пивас

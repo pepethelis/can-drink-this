@@ -5,7 +5,7 @@ externalUrl: https://t.me/kallection/22699
 brand: battery
 taste:
   - CLASSIC
-container: 
+container:
   - can
 publishedAt: 2024-09-19
 cover: "[[IMG_8301.jpg]]"
@@ -25,6 +25,7 @@ aliases:
   - Батарейка чорна
 types:
   - energy
+createdAt: 2024-09-19
 ---
 **Battery Energy Drink**, тобто дефолтна чорна батарейка
 Офіційний смак не вказано

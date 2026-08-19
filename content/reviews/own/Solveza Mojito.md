@@ -27,6 +27,7 @@ related:
   - "[[Toosecco, сидр сухий]]"
   - "[[Johan Freitag gin&tonic]]"
   - "[[Shake red]]"
+createdAt: 2024-09-27
 ---
 Якийсь пивний напій **Solveza Mojito**. Офіційний смак - мохіто
 

@@ -23,6 +23,7 @@ aliases:
   - Hell ice coffee latte
 types:
   - coffee
+createdAt: 2024-08-16
 ---
 **Hell ice coffee latte**, тобто кофік від хелл
 Спробував сьогодні. На вигляд як кофік, на смак як кофік. Мабуть то і є кофік, хоч і у банці

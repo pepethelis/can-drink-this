@@ -14,4 +14,7 @@ views:
       - createdAt
     sort:
       - property: publishedAt
-        direction: DESC
+        direction: ASC
+    columnSize:
+      file.name: 167
+      note.cover: 124

@@ -28,6 +28,7 @@ aliases:
   - Garage hardcore starfruit
 types:
   - alco
+createdAt: 2024-08-09
 ---
 **Garage hardcore cherry та starfruit**, вони ж гараж хард рожевий та зелений. Два огляди за раз
 Оглядаю разом, бо огляд вишневого я скіпнув, а про зелений і сказати майже нічого

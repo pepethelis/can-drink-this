@@ -29,6 +29,7 @@ aliases:
 types:
   - alco
   - energy
+createdAt: 2024-08-23
 ---
 **Revo, також відоме як рево сіре** 
 
