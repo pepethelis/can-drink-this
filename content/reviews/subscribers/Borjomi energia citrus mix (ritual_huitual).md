@@ -13,7 +13,7 @@ publishedAt:
 brand: borjomi/energia
 taste:
   - citrus
-cover: "[[default.png]]"
+cover: "[[photo_2026-08-19_18-55-01.jpg]]"
 related:
   - "[[Воля червона]]"
   - "[[Воля жовта|Воля жовта]]"

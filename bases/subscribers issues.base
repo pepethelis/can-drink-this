@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder.startsWith("content/reviews/subscribers")
+views:
+  - type: table
+    name: Таблиця
