@@ -6,7 +6,7 @@ views:
     name: Таблиця
     filters:
       and:
-        - sponsor.containsAny("verfolomei")
+        - brand == "exstase"
     order:
       - file.name
       - createdAt
