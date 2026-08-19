@@ -24,6 +24,7 @@ aliases:
   - Lomza radler cherry
 types:
   - radler
+createdAt: 2024-09-03
 ---
 **LOMZA Radler зі смаком яблука та вишні**
 Якийсь польський безалкогольний пивас, частина 2

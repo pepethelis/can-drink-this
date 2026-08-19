@@ -22,6 +22,7 @@ aliases:
   - Garage zero lime
 types:
   - fizzy
+createdAt: 2024-10-21
 ---
 **Garage fun zero**, зелений. Офіційний смак - **lime**
 Пахне як… гараж лол. Тільки з лаймовим вайбом
