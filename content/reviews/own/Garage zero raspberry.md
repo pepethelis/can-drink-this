@@ -23,6 +23,7 @@ aliases:
   - Garage zero raspberry
 types:
   - fizzy
+createdAt: 2024-10-11
 ---
 **Garage fun zero**, рожевий. Офіційний смак - **raspberry**
 Солоденько, дійсно малиново, як малиновий чай. ПІНИТЬСЯ ЯК СОТОНА

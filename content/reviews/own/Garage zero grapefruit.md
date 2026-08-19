@@ -22,6 +22,7 @@ aliases:
   - Garage zero grapefruit
 types:
   - fizzy
+createdAt: 2024-09-15
 ---
 **Garage fun zero**. Офіційний смак - **grapefruit**
 Солоденько, гіркенько, дійсно грейпфрутово. Освіжаюче, а якщо і пити прохолодним, то взагалі чілл

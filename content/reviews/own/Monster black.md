@@ -29,6 +29,7 @@ aliases:
   - Чорний монстр
 types:
   - energy
+createdAt: 2025-09-06
 ---
 **Monster Energy**, він же монстр чорний
 Офіційний смак згідно із сайтом - "Sweet and Salty - It tastes like Monster!"
