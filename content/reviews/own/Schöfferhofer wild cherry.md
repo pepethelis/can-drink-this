@@ -32,6 +32,7 @@ related:
   - "[[Lomza radler watermelon]]"
   - "[[Zibert grapefruit]]"
   - "[[Gosser natur radler]]"
+createdAt: 2024-09-22
 ---
 Радлер **Schofferhofer Wild Cherry**
 
