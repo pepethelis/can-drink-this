@@ -1,13 +1,13 @@
 ---
-status: to publish
+status: published
 tags:
   - package/quality
-externalUrl:
+externalUrl: https://t.me/kallection/38198
 brand: exstase
 taste:
   - bubblegum
   - ORIGINAL
-publishedAt:
+publishedAt: 2026-08-19
 favorite:
 container:
   - can
