@@ -44,4 +44,3 @@ views:
                 - types.containsAny("alco")
                 - alco.isEmpty()
             - availability.isEmpty()
-

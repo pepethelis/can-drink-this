@@ -12,6 +12,7 @@ status: to publish
 publishedAt:
 brand: ns
 taste:
+  - tropical
 cover: "[[photo_2026-08-18_23-16-50.jpg]]"
 related:
   - "[[Nonstop boost|Nonstop boost]]"
