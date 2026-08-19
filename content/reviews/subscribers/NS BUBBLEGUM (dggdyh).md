@@ -9,12 +9,12 @@ aliases:
   - NS BUBBLEGUM
 container:
   - can
-externalUrl:
+externalUrl: https://t.me/kallection/38209
 brand: ns
 volume:
   - "0.45"
-publishedAt:
-status: to publish
+publishedAt: 2026-08-19
+status: published
 related:
 ---
 "NS BUBBLEGUM" закос на баблгам "NON-STOP" (якщо таке є взагалі), від російського бренду "World's best drinks"
