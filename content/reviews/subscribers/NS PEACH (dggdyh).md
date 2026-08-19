@@ -15,6 +15,7 @@ externalUrl: https://t.me/kallection/37503
 aliases:
   - NS PEACH
 cover: "[[photo_2026-07-18_12-34-36.jpg]]"
+caffeine: 33
 ---
 "NS PEACH" закос на персиковий "NON-STOP" (хз, чи таке існує), від російського бренду "World's best drinks"
 
