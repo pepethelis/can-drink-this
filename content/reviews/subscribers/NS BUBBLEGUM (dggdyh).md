@@ -16,8 +16,6 @@ volume:
 publishedAt:
 status: to publish
 related:
-  - "[[Exstase bubble gum|Exstase bubble gum]]"
-  - "[[Exstase bubble gum|Exstase bubble gum]]"
 ---
 "NS BUBBLEGUM" закос на баблгам "NON-STOP" (якщо таке є взагалі), від російського бренду "World's best drinks"
 
