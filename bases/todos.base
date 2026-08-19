@@ -14,4 +14,6 @@ views:
       - file.name
       - cover
       - createdAt
-      - formula.Untitled
+    sort:
+      - property: publishedAt
+        direction: DESC
