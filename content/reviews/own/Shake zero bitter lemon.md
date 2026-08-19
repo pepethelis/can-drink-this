@@ -25,6 +25,7 @@ aliases:
   - Shake zero bitter lemon
 types:
   - fizzy
+createdAt: 2024-10-30
 ---
 **Shake zero bitter lemon**. Офіційний смак - мб лимонний (або ото, що маленьким шрифтом)
 Смак той самий, що у [[Shake zero orange crush|апельсинового варіка]], але більш гіркий та й все

@@ -27,6 +27,7 @@ aliases:
   - Monster juiced aussie style lemonade
 types:
   - energy
+createdAt: 2024-11-19
 ---
 **Monster juiced aussie style lemonade**, він же монстер з рибами
 Офіційний смак - пуссі стайлед лимонад

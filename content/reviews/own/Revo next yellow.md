@@ -24,6 +24,7 @@ aliases:
 types:
   - alco
   - energy
+createdAt: 2024-09-06
 ---
 **Who is next alco-enery purple fire**, смак - eccentric barberry
 

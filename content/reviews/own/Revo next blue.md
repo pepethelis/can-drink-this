@@ -24,6 +24,7 @@ aliases:
 types:
   - alco
   - energy
+createdAt: 2024-08-28
 ---
 **Who is next alco-enery pink fire**
 Якийсь новий напій, від видавця рева, нонстопа, шейка та моджо - who is next pink fire(офіційно смак - wild berry)

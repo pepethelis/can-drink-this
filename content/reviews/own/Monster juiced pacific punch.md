@@ -28,6 +28,7 @@ aliases:
   - Monster juiced pacific punch
 types:
   - energy
+createdAt: 2024-11-16
 ---
 **Monster Energy Pacific Punch**, він же монстр кремовий морський з русалкою
 Офіційний смак на банці не вказано, але на сайті "Classic Fruit Punch"

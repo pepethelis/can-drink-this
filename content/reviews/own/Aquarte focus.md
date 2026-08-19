@@ -22,6 +22,7 @@ aliases:
   - Aquarte focus
 types:
   - water
+createdAt: 2024-11-03
 ---
 Вода **Aquarte Focus**. Офіційний смак - яблуко-женьшень, хоча від яблука там лише ароматизатор
 

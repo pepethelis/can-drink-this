@@ -30,6 +30,7 @@ aliases:
   - Monster juiced monarch
 types:
   - energy
+createdAt: 2024-11-29
 ---
 **Monster Energy Juiced Monarch**, він же монстр з метеликами
 Офіційний смак не вказано, але на сайті "Peach and Nectarine"
