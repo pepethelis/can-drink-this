@@ -5,7 +5,7 @@ formulas:
   Untitled: cover.properties
 views:
   - type: table
-    name: Table
+    name: createdAt date
     filters:
       and:
         - createdAt.isEmpty()
@@ -17,3 +17,5 @@ views:
     sort:
       - property: publishedAt
         direction: DESC
+  - type: table
+    name: new formatting

@@ -1,12 +1,12 @@
 ---
-status: to publish
+status: published
 tags:
   - package/amp
-externalUrl:
+externalUrl: https://t.me/kallection/38205
 brand: candy can
 taste:
   - bubblegum
-publishedAt:
+publishedAt: 2026-08-19
 favorite:
 container:
   - can
