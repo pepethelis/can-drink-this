@@ -27,6 +27,7 @@ aliases:
   - Battery juiced sour apple
 types:
   - energy
+createdAt: 2025-05-01
 ---
 **Battery juiced sour apple**. Офіційний смак - кисле яблуко
 По запаху тут в міру натуральне яблуко, нормас в цілому, хоч і не супер виразно
