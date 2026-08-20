@@ -28,7 +28,7 @@ aliases:
 types:
   - energy
 telegram_format: html
-createdAt:
+createdAt: 2026-05-26
 ---
 **Redbull classic**. Офіційний смак не вказано, але ми розуміємо, що класичний
 

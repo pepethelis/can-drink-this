@@ -29,6 +29,7 @@ related:
   - "[[Booster energy drink absolute zero]]"
   - "[[Nonstop original]]"
   - "[[Nonstop original zero]]"
+createdAt: 2025-12-05
 ---
 **Ice wolf classic/Крижаний вовк класичний**. Офіційний смак - класичний, хоча я не згоден
 
