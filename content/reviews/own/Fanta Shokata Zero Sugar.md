@@ -33,6 +33,7 @@ types:
 related:
   - "[[Квас тарас flower power]]"
   - "[[Cola default]]"
+createdAt: 2025-01-17
 ---
 **Fanta Shokata Zero Sugar**
 

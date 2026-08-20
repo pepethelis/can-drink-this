@@ -19,6 +19,7 @@ aliases:
   - Buvette Watermelon Water
 types:
   - water
+createdAt: 2025-01-29
 ---
 **Buvette Watermelon Water**. Офіційний смак - **кавун**
 Дефолтна газована вода без додаткового смаку. А ще має запах кавунячого орбіту. На цьому в принципі все

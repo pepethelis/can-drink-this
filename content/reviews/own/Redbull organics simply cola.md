@@ -29,6 +29,7 @@ aliases:
   - Redbull organics simply cola
 types:
   - fizzy
+createdAt: 2025-03-22
 ---
 **Organics by redbull - simply cola**
 Офіційний смак - кола

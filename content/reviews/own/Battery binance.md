@@ -24,6 +24,7 @@ aliases:
   - Батарейка бінанс
 types:
   - energy
+createdAt: 2025-01-09
 ---
 **Battery Energy x Binance**
 Акційна батарейка у колабі з бінанс. Офіційний смак не вказано

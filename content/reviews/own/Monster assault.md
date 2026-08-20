@@ -30,6 +30,7 @@ aliases:
   - Monster assault
 types:
   - energy
+createdAt: 2025-03-22
 ---
 **Monster Energy Assault**
 Офіційний смак згідно із сайтом - “bourbon cola + monster”
