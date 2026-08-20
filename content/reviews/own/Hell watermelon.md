@@ -27,6 +27,7 @@ aliases:
   - Хелл кавун
 types:
   - energy
+createdAt: 2025-03-19
 ---
 **Hell watermelon**. Офіційний смак - кавун та тутті-фрутті
 

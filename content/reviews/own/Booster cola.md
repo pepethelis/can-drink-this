@@ -28,6 +28,7 @@ aliases:
   - Booster cola
 types:
   - energy
+createdAt: 2025-03-22
 ---
 **The Real Cola by BOOSTER**. Офіційний смак - кола
 На запах, як і на смак тупо дефолтна кола. Єдине, мені сподобалося на смак, коли вже нема газів

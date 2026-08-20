@@ -25,6 +25,7 @@ aliases:
   - King’s bridge gin&cherry
 types:
   - alco
+createdAt: 2025-03-27
 ---
 **King’s bridge бордовий**. Офіційний смак - джин та вишня
 Майже випадковий і не запланований огляд на новий крінжбрідж
