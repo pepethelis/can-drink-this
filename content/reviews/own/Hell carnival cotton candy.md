@@ -1,5 +1,5 @@
 ---
-status: to create
+status: to publish
 aliases:
   - Hell carnival cotton candy
 externalUrl:
@@ -14,7 +14,7 @@ container:
   - can
 sweeteners:
   - sugar
-cover: "[[default.png]]"
+cover: "[[IMG_7216.jpeg]]"
 availability: 3.5
 summary:
 primaryColors:
