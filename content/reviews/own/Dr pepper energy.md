@@ -27,6 +27,7 @@ aliases:
   - Dr pepper energy
 types:
   - energy
+createdAt: 2025-08-02
 ---
 **Dr Pepper energy**. Офіційний смак - доктор пеппер
 Мало того, що доктор пеппер у цікавому дизайні, так ще й на кофеїні

@@ -32,6 +32,7 @@ aliases:
 types:
   - alco
   - energy
+createdAt: 2025-06-20
 ---
 **Bronx black cherry**. Офіційний смак - вишня 
 

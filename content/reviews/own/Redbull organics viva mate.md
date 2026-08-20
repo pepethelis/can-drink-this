@@ -28,6 +28,7 @@ aliases:
   - Redbull organics viva mate
 types:
   - fizzy
+createdAt: 2025-06-25
 ---
 **Organics by redbull - viva mate**. Найнеочікуваніший із усієї лінійки
 Офіційний смак - мате

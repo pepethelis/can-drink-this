@@ -33,6 +33,7 @@ related:
   - "[[Gosser natur radler]]"
   - "[[Lomza radler cherry]]"
   - "[[Lomza radler watermelon]]"
+createdAt: 2025-06-11
 ---
 Радлер **Чернігівське біле fruter**. Офіційний смак - кавун та м'ята
 

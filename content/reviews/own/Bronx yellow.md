@@ -31,6 +31,7 @@ aliases:
 types:
   - alco
   - energy
+createdAt: 2025-06-18
 ---
 **Bronx жовтий**. Офіційний смак не вказано
 

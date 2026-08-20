@@ -32,6 +32,7 @@ aliases:
 types:
   - alco
   - energy
+createdAt: 2025-08-15
 ---
 **Bronx black orange**. Офіційний смак - чорний апельсин
 

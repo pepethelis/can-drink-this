@@ -28,6 +28,7 @@ aliases:
   - Redbull organics easy lemon
 types:
   - fizzy
+createdAt: 2025-08-10
 ---
 **Organics by redbull - easy lemon**
 Офіційний смак - хз, але я очікую типу спрайт

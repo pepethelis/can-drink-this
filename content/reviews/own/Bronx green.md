@@ -31,6 +31,7 @@ aliases:
 types:
   - alco
   - energy
+createdAt: 2025-08-24
 ---
 **Bronx зелений**. Офіційний смак - ківі-яблуко 
 

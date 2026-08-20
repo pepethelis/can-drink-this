@@ -23,6 +23,7 @@ aliases:
   - Hell Chillin' Guanabana-mango
 types:
   - energy
+createdAt: 2025-08-16
 ---
 **Hell Chillin' Guanabana-mango**, більш блакитний з двох hell summer
 Офіційний смак - гуарана-манго

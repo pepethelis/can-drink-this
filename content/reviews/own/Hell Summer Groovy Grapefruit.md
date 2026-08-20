@@ -21,6 +21,7 @@ aliases:
   - Hell Groovy Grapefruit
 types:
   - energy
+createdAt: 2025-08-10
 ---
 **Hell Groovy Grapefruit**, більш помаранчевий з двох hell summer
 Офіційний смак - грейпфрут
