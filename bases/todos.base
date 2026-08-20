@@ -10,6 +10,9 @@ views:
         - cover != link("default.png")
         - publishedAt >= "2025-01-01"
         - publishedAt <= "2026-10-01"
+    groupBy:
+      property: publishedAt
+      direction: ASC
     order:
       - file.name
       - cover

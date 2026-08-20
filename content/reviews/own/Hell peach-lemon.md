@@ -30,6 +30,7 @@ aliases:
 types:
   - energy
 telegram_format: html
+createdAt: 2026-05-16
 ---
 **Hell peach-lemon**, персиковий хелл
 Офіційний смак - червоний персик, лимон, лайм та тутті-фрутті
