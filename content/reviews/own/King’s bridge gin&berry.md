@@ -23,6 +23,7 @@ aliases:
   - King’s bridge gin&berry
 types:
   - alco
+createdAt: 2025-04-25
 ---
 **King’s bridge синій**. Офіційний смак - джин та ягоди
 

@@ -27,6 +27,7 @@ aliases:
   - Crazy wolf blue kaktus-feigen
 types:
   - energy
+createdAt: 2025-05-03
 ---
 **Crazy wolf блакитний**. Офіційний смак - kaktusfeigen, це щось типу драконячого фрукту
 Того разу першим пробував редбул і потім засрав вовка, тому цього разу першим смакую вовка
