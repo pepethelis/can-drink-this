@@ -26,6 +26,7 @@ aliases:
   - Monster ultra black
 types:
   - energy
+createdAt: 2025-06-08
 ---
 **Monster ultra black**. Офіційний смак згідно сайту - "Crisp and Refreshing Black Cherry"
 На запах чисто вишневе желе лол
