@@ -1,5 +1,5 @@
 ---
-status: needs update
+status: to publish
 tags:
   - package/canpack
 externalUrl: https://t.me/kallection/26142
@@ -10,7 +10,7 @@ favorite: true
 container:
   - can
 publishedAt: 2025-02-08
-cover: "[[IMG_5335.jpg]]"
+cover: "[[IMG_7209.jpeg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
@@ -31,6 +31,7 @@ types:
 related:
   - "[[Burn white gummy bear|Burn white gummy bear]]"
   - "[[Hell carnival cotton candy|Hell carnival cotton candy]]"
+createdAt: 2026-08-20
 ---
 **Battery unicorn**, енергосік від карсберг. Офіційний смак - цукрова вата, неофіційний - каєфний
 

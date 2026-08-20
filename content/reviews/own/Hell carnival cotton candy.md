@@ -29,6 +29,7 @@ alco:
 related:
   - "[[Komodo cactus|Komodo cactus]]"
   - "[[Redbull green edition|Redbull green edition]]"
+createdAt: 2026-08-20
 ---
 **Hell carnival cotton candy**. Офіційний смак - цукрова вата
 
