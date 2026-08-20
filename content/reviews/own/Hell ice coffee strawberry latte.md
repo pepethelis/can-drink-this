@@ -10,7 +10,7 @@ taste:
 container:
   - can
 publishedAt: 2024-08-30
-cover: "[[Pasted image 20250512014018.png]]"
+cover: "[[IMG_7702.jpeg]]"
 sweeteners:
   - sugar
 availability: 3
