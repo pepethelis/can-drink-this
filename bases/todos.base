@@ -8,7 +8,7 @@ views:
       and:
         - createdAt.isEmpty()
         - cover != link("default.png")
-        - publishedAt >= "2022-01-01"
+        - publishedAt >= "2024-01-01"
         - publishedAt <= "2025-04-01"
     order:
       - file.name
