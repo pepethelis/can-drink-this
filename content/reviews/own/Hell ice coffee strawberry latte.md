@@ -24,6 +24,7 @@ aliases:
   - Hell ice coffee strawberry latte
 types:
   - coffee
+createdAt: 2024-08-30
 ---
 **Hell ice coffee pink latte**
 Лімітка зі смаком полуниці та білого шоколаду
