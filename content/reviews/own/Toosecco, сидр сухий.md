@@ -30,6 +30,7 @@ related:
   - "[[Gosser natur radler]]"
   - "[[Johan Freitag gin&tonic]]"
   - "[[Gardenz cola]]"
+createdAt: 2025-05-06
 ---
 **Сидр сухий toosecco**. Офіційний смак - виноград.
 

@@ -25,6 +25,7 @@ aliases:
   - Hell multi+
 types:
   - energy
+createdAt: 2025-06-05
 ---
 **Hell multi+**. Офіційний смак - фруктове асорті
 

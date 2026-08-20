@@ -25,6 +25,7 @@ aliases:
   - Garage pineberry&mint
 types:
   - alco
+createdAt: 2025-06-10
 ---
 **Garage pineberry&mint**. Офіційний смак - біла полуниця та м'ята
 

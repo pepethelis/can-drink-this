@@ -26,6 +26,7 @@ types:
   - alco
 related:
   - "[[King’s bridge gin&tonic]]"
+createdAt: 2025-05-30
 ---
 **Johan Freitag gin&tonic**. Офіційний смак мабуть джин+тонік, підкажіть чат
 

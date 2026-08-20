@@ -28,6 +28,7 @@ aliases:
   - Crazy wolf green ginseng-guarana
 types:
   - energy
+createdAt: 2025-05-13
 ---
 **Crazy wolf зелений**. Офіційний смак - женьшень, гуарана
 На запах майже як класичний енергос 

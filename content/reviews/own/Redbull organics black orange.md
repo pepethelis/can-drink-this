@@ -29,6 +29,7 @@ aliases:
   - Redbull organics black orange
 types:
   - fizzy
+createdAt: 2025-05-10
 ---
 **Organics by redbull - black orange**
 Офіційний смак - хз, але я думаю що буде типу фанта

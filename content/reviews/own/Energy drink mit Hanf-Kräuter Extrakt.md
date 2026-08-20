@@ -9,7 +9,7 @@ taste:
 favorite: true
 container:
   - can
-publishedAt: 2025-05-25
+publishedAt: 2025-04-20
 cover: "[[IMG_5159.jpg]]"
 sweeteners:
   - sugar
@@ -29,6 +29,7 @@ aliases:
   - Energy drink mit Hanf-Kräuter Extrakt
 types:
   - energy
+createdAt: 2025-04-14
 ---
 **Energy drink mit Hanf-Kräuter Extrakt**. Офіційний смак - екстракт канабісу
 
