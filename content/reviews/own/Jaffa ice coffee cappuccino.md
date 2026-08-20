@@ -29,6 +29,7 @@ related:
   - "[[Hell ice coffee strawberry latte]]"
   - "[[Vega Milk banana]]"
   - "[[Vega Milk coconut]]"
+createdAt: 2026-04-22
 ---
 **Jaffa ice coffee cappuccino**. Офіційний смак - капучіно
 

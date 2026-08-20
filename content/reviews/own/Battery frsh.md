@@ -26,6 +26,7 @@ aliases:
   - Батарейка фреш
 types:
   - energy
+createdAt: 2026-05-05
 ---
 **Battery Frsh**, тобто жовто-червона батарейка
 

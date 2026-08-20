@@ -28,6 +28,7 @@ primaryColors:
 manufacturer: new products
 types:
   - energy
+createdAt: 2025-06-08
 ---
 **Nonstop stalker moonlight**, він же фіолетовий нонстоп сталкер. Офіційний смак - манго-груша
 По запаху на перше враження це манго з димом. На друге враження просто стигле манго, наче без груші

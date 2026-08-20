@@ -30,6 +30,7 @@ related:
   - "[[Hell ice coffee strawberry latte]]"
   - "[[Vega Milk banana]]"
   - "[[Vega Milk coconut]]"
+createdAt: 2026-04-25
 ---
 **Jaffa ice coffee moccaccino**. Офіційний смак - мокачіно
 
