@@ -28,6 +28,7 @@ aliases:
   - Хелл синій
 types:
   - energy
+createdAt: 2025-09-14
 ---
 **Hell goji berry**, тобто синій хелл
 Офіційний смак - ягоди годжі

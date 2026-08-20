@@ -25,6 +25,7 @@ aliases:
   - Vega Milk banana
 types:
   - plant-based
+createdAt: 2025-10-12
 ---
 Плент-бейзд дрінк **Vega Milk banana with oat**. Офіційний смак - банан
 
