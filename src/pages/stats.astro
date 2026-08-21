@@ -12,6 +12,7 @@ import postFilter from "@/utils/postFilter";
 const allReviews = await getCollection("reviews", ({ data }) =>
   postFilter({ data })
 );
+const allReviewsIncludingUnpublished = await getCollection("reviews");
 const sorted = getSortedPosts(allReviews);
 
 // ── Summary ───────────────────────────────────────────────────────────────────
@@ -40,6 +41,16 @@ const catMap = new Map<string, number>();
 for (const r of sorted)
   catMap.set(r.data.category, (catMap.get(r.data.category) ?? 0) + 1);
 const categoryData: [string, number][] = [...catMap.entries()].sort(
+  (a, b) => b[1] - a[1]
+);
+
+// ── Author distribution ──────────────────────────────────────────────────────
+const authorMap = new Map<string, number>();
+for (const r of sorted) {
+  const author = r.data.author;
+  authorMap.set(author, (authorMap.get(author) ?? 0) + 1);
+}
+const authorData: [string, number][] = [...authorMap.entries()].sort(
   (a, b) => b[1] - a[1]
 );
 
@@ -83,6 +94,24 @@ if (monthMap.size > 0) {
     cur.setMonth(cur.getMonth() + 1);
   }
 }
+
+const postingGapMap = new Map<string, { totalDays: number; count: number }>();
+for (const r of sorted) {
+  const createdAt = r.data.createdAt;
+  const publishedAt = r.data.publishedAt;
+  if (!createdAt || !publishedAt) continue;
+
+  const key = `${publishedAt.getFullYear()}-${String(publishedAt.getMonth() + 1).padStart(2, "0")}`;
+  const totalDays = (publishedAt.getTime() - createdAt.getTime()) / 86400000;
+  const current = postingGapMap.get(key) ?? { totalDays: 0, count: 0 };
+  postingGapMap.set(key, {
+    totalDays: current.totalDays + totalDays,
+    count: current.count + 1,
+  });
+}
+const postingGapData: [string, number][] = [...postingGapMap.entries()]
+  .sort(([a], [b]) => a.localeCompare(b))
+  .map(([key, { totalDays, count }]) => [key, totalDays / count]);
 
 // ── Top tastes ────────────────────────────────────────────────────────────────
 const tasteMap = new Map<string, number>();
@@ -169,6 +198,17 @@ const activityData: [string, number][] = [...dayMap.entries()].sort((a, b) =>
   a[0].localeCompare(b[0])
 );
 
+const creationDayMap = new Map<string, number>();
+for (const r of allReviewsIncludingUnpublished) {
+  const d = r.data.createdAt;
+  if (!d) continue;
+  const key = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+  creationDayMap.set(key, (creationDayMap.get(key) ?? 0) + 1);
+}
+const creationActivityData: [string, number][] = [...creationDayMap.entries()].sort(
+  (a, b) => a[0].localeCompare(b[0])
+);
+
 const reviewsUrl = import.meta.env.BASE_URL.replace(/\/$/, "") + "/reviews";
 ---
 
@@ -214,15 +254,18 @@ const reviewsUrl = import.meta.env.BASE_URL.replace(/\/$/, "") + "/reviews";
     <StatsCharts
       client:load
       categoryData={categoryData}
+      authorData={authorData}
       typeData={typeData}
       brandData={brandData}
       timeData={timeData}
+      postingGapData={postingGapData}
       tasteData={tasteData}
       containerData={containerData}
       sweetenerData={sweetenerData}
       caffeineDistData={caffeineDistData}
       alcoData={alcoData}
       activityData={activityData}
+      creationActivityData={creationActivityData}
       sponsorData={sponsorData}
     />
   </Main>

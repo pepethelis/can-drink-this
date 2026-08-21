@@ -7,6 +7,8 @@ import {
   Legend,
   BarChart,
   Bar,
+  LineChart,
+  Line,
   XAxis,
   YAxis,
   CartesianGrid,
@@ -16,15 +18,18 @@ type KV = [string, number];
 
 interface Props {
   categoryData: KV[];
+  authorData: KV[];
   typeData: KV[];
   brandData: KV[];
   timeData: KV[];
+  postingGapData: KV[];
   tasteData: KV[];
   containerData: KV[];
   sweetenerData: KV[];
   caffeineDistData: KV[];
   alcoData: KV[];
   activityData: KV[];
+  creationActivityData: KV[];
   sponsorData: KV[];
 }
 
@@ -280,6 +285,63 @@ function TimeChart({
   );
 }
 
+function PostingGapChart({
+  data,
+  colors,
+}: {
+  data: KV[];
+  colors: Colors;
+}) {
+  const items = data.map(([key, value]) => {
+    const [y, m] = key.split("-");
+    const label = new Date(Number(y), Number(m) - 1, 1).toLocaleDateString("en", {
+      month: "short",
+      year: "2-digit",
+    });
+    return { label, value: Number(value.toFixed(1)) };
+  });
+
+  return (
+    <ResponsiveContainer width="100%" height={200}>
+      <LineChart data={items} margin={{ top: 4, right: 8, bottom: 0, left: 0 }}>
+        <CartesianGrid
+          vertical={false}
+          stroke={hexA(colors.foreground, 0.08)}
+        />
+        <XAxis
+          dataKey="label"
+          tick={{ fontSize: 10, fill: hexA(colors.foreground, 0.5) }}
+          axisLine={false}
+          tickLine={false}
+          interval="preserveStartEnd"
+        />
+        <YAxis
+          allowDecimals
+          tick={{ fontSize: 11, fill: hexA(colors.foreground, 0.5) }}
+          axisLine={false}
+          tickLine={false}
+          width={32}
+        />
+        <Tooltip
+          cursor={{ stroke: hexA(colors.foreground, 0.15) }}
+          contentStyle={tooltipStyle(colors)}
+          // @ts-expect-error recharts 3.x intersection type is overly strict
+          formatter={(v: number) => [`${v} days`, "average gap"]}
+        />
+        <Line
+          type="monotone"
+          dataKey="value"
+          name="Average gap"
+          stroke={colors.accent}
+          strokeWidth={2}
+          dot={{ r: 3, fill: colors.accent }}
+          activeDot={{ r: 5 }}
+        />
+      </LineChart>
+    </ResponsiveContainer>
+  );
+}
+
 function ActivityGraph({ data, colors }: { data: KV[]; colors: Colors }) {
   const [hovered, setHovered] = useState<{ date: string; count: number } | null>(null);
 
@@ -419,15 +481,18 @@ function ActivityGraph({ data, colors }: { data: KV[]; colors: Colors }) {
 
 export default function StatsCharts({
   categoryData,
+  authorData,
   typeData,
   brandData,
   timeData,
+  postingGapData,
   tasteData,
   containerData,
   sweetenerData,
   caffeineDistData,
   alcoData,
   activityData,
+  creationActivityData,
   sponsorData,
 }: Props) {
   const colors = useTheme();
@@ -440,10 +505,21 @@ export default function StatsCharts({
         </Card>
       )}
 
+      {creationActivityData.length > 0 && (
+        <Card title="Creation activity">
+          <ActivityGraph data={creationActivityData} colors={colors} />
+        </Card>
+      )}
+
       <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
         {categoryData.length > 0 && (
           <Card title="By category">
             <DonutChart data={categoryData} colors={colors} />
+          </Card>
+        )}
+        {authorData.length > 0 && (
+          <Card title="By author">
+            <DonutChart data={authorData} colors={colors} />
           </Card>
         )}
         {typeData.length > 0 && (
@@ -461,6 +537,12 @@ export default function StatsCharts({
       {timeData.length > 0 && (
         <Card title="Reviews over time">
           <TimeChart data={timeData} colors={colors} />
+        </Card>
+      )}
+
+      {postingGapData.length > 0 && (
+        <Card title="Average posting gap">
+          <PostingGapChart data={postingGapData} colors={colors} />
         </Card>
       )}
 

@@ -50,6 +50,7 @@ const reviews = defineCollection({
   schema: ({ image }) =>
     z.object({
       // article metadata
+      createdAt: z.date().nullish(),
       publishedAt: z.date().nullish(),
       updatedAt: z.date().nullish(),
       aliases: z.array(z.string()).min(1),
