@@ -25,7 +25,7 @@ export const resolveImageAsset = (
   );
   if (match) return match[1] as ImageMetadata;
 
-  return normalized;
+  return undefined;
 };
 
 export const resolveImageSrc = (
