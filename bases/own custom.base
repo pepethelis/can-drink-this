@@ -4,12 +4,12 @@ filters:
 views:
   - type: table
     name: Таблиця
-    filters:
-      and:
-        - brand == "exstase"
     order:
       - file.name
       - createdAt
+      - publishedAt
     sort:
+      - property: createdAt
+        direction: DESC
       - property: file.mtime
         direction: DESC
