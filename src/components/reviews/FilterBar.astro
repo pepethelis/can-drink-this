@@ -7,6 +7,7 @@ import FilterBoolToggle from "./FilterBoolToggle.astro";
 
 interface Props {
   categories: [string, number][];
+  authors: [string, number][];
   types: [string, number][];
   containers: [string, number][];
   tastes: [string, number][];
@@ -18,6 +19,7 @@ interface Props {
 
 const {
   categories,
+  authors,
   types,
   containers,
   tastes,
@@ -29,6 +31,7 @@ const {
 
 const SINGLE_KEYS = [
   "category",
+  "author",
   "type",
   "brand",
   "container",
@@ -45,6 +48,12 @@ const ALL_FILTER_KEYS = [...SINGLE_KEYS, ...MULTI_KEYS, "favorite"] as const;
     label="Category"
     tooltip="Категорія огляду"
     options={categories}
+  />
+  <FilterDropdown
+    filterKey="author"
+    label="Author"
+    tooltip="Автор огляду"
+    options={authors}
   />
   <FilterDropdown
     filterKey="type"
@@ -132,6 +141,7 @@ const ALL_FILTER_KEYS = [...SINGLE_KEYS, ...MULTI_KEYS, "favorite"] as const;
 <script>
   const SINGLE_KEYS = [
     "category",
+    "author",
     "type",
     "brand",
     "container",
@@ -174,6 +184,7 @@ const ALL_FILTER_KEYS = [...SINGLE_KEYS, ...MULTI_KEYS, "favorite"] as const;
 
   function itemMatches(item: HTMLElement, params: URLSearchParams): boolean {
     const cat = params.get("category");
+    const author = params.get("author");
     const type = params.get("type");
     const brand = params.get("brand");
     const container = params.get("container");
@@ -182,6 +193,7 @@ const ALL_FILTER_KEYS = [...SINGLE_KEYS, ...MULTI_KEYS, "favorite"] as const;
     const sponsor = params.get("sponsor");
 
     if (cat && item.dataset.category !== cat) return false;
+    if (author && item.dataset.author !== author) return false;
     if (type && !parseArr(item.dataset.types).includes(type)) return false;
     if (brand && !matchesBrand(item, brand)) return false;
     if (container && !parseArr(item.dataset.containers).includes(container))

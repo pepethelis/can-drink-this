@@ -19,6 +19,7 @@ const sorted = getSortedPosts(allReviews);
 
 // ── Filter option maps ────────────────────────────────────────────────────────
 const catMap = new Map<string, number>();
+const authorMap = new Map<string, number>();
 const typeMap = new Map<string, number>();
 const containerMap = new Map<string, number>();
 const tasteMap = new Map<string, number>();
@@ -27,6 +28,7 @@ const brandGroupMap = new Map<string, BrandGroup>();
 
 for (const r of sorted) {
   catMap.set(r.data.category, (catMap.get(r.data.category) ?? 0) + 1);
+  authorMap.set(r.data.author, (authorMap.get(r.data.author) ?? 0) + 1);
   for (const t of r.data.types ?? []) typeMap.set(t, (typeMap.get(t) ?? 0) + 1);
 
   const brand = r.data.brand;
@@ -53,6 +55,7 @@ for (const r of sorted) {
 }
 
 const categories = [...catMap.entries()].sort((a, b) => b[1] - a[1]);
+const authors = [...authorMap.entries()].sort((a, b) => b[1] - a[1]);
 const types = [...typeMap.entries()].sort((a, b) => b[1] - a[1]);
 const containers = [...containerMap.entries()].sort((a, b) => b[1] - a[1]);
 const tastes = [...tasteMap.entries()].sort((a, b) => b[1] - a[1]);
@@ -83,6 +86,7 @@ const sponsors = [...sponsorMap.entries()].sort((a, b) => b[1] - a[1]);
   <Main pageTitle="Reviews" pageDesc="All the reviews I've collected.">
     <FilterBar
       categories={categories}
+      authors={authors}
       types={types}
       containers={containers}
       tastes={tastes}
@@ -102,6 +106,7 @@ const sponsors = [...sponsorMap.entries()].sort((a, b) => b[1] - a[1]);
             <div
               data-review
               data-category={review.data.category}
+              data-author={review.data.author}
               data-types={JSON.stringify(review.data.types ?? [])}
               data-brand={brand}
               data-brand-base={brandBase}
