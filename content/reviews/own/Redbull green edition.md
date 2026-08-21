@@ -8,7 +8,7 @@ taste:
   - cactus fruit
 container:
   - can
-publishedAt: 2025-05-03
+publishedAt:
 cover: "[[IMG_5908.jpg]]"
 sweeteners:
   - sugar

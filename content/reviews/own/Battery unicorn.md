@@ -9,7 +9,7 @@ taste:
 favorite: true
 container:
   - can
-publishedAt: 2025-02-08
+publishedAt:
 cover: "[[IMG_7209.jpeg]]"
 sweeteners:
   - sugar

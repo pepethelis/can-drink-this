@@ -46,3 +46,9 @@ views:
                 - alco.isEmpty()
             - availability.isEmpty()
             - createdAt.isEmpty()
+  - type: table
+    name: Подання
+    filters:
+      and:
+        - '!status.containsAny("published", "needs update")'
+        - "!publishedAt.isEmpty()"

@@ -1,5 +1,5 @@
 ---
-status: to update
+status: needs update
 tags:
   - package/canpack
 externalUrl: https://t.me/kallection/26139

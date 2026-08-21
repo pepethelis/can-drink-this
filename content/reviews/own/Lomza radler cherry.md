@@ -1,5 +1,5 @@
 ---
-status: to update
+status: needs update
 tags:
   - country/poland
 externalUrl: https://t.me/kallection/22352
