@@ -50,5 +50,5 @@ views:
     name: Подання
     filters:
       and:
-        - '!status.containsAny("published", "needs update")'
+        - '!status.containsAny("published", "needs update", "to update")'
         - "!publishedAt.isEmpty()"

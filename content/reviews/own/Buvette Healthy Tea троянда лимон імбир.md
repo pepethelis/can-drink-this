@@ -1,5 +1,5 @@
 ---
-status: to update
+status: needs update
 tags:
 externalUrl: https://t.me/kallection/27671
 brand: buevette
