@@ -8,8 +8,8 @@ container:
   - can
 volume:
   - "0.24"
-status: to publish
-publishedAt:
+status: published
+publishedAt: 2026-08-22
 brand: borjomi/energia
 taste:
   - citrus
@@ -26,6 +26,7 @@ primaryColors:
   - white
 createdAt: 2026-08-19
 caffeine: 30
+externalUrl: https://t.me/kallection/38271
 ---
 Citrus Mix Energia by Borjomi
 

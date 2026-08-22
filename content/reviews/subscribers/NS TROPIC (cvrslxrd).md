@@ -8,14 +8,15 @@ container:
   - can
 volume:
   - "0.45"
-status: to publish
-publishedAt:
+status: published
+publishedAt: 2026-08-22
 brand: ns
 taste:
   - tropical
 cover: "[[photo_2026-08-18_23-16-50.jpg]]"
 related:
   - "[[Nonstop boost|Nonstop boost]]"
+externalUrl: https://t.me/kallection/38274
 ---
 “NS TROPIC” закос на класичний “NON-STOP” від російського бренду “World’s best drinks”
 
@@ -43,4 +44,4 @@ related:
 
 Висновки: 50/50, просто звичайний енергетик не самий смачний. За ті кошти які він коштує є багато інших енергосів які смачніші (той же “Burn” якщо піймати скидки)))
 
-#огляди_від_підписників
+#огляди_від_підписників, дебют нового автора

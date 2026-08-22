@@ -1,15 +1,15 @@
 ---
-status: to publish
+status: published
 aliases:
   - Erbe ice tea orange mint
-externalUrl:
+externalUrl: https://t.me/kallection/38281
 brand: erbe
 types:
   - tea
 taste:
   - orange
   - mint
-publishedAt:
+publishedAt: 2026-08-22
 favorite:
 container:
   - can
