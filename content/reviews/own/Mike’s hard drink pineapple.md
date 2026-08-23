@@ -1,14 +1,14 @@
 ---
-status: to publish
+status: published
 aliases:
   - Mike’s hard drink pineapple
-externalUrl:
+externalUrl: https://t.me/kallection/38287
 brand: mike’s
 types:
   - alco
 taste:
   - pineapple
-publishedAt:
+publishedAt: 2026-08-22
 favorite:
 container:
   - glass
