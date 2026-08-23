@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import type { ReviewStatsData } from "@/utils/getReviewStats";
 import {
   ResponsiveContainer,
   PieChart,
@@ -17,20 +18,9 @@ import {
 type KV = [string, number];
 
 interface Props {
-  categoryData: KV[];
-  authorData: KV[];
-  typeData: KV[];
-  brandData: KV[];
-  timeData: KV[];
-  postingGapData: KV[];
-  tasteData: KV[];
-  containerData: KV[];
-  sweetenerData: KV[];
-  caffeineDistData: KV[];
-  alcoData: KV[];
-  activityData: KV[];
-  creationActivityData: KV[];
-  sponsorData: KV[];
+  allStats: ReviewStatsData;
+  ownStats: ReviewStatsData;
+  reviewsUrl: string;
 }
 
 const PALETTE = [
@@ -480,25 +470,79 @@ function ActivityGraph({ data, colors }: { data: KV[]; colors: Colors }) {
 }
 
 export default function StatsCharts({
-  categoryData,
-  authorData,
-  typeData,
-  brandData,
-  timeData,
-  postingGapData,
-  tasteData,
-  containerData,
-  sweetenerData,
-  caffeineDistData,
-  alcoData,
-  activityData,
-  creationActivityData,
-  sponsorData,
+  allStats,
+  ownStats,
+  reviewsUrl,
 }: Props) {
   const colors = useTheme();
+  const [view, setView] = useState<"all" | "own">("all");
+  const stats = view === "all" ? allStats : ownStats;
+  const {
+    totalReviews,
+    favoritesCount,
+    brandsCount,
+    sponsoredCount,
+    categoryData,
+    authorData,
+    typeData,
+    brandData,
+    timeData,
+    postingGapData,
+    tasteData,
+    containerData,
+    sweetenerData,
+    caffeineDistData,
+    alcoData,
+    activityData,
+    creationActivityData,
+    sponsorData,
+  } = stats;
 
   return (
     <div className="space-y-6">
+      <div className="flex flex-wrap items-center justify-between gap-4">
+        <a
+          href={reviewsUrl}
+          className="inline-flex items-center gap-1 text-sm text-foreground/60 hover:text-accent"
+        >
+          ← All reviews
+        </a>
+        <div className="inline-flex rounded-lg bg-muted p-1" role="group" aria-label="Review scope">
+          <button
+            type="button"
+            className={`rounded-md px-3 py-1.5 text-xs font-medium transition-colors ${view === "all" ? "bg-background text-foreground shadow-sm" : "text-foreground/55 hover:text-foreground"}`}
+            aria-pressed={view === "all"}
+            onClick={() => setView("all")}
+          >
+            All reviews
+          </button>
+          <button
+            type="button"
+            className={`rounded-md px-3 py-1.5 text-xs font-medium transition-colors ${view === "own" ? "bg-background text-foreground shadow-sm" : "text-foreground/55 hover:text-foreground"}`}
+            aria-pressed={view === "own"}
+            onClick={() => setView("own")}
+          >
+            Own reviews
+          </button>
+        </div>
+      </div>
+
+      <div className="grid grid-cols-2 gap-4 sm:grid-cols-4">
+        {[
+          [totalReviews, "Reviews"],
+          [brandsCount, "Brands"],
+          [favoritesCount, "Favorite Drinks"],
+          [sponsoredCount, "Sponsored Items"],
+        ].map(([value, label]) => (
+          <div key={label} className="rounded-lg bg-muted p-4 text-center">
+            <div className="text-3xl font-bold text-accent">{value}</div>
+            <div className="mt-1 text-xs tracking-widest text-foreground/50 uppercase">
+              {label}
+            </div>
+          </div>
+        ))}
+      </div>
+
       {activityData.length > 0 && (
         <Card title="Publication activity">
           <ActivityGraph data={activityData} colors={colors} />
