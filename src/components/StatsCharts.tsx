@@ -487,6 +487,8 @@ export default function StatsCharts({
     typeData,
     brandData,
     timeData,
+    publicationYearData,
+    publicationMonthData,
     postingGapData,
     tasteData,
     containerData,
@@ -583,6 +585,27 @@ export default function StatsCharts({
           <TimeChart data={timeData} colors={colors} />
         </Card>
       )}
+
+      <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
+        {publicationYearData.length > 0 && (
+          <Card title="Publications by year">
+            <HBarChart
+              data={publicationYearData}
+              colors={colors}
+              height={Math.max(180, publicationYearData.length * 26)}
+            />
+          </Card>
+        )}
+        {publicationMonthData.length > 0 && (
+          <Card title="Publications by month">
+            <HBarChart
+              data={publicationMonthData}
+              colors={colors}
+              height={Math.max(180, publicationMonthData.length * 26)}
+            />
+          </Card>
+        )}
+      </div>
 
       {postingGapData.length > 0 && (
         <Card title="Average posting gap">

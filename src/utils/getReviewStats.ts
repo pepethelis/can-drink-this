@@ -11,6 +11,8 @@ export type ReviewStatsData = {
   typeData: [string, number][];
   brandData: [string, number][];
   timeData: [string, number][];
+  publicationYearData: [string, number][];
+  publicationMonthData: [string, number][];
   postingGapData: [string, number][];
   tasteData: [string, number][];
   containerData: [string, number][];
@@ -68,6 +70,8 @@ export default function getReviewStats(
   const caffeineMap = new Map<string, number>();
   const alcoMap = new Map<string, number>();
   const monthMap = new Map<string, number>();
+  const publicationYearMap = new Map<string, number>();
+  const publicationMonthMap = new Map<number, number>();
   const activityMap = new Map<string, number>();
   const postingGapMap = new Map<string, { totalDays: number; count: number }>();
   for (const review of reviews) {
@@ -83,6 +87,10 @@ export default function getReviewStats(
       const key = dateKey(publishedAt);
       const month = key.slice(0, 7);
       monthMap.set(month, (monthMap.get(month) ?? 0) + 1);
+      const year = String(publishedAt.getFullYear());
+      publicationYearMap.set(year, (publicationYearMap.get(year) ?? 0) + 1);
+      const monthNumber = publishedAt.getMonth();
+      publicationMonthMap.set(monthNumber, (publicationMonthMap.get(monthNumber) ?? 0) + 1);
       activityMap.set(key, (activityMap.get(key) ?? 0) + 1);
       const createdAt = review.data.createdAt;
       if (createdAt) {
@@ -126,6 +134,14 @@ export default function getReviewStats(
     typeData,
     brandData,
     timeData,
+    publicationYearData: [...publicationYearMap.entries()]
+      .sort(([a], [b]) => a.localeCompare(b)),
+    publicationMonthData: [...publicationMonthMap.entries()]
+      .sort(([a], [b]) => a - b)
+      .map(([month, count]) => [
+        new Date(2000, month, 1).toLocaleDateString("en", { month: "short" }),
+        count,
+      ]),
     postingGapData: [...postingGapMap.entries()]
       .sort(([a], [b]) => a.localeCompare(b))
       .map(([key, value]) => [key, value.totalDays / value.count]),
