@@ -4,6 +4,9 @@ filters:
 views:
   - type: table
     name: Таблиця
+    filters:
+      and:
+        - brand.startsWith("monster")
     order:
       - file.name
       - createdAt
