@@ -1,13 +1,13 @@
 ---
-status: to publish
+status: published
 tags:
   - country/poland
   - package/amp
-externalUrl:
+externalUrl: https://t.me/kallection/38360
 brand: komodo
 taste:
   - wild strawberry
-publishedAt:
+publishedAt: 2026-08-26
 favorite:
 container:
   - can
@@ -31,6 +31,10 @@ aliases:
 types:
   - energy
 createdAt: 2026-07-29
+related:
+  - "[[Hell strawberry-banana|Hell strawberry-banana]]"
+  - "[[Effect strawberry apricot|Effect strawberry apricot]]"
+  - "[[Frugo watermelon-strawberry|Frugo watermelon-strawberry]]"
 ---
 **Komodo wild strawberry**. Офіційний смак - суниця
 

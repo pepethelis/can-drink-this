@@ -1,11 +1,11 @@
 ---
-status: to publish
+status: published
 tags:
-externalUrl:
+externalUrl: https://t.me/kallection/38369
 brand: borjomi/limonati
 taste:
   - mandarin
-publishedAt:
+publishedAt: 2026-08-26
 favorite:
 container:
   - can
