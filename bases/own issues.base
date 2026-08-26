@@ -47,7 +47,7 @@ views:
             - availability.isEmpty()
             - createdAt.isEmpty()
   - type: table
-    name: Подання
+    name: false publishedAt
     filters:
       and:
         - '!status.containsAny("published", "needs update", "to update")'
