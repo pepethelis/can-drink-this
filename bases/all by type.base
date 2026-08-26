@@ -34,6 +34,21 @@ views:
       and:
         - types.containsAny("energy")
   - type: table
+    name: energy coffee
+    filters:
+      and:
+        - types == ["energy","coffee"]
+  - type: table
+    name: energy kombucha
+    filters:
+      and:
+        - types == ["energy","kombucha"]
+  - type: table
+    name: energy tea
+    filters:
+      and:
+        - types == ["energy","tea"]
+  - type: table
     name: fizzy
     filters:
       and:
@@ -43,6 +58,11 @@ views:
     filters:
       and:
         - types.containsAny("juice")
+  - type: table
+    name: kombucha
+    filters:
+      and:
+        - types.containsAny("kombucha")
   - type: table
     name: kvass
     filters:
@@ -54,24 +74,17 @@ views:
       and:
         - types.containsAny("plant-based")
   - type: table
-    name: radler
-    filters:
-      and:
-        - types.containsAny("radler")
-  - type: table
     name: tea
     filters:
       and:
-        - types.containsAll("tea", "energy")
-  - type: table
-    name: tea-energy
-    filters:
-      and:
-        - type == "tea-energy"
+        - types.containsAny("tea")
   - type: table
     name: water
     filters:
       and:
         - types.containsAny("water")
   - type: table
-    name: energy coffee
+    name: yogurt
+    filters:
+      and:
+        - types.containsAny("yogurt")

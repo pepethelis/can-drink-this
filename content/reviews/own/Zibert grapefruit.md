@@ -23,6 +23,7 @@ manufacturer: оболонь
 aliases:
   - Zibert grapefruit
 types:
+  - alco
   - radler
 related:
   - "[[Львівське радлер лимон]]"

@@ -23,6 +23,7 @@ aliases:
   - Hell ice coffee latte
 types:
   - coffee
+  - energy
 createdAt: 2024-08-16
 ---
 **Hell ice coffee latte**, тобто кофік від хелл

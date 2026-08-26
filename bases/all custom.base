@@ -1,6 +1,3 @@
-filters:
-  and:
-    - file.folder == "content/reviews/friendly"
 views:
   - type: table
     name: own

@@ -23,6 +23,7 @@ manufacturer: van pur
 aliases:
   - Lomza radler watermelon
 types:
+  - alco
   - radler
 createdAt: 2024-08-27
 ---

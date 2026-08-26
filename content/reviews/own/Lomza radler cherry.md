@@ -23,6 +23,7 @@ manufacturer: van pur
 aliases:
   - Lomza radler cherry
 types:
+  - alco
   - radler
 createdAt: 2024-09-03
 ---
