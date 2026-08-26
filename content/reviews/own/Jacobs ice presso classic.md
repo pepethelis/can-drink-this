@@ -1,5 +1,5 @@
 ---
-status: prebuild
+status: to enrich
 aliases:
   - Jacobs ice presso classic
 externalUrl:
@@ -43,7 +43,7 @@ related:
 Ключик та верхівка дефолтні
 
 
-Колір напою - ==КОЛІР==
+Колір напою - кава з молоком, як у ваз 2101, але більш коричневе
 
 Об'єм 0,25л
 
