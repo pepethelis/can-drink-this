@@ -1,0 +1,25 @@
+filters:
+  and:
+    - file.folder == "content/reviews/friendly"
+views:
+  - type: table
+    name: own
+    filters:
+      and:
+        - file.folder == "content/reviews/own"
+    order:
+      - file.name
+      - createdAt
+      - publishedAt
+    sort:
+      - property: createdAt
+        direction: DESC
+      - property: file.mtime
+        direction: DESC
+  - type: table
+    name: subscribers
+    filters:
+      and:
+        - file.folder == "content/reviews/subscribers"
+  - type: table
+    name: friendly

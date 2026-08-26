@@ -1,0 +1,77 @@
+filters:
+  and:
+    - file.folder.startsWith("content/reviews")
+views:
+  - type: table
+    name: all
+    groupBy:
+      property: types
+      direction: ASC
+    sort: []
+  - type: table
+    name: alco
+    filters:
+      and:
+        - types.containsAny("alco")
+  - type: table
+    name: alco-energy
+    filters:
+      and:
+        - types.containsAll("alco", "energy")
+  - type: table
+    name: ayran
+    filters:
+      and:
+        - types.containsAny("ayran")
+  - type: table
+    name: coffee
+    filters:
+      and:
+        - types.containsAny("coffee")
+  - type: table
+    name: energy
+    filters:
+      and:
+        - types.containsAny("energy")
+  - type: table
+    name: fizzy
+    filters:
+      and:
+        - types.containsAny("fizzy")
+  - type: table
+    name: juice
+    filters:
+      and:
+        - types.containsAny("juice")
+  - type: table
+    name: kvass
+    filters:
+      and:
+        - types.containsAny("kvass")
+  - type: table
+    name: plant-based
+    filters:
+      and:
+        - types.containsAny("plant-based")
+  - type: table
+    name: radler
+    filters:
+      and:
+        - types.containsAny("radler")
+  - type: table
+    name: tea
+    filters:
+      and:
+        - types.containsAll("tea", "energy")
+  - type: table
+    name: tea-energy
+    filters:
+      and:
+        - type == "tea-energy"
+  - type: table
+    name: water
+    filters:
+      and:
+        - types.containsAny("water")
+  - type: table
+    name: energy coffee

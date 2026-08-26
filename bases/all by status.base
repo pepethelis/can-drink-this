@@ -1,12 +1,72 @@
 filters:
   and:
-    - file.folder.startsWith("content/reviews/subscribers")
+    - file.folder.startsWith("content/reviews")
+formulas:
+  Untitled: if(cover, "", "no cover")
 views:
   - type: table
-    name: Table
-    groupBy:
-      property: status
-      direction: ASC
+    name: All
+  - type: table
+    name: Wait for publication
+    filters:
+      and:
+        - status == "to publish"
     order:
       - file.name
-      - status
+      - types
+      - createdAt
+    sort:
+      - property: createdAt
+        direction: ASC
+    columnSize:
+      note.summary: 90
+      file.mtime: 178
+  - type: table
+    name: Wait for update
+    filters:
+      and:
+        - status == "to update"
+    order:
+      - file.name
+      - related
+  - type: table
+    name: Wait to create
+    filters:
+      and:
+        - status == "to create"
+    order:
+      - file.name
+      - related
+      - sponsor
+      - volume
+      - types
+    sort: []
+  - type: table
+    name: Wait to enrich
+    filters:
+      and:
+        - status == "to enrich"
+  - type: table
+    name: Needs update
+    filters:
+      and:
+        - status == "needs update"
+  - type: table
+    name: Prebuild
+    filters:
+      and:
+        - status == "prebuild"
+    order:
+      - file.name
+      - related
+  - type: table
+    name: Published
+    filters:
+      and:
+        - status == "published"
+    order:
+      - file.name
+      - types
+    sort:
+      - property: publishedAt
+        direction: DESC
