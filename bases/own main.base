@@ -31,8 +31,3 @@ views:
         - cover == link("default.png")
     cardSize: 210
     image: note.cover
-  - type: table
-    name: By status
-    groupBy:
-      property: type
-      direction: ASC

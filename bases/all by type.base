@@ -4,9 +4,6 @@ filters:
 views:
   - type: table
     name: all
-    groupBy:
-      property: types
-      direction: ASC
     sort: []
   - type: table
     name: alco
