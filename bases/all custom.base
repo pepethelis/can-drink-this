@@ -20,3 +20,6 @@ views:
         - file.folder == "content/reviews/subscribers"
   - type: table
     name: friendly
+    filters:
+      and:
+        - file.folder == "content/reviews/friendly"
