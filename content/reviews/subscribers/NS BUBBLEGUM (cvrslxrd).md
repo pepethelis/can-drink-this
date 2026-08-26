@@ -8,13 +8,14 @@ container:
   - can
 volume:
   - "0.45"
-status: to publish
-publishedAt:
+status: published
+publishedAt: 2026-08-26
 brand: ns
 taste:
   - bubblegum
 cover: "[[photo_2026-08-19_18-07-06.jpg]]"
 createdAt: 2026-08-19
+externalUrl: https://t.me/kallection/38371
 ---
 “NS BUBBLEGUM” закос на класичний “NON-STOP” від російського бренду “World’s best drinks”
 
