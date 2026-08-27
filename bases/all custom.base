@@ -4,10 +4,10 @@ views:
     filters:
       and:
         - file.folder == "content/reviews/own"
+        - "!related.isEmpty()"
     order:
       - file.name
-      - createdAt
-      - publishedAt
+      - related
     sort:
       - property: createdAt
         direction: DESC
