@@ -31,3 +31,9 @@ views:
         - cover == link("default.png")
     cardSize: 210
     image: note.cover
+  - type: cards
+    name: Favorites
+    filters:
+      and:
+        - favorite == true
+    image: note.cover
