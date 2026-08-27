@@ -1,0 +1,28 @@
+<div id="reading-progress" class="progress-container fixed top-0 z-100 h-1 w-full bg-background">
+  <div class="progress-bar h-1 w-0 bg-accent"></div>
+</div>
+
+<script is:inline data-astro-rerun>
+  const progressContainer = document.getElementById("reading-progress");
+  const progressBar = progressContainer?.firstElementChild;
+
+  if (progressContainer && progressBar instanceof HTMLElement) {
+    const updateScrollProgress = () => {
+      const scrollTop =
+        document.body.scrollTop || document.documentElement.scrollTop;
+      const scrollHeight =
+        document.documentElement.scrollHeight -
+        document.documentElement.clientHeight;
+      const scrolled =
+        scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0;
+
+      progressBar.style.width = `${scrolled}%`;
+    };
+
+    window.__readingProgressCleanup?.();
+    document.addEventListener("scroll", updateScrollProgress);
+    window.__readingProgressCleanup = () =>
+      document.removeEventListener("scroll", updateScrollProgress);
+    updateScrollProgress();
+  }
+</script>
