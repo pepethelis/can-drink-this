@@ -41,7 +41,7 @@ const {
   canonicalURL,
   publishedAt,
   updatedAt,
-  relatedPosts,
+  related,
 } = post.data;
 
 const title = getTitleFormAliases(aliases);
@@ -165,13 +165,13 @@ const nextPost =
       </article>
 
       {
-        relatedPosts && relatedPosts.length > 0 && (
+        related && related.length > 0 && (
           <section class="mb-8">
             <hr class="my-8 border-dashed" />
 
             <h2 class="mb-4 text-xl font-semibold">Related Posts</h2>
             <div class="grid grid-cols-2 gap-4">
-              {relatedPosts.map(relatedPostTitle => {
+              {related.map(relatedPostTitle => {
                 const normalizedTitle = normalizeRelatedTitle(relatedPostTitle);
 
                 const relatedPost = allPosts.find(

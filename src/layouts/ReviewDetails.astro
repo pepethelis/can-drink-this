@@ -42,6 +42,7 @@ const {
   canonicalURL,
   publishedAt,
   updatedAt,
+  externalUrl,
   contentTgPosts,
   category,
   types: drinkTypes,
@@ -206,6 +207,21 @@ const nextPost =
       
 
       <dl class="taxonomy">
+        {externalUrl && (
+          <div class="taxonomy-row">
+            <dt>External</dt>
+            <dd>
+              <a
+                href={externalUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="taxonomy-link"
+              >
+                {externalUrl.replace(/^https?:\/\//, "")}
+              </a>
+            </dd>
+          </div>
+        )}
         <div class="taxonomy-row">
           <dt>Category</dt>
           <dd>

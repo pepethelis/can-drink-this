@@ -134,13 +134,13 @@ Key fields:
 | `pinned` | boolean | |
 | `tags` | string[] | Default: `[]` |
 | `sponsor` | string[] | Optional |
-| `relatedPosts` | string[] | Optional |
+| `related` | string[] | Optional |
 | `contentTgPosts` | string[] | Telegram post embed URLs |
 
 ### `posts` collection
 
 - **Source**: `src/data/posts/**/*.md`
-- Simpler schema: `publishedAt`, `aliases`, `summary`, `author`, `pinned`, `hidden`, `status`, `ogImage`, `gallery`, `relatedPosts`
+- Simpler schema: `publishedAt`, `aliases`, `summary`, `author`, `pinned`, `hidden`, `status`, `ogImage`, `gallery`, `related`
 
 ## Pages & Routes
 

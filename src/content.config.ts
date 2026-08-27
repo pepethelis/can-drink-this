@@ -66,7 +66,8 @@ const reviews = defineCollection({
       cover: image().nullish(),
       gallery: z.array(image()).nullish(),
 
-      // tg posts content
+      // external links
+      externalUrl: z.string().nullish(),
       contentTgPosts: z.array(z.string()).optional(),
 
       // taxonomy fields
@@ -84,8 +85,8 @@ const reviews = defineCollection({
       volume: z.array(volumeType).nullish(), // liters
       packager: packagerType.nullish(), // custom field for drink packager
 
-      // custom field for related posts
-      relatedPosts: z.array(z.string()).optional().default([]),
+      // custom field for related content
+      related: z.array(z.string()).nullish().default([]),
     }),
 });
 
@@ -104,11 +105,12 @@ const posts = defineCollection({
       hidden: z.boolean().optional(),
       canonicalURL: z.string().optional(),
       status: statusType.default("prebuild"),
+      externalUrl: z.string().nullish(),
       // article media
       ogImage: image().optional(),
       gallery: z.array(image()).nullish().default([]),
       // custom fields
-      relatedPosts: z.array(z.string()).nullish().default([]),
+      related: z.array(z.string()).nullish().default([]),
     }),
 });
 

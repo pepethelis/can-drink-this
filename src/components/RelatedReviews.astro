@@ -34,7 +34,7 @@ const dedupeByTitle = (r: CollectionEntry<"reviews">) => {
   return true;
 };
 
-// ─── relatedPosts (wikilink resolution) ───────────────────────────────────────
+// ─── related (wikilink resolution) ───────────────────────────────────────
 
 const normalizePathKey = (value: string) =>
   slugifyTagPath(
@@ -52,7 +52,7 @@ const parseWikilink = (value: string) => {
   return { path: stripped.slice(0, pipeIdx).trim() || null, title: stripped.slice(pipeIdx + 1).trim() };
 };
 
-const relatedByField: CollectionEntry<"reviews">[] = (post.data.relatedPosts ?? [])
+const relatedByField: CollectionEntry<"reviews">[] = (post.data.related ?? [])
   .map(parseWikilink)
   .map(({ title, path }) => {
     const normPath = path ? normalizePathKey(path) : null;
