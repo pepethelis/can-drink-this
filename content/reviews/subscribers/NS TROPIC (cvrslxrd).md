@@ -17,6 +17,7 @@ cover: "[[photo_2026-08-18_23-16-50.jpg]]"
 related:
   - "[[Nonstop boost|Nonstop boost]]"
 externalUrl: https://t.me/kallection/38274
+caffeine: 33
 ---
 “NS TROPIC” закос на класичний “NON-STOP” від російського бренду “World’s best drinks”
 

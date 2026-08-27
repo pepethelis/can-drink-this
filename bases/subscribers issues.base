@@ -28,6 +28,7 @@ views:
             - and:
                 - types.containsAny("alco")
                 - alco.isEmpty()
+            - externalUrl.isEmpty()
   - type: table
     name: to publish, but not full
     filters:
