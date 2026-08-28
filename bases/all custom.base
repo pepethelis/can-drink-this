@@ -4,7 +4,6 @@ views:
     filters:
       and:
         - file.folder == "content/reviews/own"
-        - "!related.isEmpty()"
     order:
       - file.name
       - related
@@ -23,3 +22,8 @@ views:
     filters:
       and:
         - file.folder == "content/reviews/friendly"
+  - type: table
+    name: all
+    filters:
+      and:
+        - file.folder.startsWith("content/reviews")
