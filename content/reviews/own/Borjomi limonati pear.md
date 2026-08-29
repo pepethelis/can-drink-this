@@ -1,10 +1,10 @@
 ---
-status: to publish
-externalUrl:
+status: published
+externalUrl: https://t.me/kallection/38448
 brand: borjomi/limonati
 taste:
   - pear
-publishedAt:
+publishedAt: 2026-08-29
 favorite:
 container:
   - can
