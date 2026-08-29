@@ -1,13 +1,13 @@
 ---
-status: to publish
+status: published
 tags:
   - country/poland
   - package/bagpak
-externalUrl:
+externalUrl: https://t.me/kallection/38434
 brand: komodo
 taste:
   - cactus
-publishedAt:
+publishedAt: 2026-08-29
 favorite:
 container:
   - can
