@@ -1,14 +1,14 @@
 ---
-status: to publish
+status: published
 tags:
   - package/ball
-externalUrl: https://t.me/kallection/28175
+externalUrl: https://t.me/kallection/38442
 brand: redbull/edition
 taste:
   - cactus fruit
 container:
   - can
-publishedAt:
+publishedAt: 2026-08-29
 cover: "[[IMG_5908.jpg]]"
 sweeteners:
   - sugar
