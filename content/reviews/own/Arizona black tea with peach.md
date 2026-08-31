@@ -22,7 +22,7 @@ aliases:
 types:
   - tea
 related:
-  - "[[Monster rehab tea + lemonade]]"
+  - "[[content/reviews/own/Monster rehab tea + lemonade]]"
   - "[[Моршинська чай чорний - лимон-лемонграс|Моршинська чай чорний - лимон-лемонграс]]"
   - "[[Моршинська чай зелений - виноград-м'ята|Моршинська чай зелений - виноград-м'ята]]"
 createdAt: 2026-05-29

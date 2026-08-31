@@ -21,7 +21,6 @@ sweeteners:
   - extract/acai
   - inositol
   - extract/goji berry
-cover: "[[IMG_7181.jpeg]]"
 availability: 3
 sponsor:
   - nastya
@@ -38,6 +37,7 @@ types:
   - energy
   - tea
 createdAt: 2025-12-15
+cover: "[[IMG_7181.jpeg]]"
 ---
 Чай-енергос **Monster rehab tea + lemonade (🇭🇺)**. Офіційний смак - чай і лимонад, а на сайті - "Brewed Tea and Lemonade"
 Пахне чаєм з лимоном або просто лимоном, головне що лимон не хімозний взагалі. По запаху виходить не звично і приємно 

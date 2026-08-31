@@ -24,13 +24,11 @@ publishedAt: 2025-12-20
 
 **Дружні огляди:**
 Маю цікаві огляди, які я сам навряд чи зроблю, а якщо і зроблю, то не скоро:
-***Сатана:*** 
-- [[content/reviews/friendly/Sanb_s/Pulls заряд помсти|PULLS заряд помсти]]
+***Сатана:***
 - [[Pitbull army|PITBULL ARMY]]
 - [[Своя лінія reCharge]]
-- [Monster lo-carb 0,7](https://t.me/ukr_satan/4964)
-- [Monster Rehab жовтий](https://t.me/ukr_satan/4925)
-- [Monster Rehab зелений](https://t.me/ukr_satan/4789)
+- [[Monster mega lo-carb|Monster mega lo-carb 0,71]]
+- [[Monster rehab green tea|Monster Rehab зелений]]
 - [Brainer](https://t.me/ukr_satan/3896)
 - [CULT juicy ocean](https://t.me/ukr_satan/6682)
 - [CULT Buble gum](https://t.me/ukr_satan/6641)
@@ -141,7 +139,7 @@ Battery juiced:
 
 - [[Ice wolf classic]]
 - [[ДВІЖ]]
-- [[content/reviews/own/Pulls заряд помсти]]
+- [[content/reviews/own/Pulls заряд помсти|Pulls заряд помсти]]
 
 ---
 
@@ -181,7 +179,7 @@ Monster nitro:
 - [[Monster nitro green|dry]]
 - [[content/reviews/own/Monster nitro cosmic peach|orange peach]]
 Monster rehab: 
-- [[Monster rehab tea + lemonade|tea+lemonade]]
+- [[content/reviews/own/Monster rehab tea + lemonade|tea+lemonade]]
 
 **Redbull:** 
 - [[Redbull classic|original/класичний]]
