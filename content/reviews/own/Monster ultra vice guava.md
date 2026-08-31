@@ -56,5 +56,5 @@ types:
 
 По висновку - ==ВИСНОВОК==
 Пост вийшов завдяки [спонсору оглядів](https://t.me/ed_shitpost), підписуйтесь на кліпі
-Пов'язані огляди: [[Monster ultra white]], [[Monster ultra black]], [[Monster ultra black]], [[Monster ultra paradise]], [[Monster ultra fiesta mango]]
+Пов'язані огляди: [[content/reviews/own/Monster ultra white]], [[Monster ultra black]], [[Monster ultra black]], [[Monster ultra paradise]], [[Monster ultra fiesta mango]]
 #огляди

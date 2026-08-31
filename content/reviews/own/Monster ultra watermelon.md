@@ -52,5 +52,5 @@ createdAt: 2026-03-05
 
 По висновку - кавуняча банка, яку зазвичай складно знайти і яка продається нерідко за оверпрайс. Я б не здивувався від цінника 120 на таку банку, але особисто я випадково знайшов за 70(хоча на ціннику було написано 60). По смаку вона дещо особлива, але не надто, спеціально полювати не варто. Попри те, що у нонстопа зума смак інший, я би радив його як більш доступну заміну до цього монстра. Радити на затест можна, але тільки за бажання і якщо є в доступності. “Imagine this at 3am” score середній 
 
-Повʼязані огляди: [[Nonstop zoom]], [[Hell watermelon]], [[Frugo watermelon-strawberry]], [[Redbull red edition]], [[Monster ultra white]], [[Monster ultra blue]], [[Monster ultra paradise]], [[Monster ultra fantasy ruby red]], [[Monster ultra fiesta mango]]
+Повʼязані огляди: [[Nonstop zoom]], [[Hell watermelon]], [[Frugo watermelon-strawberry]], [[content/reviews/own/Redbull red edition]], [[content/reviews/own/Monster ultra white]], [[Monster ultra blue]], [[Monster ultra paradise]], [[Monster ultra fantasy ruby red]], [[Monster ultra fiesta mango]]
 #огляди

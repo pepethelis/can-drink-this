@@ -25,7 +25,7 @@ publishedAt: 2025-12-20
 **Дружні огляди:**
 Маю цікаві огляди, які я сам навряд чи зроблю, а якщо і зроблю, то не скоро:
 ***Сатана:*** 
-- [PULLS заряд помсти](https://t.me/ukr_satan/5537)
+- [[content/reviews/friendly/Sanb_s/Pulls заряд помсти|PULLS заряд помсти]]
 - [PITBULL ARMY](https://t.me/ukr_satan/4719)
 - [Monster black zero sugar](https://t.me/ukr_satan/5488)
 - [Своя лінія reCharge](https://t.me/ukr_satan/5178)
@@ -37,10 +37,10 @@ publishedAt: 2025-12-20
 - [CULT Buble gum](https://t.me/ukr_satan/6641)
 - [Monster lando norris](https://t.me/ukr_satan/6831)
 ***Super_skrulling:***
-- [[Monster juiced pipeline punch (Super_skrull)|Monster juiced pipleine punch]]
-- [[Monster ultra rosa (Super_skrull)|Monster ultra rosa]]
+- [[content/reviews/friendly/Super_skrull/Monster juiced pipeline punch|Monster juiced pipleine punch]]
+- [[Monster ultra rosa|Monster ultra rosa]]
 - [Monster java 300 синій](https://t.me/super_skrulling/169)
-- [[Monster reserve orange dreamsicle (Super_skrull)|Monster reserve orange dreamsicle]]
+- [[Monster reserve orange dreamsicle|Monster reserve orange dreamsicle]]
 ***Сонічка:*** 
 - [Monster java 300 червоний](https://t.me/sonechkin_rzekich/33079)
 - [енергосік по кіберпанку 1](https://t.me/sonechkin_rzekich/32560)
@@ -84,7 +84,7 @@ Nonstop stalker:
 - [[Nonstop stalker green|лайм-м'ята-ожина🟢]]
 - [[Nonstop stalker red|вишня-ром-ананас🔴]]
 Nonstop juice: 
-- [[Nonstop juice series splash|splash]]
+- [[content/reviews/own/Nonstop juice series splash|splash]]
 
 **Battery:** 
 - [[Battery black|original⚫️]]
@@ -142,7 +142,7 @@ Battery juiced:
 
 - [[Ice wolf classic]]
 - [[ДВІЖ]]
-- [[Pulls заряд помсти]]
+- [[content/reviews/own/Pulls заряд помсти]]
 
 ---
 
@@ -156,26 +156,26 @@ Battery juiced:
 - [[Monster VR46|The Doctor/VR46]]
 - [[Monster VR46 zero|VR46 zero]]
 - [[Monster assault|assault]]
-- [[Monster lewis hamilton|Lewis Hamilton/Top Speed]]
+- [[content/reviews/own/Monster lewis hamilton|Lewis Hamilton/Top Speed]]
 - [[Monster lando norris|Lando Norris]]
 Monster juiced: 
 - [[Monster juiced mango loco|mango loco]]
-- [[Monster juiced pacific punch|pacific punch]]
+- [[content/reviews/own/Monster juiced pacific punch|pacific punch]]
 - [[Monster juiced aussie style lemonade|aussie style lemonade]]
 - [[Monster juiced monarch|monarch]]
 - [[content/reviews/own/Monster juiced bad apple|bad apple]]
 - [[Monster juiced khaotic|khaotic]]
-- [[Monster juiced pipeline punch|pipeline punch]]
+- [[content/reviews/own/Monster juiced pipeline punch|pipeline punch]]
 - [[content/reviews/own/Monster juiced rio punch|rio punch]]
 Monster ultra: 
-- [[Monster ultra white|white]]
+- [[content/reviews/own/Monster ultra white|white]]
 - [[Monster ultra black|black]]
 - [[Monster ultra watermelon|watermelon]]
 - [[Monster ultra fantasy ruby red|ruby red]]
 - [[Monster ultra blue|blue]]
 - [[Monster ultra paradise|paradise]]
 - [[Monster ultra fiesta mango|fiesta mango]]
-- [[Monster ultra peachy keen|peachy keen]]
+- [[content/reviews/own/Monster ultra peachy keen|peachy keen]]
 - [[Monster ultra vice guava|vice guava]]
 - [[content/reviews/own/Monster ultra violet|violet]]
 Monster nitro: 
@@ -187,7 +187,7 @@ Monster rehab:
 **Redbull:** 
 - [[Redbull classic|original/класичний]]
 Redbull edition: 
-- [[Redbull red edition|red edition]]
+- [[content/reviews/own/Redbull red edition|red edition]]
 - [[Redbull yellow edition|yellow edition]]
 - [[Redbull green edition|green edition]]
 - [[Redbull apricot edition|apricot edition]]
@@ -213,7 +213,7 @@ Redbull organics:
 
 **Hell:** 
 - [[Hell classic|classic]]
-- [[Hell peach-lemon|peach-lemon]]
+- [[content/reviews/own/Hell peach-lemon|peach-lemon]]
 - [[Hell goji berry|goji berry]]
 - [[Hell black cherry|black cherry]]
 - [[Hell green apple|green apple]]
@@ -232,7 +232,7 @@ Hell spritz:
 - [[Hell Spritz Lime|lime]]
 Hell carnival:
 - [[Hell carnival cactus twist|cactus twist]]
-- [[Hell carnival cotton candy|cotton candy]]
+- [[content/reviews/own/Hell carnival cotton candy|cotton candy]]
 Hell ice coffee: 
 - [[Hell ice coffee latte|latte]]
 - [[Hell ice coffee strawberry latte|pink latte]]
@@ -281,7 +281,7 @@ Hell ice coffee:
 
 **Komodo:**
 - [[Komodo classic|Komodo classic]]
-- [[Komodo banana|Komodo banana]]
+- [[content/reviews/own/Komodo banana|Komodo banana]]
 - [[Komodo frozen mojito|Komodo frozen mojito]]
 - [[Komodo wild strawberry|Komodo wild strawberry]]
 - [[Komodo juicy watermelon|Komodo juicy watermelon]]
@@ -495,7 +495,7 @@ Hell ice coffee:
 - [[Buvette Watermelon Water]]
 - [[Моршинська лимонад апельсин та персик]]
 - [[Моршинська вода + сік яблука]]
-- [[Квас тарас flower power]]
+- [[content/reviews/own/Квас тарас flower power]]
 - [[Садочок яблуко-виноград]]
 - [[Fanta Shokata Zero Sugar]]
 - [[Moloko soft drink]]

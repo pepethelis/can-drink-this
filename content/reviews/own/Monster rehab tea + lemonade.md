@@ -62,5 +62,5 @@ createdAt: 2025-12-15
 По висновку - супер цікаво і смачно. Мені дуже сподобалось і це дійсно ніби рехаб після усіх цих заєбавших однотипних смаків у енергосів. Енергос зі смаком чаю це сміливо, цікаво і головне - смачно. Додаю до улюбленого і сподіваюсь знайду йогл колись ще. Сумно тільки що вполювати складно
 З подібного хотів би ще зелений рехаб спробувати зі смаком зеленого чаю, усі інші менш цікаво. Огляд доречі [і на нього є](https://t.me/ukr_satan/4789) у сатани
 
-Пов'язані огляди: [[Monster VR46]], [[Monster nitro green]], [[content/reviews/own/Monster nitro cosmic peach]], [[Monster lewis hamilton]], [[Monster assault]]
+Пов'язані огляди: [[Monster VR46]], [[Monster nitro green]], [[content/reviews/own/Monster nitro cosmic peach]], [[content/reviews/own/Monster lewis hamilton]], [[Monster assault]]
 #огляди

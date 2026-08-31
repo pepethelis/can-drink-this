@@ -31,7 +31,7 @@ aliases:
 types:
   - fizzy
 related:
-  - "[[Квас тарас flower power]]"
+  - "[[content/reviews/own/Квас тарас flower power]]"
   - "[[Cola default]]"
 createdAt: 2025-01-17
 ---

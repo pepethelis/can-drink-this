@@ -54,5 +54,5 @@ types:
 По висновку - ==ВИСНОВОК==
 Пост вийшов завдяки [спонсору](https://t.me/ed_shitpost), підписуйтесь на кліпі
 
-Пов'язані огляди: [[Monster VR46]], [[Monster lewis hamilton]]
+Пов'язані огляди: [[Monster VR46]], [[content/reviews/own/Monster lewis hamilton]]
 #огляди

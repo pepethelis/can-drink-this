@@ -53,5 +53,5 @@ createdAt: 2025-07-22
 
 По висновку - той самий [[content/reviews/own/Nonstop stalker orange|кавунячий сталкер]], але у іншому пакуванні. Такий собі варік для тих, хто сумує за смаком сталкера або для тих, хто взагалі не пробував перший сталкер. От я схоже сумував, хоч і не знав про це. Курва смачно. Тепер у мене флешбеки з того часу, коли вперше спробував. Сука це смачно, хоч це і не натурально кавун в банці. Мене прям трясе з того, що він такий смачний, цей смак летить до улюблених
 
-Пов'язані огляди: [[Nonstop original]], [[content/reviews/own/Nonstop stalker orange]], [[Redbull red edition]], [[Hell watermelon]]
+Пов'язані огляди: [[Nonstop original]], [[content/reviews/own/Nonstop stalker orange]], [[content/reviews/own/Redbull red edition]], [[Hell watermelon]]
 #огляди
