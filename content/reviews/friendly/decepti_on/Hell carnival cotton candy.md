@@ -12,7 +12,7 @@ volume:
   - "0.25"
 status: published
 related:
-  - "[[Hell carnival cotton candy]]"
+  - "[[content/reviews/own/Hell carnival cotton candy]]"
 aliases:
   - Hell carnival cotton candy
 summary: Огляд на хелл солодка вата 😄

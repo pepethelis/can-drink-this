@@ -51,5 +51,5 @@ createdAt: 2024-11-13
 
 По висновку - смачне, влітку мабуть було б реальний кайф. Але відразу кажу, що коштує воно 45 у сільпо, за 0,33л. Може я поки не викупив легендарність, але у будь-якому разі легендарність ця лишилась у минулому. Навряд чи дістану ще арізону, але розглядати чаї думаю можна буде
 
-Повʼязані огляди: [[Arizona green tea with honey & peach]], [[content/reviews/own/Arizona energy mucho mango]], [[Monster rehab tea + lemonade]] [[Buvette Healthy Tea лемонграс]], [[Buvette Healthy Tea абрикос тангерин]], [[Buvette Healthy Tea троянда лимон імбир]], [[Buvette Healthy Tea каркаде журавлина мʼята]]
+Повʼязані огляди: [[Arizona green tea with honey & peach]], [[content/reviews/own/Arizona energy mucho mango]], [[content/reviews/own/Monster rehab tea + lemonade]] [[Buvette Healthy Tea лемонграс]], [[Buvette Healthy Tea абрикос тангерин]], [[Buvette Healthy Tea троянда лимон імбир]], [[Buvette Healthy Tea каркаде журавлина мʼята]]
 #огляди

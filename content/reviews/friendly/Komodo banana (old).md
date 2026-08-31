@@ -31,10 +31,15 @@ externalUrl: https://t.me/super_skrulling/4146
 
 
 Висновки: простий дизайн, гарний аромат та трошки розчаровуючий смак, але загалом гуд. На халяву і оцет солодкий, тож особо не вийобуюсь.  
+<<<<<<< HEAD:content/reviews/friendly/Komodo banana (Super_skrull).md
 
 
 [[Komodo banana|Дружній огляд від колеги]] ЯНМУНД  
 
 
 #енергохарчування  
+=======
+  
+[[Komodo banana|Дружній огляд[[content/reviews/own/Komodo banana|Дружній огляд від колеги]]я  
+>>>>>>> 70ed4baa52390a4c8d951d0b4c09b1ec05d05078:content/reviews/friendly/Super_skrull/Komodo banana.md
 #тест_енергії 
