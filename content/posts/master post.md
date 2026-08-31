@@ -26,9 +26,8 @@ publishedAt: 2025-12-20
 Маю цікаві огляди, які я сам навряд чи зроблю, а якщо і зроблю, то не скоро:
 ***Сатана:*** 
 - [[content/reviews/friendly/Sanb_s/Pulls заряд помсти|PULLS заряд помсти]]
-- [PITBULL ARMY](https://t.me/ukr_satan/4719)
-- [Monster black zero sugar](https://t.me/ukr_satan/5488)
-- [Своя лінія reCharge](https://t.me/ukr_satan/5178)
+- [[Pitbull army|PITBULL ARMY]]
+- [[Своя лінія reCharge]]
 - [Monster lo-carb 0,7](https://t.me/ukr_satan/4964)
 - [Monster Rehab жовтий](https://t.me/ukr_satan/4925)
 - [Monster Rehab зелений](https://t.me/ukr_satan/4789)
