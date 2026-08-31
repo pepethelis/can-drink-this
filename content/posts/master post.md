@@ -29,10 +29,10 @@ publishedAt: 2025-12-20
 - [[Своя лінія reCharge]]
 - [[Monster mega lo-carb|Monster mega lo-carb 0,71]]
 - [[Monster rehab green tea|Monster Rehab зелений]]
-- [Brainer](https://t.me/ukr_satan/3896)
-- [CULT juicy ocean](https://t.me/ukr_satan/6682)
-- [CULT Buble gum](https://t.me/ukr_satan/6641)
-- [Monster lando norris](https://t.me/ukr_satan/6831)
+- [[Brainer]]
+- [[Cult juicy ocean]]
+- [[Cult bubble gum]]
+- [Monster lando norris]
 ***Super_skrulling:***
 - [[content/reviews/friendly/Super_skrull/Monster juiced pipeline punch|Monster juiced pipleine punch]]
 - [[Monster ultra rosa|Monster ultra rosa]]
@@ -154,7 +154,7 @@ Battery juiced:
 - [[Monster VR46 zero|VR46 zero]]
 - [[Monster assault|assault]]
 - [[content/reviews/own/Monster lewis hamilton|Lewis Hamilton/Top Speed]]
-- [[Monster lando norris|Lando Norris]]
+- [[content/reviews/own/Monster lando norris|Lando Norris]]
 Monster juiced: 
 - [[Monster juiced mango loco|mango loco]]
 - [[content/reviews/own/Monster juiced pacific punch|pacific punch]]
@@ -295,7 +295,7 @@ Hell ice coffee:
 - [[Dr pepper energy|Dr pepper energy]]
 - [[Energy drink mit Hanf-Kräuter Extrakt]]
 - [[Jacobs ice presso latte]]
-- [[content/reviews/own/Arizona energy mucho mango]]
+- [[Arizona energy mucho mango]]
 - [[Celsius live fit cosmic vibe]]
 - [[Crazy tiger]]
 - [[Tiger energy]]
@@ -492,7 +492,7 @@ Hell ice coffee:
 - [[Buvette Watermelon Water]]
 - [[Моршинська лимонад апельсин та персик]]
 - [[Моршинська вода + сік яблука]]
-- [[content/reviews/own/Квас тарас flower power]]
+- [[content/reviews/own/Квас тарас flower power|Квас тарас flower power]]
 - [[Садочок яблуко-виноград]]
 - [[Fanta Shokata Zero Sugar]]
 - [[Moloko soft drink]]
