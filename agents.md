@@ -84,6 +84,8 @@ container: [Volume, e.g., "0.5L"]
 sweeteners: [List of sweetening agents]
 ```
 
+For friendly and subscriber reviews, the minimum required fields are: `aliases`, `author`, and `types`. Other fields are optional unless needed for a specific review.
+
 ## 🔍 Editorial Checklist
 
 Before approving a review:
