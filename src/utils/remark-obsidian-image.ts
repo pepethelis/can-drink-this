@@ -93,11 +93,19 @@ const resolveAssetUrl = (rawPath: string, filePath?: string) => {
 };
 
 export default function remarkObsidianImage() {
-  return (tree: Root, file: { path?: string; history?: string[]; data?: { astro?: Record<string, unknown> } }) => {
+  return (
+    tree: Root,
+    file: {
+      path?: string;
+      history?: string[];
+      data?: { astro?: Record<string, unknown> };
+    }
+  ) => {
     visit(tree, "text", (node: Text, index, parent) => {
       if (!parent || typeof index !== "number") return;
       if (skipParentTypes.has((parent as Parent).type)) return;
-      if (typeof node.value !== "string" || !imagePattern.test(node.value)) return;
+      if (typeof node.value !== "string" || !imagePattern.test(node.value))
+        return;
 
       imagePattern.lastIndex = 0;
       let match: RegExpExecArray | null = null;

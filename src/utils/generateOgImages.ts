@@ -49,7 +49,9 @@ async function imageToBase64DataUrl(filePath: string): Promise<string> {
   return `data:image/jpeg;base64,${buffer.toString("base64")}`;
 }
 
-async function resolveOgImageBase64(ogImage: unknown): Promise<string | undefined> {
+async function resolveOgImageBase64(
+  ogImage: unknown
+): Promise<string | undefined> {
   if (!ogImage) return undefined;
 
   let filename: string;
@@ -72,9 +74,7 @@ async function resolveOgImageBase64(ogImage: unknown): Promise<string | undefine
   return imageToBase64DataUrl(filePath);
 }
 
-export async function generateOgImageForPost(
-  post: CollectionEntry<"posts">
-) {
+export async function generateOgImageForPost(post: CollectionEntry<"posts">) {
   const imageBase64 = await resolveOgImageBase64(post.data.ogImage);
   const svg = await postOgImage(post, imageBase64);
   return svgBufferToPngBuffer(svg);

@@ -35,7 +35,8 @@ function reviewsLoader(): Loader {
       const originalSet = ctx.store.set.bind(ctx.store);
       ctx.store.set = entry => {
         const folder = entry.id.split("/")[0];
-        const category: CategoryValue = FOLDER_CATEGORY[folder] ?? "власні огляди";
+        const category: CategoryValue =
+          FOLDER_CATEGORY[folder] ?? "власні огляди";
         const { digest: _digest, ...rest } = entry;
         return originalSet({ ...rest, data: { ...entry.data, category } });
       };

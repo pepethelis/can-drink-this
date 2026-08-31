@@ -140,7 +140,15 @@ export default async (post, imageBase64) => {
       height: 630,
       embedFont: true,
       fonts: await loadGoogleFonts(
-        title + " " + summary + " " + author + " " + SITE.title + " " + SITE.title.toUpperCase()
+        title +
+          " " +
+          summary +
+          " " +
+          author +
+          " " +
+          SITE.title +
+          " " +
+          SITE.title.toUpperCase()
       ),
       loadAdditionalAsset,
     }

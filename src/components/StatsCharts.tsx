@@ -1,5 +1,9 @@
-import { useEffect, useState } from "react";
-import type { ReviewStatsData } from "@/utils/getReviewStats";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { AUTHORS } from "@/constants";
+import getReviewStats, {
+  type ReviewItem,
+  type ReviewStatsData,
+} from "@/utils/getReviewStats";
 import {
   ResponsiveContainer,
   PieChart,
@@ -20,8 +24,27 @@ type KV = [string, number];
 interface Props {
   allStats: ReviewStatsData;
   ownStats: ReviewStatsData;
+  friendlyStats?: ReviewStatsData;
+  subscriberStats?: ReviewStatsData;
+  rawReviews?: ReviewItem[];
+  rawCreationReviews?: ReviewItem[];
   reviewsUrl: string;
 }
+
+type CategoryKey = "all" | "own" | "friendly" | "subscribers";
+
+interface CategoryOption {
+  key: CategoryKey;
+  label: string;
+  categoryName?: string;
+}
+
+const CATEGORIES: CategoryOption[] = [
+  { key: "all", label: "All reviews" },
+  { key: "own", label: "Own reviews", categoryName: "власні огляди" },
+  { key: "friendly", label: "Friendly", categoryName: "дружні огляди" },
+  { key: "subscribers", label: "Subscribers", categoryName: "огляди від підписників" },
+];
 
 const PALETTE = [
   "#60a5fa",
@@ -101,25 +124,21 @@ function tooltipItemStyle(colors: Colors) {
 function Card({
   title,
   children,
+  className,
 }: {
   title: string;
   children: React.ReactNode;
+  className?: string;
 }) {
   return (
-    <div className="chart-card">
+    <div className={`chart-card ${className ?? ""}`}>
       <h2 className="chart-title">{title}</h2>
       {children}
     </div>
   );
 }
 
-function DonutChart({
-  data,
-  colors,
-}: {
-  data: KV[];
-  colors: Colors;
-}) {
+function DonutChart({ data, colors }: { data: KV[]; colors: Colors }) {
   const total = data.reduce((s, [, v]) => s + v, 0);
   const items = data.map(([name, value], i) => ({
     name,
@@ -147,7 +166,11 @@ function DonutChart({
             `${value} (${Math.round((value / total) * 100)}%)`
           }
         />
-        <Legend iconType="circle" iconSize={8} wrapperStyle={{ fontSize: 11 }} />
+        <Legend
+          iconType="circle"
+          iconSize={8}
+          wrapperStyle={{ fontSize: 11 }}
+        />
       </PieChart>
     </ResponsiveContainer>
   );
@@ -214,32 +237,22 @@ function HBarChart({
   );
 }
 
-function TimeChart({
-  data,
-  colors,
-}: {
-  data: KV[];
-  colors: Colors;
-}) {
+function TimeChart({ data, colors }: { data: KV[]; colors: Colors }) {
   const items = data.map(([key, value]) => {
     const [y, m] = key.split("-");
-    const label = new Date(
-      Number(y),
-      Number(m) - 1,
-      1
-    ).toLocaleDateString("en", {
-      month: "short",
-      year: "2-digit",
-    });
+    const label = new Date(Number(y), Number(m) - 1, 1).toLocaleDateString(
+      "en",
+      {
+        month: "short",
+        year: "2-digit",
+      }
+    );
     return { label, value };
   });
 
   return (
     <ResponsiveContainer width="100%" height={200}>
-      <BarChart
-        data={items}
-        margin={{ top: 4, right: 8, bottom: 0, left: 0 }}
-      >
+      <BarChart data={items} margin={{ top: 4, right: 8, bottom: 0, left: 0 }}>
         <CartesianGrid
           vertical={false}
           stroke={hexA(colors.foreground, 0.08)}
@@ -275,19 +288,16 @@ function TimeChart({
   );
 }
 
-function PostingGapChart({
-  data,
-  colors,
-}: {
-  data: KV[];
-  colors: Colors;
-}) {
+function PostingGapChart({ data, colors }: { data: KV[]; colors: Colors }) {
   const items = data.map(([key, value]) => {
     const [y, m] = key.split("-");
-    const label = new Date(Number(y), Number(m) - 1, 1).toLocaleDateString("en", {
-      month: "short",
-      year: "2-digit",
-    });
+    const label = new Date(Number(y), Number(m) - 1, 1).toLocaleDateString(
+      "en",
+      {
+        month: "short",
+        year: "2-digit",
+      }
+    );
     return { label, value: Number(value.toFixed(1)) };
   });
 
@@ -333,7 +343,10 @@ function PostingGapChart({
 }
 
 function ActivityGraph({ data, colors }: { data: KV[]; colors: Colors }) {
-  const [hovered, setHovered] = useState<{ date: string; count: number } | null>(null);
+  const [hovered, setHovered] = useState<{
+    date: string;
+    count: number;
+  } | null>(null);
 
   const dayCount = new Map(data);
 
@@ -354,11 +367,19 @@ function ActivityGraph({ data, colors }: { data: KV[]; colors: Colors }) {
   const startDate = new Date(endDate);
   startDate.setDate(startDate.getDate() - WEEKS * 7 + 1); // lands on Monday
 
-  type Cell = { date: string; count: number; week: number; day: number; future: boolean };
+  type Cell = {
+    date: string;
+    count: number;
+    week: number;
+    day: number;
+    future: boolean;
+  };
   const cells: Cell[] = [];
   const cur = new Date(startDate);
   while (cur <= endDate) {
-    const daysFromStart = Math.round((cur.getTime() - startDate.getTime()) / 86400000);
+    const daysFromStart = Math.round(
+      (cur.getTime() - startDate.getTime()) / 86400000
+    );
     const dateStr = `${cur.getFullYear()}-${String(cur.getMonth() + 1).padStart(2, "0")}-${String(cur.getDate()).padStart(2, "0")}`;
     cells.push({
       date: dateStr,
@@ -373,7 +394,8 @@ function ActivityGraph({ data, colors }: { data: KV[]; colors: Colors }) {
   const monthLabels: { label: string; week: number }[] = [];
   let lastMonth = -1;
   for (const cell of cells) {
-    if (cell.day === 0) { // Monday = first row of a new week column
+    if (cell.day === 0) {
+      // Monday = first row of a new week column
       const d = new Date(cell.date + "T12:00:00");
       const m = d.getMonth();
       if (m !== lastMonth) {
@@ -415,18 +437,19 @@ function ActivityGraph({ data, colors }: { data: KV[]; colors: Colors }) {
               {label}
             </text>
           ))}
-          {(["Mon", "", "Wed", "", "Fri", "", "Sun"] as const).map((label, i) =>
-            label ? (
-              <text
-                key={i}
-                x={0}
-                y={MONTH_H + i * STEP + CELL - 1}
-                fontSize={9}
-                fill={hexA(colors.foreground, 0.4)}
-              >
-                {label}
-              </text>
-            ) : null
+          {(["Mon", "", "Wed", "", "Fri", "", "Sun"] as const).map(
+            (label, i) =>
+              label ? (
+                <text
+                  key={i}
+                  x={0}
+                  y={MONTH_H + i * STEP + CELL - 1}
+                  fontSize={9}
+                  fill={hexA(colors.foreground, 0.4)}
+                >
+                  {label}
+                </text>
+              ) : null
           )}
           {cells.map(({ date, count, week, day, future }) => (
             <rect
@@ -456,13 +479,27 @@ function ActivityGraph({ data, colors }: { data: KV[]; colors: Colors }) {
           {hoveredLabel}
         </span>
         <div style={{ display: "flex", alignItems: "center", gap: 3 }}>
-          <span style={{ fontSize: 9, color: hexA(colors.foreground, 0.4) }}>Less</span>
+          <span style={{ fontSize: 9, color: hexA(colors.foreground, 0.4) }}>
+            Less
+          </span>
           {([0, 1, 2, 3] as const).map(n => (
-            <svg key={n} width={CELL} height={CELL} style={{ display: "block" }}>
-              <rect width={CELL} height={CELL} rx={2} fill={cellFill(n, false)} />
+            <svg
+              key={n}
+              width={CELL}
+              height={CELL}
+              style={{ display: "block" }}
+            >
+              <rect
+                width={CELL}
+                height={CELL}
+                rx={2}
+                fill={cellFill(n, false)}
+              />
             </svg>
           ))}
-          <span style={{ fontSize: 9, color: hexA(colors.foreground, 0.4) }}>More</span>
+          <span style={{ fontSize: 9, color: hexA(colors.foreground, 0.4) }}>
+            More
+          </span>
         </div>
       </div>
     </div>
@@ -472,18 +509,112 @@ function ActivityGraph({ data, colors }: { data: KV[]; colors: Colors }) {
 export default function StatsCharts({
   allStats,
   ownStats,
+  friendlyStats,
+  subscriberStats,
+  rawReviews = [],
+  rawCreationReviews = [],
   reviewsUrl,
 }: Props) {
   const colors = useTheme();
-  const [view, setView] = useState<"all" | "own">("all");
-  const stats = view === "all" ? allStats : ownStats;
+  // category: "all" | "own" | "friendly" | "subscribers"
+  const [category, setCategory] = useState<CategoryKey>("all");
+  // null means "all authors in this category"
+  const [selectedAuthor, setSelectedAuthor] = useState<string | null>(null);
+  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+  const dropdownRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    function handleClickOutside(e: MouseEvent) {
+      if (dropdownRef.current && !dropdownRef.current.contains(e.target as Node)) {
+        setIsDropdownOpen(false);
+      }
+    }
+    if (isDropdownOpen) {
+      document.addEventListener("mousedown", handleClickOutside);
+      return () => document.removeEventListener("mousedown", handleClickOutside);
+    }
+  }, [isDropdownOpen]);
+
+  // "own" always means AUTHORS[0] – no sub-author choice
+  const ownAuthorName = AUTHORS[0]?.name ?? "";
+
+  // Authors available for sub-selection in friendly / subscribers categories
+  const subAuthors = useMemo(() => {
+    if (category !== "friendly" && category !== "subscribers") return [];
+    const catName = CATEGORIES.find(c => c.key === category)?.categoryName;
+    if (!catName) return [];
+    const counts = new Map<string, number>();
+    for (const r of rawReviews) {
+      if (r.data.category !== catName) continue;
+      counts.set(r.data.author, (counts.get(r.data.author) ?? 0) + 1);
+    }
+    return [...counts.entries()].sort((a, b) => b[1] - a[1]);
+  }, [rawReviews, category]);
+
+  const handleCategoryChange = (next: CategoryKey) => {
+    setCategory(next);
+    setSelectedAuthor(null);
+    setIsDropdownOpen(false);
+  };
+
+  // Pre-computed category stats (no client recalculation needed for category-level view)
+  const categoryStats = useMemo<ReviewStatsData>(() => {
+    switch (category) {
+      case "own": return ownStats;
+      case "friendly": return friendlyStats ?? allStats;
+      case "subscribers": return subscriberStats ?? allStats;
+      default: return allStats;
+    }
+  }, [category, allStats, ownStats, friendlyStats, subscriberStats]);
+
+  // For "own", author is always AUTHORS[0]; no client re-computation
+  // For friendly/subscribers with a selected sub-author, recompute client-side
+  const stats = useMemo<ReviewStatsData>(() => {
+    if (category === "own") {
+      // own reviews are already scoped to AUTHORS[0], return as-is
+      return ownStats;
+    }
+    if (selectedAuthor === null || rawReviews.length === 0) {
+      return categoryStats;
+    }
+    // Filter by category + selected author
+    const catName = CATEGORIES.find(c => c.key === category)?.categoryName;
+    const filtered = rawReviews.filter(r => {
+      if (catName && r.data.category !== catName) return false;
+      if (r.data.author !== selectedAuthor) return false;
+      return true;
+    });
+    const filteredCreation = rawCreationReviews.filter(r => {
+      if (catName && r.data.category !== catName) return false;
+      if (r.data.author !== selectedAuthor) return false;
+      return true;
+    });
+    return getReviewStats(filtered, filteredCreation);
+  }, [category, selectedAuthor, categoryStats, ownStats, rawReviews, rawCreationReviews]);
+
+  const isAuthorFiltered = category === "own" || selectedAuthor !== null;
+  const isCategoryFiltered = category !== "all";
+
+  // "By category" chart always shows the full scope (all reviews) but greyed when filtered
+  const displayCategoryData = allStats.categoryData;
+  // "By author" chart shows the current category scope, but greyed when author is selected
+  const displayAuthorData = categoryStats.authorData;
+
+  // Label for the selector button
+  const selectorLabel = (() => {
+    const catOption = CATEGORIES.find(c => c.key === category)!;
+    if (category === "own") return `Own (${ownAuthorName})`;
+    if (selectedAuthor !== null) return `${catOption.label} › ${selectedAuthor}`;
+    return catOption.label;
+  })();
+
+  const isActive = category !== "all" || selectedAuthor !== null;
+
   const {
     totalReviews,
     favoritesCount,
     brandsCount,
     sponsoredCount,
-    categoryData,
-    authorData,
     typeData,
     brandData,
     timeData,
@@ -502,6 +633,7 @@ export default function StatsCharts({
 
   return (
     <div className="space-y-6">
+      {/* Header row */}
       <div className="flex flex-wrap items-center justify-between gap-4">
         <a
           href={reviewsUrl}
@@ -509,26 +641,116 @@ export default function StatsCharts({
         >
           ← All reviews
         </a>
-        <div className="inline-flex rounded-lg bg-muted p-1" role="group" aria-label="Review scope">
+
+        {/* Unified scope selector */}
+        <div className="flex items-center gap-2">
+          <span className="text-xs text-foreground/40 select-none">Scope</span>
+          <div className="relative" ref={dropdownRef}>
           <button
             type="button"
-            className={`rounded-md px-3 py-1.5 text-xs font-medium transition-colors ${view === "all" ? "bg-background text-foreground shadow-sm" : "text-foreground/55 hover:text-foreground"}`}
-            aria-pressed={view === "all"}
-            onClick={() => setView("all")}
+            onClick={() => setIsDropdownOpen(prev => !prev)}
+            className={`inline-flex items-center gap-1.5 rounded-lg border px-3 py-1.5 text-xs font-medium transition-colors ${
+              isActive
+                ? "border-accent/40 bg-muted text-accent"
+                : "border-transparent bg-muted text-foreground/70 hover:text-foreground"
+            }`}
+            aria-expanded={isDropdownOpen}
+            aria-haspopup="listbox"
           >
-            All reviews
+            <span>{selectorLabel}</span>
+            <svg
+              className={`h-3 w-3 opacity-60 transition-transform ${isDropdownOpen ? "rotate-180" : ""}`}
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              strokeWidth={2}
+            >
+              <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
           </button>
-          <button
-            type="button"
-            className={`rounded-md px-3 py-1.5 text-xs font-medium transition-colors ${view === "own" ? "bg-background text-foreground shadow-sm" : "text-foreground/55 hover:text-foreground"}`}
-            aria-pressed={view === "own"}
-            onClick={() => setView("own")}
-          >
-            Own reviews
-          </button>
+
+          {isDropdownOpen && (
+            <div
+              className="absolute top-full right-0 z-50 mt-1.5 min-w-[220px] overflow-y-auto rounded-lg border border-foreground/15 bg-background p-1 shadow-lg"
+              role="listbox"
+            >
+              {CATEGORIES.map(cat => {
+                const isCatSelected = category === cat.key && selectedAuthor === null;
+                const catCount = (() => {
+                  switch (cat.key) {
+                    case "all": return allStats.totalReviews;
+                    case "own": return ownStats.totalReviews;
+                    case "friendly": return friendlyStats?.totalReviews ?? 0;
+                    case "subscribers": return subscriberStats?.totalReviews ?? 0;
+                  }
+                })();
+
+                // Category header row
+                const catRow = (
+                  <button
+                    key={cat.key}
+                    type="button"
+                    className={`flex w-full items-center justify-between rounded-md px-2.5 py-1.5 text-left text-xs transition-colors hover:bg-muted ${
+                      isCatSelected ? "font-semibold text-accent" : "text-foreground"
+                    }`}
+                    onClick={() => handleCategoryChange(cat.key)}
+                  >
+                    <span className="flex items-center gap-1.5">
+                      {isCatSelected && <span>✓</span>}
+                      <span>
+                        {cat.key === "own"
+                          ? `${cat.label} (${ownAuthorName})`
+                          : cat.label}
+                      </span>
+                    </span>
+                    <span className="text-[10px] text-foreground/40">({catCount})</span>
+                  </button>
+                );
+
+                // For friendly / subscribers, show sub-authors when this category is selected
+                const showSubAuthors =
+                  category === cat.key &&
+                  (cat.key === "friendly" || cat.key === "subscribers") &&
+                  subAuthors.length > 0;
+
+                if (!showSubAuthors) return catRow;
+
+                return (
+                  <div key={cat.key}>
+                    {catRow}
+                    {subAuthors.map(([authorName, count]) => {
+                      const isSelected =
+                        category === cat.key && selectedAuthor === authorName;
+                      return (
+                        <button
+                          key={authorName}
+                          type="button"
+                          className={`flex w-full items-center justify-between rounded-md py-1.5 pr-2.5 pl-6 text-left text-xs transition-colors hover:bg-muted ${
+                            isSelected ? "font-semibold text-accent" : "text-foreground/80"
+                          }`}
+                          onClick={() => {
+                            setSelectedAuthor(authorName);
+                            setIsDropdownOpen(false);
+                          }}
+                        >
+                          <span className="flex items-center gap-1.5">
+                            {isSelected && <span>✓</span>}
+                            <span>{authorName}</span>
+                          </span>
+                          <span className="text-[10px] text-foreground/40">({count})</span>
+                        </button>
+                      );
+                    })}
+                  </div>
+                );
+              })}
+            </div>
+          )}
+          </div>
         </div>
       </div>
 
+      {/* Summary stats */}
       <div className="grid grid-cols-2 gap-4 sm:grid-cols-4">
         {[
           [totalReviews, "Reviews"],
@@ -558,16 +780,34 @@ export default function StatsCharts({
       )}
 
       <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
-        {categoryData.length > 0 && (
-          <Card title="By category">
-            <DonutChart data={categoryData} colors={colors} />
+        {/* By category – greyed when a specific category is active */}
+        {displayCategoryData.length > 0 && (
+          <Card
+            title="By category"
+            className={
+              isCategoryFiltered
+                ? "pointer-events-none opacity-35 grayscale transition-all duration-300 select-none"
+                : "transition-all duration-300"
+            }
+          >
+            <DonutChart data={displayCategoryData} colors={colors} />
           </Card>
         )}
-        {authorData.length > 0 && (
-          <Card title="By author">
-            <DonutChart data={authorData} colors={colors} />
+
+        {/* By author – greyed when a specific author is active */}
+        {displayAuthorData.length > 0 && (
+          <Card
+            title="By author"
+            className={
+              isAuthorFiltered
+                ? "pointer-events-none opacity-35 grayscale transition-all duration-300 select-none"
+                : "transition-all duration-300"
+            }
+          >
+            <DonutChart data={displayAuthorData} colors={colors} />
           </Card>
         )}
+
         {typeData.length > 0 && (
           <Card title="By type">
             <DonutChart data={typeData} colors={colors} />
@@ -675,3 +915,5 @@ export default function StatsCharts({
     </div>
   );
 }
+
+

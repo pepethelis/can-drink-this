@@ -1,6 +1,21 @@
-import type { CollectionEntry } from "astro:content";
+export type ReviewItem = {
+  data: {
+    category: string;
+    author: string;
+    brand?: string | null;
+    sponsor?: string[] | null;
+    types?: string[] | null;
+    taste?: string[] | null;
+    container?: string[] | null;
+    sweeteners?: string[] | null;
+    caffeine?: number | null;
+    alco?: number | null;
+    favorite?: boolean | null;
+    publishedAt?: Date | string | null;
+    createdAt?: Date | string | null;
+  };
+};
 
-type Review = CollectionEntry<"reviews">;
 export type ReviewStatsData = {
   totalReviews: number;
   favoritesCount: number;
@@ -24,7 +39,10 @@ export type ReviewStatsData = {
   sponsorData: [string, number][];
 };
 
-function countValues(reviews: Review[], getValues: (review: Review) => string[]) {
+function countValues(
+  reviews: ReviewItem[],
+  getValues: (review: ReviewItem) => string[]
+) {
   const counts = new Map<string, number>();
   for (const review of reviews)
     for (const value of getValues(review))
@@ -32,15 +50,21 @@ function countValues(reviews: Review[], getValues: (review: Review) => string[])
   return [...counts.entries()].sort((a, b) => b[1] - a[1]);
 }
 
+function toDate(d: Date | string | null | undefined): Date | null {
+  if (!d) return null;
+  const date = d instanceof Date ? d : new Date(d);
+  return isNaN(date.getTime()) ? null : date;
+}
+
 function dateKey(date: Date) {
   return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
 }
 
 export default function getReviewStats(
-  reviews: Review[],
-  creationReviews: Review[] = reviews
+  reviews: ReviewItem[],
+  creationReviews: ReviewItem[] = reviews
 ): ReviewStatsData {
-  const brandName = (review: Review) => {
+  const brandName = (review: ReviewItem) => {
     const brand = review.data.brand;
     return brand?.includes("/") ? brand.slice(0, brand.indexOf("/")) : brand;
   };
@@ -53,11 +77,20 @@ export default function getReviewStats(
     const brand = brandName(review);
     return brand ? [brand] : [];
   }).slice(0, 15);
-  const tasteData = countValues(reviews, review => review.data.taste ?? []).slice(0, 15);
-  const containerData = countValues(reviews, review => review.data.container ?? []);
+  const tasteData = countValues(
+    reviews,
+    review => review.data.taste ?? []
+  ).slice(0, 15);
+  const containerData = countValues(
+    reviews,
+    review => review.data.container ?? []
+  );
 
   const sweetenerMap = new Map<string, number>();
-  for (const [value, count] of countValues(reviews, review => review.data.sweeteners ?? [])) {
+  for (const [value, count] of countValues(
+    reviews,
+    review => review.data.sweeteners ?? []
+  )) {
     const lowerValue = value.toLowerCase();
     const key = lowerValue.includes("juice")
       ? "juice"
@@ -75,14 +108,18 @@ export default function getReviewStats(
   const activityMap = new Map<string, number>();
   const postingGapMap = new Map<string, { totalDays: number; count: number }>();
   for (const review of reviews) {
-    const caffeineKey = review.data.caffeine != null ? `${review.data.caffeine} mg` : "No caffeine";
+    const caffeineKey =
+      review.data.caffeine != null
+        ? `${review.data.caffeine} mg`
+        : "No caffeine";
     caffeineMap.set(caffeineKey, (caffeineMap.get(caffeineKey) ?? 0) + 1);
-    const alcoKey = review.data.alco != null && review.data.alco !== 0
-      ? `${review.data.alco}%`
-      : "No alcohol";
+    const alcoKey =
+      review.data.alco != null && review.data.alco !== 0
+        ? `${review.data.alco}%`
+        : "No alcohol";
     alcoMap.set(alcoKey, (alcoMap.get(alcoKey) ?? 0) + 1);
 
-    const publishedAt = review.data.publishedAt;
+    const publishedAt = toDate(review.data.publishedAt);
     if (publishedAt) {
       const key = dateKey(publishedAt);
       const month = key.slice(0, 7);
@@ -90,13 +127,18 @@ export default function getReviewStats(
       const year = String(publishedAt.getFullYear());
       publicationYearMap.set(year, (publicationYearMap.get(year) ?? 0) + 1);
       const monthNumber = publishedAt.getMonth();
-      publicationMonthMap.set(monthNumber, (publicationMonthMap.get(monthNumber) ?? 0) + 1);
+      publicationMonthMap.set(
+        monthNumber,
+        (publicationMonthMap.get(monthNumber) ?? 0) + 1
+      );
       activityMap.set(key, (activityMap.get(key) ?? 0) + 1);
-      const createdAt = review.data.createdAt;
+      const createdAt = toDate(review.data.createdAt);
       if (createdAt) {
         const current = postingGapMap.get(month) ?? { totalDays: 0, count: 0 };
         postingGapMap.set(month, {
-          totalDays: current.totalDays + (publishedAt.getTime() - createdAt.getTime()) / 86400000,
+          totalDays:
+            current.totalDays +
+            (publishedAt.getTime() - createdAt.getTime()) / 86400000,
           count: current.count + 1,
         });
       }
@@ -117,7 +159,7 @@ export default function getReviewStats(
 
   const creationMap = new Map<string, number>();
   for (const review of creationReviews) {
-    const createdAt = review.data.createdAt;
+    const createdAt = toDate(review.data.createdAt);
     if (createdAt) {
       const key = dateKey(createdAt);
       creationMap.set(key, (creationMap.get(key) ?? 0) + 1);
@@ -128,14 +170,18 @@ export default function getReviewStats(
     totalReviews: reviews.length,
     favoritesCount: reviews.filter(review => review.data.favorite).length,
     brandsCount: brands.size,
-    sponsoredCount: reviews.reduce((count, review) => count + (review.data.sponsor?.length ?? 0), 0),
+    sponsoredCount: reviews.reduce(
+      (count, review) => count + (review.data.sponsor?.length ?? 0),
+      0
+    ),
     categoryData,
     authorData,
     typeData,
     brandData,
     timeData,
-    publicationYearData: [...publicationYearMap.entries()]
-      .sort(([a], [b]) => a.localeCompare(b)),
+    publicationYearData: [...publicationYearMap.entries()].sort(([a], [b]) =>
+      a.localeCompare(b)
+    ),
     publicationMonthData: [...publicationMonthMap.entries()]
       .sort(([a], [b]) => a - b)
       .map(([month, count]) => [
@@ -152,8 +198,12 @@ export default function getReviewStats(
       .slice(0, 12),
     caffeineDistData: [...caffeineMap.entries()].sort((a, b) => b[1] - a[1]),
     alcoData: [...alcoMap.entries()].sort((a, b) => b[1] - a[1]),
-    activityData: [...activityMap.entries()].sort(([a], [b]) => a.localeCompare(b)),
-    creationActivityData: [...creationMap.entries()].sort(([a], [b]) => a.localeCompare(b)),
+    activityData: [...activityMap.entries()].sort(([a], [b]) =>
+      a.localeCompare(b)
+    ),
+    creationActivityData: [...creationMap.entries()].sort(([a], [b]) =>
+      a.localeCompare(b)
+    ),
     sponsorData,
   };
 }

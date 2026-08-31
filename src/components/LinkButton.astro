@@ -1,7 +1,7 @@
 ---
 import type { HTMLAttributes } from "astro/types";
 
-type Props = { disabled?: boolean, raw?: boolean } & HTMLAttributes<"a">;
+type Props = { disabled?: boolean; raw?: boolean } & HTMLAttributes<"a">;
 
 const { disabled, class: className, ...attrs } = Astro.props;
 

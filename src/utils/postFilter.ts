@@ -5,9 +5,7 @@ type PostData =
   | Omit<CollectionEntry<"reviews">, "id" | "collection">
   | Omit<CollectionEntry<"posts">, "id" | "collection">;
 
-const postFilter = ({
-  data,
-}: PostData) => {
+const postFilter = ({ data }: PostData) => {
   if (!data.publishedAt) {
     return false;
   }

@@ -10,8 +10,8 @@ import { SITE } from "@/config";
 import postFilter from "@/utils/postFilter";
 
 const posts = await getCollection("reviews", ({ data }) =>
-    postFilter({ data })
-  );
+  postFilter({ data })
+);
 
 let tags = getUniqueTags(posts);
 ---

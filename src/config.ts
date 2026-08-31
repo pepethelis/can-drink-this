@@ -5,7 +5,7 @@ export const SITE = {
   profile: "https://t.me/kallection",
   desc: "Ваші енергоси вже оглянуті",
   title: "Огля даю",
-  ogImage: "default.png", 
+  ogImage: "default.png",
   lightAndDarkMode: true,
   postPerIndex: 7,
   postPerPage: 7,

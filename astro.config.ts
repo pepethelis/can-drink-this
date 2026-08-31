@@ -61,7 +61,9 @@ const buildContentIndex = () => {
       const segments = relToRoot.split("/");
       const fileName = segments.pop() ?? "";
       const name = fileName.replace(/\.md$/, "");
-      const folderSegments = segments.filter(Boolean).map(segment => slugifyStr(segment));
+      const folderSegments = segments
+        .filter(Boolean)
+        .map(segment => slugifyStr(segment));
       const slug = slugifyStr(name);
       const full = [...folderSegments, slug].filter(Boolean).join("/");
       const entryInfo = { base, path: full };

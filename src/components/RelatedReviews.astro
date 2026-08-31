@@ -49,7 +49,10 @@ const parseWikilink = (value: string) => {
   const stripped = value.replace(/^\[\[|\]\]$/g, "").trim();
   const pipeIdx = stripped.indexOf("|");
   if (pipeIdx === -1) return { title: stripped, path: null as string | null };
-  return { path: stripped.slice(0, pipeIdx).trim() || null, title: stripped.slice(pipeIdx + 1).trim() };
+  return {
+    path: stripped.slice(0, pipeIdx).trim() || null,
+    title: stripped.slice(pipeIdx + 1).trim(),
+  };
 };
 
 const relatedByField: CollectionEntry<"reviews">[] = (post.data.related ?? [])
@@ -57,25 +60,29 @@ const relatedByField: CollectionEntry<"reviews">[] = (post.data.related ?? [])
   .map(({ title, path }) => {
     const normPath = path ? normalizePathKey(path) : null;
     const normPathNoBase = normPath?.replace(/^(posts|reviews)\//, "") ?? null;
-    return allReviews.find(r => {
-      if (r.id === post.id) return false;
-      if (!normPath) return getTitleFormAliases(r.data.aliases) === title;
-      const idKey = normalizePathKey(r.id);
-      const idKeyNoBase = idKey.replace(/^(posts|reviews)\//, "");
-      const fileKey = r.filePath ? normalizePathKey(r.filePath) : "";
-      return (
-        idKey === normPath ||
-        idKey === normPathNoBase ||
-        idKeyNoBase === normPath ||
-        idKeyNoBase === normPathNoBase ||
-        fileKey === normPath ||
-        fileKey === normPathNoBase ||
-        fileKey.endsWith(`/${normPath}`) ||
-        (normPathNoBase && fileKey.endsWith(`/${normPathNoBase}`))
-      );
-    }) ?? null;
+    return (
+      allReviews.find(r => {
+        if (r.id === post.id) return false;
+        if (!normPath) return getTitleFormAliases(r.data.aliases) === title;
+        const idKey = normalizePathKey(r.id);
+        const idKeyNoBase = idKey.replace(/^(posts|reviews)\//, "");
+        const fileKey = r.filePath ? normalizePathKey(r.filePath) : "";
+        return (
+          idKey === normPath ||
+          idKey === normPathNoBase ||
+          idKeyNoBase === normPath ||
+          idKeyNoBase === normPathNoBase ||
+          fileKey === normPath ||
+          fileKey === normPathNoBase ||
+          fileKey.endsWith(`/${normPath}`) ||
+          (normPathNoBase && fileKey.endsWith(`/${normPathNoBase}`))
+        );
+      }) ?? null
+    );
   })
-  .filter((r): r is CollectionEntry<"reviews"> => r !== null && dedupeByTitle(r))
+  .filter(
+    (r): r is CollectionEntry<"reviews"> => r !== null && dedupeByTitle(r)
+  )
   .slice(0, maxByRelated);
 
 // ─── Brand-related ────────────────────────────────────────────────────────────
@@ -111,64 +118,80 @@ const brandLabel = brandBase
 
 const currentTastes = post.data.taste ?? [];
 
-const relatedByTaste: CollectionEntry<"reviews">[] = currentTastes.length > 0
-  ? allReviews
-      .filter(r => r.id !== post.id && (r.data.taste?.length ?? 0) > 0)
-      .map(r => ({
-        review: r,
-        score: r.data.taste!.filter(t => currentTastes.includes(t)).length,
-      }))
-      .filter(({ score }) => score > 0)
-      .sort((a, b) => b.score - a.score)
-      .filter(({ review }) => dedupeByTitle(review))
-      .slice(0, maxByTaste)
-      .map(({ review }) => review)
-  : [];
+const relatedByTaste: CollectionEntry<"reviews">[] =
+  currentTastes.length > 0
+    ? allReviews
+        .filter(r => r.id !== post.id && (r.data.taste?.length ?? 0) > 0)
+        .map(r => ({
+          review: r,
+          score: r.data.taste!.filter(t => currentTastes.includes(t)).length,
+        }))
+        .filter(({ score }) => score > 0)
+        .sort((a, b) => b.score - a.score)
+        .filter(({ review }) => dedupeByTitle(review))
+        .slice(0, maxByTaste)
+        .map(({ review }) => review)
+    : [];
 
 // ─── Type-related ────────────────────────────────────────────────────────────
 
 const currentTypes = post.data.types ?? [];
 
-const relatedByType: CollectionEntry<"reviews">[] = currentTypes.length > 0
-  ? allReviews
-      .filter(r => r.id !== post.id && r.data.types?.some(t => currentTypes.includes(t)))
-      .filter(dedupeByTitle)
-      .slice(0, maxByType)
-  : [];
+const relatedByType: CollectionEntry<"reviews">[] =
+  currentTypes.length > 0
+    ? allReviews
+        .filter(
+          r =>
+            r.id !== post.id &&
+            r.data.types?.some(t => currentTypes.includes(t))
+        )
+        .filter(dedupeByTitle)
+        .slice(0, maxByType)
+    : [];
 
-const hasAny = relatedByField.length > 0 || relatedByBrand.length > 0 || relatedByTaste.length > 0 || relatedByType.length > 0;
+const hasAny =
+  relatedByField.length > 0 ||
+  relatedByBrand.length > 0 ||
+  relatedByTaste.length > 0 ||
+  relatedByType.length > 0;
 ---
 
-{hasAny && (
-  <section class="mb-8">
-    <hr class="my-8 border-dashed" />
+{
+  hasAny && (
+    <section class="mb-8">
+      <hr class="my-8 border-dashed" />
 
-    {relatedByField.length > 0 && (
-      <div class="mb-8">
-        <h2 class="mb-4 text-xl font-semibold">Related</h2>
-        <ReviewGrid reviews={relatedByField} />
-      </div>
-    )}
+      {relatedByField.length > 0 && (
+        <div class="mb-8">
+          <h2 class="mb-4 text-xl font-semibold">Related</h2>
+          <ReviewGrid reviews={relatedByField} />
+        </div>
+      )}
 
-    {relatedByBrand.length > 0 && (
-      <div class="mb-8">
-        <h2 class="mb-4 text-xl font-semibold">More {brandLabel}</h2>
-        <ReviewGrid reviews={relatedByBrand} />
-      </div>
-    )}
+      {relatedByBrand.length > 0 && (
+        <div class="mb-8">
+          <h2 class="mb-4 text-xl font-semibold">More {brandLabel}</h2>
+          <ReviewGrid reviews={relatedByBrand} />
+        </div>
+      )}
 
-    {relatedByTaste.length > 0 && (
-      <div class="mb-8">
-        <h2 class="mb-4 text-xl font-semibold">Similar taste: {currentTastes.join(", ")}</h2>
-        <ReviewGrid reviews={relatedByTaste} />
-      </div>
-    )}
+      {relatedByTaste.length > 0 && (
+        <div class="mb-8">
+          <h2 class="mb-4 text-xl font-semibold">
+            Similar taste: {currentTastes.join(", ")}
+          </h2>
+          <ReviewGrid reviews={relatedByTaste} />
+        </div>
+      )}
 
-    {relatedByType.length > 0 && (
-      <div class="mb-8">
-        <h2 class="mb-4 text-xl font-semibold">Similar type: {currentTypes.join(", ")}</h2>
-        <ReviewGrid reviews={relatedByType} />
-      </div>
-    )}
-  </section>
-)}
+      {relatedByType.length > 0 && (
+        <div class="mb-8">
+          <h2 class="mb-4 text-xl font-semibold">
+            Similar type: {currentTypes.join(", ")}
+          </h2>
+          <ReviewGrid reviews={relatedByType} />
+        </div>
+      )}
+    </section>
+  )
+}

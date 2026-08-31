@@ -7,8 +7,12 @@ const getSortedPosts = <
   posts: T[]
 ) => {
   return posts.filter(postFilter).sort((a, b) => {
-    const aDate = new Date(a.data.updatedAt ?? a.data.publishedAt ?? new Date());
-    const bDate = new Date(b.data.updatedAt ?? b.data.publishedAt ?? new Date());
+    const aDate = new Date(
+      a.data.updatedAt ?? a.data.publishedAt ?? new Date()
+    );
+    const bDate = new Date(
+      b.data.updatedAt ?? b.data.publishedAt ?? new Date()
+    );
 
     return (
       Math.floor(bDate.getTime() / 1000) - Math.floor(aDate.getTime() / 1000)

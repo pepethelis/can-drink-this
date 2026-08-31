@@ -293,7 +293,9 @@ const ALL_FILTER_KEYS = [...SINGLE_KEYS, ...MULTI_KEYS, "favorite"] as const;
       );
       if (!root) return;
       root
-        .querySelectorAll<HTMLInputElement>(`.ms-checkbox[data-ms-key="${key}"]`)
+        .querySelectorAll<HTMLInputElement>(
+          `.ms-checkbox[data-ms-key="${key}"]`
+        )
         .forEach(cb => {
           cb.checked = selected.includes(cb.value);
         });
@@ -340,7 +342,9 @@ const ALL_FILTER_KEYS = [...SINGLE_KEYS, ...MULTI_KEYS, "favorite"] as const;
       );
       if (!root) return;
       root
-        .querySelectorAll<HTMLInputElement>(`.ms-checkbox[data-ms-key="${key}"]`)
+        .querySelectorAll<HTMLInputElement>(
+          `.ms-checkbox[data-ms-key="${key}"]`
+        )
         .forEach(cb => {
           if (cb.checked) {
             cb.closest<HTMLElement>(".ms-option")?.classList.remove(

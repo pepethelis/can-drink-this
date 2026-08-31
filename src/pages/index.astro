@@ -95,7 +95,8 @@ const homeOgImageUrl = new URL(homeOgImage.src, Astro.url.origin).href;
         >
           <h2 class="text-2xl font-semibold tracking-wide">Featured</h2>
           <ul>
-            {sortedPinnedContent.map(data => ("types" in data.data ? (
+            {sortedPinnedContent.map(data =>
+              "types" in data.data ? (
                 <CardReview
                   variant="h3"
                   {...(data as CollectionEntry<"reviews">)}
@@ -105,7 +106,8 @@ const homeOgImageUrl = new URL(homeOgImage.src, Astro.url.origin).href;
                   variant="h3"
                   {...(data as CollectionEntry<"posts">)}
                 />
-              )))}
+              )
+            )}
           </ul>
         </section>
       )
@@ -116,18 +118,20 @@ const homeOgImageUrl = new URL(homeOgImage.src, Astro.url.origin).href;
         <section id="recent-posts" class="pt-12 pb-6">
           <h2 class="text-2xl font-semibold tracking-wide">Recent Content</h2>
           <ul>
-            {sortedContent.map((data, index) =>
-              index < SITE.postPerIndex && ("types" in data.data ? (
-                <CardReview
-                  variant="h3"
-                  {...(data as CollectionEntry<"reviews">)}
-                />
-              ) : (
-                <CardPost
-                  variant="h3"
-                  {...(data as CollectionEntry<"posts">)}
-                />
-              ))
+            {sortedContent.map(
+              (data, index) =>
+                index < SITE.postPerIndex &&
+                ("types" in data.data ? (
+                  <CardReview
+                    variant="h3"
+                    {...(data as CollectionEntry<"reviews">)}
+                  />
+                ) : (
+                  <CardPost
+                    variant="h3"
+                    {...(data as CollectionEntry<"posts">)}
+                  />
+                ))
             )}
           </ul>
         </section>

@@ -14,7 +14,9 @@ if (!SITE.showArchives) {
   return Astro.redirect("/404");
 }
 
-const reviews = await getCollection("reviews", ({ data }) => postFilter({ data }));
+const reviews = await getCollection("reviews", ({ data }) =>
+  postFilter({ data })
+);
 
 const months = [
   "January",
@@ -64,10 +66,14 @@ const months = [
                       .sort(
                         (a, b) =>
                           Math.floor(
-                            (new Date(b.data.publishedAt ?? new Date())).getTime() / 1000
+                            new Date(
+                              b.data.publishedAt ?? new Date()
+                            ).getTime() / 1000
                           ) -
                           Math.floor(
-                            (new Date(a.data.publishedAt ?? new Date())).getTime() / 1000
+                            new Date(
+                              a.data.publishedAt ?? new Date()
+                            ).getTime() / 1000
                           )
                       )
                       .map(data => (

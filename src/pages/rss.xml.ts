@@ -17,7 +17,7 @@ export async function GET() {
     items: sortedPosts.map(({ data, id, filePath }) => ({
       link: getPath(id, filePath),
       title: data.aliases[0], // use the first alias as the title
-      description: data.summary ?? '',
+      description: data.summary ?? "",
       publishedAt: new Date(data.updatedAt ?? data.publishedAt ?? new Date()),
     })),
   });

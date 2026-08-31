@@ -107,7 +107,9 @@ const layoutProps = {
   ogImage,
   scrollSmooth: true,
   showToc: true,
-  tocItems: headings.filter(heading => heading.depth >= 2 && heading.depth <= 3),
+  tocItems: headings.filter(
+    heading => heading.depth >= 2 && heading.depth <= 3
+  ),
 };
 
 const authorObj = AUTHORS.find(a => a.name === author);
@@ -123,9 +125,12 @@ const allPostsMapped = posts.map(({ data: { aliases }, id, filePath }) => ({
 
 const currentPostIndex = allPostsMapped.findIndex(a => a.id === post.id);
 
-const prevPost = currentPostIndex !== 0 ? allPostsMapped[currentPostIndex - 1] : null;
+const prevPost =
+  currentPostIndex !== 0 ? allPostsMapped[currentPostIndex - 1] : null;
 const nextPost =
-  currentPostIndex !== allPostsMapped.length ? allPostsMapped[currentPostIndex + 1] : null;
+  currentPostIndex !== allPostsMapped.length
+    ? allPostsMapped[currentPostIndex + 1]
+    : null;
 ---
 
 <Layout {...layoutProps}>
@@ -147,17 +152,15 @@ const nextPost =
       >
         {title}
       </h1>
-      {aliases.length > 1 && (
-        <p class="mt-1 text-sm opacity-60">
-          also known as: {aliases.slice(1).join(", ")}
-        </p>
-      )}
+      {
+        aliases.length > 1 && (
+          <p class="mt-1 text-sm opacity-60">
+            also known as: {aliases.slice(1).join(", ")}
+          </p>
+        )
+      }
       <div class="my-2 flex flex-wrap items-center gap-2">
-        {
-          publishedAt && (
-            <Datetime {publishedAt} {updatedAt} size="lg" />
-          )
-        }
+        {publishedAt && <Datetime {publishedAt} {updatedAt} size="lg" />}
         <Divider />
         by {
           authorObj ? (
@@ -206,136 +209,206 @@ const nextPost =
       </article>
 
       <hr class="my-6 border-dashed" />
-      
 
       <dl class="taxonomy">
-        {externalUrl && (
-          <div class="taxonomy-row">
-            <dt>External</dt>
-            <dd>
-              <a
-                href={externalUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="taxonomy-link"
-              >
-                {externalUrl.replace(/^https?:\/\//, "")}
-              </a>
-            </dd>
-          </div>
-        )}
+        {
+          externalUrl && (
+            <div class="taxonomy-row">
+              <dt>External</dt>
+              <dd>
+                <a
+                  href={externalUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="taxonomy-link"
+                >
+                  {externalUrl.replace(/^https?:\/\//, "")}
+                </a>
+              </dd>
+            </div>
+          )
+        }
         <div class="taxonomy-row">
           <dt>Category</dt>
           <dd>
-            <a href={`/reviews?category=${encodeURIComponent(category)}`} class="taxonomy-link">{category}</a>
+            <a
+              href={`/reviews?category=${encodeURIComponent(category)}`}
+              class="taxonomy-link">{category}</a
+            >
           </dd>
         </div>
-        {drinkTypes && drinkTypes.length > 0 && (
-          <div class="taxonomy-row">
-            <dt>Type</dt>
-            <dd>
-              {drinkTypes.map(t => (
-                <a href={`/reviews?type=${encodeURIComponent(t)}`} class="taxonomy-link">{t}</a>
-              ))}
-            </dd>
-          </div>
-        )}
-        {brand && (
-          <div class="taxonomy-row">
-            <dt>Brand</dt>
-            <dd>
-              <a href={`/reviews?brand=${encodeURIComponent(brand)}`} class="taxonomy-link">{brand}</a>
-            </dd>
-          </div>
-        )}
-        {container && container.length > 0 && (
-          <div class="taxonomy-row">
-            <dt>Container</dt>
-            <dd class="taxonomy-chips">
-              {container.map(c => (
-                <a href={`/reviews?container=${encodeURIComponent(c)}`} class="taxonomy-link">{c}</a>
-              ))}
-            </dd>
-          </div>
-        )}
-        {taste && taste.length > 0 && (
-          <div class="taxonomy-row">
-            <dt>Taste</dt>
-            <dd class="taxonomy-chips">
-              {taste.map(t => (
-                <a href={`/reviews?taste=${encodeURIComponent(t)}`} class="taxonomy-link">{t}</a>
-              ))}
-            </dd>
-          </div>
-        )}
-        {primaryColors && primaryColors.length > 0 && (
-          <div class="taxonomy-row">
-            <dt>Color</dt>
-            <dd class="taxonomy-chips">
-              {primaryColors.map(c => (
-                <a href={`/reviews?color=${encodeURIComponent(c)}`} class="taxonomy-link">{c}</a>
-              ))}
-            </dd>
-          </div>
-        )}
-        {sweeteners && sweeteners.length > 0 && (
-          <div class="taxonomy-row">
-            <dt>Sweeteners</dt>
-            <dd class="taxonomy-chips">
-              {sweeteners.map(s => <span class="taxonomy-tag">{s}</span>)}
-            </dd>
-          </div>
-        )}
-        {caffeine != null && (
-          <div class="taxonomy-row">
-            <dt>Caffeine</dt>
-            <dd><span class="taxonomy-tag">{caffeine} mg/100ml</span></dd>
-          </div>
-        )}
-        {alco != null && alco !== 0 && (
-          <div class="taxonomy-row">
-            <dt>Alcohol</dt>
-            <dd><span class="taxonomy-tag">{alco}%</span></dd>
-          </div>
-        )}
-        {favorite && (
-          <div class="taxonomy-row">
-            <dt>Favourite</dt>
-            <dd><span class="taxonomy-tag">★ Favourite</span></dd>
-          </div>
-        )}
-        {volume && volume.length > 0 && (
-          <div class="taxonomy-row">
-            <dt>Volume</dt>
-            <dd class="taxonomy-chips">
-              {volume.map(v => <span class="taxonomy-tag">{v} L</span>)}
-            </dd>
-          </div>
-        )}
-        {availability != null && (
-          <div class="taxonomy-row">
-            <dt>Availability</dt>
-            <dd><span class="taxonomy-tag">{availability} / 5</span></dd>
-          </div>
-        )}
-        {manufacturer && (
-          <div class="taxonomy-row">
-            <dt>Manufacturer</dt>
-            <dd><span class="taxonomy-tag">{manufacturer}</span></dd>
-          </div>
-        )}
-        {packager && (
-          <div class="taxonomy-row">
-            <dt>Packager</dt>
-            <dd><span class="taxonomy-tag">{packager}</span></dd>
-          </div>
-        )}
+        {
+          drinkTypes && drinkTypes.length > 0 && (
+            <div class="taxonomy-row">
+              <dt>Type</dt>
+              <dd>
+                {drinkTypes.map(t => (
+                  <a
+                    href={`/reviews?type=${encodeURIComponent(t)}`}
+                    class="taxonomy-link"
+                  >
+                    {t}
+                  </a>
+                ))}
+              </dd>
+            </div>
+          )
+        }
+        {
+          brand && (
+            <div class="taxonomy-row">
+              <dt>Brand</dt>
+              <dd>
+                <a
+                  href={`/reviews?brand=${encodeURIComponent(brand)}`}
+                  class="taxonomy-link"
+                >
+                  {brand}
+                </a>
+              </dd>
+            </div>
+          )
+        }
+        {
+          container && container.length > 0 && (
+            <div class="taxonomy-row">
+              <dt>Container</dt>
+              <dd class="taxonomy-chips">
+                {container.map(c => (
+                  <a
+                    href={`/reviews?container=${encodeURIComponent(c)}`}
+                    class="taxonomy-link"
+                  >
+                    {c}
+                  </a>
+                ))}
+              </dd>
+            </div>
+          )
+        }
+        {
+          taste && taste.length > 0 && (
+            <div class="taxonomy-row">
+              <dt>Taste</dt>
+              <dd class="taxonomy-chips">
+                {taste.map(t => (
+                  <a
+                    href={`/reviews?taste=${encodeURIComponent(t)}`}
+                    class="taxonomy-link"
+                  >
+                    {t}
+                  </a>
+                ))}
+              </dd>
+            </div>
+          )
+        }
+        {
+          primaryColors && primaryColors.length > 0 && (
+            <div class="taxonomy-row">
+              <dt>Color</dt>
+              <dd class="taxonomy-chips">
+                {primaryColors.map(c => (
+                  <a
+                    href={`/reviews?color=${encodeURIComponent(c)}`}
+                    class="taxonomy-link"
+                  >
+                    {c}
+                  </a>
+                ))}
+              </dd>
+            </div>
+          )
+        }
+        {
+          sweeteners && sweeteners.length > 0 && (
+            <div class="taxonomy-row">
+              <dt>Sweeteners</dt>
+              <dd class="taxonomy-chips">
+                {sweeteners.map(s => (
+                  <span class="taxonomy-tag">{s}</span>
+                ))}
+              </dd>
+            </div>
+          )
+        }
+        {
+          caffeine != null && (
+            <div class="taxonomy-row">
+              <dt>Caffeine</dt>
+              <dd>
+                <span class="taxonomy-tag">{caffeine} mg/100ml</span>
+              </dd>
+            </div>
+          )
+        }
+        {
+          alco != null && alco !== 0 && (
+            <div class="taxonomy-row">
+              <dt>Alcohol</dt>
+              <dd>
+                <span class="taxonomy-tag">{alco}%</span>
+              </dd>
+            </div>
+          )
+        }
+        {
+          favorite && (
+            <div class="taxonomy-row">
+              <dt>Favourite</dt>
+              <dd>
+                <span class="taxonomy-tag">★ Favourite</span>
+              </dd>
+            </div>
+          )
+        }
+        {
+          volume && volume.length > 0 && (
+            <div class="taxonomy-row">
+              <dt>Volume</dt>
+              <dd class="taxonomy-chips">
+                {volume.map(v => (
+                  <span class="taxonomy-tag">{v} L</span>
+                ))}
+              </dd>
+            </div>
+          )
+        }
+        {
+          availability != null && (
+            <div class="taxonomy-row">
+              <dt>Availability</dt>
+              <dd>
+                <span class="taxonomy-tag">{availability} / 5</span>
+              </dd>
+            </div>
+          )
+        }
+        {
+          manufacturer && (
+            <div class="taxonomy-row">
+              <dt>Manufacturer</dt>
+              <dd>
+                <span class="taxonomy-tag">{manufacturer}</span>
+              </dd>
+            </div>
+          )
+        }
+        {
+          packager && (
+            <div class="taxonomy-row">
+              <dt>Packager</dt>
+              <dd>
+                <span class="taxonomy-tag">{packager}</span>
+              </dd>
+            </div>
+          )
+        }
       </dl>
-
 
       <RelatedReviews post={post} allReviews={posts} />
     </article>
-    
+
     <hr class="my-6 border-dashed" />
 
     <!-- Previous/Next Post Buttons -->
@@ -373,7 +446,7 @@ const nextPost =
     <hr class="my-6 border-dashed" />
 
     <BackToTopButton />
-    
+
     <Comments />
   </div>
   <Footer />
@@ -512,9 +585,7 @@ const nextPost =
   }
 
   function renderTelegramPosts() {
-    const containers = Array.from(
-      document.querySelectorAll("[data-tg-post]")
-    );
+    const containers = Array.from(document.querySelectorAll("[data-tg-post]"));
 
     if (!containers.length) return;
 
@@ -601,7 +672,7 @@ const nextPost =
         script.setAttribute(attr, value);
       }
     }
-    
+
     container.appendChild(script);
   }
 

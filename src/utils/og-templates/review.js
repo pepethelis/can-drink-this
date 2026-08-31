@@ -8,7 +8,7 @@ export default async (post, imageBase64) => {
   const category = post.data.category || "";
   const type = (post.data.types ?? []).join(", ");
   const isFriendly = category === "дружні огляди";
-  const author = isFriendly ? (post.data.author || "") : "";
+  const author = isFriendly ? post.data.author || "" : "";
   const hasImage = Boolean(imageBase64);
 
   const fontSize = title.length > 40 ? 48 : title.length > 25 ? 58 : 70;
@@ -187,7 +187,19 @@ export default async (post, imageBase64) => {
       height: 630,
       embedFont: true,
       fonts: await loadGoogleFonts(
-        title + " " + summary + " " + category + " " + type + " @" + author + " " + SITE.title + " " + SITE.title.toUpperCase()
+        title +
+          " " +
+          summary +
+          " " +
+          category +
+          " " +
+          type +
+          " @" +
+          author +
+          " " +
+          SITE.title +
+          " " +
+          SITE.title.toUpperCase()
       ),
       loadAdditionalAsset,
     }

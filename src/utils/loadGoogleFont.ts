@@ -13,7 +13,9 @@ function fluentUrl(segment: string): string | undefined {
   if (!entry) return undefined;
 
   const cldr = entry.name;
-  const folder = encodeURIComponent(cldr.charAt(0).toUpperCase() + cldr.slice(1));
+  const folder = encodeURIComponent(
+    cldr.charAt(0).toUpperCase() + cldr.slice(1)
+  );
   // Strip parens so "A button (blood type)" → "a_button_blood_type"
   const baseName = cldr
     .replace(/[()]/g, "")

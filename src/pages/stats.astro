@@ -8,7 +8,7 @@ import StatsCharts from "@/components/StatsCharts";
 import getSortedPosts from "@/utils/getSortedPosts";
 import { SITE } from "@/config";
 import postFilter from "@/utils/postFilter";
-import getReviewStats from "@/utils/getReviewStats";
+import getReviewStats, { type ReviewItem } from "@/utils/getReviewStats";
 
 const allReviews = await getCollection("reviews", ({ data }) =>
   postFilter({ data })
@@ -17,11 +17,50 @@ const allReviewsIncludingUnpublished = await getCollection("reviews");
 const sorted = getSortedPosts(allReviews);
 
 const allStats = getReviewStats(sorted, allReviewsIncludingUnpublished);
+
 const ownReviews = sorted.filter(r => r.data.category === "власні огляди");
 const ownCreationReviews = allReviewsIncludingUnpublished.filter(
   r => r.data.category === "власні огляди"
 );
 const ownStats = getReviewStats(ownReviews, ownCreationReviews);
+
+const friendlyReviews = sorted.filter(r => r.data.category === "дружні огляди");
+const friendlyCreationReviews = allReviewsIncludingUnpublished.filter(
+  r => r.data.category === "дружні огляди"
+);
+const friendlyStats = getReviewStats(friendlyReviews, friendlyCreationReviews);
+
+const subscriberReviews = sorted.filter(
+  r => r.data.category === "огляди від підписників"
+);
+const subscriberCreationReviews = allReviewsIncludingUnpublished.filter(
+  r => r.data.category === "огляди від підписників"
+);
+const subscriberStats = getReviewStats(
+  subscriberReviews,
+  subscriberCreationReviews
+);
+
+const serializeReview = (r: (typeof allReviews)[number]): ReviewItem => ({
+  data: {
+    category: r.data.category,
+    author: r.data.author,
+    brand: r.data.brand,
+    sponsor: r.data.sponsor,
+    types: r.data.types,
+    taste: r.data.taste,
+    container: r.data.container,
+    sweeteners: r.data.sweeteners,
+    caffeine: r.data.caffeine,
+    alco: r.data.alco,
+    favorite: r.data.favorite,
+    publishedAt: r.data.publishedAt ? r.data.publishedAt.toISOString() : null,
+    createdAt: r.data.createdAt ? r.data.createdAt.toISOString() : null,
+  },
+});
+
+const rawReviews = sorted.map(serializeReview);
+const rawCreationReviews = allReviewsIncludingUnpublished.map(serializeReview);
 
 const reviewsUrl = import.meta.env.BASE_URL.replace(/\/$/, "") + "/reviews";
 ---
@@ -34,6 +73,10 @@ const reviewsUrl = import.meta.env.BASE_URL.replace(/\/$/, "") + "/reviews";
       client:load
       allStats={allStats}
       ownStats={ownStats}
+      friendlyStats={friendlyStats}
+      subscriberStats={subscriberStats}
+      rawReviews={rawReviews}
+      rawCreationReviews={rawCreationReviews}
       reviewsUrl={reviewsUrl}
     />
   </Main>

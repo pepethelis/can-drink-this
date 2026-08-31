@@ -2,7 +2,9 @@
 import type { CollectionEntry } from "astro:content";
 
 type Props = {
-  tgPost: NonNullable<CollectionEntry<"reviews">["data"]["contentTgPosts"]>[number];
+  tgPost: NonNullable<
+    CollectionEntry<"reviews">["data"]["contentTgPosts"]
+  >[number];
 };
 
 const { tgPost } = Astro.props;
