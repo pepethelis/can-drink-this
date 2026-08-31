@@ -6,7 +6,7 @@ tags:
 externalUrl: https://t.me/kallection/38360
 brand: komodo
 taste:
-  - wild strawberry
+  - strawberry/wild
 publishedAt: 2026-08-26
 favorite:
 container:

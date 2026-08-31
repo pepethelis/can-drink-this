@@ -5,7 +5,7 @@ tags:
 externalUrl: https://t.me/kallection/22205
 brand: revo/next
 taste:
-  - wild strawberry
+  - strawberry/wild
 container:
   - can
 publishedAt: 2024-08-28
