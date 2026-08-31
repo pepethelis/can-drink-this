@@ -10,7 +10,7 @@ A comprehensive, community-driven database of energy drink and beverage reviews.
   - `subscribers/` — Community submissions
 - **`content/posts/`** — Thematic collections and comparisons (e.g., "Top 10 Most Reviewed", "Zero Sugar Selection", "Caffeine Anomalies")
 - **`content/assets/`** — Product images organized by brand
-- **`bases/`** — Obsidian database views filtering reviews by status, type, owner, etc.
+- **`bases/`** — Obsidian database views filtering reviews by status, types, owner, etc.
 - **`templates/`** — Standardized templates for new reviews (standard, friendly, subscriber, new format)
 
 ## 🎯 Review Guidelines
