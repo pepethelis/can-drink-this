@@ -1,8 +1,8 @@
 ---
-status: to publish
+status: published
 aliases:
   - Cheat code exotic
-externalUrl:
+externalUrl: https://t.me/kallection/38492
 brand: cheat code
 types:
   - energy
@@ -10,7 +10,7 @@ taste:
   - mango
   - lemon
   - mint
-publishedAt:
+publishedAt: 2026-08-31
 favorite:
 container:
   - can
