@@ -15,6 +15,7 @@ taste:
 cover: "[[photo_2025-11-04_22-37-04.jpg]]"
 types:
   - energy
+externalUrl: https://t.me/ukr_satan/6926
 ---
 CULT energy activator Original  
 

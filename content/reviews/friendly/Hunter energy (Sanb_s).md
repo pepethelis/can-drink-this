@@ -14,6 +14,7 @@ taste:
 cover: "[[photo_2025-10-30_14-13-24.jpg]]"
 types:
   - energy
+externalUrl: https://t.me/ukr_satan/4364
 ---
 Так, ну що я можу сказати про HUNTER ENERGY  
 
