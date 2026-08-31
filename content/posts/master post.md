@@ -32,11 +32,11 @@ publishedAt: 2025-12-20
 - [[Brainer]]
 - [[Cult juicy ocean]]
 - [[Cult bubble gum]]
-- [Monster lando norris]
+- [[content/reviews/friendly/Sanb_s/Monster Lando Norris|Monster Lando Norris]]
 ***Super_skrulling:***
 - [[content/reviews/friendly/Super_skrull/Monster juiced pipeline punch|Monster juiced pipleine punch]]
 - [[Monster ultra rosa|Monster ultra rosa]]
-- [Monster java 300 синій](https://t.me/super_skrulling/169)
+- [[Monster java 300 french vanilla]]
 - [[Monster reserve orange dreamsicle|Monster reserve orange dreamsicle]]
 ***Сонічка:*** 
 - [Monster java 300 червоний](https://t.me/sonechkin_rzekich/33079)
@@ -45,13 +45,8 @@ publishedAt: 2025-12-20
 - [пітбуль зелений](https://t.me/sonechkin_rzekich/32417)
 - [гламурна фанта з персиком](https://t.me/sonechkin_rzekich/32213)
 - [якийсь кросівий хелл](https://t.me/sonechkin_rzekich/32159)
-- [Jett orange](https://t.me/sonechkin_rzekich/33702)
-- [Jett green](https://t.me/sonechkin_rzekich/33688)
-
-**Огляди від підписників:**
-- [Monster Viking Berry by makmed1337](https://t.me/kallection/34751)
-- [Redbull spring edition kirsche-sakura by svitliiachok](https://t.me/kallection/34765)
-- [Monster ultra peachy keen by Super_skrull](https://t.me/kallection/35710)
+- [[Jett orange]]
+- [[Jett green]]
 
 **Дописи з роздумами щодо теми:**
 - [[Неочікуваний ідеал дизайну у кави хелл]]
