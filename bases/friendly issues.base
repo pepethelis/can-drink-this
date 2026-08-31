@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.folder.startsWith("content/reviews/friendly")
+views:
+  - type: table
+    name: aliases is empty
+    filters:
+      and:
+        - aliases.isEmpty()
+  - type: table
+    name: types is empty
+    filters:
+      and:
+        - types.isEmpty()
+  - type: table
+    name: published, but not full
+    filters:
+      and:
+        - status == "published"
+        - or:
+            - cover.isEmpty()
+            - externalUrl.isEmpty()
+            - publishedAt.isEmpty()
+            - and:
+                - types.containsAny("energy")
+                - caffeine.isEmpty()
+            - and:
+                - types.containsAny("alco")
+                - alco.isEmpty()
+            - externalUrl.isEmpty()

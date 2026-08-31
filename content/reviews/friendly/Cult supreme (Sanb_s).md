@@ -12,6 +12,7 @@ volume:
 cover: "[[photo_2025-11-06_11-43-44.jpg]]"
 types:
   - energy
+externalUrl: https://t.me/ukr_satan/6954
 ---
 CULT supreme  
 
