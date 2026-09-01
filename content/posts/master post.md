@@ -39,7 +39,7 @@ publishedAt: 2025-12-20
 - [[Monster java 300 french vanilla]]
 - [[Monster reserve orange dreamsicle|Monster reserve orange dreamsicle]]
 ***Сонічка:*** 
-- [Monster java 300 червоний](https://t.me/sonechkin_rzekich/33079)
+- [[Monster java 300 mocha]]
 - [енергосік по кіберпанку 1](https://t.me/sonechkin_rzekich/32560)
 - [енергосік по кіберпанку 2](https://t.me/sonechkin_rzekich/32564)
 - [[Pitbull X]]
