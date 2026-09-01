@@ -42,9 +42,9 @@ publishedAt: 2025-12-20
 - [Monster java 300 червоний](https://t.me/sonechkin_rzekich/33079)
 - [енергосік по кіберпанку 1](https://t.me/sonechkin_rzekich/32560)
 - [енергосік по кіберпанку 2](https://t.me/sonechkin_rzekich/32564)
-- [пітбуль зелений](https://t.me/sonechkin_rzekich/32417)
+- [[Pitbull X]]
 - [гламурна фанта з персиком](https://t.me/sonechkin_rzekich/32213)
-- [якийсь кросівий хелл](https://t.me/sonechkin_rzekich/32159)
+- [[Hell summer cool elderflower|якийсь кросівий хелл]]
 - [[Jett orange]]
 - [[Jett green]]
 
