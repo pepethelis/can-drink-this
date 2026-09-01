@@ -43,7 +43,7 @@ publishedAt: 2025-12-20
 - [[Oshee cyberpunk lychee-jasmine]]
 - [[Oshee cyberpunk bubble gum]]
 - [[Pitbull X]]
-- [гламурна фанта з персиком](https://t.me/sonechkin_rzekich/32213)
+- [[Fanta white peach 0.3]]
 - [[Hell summer cool elderflower|якийсь кросівий хелл]]
 - [[Jett orange]]
 - [[Jett green]]

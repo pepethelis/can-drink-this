@@ -15,6 +15,7 @@ taste:
 types:
   - energy
 cover: "[[photo_2025-03-09_09-11-55.jpg]]"
+externalUrl:
 ---
 **M∅NSTER ENERGY ULTRA ROSÁ**
 
