@@ -40,8 +40,8 @@ publishedAt: 2025-12-20
 - [[Monster reserve orange dreamsicle|Monster reserve orange dreamsicle]]
 ***Сонічка:*** 
 - [[Monster java 300 mocha]]
-- [енергосік по кіберпанку 1](https://t.me/sonechkin_rzekich/32560)
-- [енергосік по кіберпанку 2](https://t.me/sonechkin_rzekich/32564)
+- [[Oshee cyberpunk lychee-jasmine]]
+- [[Oshee cyberpunk bubble gum]]
 - [[Pitbull X]]
 - [гламурна фанта з персиком](https://t.me/sonechkin_rzekich/32213)
 - [[Hell summer cool elderflower|якийсь кросівий хелл]]
