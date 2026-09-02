@@ -55,6 +55,7 @@ The following terms/spellings are **intentional** and should NOT be flagged as e
 - `сексасною` or stylized variations
 - `гої` or variations
 - `омерика` or variations (deliberate spelling for effects/radlers)
+- `хз`, `аутистичний`, `сраку` as intentional informal/slang usage in context
 
 **Brand styling:**
 - `мфнстер` — intentional stylization of "Monster" (visual/design reference)
@@ -72,16 +73,18 @@ The following terms/spellings are **intentional** and should NOT be flagged as e
 Reviews should include YAML frontmatter:
 ```yaml
 status: Published | Draft | Prebuild
-tags: [brand, flavor, type]
+tags: [brand, taste, types]
 externalUrl: (optional link to brand site or source)
 brand: [Brand Name]
-type: [Energy Drink | Alco-Energy | Pre-Workout | Other]
+types: [Energy Drink | Alco-Energy | Pre-Workout | Other]
 taste: [Official flavor from packaging]
 postedAt: [Date]
 favorite: [true/false]
 container: [Volume, e.g., "0.5L"]
 sweeteners: [List of sweetening agents]
 ```
+
+For friendly and subscriber reviews, the minimum required fields are: `aliases`, `author`, and `types`. Other fields are optional unless needed for a specific review.
 
 ## 🔍 Editorial Checklist
 

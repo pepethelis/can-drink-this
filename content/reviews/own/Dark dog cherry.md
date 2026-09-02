@@ -56,5 +56,5 @@ createdAt: 2026-02-16
 По висновку - французька спроба у вишневе. Всі намагаються зробити щось вишневе, але французи не встигли вкрасти рецепт імбового [[content/reviews/own/Nonstop 20 years edition|вишневого нонстопа]]. Але і без порівняння смакує гарно, хоч і не імбово. Просто добрий вишневий смак на рівні [[Cheat code charge]]
 Пост вийшов завдяки [спонсору оглядів](https://t.me/dekanat_tef), підписуйтесь на Дмитра
 
-Пов'язані огляди: [[Dark dog]], [[Dark dog pink fizz]], [[Cheat code charge]], [[Monster ultra black]], [[content/reviews/own/Nonstop 20 years edition]]
+Пов'язані огляди: [[Dark dog]], [[Dark dog pink fizz]], [[Cheat code charge]], [[content/reviews/own/Monster ultra black]], [[content/reviews/own/Nonstop 20 years edition]]
 #огляди
