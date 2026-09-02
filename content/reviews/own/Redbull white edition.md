@@ -1,14 +1,14 @@
 ---
-status: to publish
+status: published
 tags:
   - package/ball
   - country/france
-externalUrl:
+externalUrl: https://t.me/kallection/38575
 brand: redbull/edition
 taste:
   - coconut
   - acai
-publishedAt:
+publishedAt: 2026-09-03
 favorite:
 container:
   - can
