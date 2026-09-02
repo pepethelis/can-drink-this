@@ -29,7 +29,7 @@ aliases:
 types:
   - energy
 related:
-  - "[[Burn white gummy bear|Burn white gummy bear]]"
+  - "[[content/reviews/own/Burn white gummy bear|Burn white gummy bear]]"
   - "[[content/reviews/own/Hell carnival cotton candy|Hell carnival cotton candy]]"
 createdAt: 2026-08-20
 ---

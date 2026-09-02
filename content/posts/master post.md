@@ -109,7 +109,7 @@ Battery juiced:
 - [[Воля синя|ягідний мікс🔵]]
 Моршинська воля кава: 
 - [[Воля кава-м'ята|кава-м'ята🟢]]
-- [[Воля кава-апельсин|кава-апельсин🟠]]
+- [[content/reviews/own/Воля кава-апельсин|кава-апельсин🟠]]
 
 
 **Pitbull:** 
@@ -218,7 +218,7 @@ Redbull organics:
 - [[Burn fruit punch|fruit punch]]
 - [[Burn guava|guava]]
 - [[Burn orange fire|orange fire]]
-- [[Burn white gummy bear|white gummy bear]]
+- [[content/reviews/own/Burn white gummy bear|white gummy bear]]
 
 
 **Hell:** 
