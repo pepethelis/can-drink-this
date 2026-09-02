@@ -80,7 +80,7 @@ Nonstop stalker:
 - [[content/reviews/own/Nonstop stalker orange|кавун🟠]]
 - [[Nonstop stalker violet|манго-груша🟣]]
 - [[Nonstop stalker green|лайм-м'ята-ожина🟢]]
-- [[Nonstop stalker red|вишня-ром-ананас🔴]]
+- [[content/reviews/own/Nonstop stalker red|вишня-ром-ананас🔴]]
 Nonstop juice: 
 - [[content/reviews/own/Nonstop juice series splash|splash]]
 
@@ -93,7 +93,7 @@ Nonstop juice:
 - [[Battery frsh|frsh🟡🔴]]
 - [[Battery exotic|exotic🟡🟣]]
 - [[Battery cola|cola⚫🔴]]
-- [[Battery electric|electric🔵]]
+- [[content/reviews/own/Battery electric|electric🔵]]
 - [[Battery super charge|super charge🟤]]
 Battery juiced: 
 - [[Battery juiced peach lemonade|peach lemonade🟡]]
@@ -176,7 +176,7 @@ Monster juiced:
 - [[content/reviews/own/Monster juiced rio punch|rio punch]]
 Monster ultra: 
 - [[content/reviews/own/Monster ultra white|white]]
-- [[Monster ultra black|black]]
+- [[content/reviews/own/Monster ultra black|black]]
 - [[Monster ultra watermelon|watermelon]]
 - [[Monster ultra fantasy ruby red|ruby red]]
 - [[Monster ultra blue|blue]]

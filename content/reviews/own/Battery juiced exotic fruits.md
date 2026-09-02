@@ -39,7 +39,7 @@ createdAt: 2026-04-12
 Верхівка та ключик на диво не тоновані у золотистий, що незвично для карлсбергу
 
 Колір напою - насичений жовтий 
-Обʼєм 0,48л, не 0,5л як у інших батарейках. А мода пішла з [[Battery electric]]
+Обʼєм 0,48л, не 0,5л як у інших батарейках. А мода пішла з [[content/reviews/own/Battery electric]]
 Кофеїну 32мг /100мл
 164кДж або ж 39ккал /100г
 Вуглеводів 9,8г, серед них цукрів 9,8г /100г
@@ -52,5 +52,5 @@ createdAt: 2026-04-12
 По висновку - новий смак у лінійці батарейок з соком і загалом я радий, що вони продовжують розвиток першої української juiced лінійки (так, що навіть нонстоп напрягся від того і дропнув свій [[content/reviews/own/Nonstop juice series splash|juice splash]]). Але по смаку цього разу не дуже вдало вийшло імхо. Як було в одному треку - «Old does not mean dead, new does not mean best» і це схоже той випадок, бо попередні банки в лінійці були добрі, а ця щось хз. Також додам, що на старті продажів ціна 50 гривень, доволі оверпрайс, враховуючи якість смаку та зменшений обʼєм. Імхо, вони схоже затестили соковий нонстоп, який не усім сподобався, і вирішили теж випустити щось того ж рівня. Або подумали, що не варто боятися конкуренції. Отже, смак не отрута, але супер гарним я його не назву. Мені здається що попередні батарейки сокові смачніші. До рівня monster juiced ця вся братва не дотягує аж ніяк
 Попри все, imagine this at 3am score - 4/5
 
-Пов'язані огляди: [[Battery black]], [[Battery frsh]], [[Battery exotic]], [[Battery mix]], [[content/reviews/own/Battery unicorn]], [[Battery cola]], [[Battery electric]], [[Battery juiced sour apple]], [[Battery juiced sour apple]]
+Пов'язані огляди: [[Battery black]], [[Battery frsh]], [[Battery exotic]], [[Battery mix]], [[content/reviews/own/Battery unicorn]], [[Battery cola]], [[content/reviews/own/Battery electric]], [[Battery juiced sour apple]], [[Battery juiced sour apple]]
 #огляди
