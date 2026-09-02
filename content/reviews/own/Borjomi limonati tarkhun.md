@@ -1,11 +1,11 @@
 ---
-status: to publish
+status: published
 tags:
-externalUrl:
+externalUrl: https://t.me/kallection/38566
 brand: borjomi/limonati
 taste:
   - tarkhun
-publishedAt:
+publishedAt: 2026-09-03
 favorite:
 container:
   - can

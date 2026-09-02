@@ -1,15 +1,15 @@
 ---
-status: to publish
+status: published
 aliases:
   - Hell carnival cactus twist
-externalUrl:
+externalUrl: https://t.me/kallection/38559
 brand: hell/carnival
 types:
   - energy
 taste:
   - strawberry
   - lemon
-publishedAt:
+publishedAt: 2026-09-03
 favorite:
 container:
   - can
