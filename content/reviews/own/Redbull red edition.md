@@ -50,5 +50,5 @@ createdAt: 2025-04-14
 По висновку - було чималим викликом вивчити лініки редбула і лор саме цієї банки чи не найлегший. По смаку мене не вразило. Так, це не копія кавунячого нонстопу чи хеллу, але і не топ смак. Топ смак кавуну є тільки у кавуні. А тут просто червоненький енергос. Доречі менш хімозний, ніж [[Monster ultra watermelon|кавунячий ультра мфнстер]]
 Пост вийшов завдяки [спонсору оглядів](https://t.me/dekanat_tef)
 
-Пов'язані огляди: [[Redbull green edition]], [[Redbull yellow edition]], [[Nonstop zoom]], [[Monster ultra watermelon]]
+Пов'язані огляди: [[content/reviews/own/Redbull green edition]], [[Redbull yellow edition]], [[Nonstop zoom]], [[Monster ultra watermelon]]
 #огляди

@@ -50,5 +50,5 @@ createdAt: 2025-05-03
 По висновку - нормасна енергуйка на разок. Здебільшого тому, що у мене лише одна така банка, а де брати хз. Якби буда у доступі, то можна було б сьорбати час від часу. А так навіть полювати не варто, смак не настільки цікавий, хоч в цілому і гарний 
 Пост вийшов завдяки [спонсору оглядів](https://t.me/dekanat_tef)
 
-Пов'язані огляди: [[Redbull green edition]], [[Своя лінія recharge wild dog cactus]], [[Crazy wolf yellow tropical]], [[Crazy wolf green ginseng-guarana]]
+Пов'язані огляди: [[content/reviews/own/Redbull green edition]], [[Своя лінія recharge wild dog cactus]], [[Crazy wolf yellow tropical]], [[Crazy wolf green ginseng-guarana]]
 #огляди 

@@ -133,8 +133,8 @@ Battery juiced:
 
 
 **Bronx zero:** 
-- [[Bronx zero|original]]
-- [[Bronx zero coffee|cola-coffee]]
+- [[content/reviews/own/Bronx zero|original]]
+- [[content/reviews/own/Bronx zero coffee|cola-coffee]]
 - [[Bronx zero pink|pomegranate]]
 - [[Bronx zero berries|berries]]
 
@@ -197,7 +197,7 @@ Monster rehab:
 Redbull edition: 
 - [[content/reviews/own/Redbull red edition|red edition]]
 - [[Redbull yellow edition|yellow edition]]
-- [[Redbull green edition|green edition]]
+- [[content/reviews/own/Redbull green edition|green edition]]
 - [[Redbull apricot edition|apricot edition]]
 - [[Redbull white edition|white edition]]
 - [[Redbull winter edition|winter edition]]
