@@ -31,7 +31,7 @@ aliases:
 related:
   - "[[Revo energy original|Revo energy original]]"
   - "[[Revo energy cherry|Revo energy cherry]]"
-  - "[[Revo energy grape]]"
+  - "[[content/reviews/own/Revo energy grape]]"
 telegram_format: html
 createdAt: 2026-07-02
 ---

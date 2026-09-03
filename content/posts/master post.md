@@ -127,9 +127,9 @@ Battery juiced:
 
 **Revo energy:** 
 - [[Revo energy original|original]]
-- [[Revo energy grape|grape]]
+- [[content/reviews/own/Revo energy grape|grape]]
 - [[Revo energy cherry|cherry]]
-- [[Revo energy|“revo taste”]]
+- [[content/reviews/own/Revo energy|“revo taste”]]
 
 
 **Bronx zero:** 
@@ -229,7 +229,7 @@ Redbull organics:
 - [[Hell green apple|green apple]]
 - [[Hell strawberry-banana|strawberry-banana]]
 - [[Hell watermelon|watermelon]]
-- [[Hell sparkler|sparkler]]
+- [[content/reviews/own/Hell sparkler|sparkler]]
 Hell plus: 
 - [[Hell classic plus|Hell classic+]]
 - [[Hell focus plus|focus+]]
