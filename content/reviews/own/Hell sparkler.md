@@ -29,7 +29,7 @@ aliases:
 types:
   - energy
 related:
-  - "[[Hell Spritz Maracuja]]"
+  - "[[content/reviews/own/Hell Spritz Maracuja]]"
   - "[[Hell Spritz Lime]]"
   - "[[Hell multi plus]]"
   - "[[Hell focus plus]]"

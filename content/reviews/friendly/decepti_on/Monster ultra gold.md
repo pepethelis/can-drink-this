@@ -2,7 +2,7 @@
 author: decepti_on
 aliases:
   - Monster ultra gold
-publishedAt:
+publishedAt: 2025-08-21
 status: published
 brand: monster/ultra
 container:

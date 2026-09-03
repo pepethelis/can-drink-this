@@ -238,7 +238,7 @@ Hell summer:
 - [[Hell Summer Groovy Grapefruit|groovy grapefruit]]
 - [[Hell Summer Chillin’ Guanabana|chillin' guanabana-mango]]
 Hell spritz: 
-- [[Hell Spritz Maracuja|maracuja]]
+- [[content/reviews/own/Hell Spritz Maracuja|maracuja]]
 - [[Hell Spritz Lime|lime]]
 Hell carnival:
 - [[Hell carnival cactus twist|cactus twist]]
