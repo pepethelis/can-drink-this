@@ -96,8 +96,8 @@ Nonstop juice:
 - [[content/reviews/own/Battery electric|electric🔵]]
 - [[Battery super charge|super charge🟤]]
 Battery juiced: 
-- [[Battery juiced peach lemonade|peach lemonade🟡]]
-- [[Battery juiced sour apple|sour apple🟢]]
+- [[content/reviews/own/Battery juiced peach lemonade|peach lemonade🟡]]
+- [[content/reviews/own/Battery juiced sour apple|sour apple🟢]]
 - [[Battery juiced exotic fruits|exotic fruits🟠]]
 
 

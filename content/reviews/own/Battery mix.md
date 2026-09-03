@@ -50,5 +50,5 @@ createdAt: 2024-09-22
 
 По висновку - дефолтне енергуйне, впевнено рекомендувати б не став, а загалом хай буде для різноманіття
 
-Пов'язані огляди: [[Battery black]], [[Battery frsh]], [[Battery exotic]], [[content/reviews/own/Battery unicorn]], [[Battery cola]], [[Battery juiced sour apple]], [[Battery juiced peach lemonade]]
+Пов'язані огляди: [[Battery black]], [[Battery frsh]], [[Battery exotic]], [[content/reviews/own/Battery unicorn]], [[Battery cola]], [[content/reviews/own/Battery juiced sour apple]], [[content/reviews/own/Battery juiced peach lemonade]]
 #огляди
