@@ -47,5 +47,5 @@ createdAt: 2025-05-10
 
 По висновку - не памʼятаю ціну, але чисто на смак гарно. Такий саме крутяк, як і мфнстер доктор жовтий, тобто цей бьорн залітає у список любімок. У бьорну в принципі ригачок не буває, але тут прям гуд. Раджу усім хоча б разочок зацінити цю банку. А я за нагоди роздобуду собі ще
 
-Пов'язані огляди: [[Monster nitro green]], [[Monster VR46]], [[Shake zero orange crush]], [[Burn red]], [[Burn green apple-kiwi]], [[Burn mango]], [[Burn guava]], [[Burn fruit punch]], [[Burn dark energy]]
+Пов'язані огляди: [[Monster nitro green]], [[Monster VR46]], [[Shake zero orange crush]], [[Burn red]], [[Burn green apple-kiwi]], [[Burn mango]], [[content/reviews/own/Burn guava]], [[Burn fruit punch]], [[Burn dark energy]]
 #огляди

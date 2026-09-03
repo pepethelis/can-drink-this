@@ -4,12 +4,19 @@ aliases:
   - Burn orange fire
 publishedAt:
 status: published
-brand:
+brand: burn
 container:
+  - can
 volume:
-summary:
+  - "0.25"
+summary: Огляд на Берн з апельсином
 taste:
+  - orange
 types:
+  - energy
 cover:
-externalUrl:
+externalUrl: https://t.me/sonechkin_rzekich/33303
+contentTgPosts:
+  - https://t.me/sonechkin_rzekich/33302
 ---
+Огляд на Берн з апельсином

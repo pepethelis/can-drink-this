@@ -216,7 +216,7 @@ Redbull organics:
 - [[Burn mango|mango]]
 - [[Burn dark energy|dark energy]]
 - [[Burn fruit punch|fruit punch]]
-- [[Burn guava|guava]]
+- [[content/reviews/own/Burn guava|guava]]
 - [[content/reviews/own/Burn orange fire|orange fire]]
 - [[content/reviews/own/Burn white gummy bear|white gummy bear]]
 

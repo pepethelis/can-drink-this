@@ -49,5 +49,5 @@ createdAt: 2025-03-11
 
 По висновку - ціна 34, нормально як для такого виробника. Смак норм, хоча я його трохи не розумію. Чи радив би я його? Мабуть. Чи брав би я собі його ще? Складне питання. Мабуть брав би іноді, чисто щоб згадати. Але з пуншів брав би скоріше монстра. А це такий собі енергос другої черги, або щоб поділитись з кимось. Мастхев лінійку він не доповнює
 
-Пов'язані огляди: [[Burn red]], [[Burn green apple-kiwi]], [[Burn mango]], [[Burn guava]], [[content/reviews/own/Burn orange fire]], [[Burn dark energy]]
+Пов'язані огляди: [[Burn red]], [[Burn green apple-kiwi]], [[Burn mango]], [[content/reviews/own/Burn guava]], [[content/reviews/own/Burn orange fire]], [[Burn dark energy]]
 #огляди
