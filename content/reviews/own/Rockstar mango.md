@@ -33,12 +33,12 @@ related:
   - "[[Burn mango]]"
   - "[[Frugo mango]]"
   - "[[28 black sour mango kiwi]]"
-  - "[[Monster juiced mango loco]]"
+  - "[[content/reviews/own/Monster juiced mango loco]]"
 createdAt: 2025-05-16
 ---
 **Rockstar energy**, блакитний. Офіційний смак - манго
 
-На запах манго, на смак в принципі теж. Хоча смак доволі нетиповий. Відрізняється від усіх цих дефолтних смаків по типу [[Monster juiced mango loco|мфнстер mango loco]] чи [[Burn mango|якихось схожих]]. Доволі наближено до [[Frugo mango|фруго манго]]
+На запах манго, на смак в принципі теж. Хоча смак доволі нетиповий. Відрізняється від усіх цих дефолтних смаків по типу [[content/reviews/own/Monster juiced mango loco|мфнстер mango loco]] чи [[Burn mango|якихось схожих]]. Доволі наближено до [[Frugo mango|фруго манго]]
 
 Скажімо так, там манго типу більш свіжий та ідеалізований, а тут більш стиглий та натуральний. Обидва манго, але кому чи більше подобається
 

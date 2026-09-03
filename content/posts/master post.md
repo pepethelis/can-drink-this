@@ -67,7 +67,7 @@ publishedAt: 2025-12-20
 
 
 **Nonstop:** 
-- [[Nonstop military|military🪖]]
+- [[content/reviews/own/Nonstop military|military🪖]]
 - [[Nonstop original|original🔵]]
 - [[Nonstop original zero|original zero🔵⚪]]
 - [[Nonstop jungle|jungle🟢]]
@@ -90,8 +90,8 @@ Nonstop juice:
 - [[Battery binance|binance🟡]]
 - [[content/reviews/own/Battery unicorn|unicorn🔵🟣]]
 - [[Battery mix|mix🟣🟢]]
-- [[Battery frsh|frsh🟡🔴]]
-- [[Battery exotic|exotic🟡🟣]]
+- [[content/reviews/own/Battery frsh|frsh🟡🔴]]
+- [[content/reviews/own/Battery exotic|exotic🟡🟣]]
 - [[Battery cola|cola⚫🔴]]
 - [[content/reviews/own/Battery electric|electric🔵]]
 - [[Battery super charge|super charge🟤]]
@@ -166,9 +166,9 @@ Battery juiced:
 - [[content/reviews/own/Monster lewis hamilton|Lewis Hamilton/Top Speed]]
 - [[content/reviews/own/Monster lando norris|Lando Norris]]
 Monster juiced: 
-- [[Monster juiced mango loco|mango loco]]
+- [[content/reviews/own/Monster juiced mango loco|mango loco]]
 - [[content/reviews/own/Monster juiced pacific punch|pacific punch]]
-- [[Monster juiced aussie style lemonade|aussie style lemonade]]
+- [[content/reviews/own/Monster juiced aussie style lemonade|aussie style lemonade]]
 - [[Monster juiced monarch|monarch]]
 - [[content/reviews/own/Monster juiced bad apple|bad apple]]
 - [[Monster juiced khaotic|khaotic]]

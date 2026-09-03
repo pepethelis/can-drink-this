@@ -51,5 +51,5 @@ createdAt: 2025-09-26
 
 По висновку - кола-енергос від місцевого виробника. Підходить для усіляких кокаколіків, які хочуть ще й енергос. Є більш дешевою та менш цукровою альтернативою до [[Monster assault]]. В принципі все. Спеціально шукати я б не радив, хіба що відвертим кокаколікам або тим, кому подобається [[Monster assault]], але хочеться дешевше або менше цукру
 
-Пов'язані огляди: [[Monster assault]], [[Cola default]], [[Booster cola]], [[Redbull organics simply cola]], [[Battery black]], [[Battery mix]], [[Battery frsh]], [[Battery exotic]], [[content/reviews/own/Battery unicorn]]
+Пов'язані огляди: [[Monster assault]], [[Cola default]], [[Booster cola]], [[Redbull organics simply cola]], [[Battery black]], [[Battery mix]], [[content/reviews/own/Battery frsh]], [[content/reviews/own/Battery exotic]], [[content/reviews/own/Battery unicorn]]
 #огляди

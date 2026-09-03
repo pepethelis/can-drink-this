@@ -47,5 +47,5 @@ createdAt: 2025-01-09
 По висновку - ще один додатковий класичний енергос, на який може випасти знижка. На смак він не настільки імбовий як бьорн чи нонстоп синій, але і не поганий. А ще як бонус там наче щось можна виграти, звісно якщо активувати код до 31.12.2024. Так, уєбани зробили акцію на півтори місяці✌️
 Коротше не смачно і не прикольно, а головна гумореска що воно буде у продажі ще кілька місяців
 
-Пов'язані огляди: [[Battery black]], [[Battery mix]], [[Battery frsh]], [[Battery exotic]], [[Battery cola]], [[content/reviews/own/Battery unicorn]], [[content/reviews/own/Battery juiced sour apple]], [[content/reviews/own/Battery juiced peach lemonade]]
+Пов'язані огляди: [[Battery black]], [[Battery mix]], [[content/reviews/own/Battery frsh]], [[content/reviews/own/Battery exotic]], [[Battery cola]], [[content/reviews/own/Battery unicorn]], [[content/reviews/own/Battery juiced sour apple]], [[content/reviews/own/Battery juiced peach lemonade]]
 #огляди

@@ -51,5 +51,5 @@ createdAt: 2025-10-29
 По висновку - топовий, незвичний і цікавий святковий енергос. Такого не було і мабуть ніколи і не буде. Це смакує і це треба спробувати поки воно ще є. Впевнений з часом цей смак стане абсолютно легендарним і його будуть згадувати зі сльозами. А поки що я сьорбаю і кайфую. Ця імба йде у мої улюблені, навіть йде двічі бо це і смачно, і унікально
 Також з цікавого - разом з напоєм вони запустили свій святковий плейлист. Навіть є змога обрати платформу їхньому сайті https://ns20.newproducts.com/
 
-Пов'язані огляди: [[Nonstop military]], [[Nonstop original]], [[Nonstop original zero]], [[Nonstop boost]], [[Nonstop jungle]], [[Nonstop ultra]], [[content/reviews/own/Monster ultra black]], [[Frugo wild cherry]]
+Пов'язані огляди: [[content/reviews/own/Nonstop military]], [[Nonstop original]], [[Nonstop original zero]], [[Nonstop boost]], [[Nonstop jungle]], [[Nonstop ultra]], [[content/reviews/own/Monster ultra black]], [[Frugo wild cherry]]
 #огляди
