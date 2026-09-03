@@ -32,7 +32,7 @@ types:
   - energy
 createdAt: 2026-07-29
 related:
-  - "[[Hell strawberry-banana|Hell strawberry-banana]]"
+  - "[[content/reviews/own/Hell strawberry-banana|Hell strawberry-banana]]"
   - "[[Effect strawberry apricot|Effect strawberry apricot]]"
   - "[[Frugo watermelon-strawberry|Frugo watermelon-strawberry]]"
 ---

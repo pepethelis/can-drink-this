@@ -103,7 +103,7 @@ Battery juiced:
 
 **Моршинська воля:** 
 - [[Воля червона|оригінальна🔴]]
-- [[Воля жовта|манго-апельсин🟡]]
+- [[content/reviews/own/Воля жовта|манго-апельсин🟡]]
 - [[Воля рожева|журавлина🟣]]
 - [[Воля зелена|ківі-полуниця🟢]]
 - [[Воля синя|ягідний мікс🔵]]
@@ -227,7 +227,7 @@ Redbull organics:
 - [[Hell goji berry|goji berry]]
 - [[Hell black cherry|black cherry]]
 - [[Hell green apple|green apple]]
-- [[Hell strawberry-banana|strawberry-banana]]
+- [[content/reviews/own/Hell strawberry-banana|strawberry-banana]]
 - [[Hell watermelon|watermelon]]
 - [[content/reviews/own/Hell sparkler|sparkler]]
 Hell plus: 
