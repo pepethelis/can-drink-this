@@ -52,5 +52,5 @@ createdAt: 2024-11-29
 
 По висновку - брав за 75 на знижках, а дефолт ціна 90. З розгону хейтити не буду, бо це скоріше я не викупив прикола. Він точно краще за монстра зі скелетами чи білого ультра. І не такий солодко-потужний як хемільтон. По рівню солодкості десь як русалки, але сам смак відрізняється. Тут він все ж більш фруктовий мб
 
-Пов'язані огляди: [[Monster black]], [[Monster juiced khaotic]], [[content/reviews/own/Monster juiced aussie style lemonade]], [[content/reviews/own/Monster juiced mango loco]], [[content/reviews/own/Monster juiced bad apple]]
+Пов'язані огляди: [[Monster black]], [[content/reviews/own/Monster juiced khaotic]], [[content/reviews/own/Monster juiced aussie style lemonade]], [[content/reviews/own/Monster juiced mango loco]], [[content/reviews/own/Monster juiced bad apple]]
 #огляди

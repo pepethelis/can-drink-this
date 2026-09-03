@@ -50,5 +50,5 @@ createdAt: 2024-11-16
 
 По висновку - коштує 75 без знижки. Точно не топ 1 серед того, що вже сьорбав, але в топ 5 думаю можна розмістити. Смачніше за манго, але не впевнений чи смачніше за класичний чорний. Точно краще за білий ультра. І топом як завжди залишається хемільтон
 
-Повʼязані огляди: [[Monster juiced monarch]], [[Monster juiced khaotic]], [[content/reviews/own/Monster juiced aussie style lemonade]], [[content/reviews/own/Monster juiced mango loco]], [[content/reviews/own/Monster juiced bad apple]]
+Повʼязані огляди: [[Monster juiced monarch]], [[content/reviews/own/Monster juiced khaotic]], [[content/reviews/own/Monster juiced aussie style lemonade]], [[content/reviews/own/Monster juiced mango loco]], [[content/reviews/own/Monster juiced bad apple]]
 #огляди

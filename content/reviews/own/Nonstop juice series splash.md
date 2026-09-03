@@ -33,7 +33,7 @@ related:
   - "[[content/reviews/own/Battery juiced sour apple]]"
   - "[[content/reviews/own/Battery juiced peach lemonade]]"
   - "[[Monster juiced monarch]]"
-  - "[[Monster juiced khaotic]]"
+  - "[[content/reviews/own/Monster juiced khaotic]]"
   - "[[content/reviews/own/Monster juiced bad apple]]"
   - "[[content/reviews/own/Monster juiced mango loco]]"
   - "[[content/reviews/own/Monster juiced pacific punch]]"
