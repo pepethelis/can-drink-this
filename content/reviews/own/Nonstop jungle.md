@@ -54,5 +54,5 @@ createdAt: 2025-09-28
 
 По висновку - смак знайомий кожному українському енергос-ентузіасту і не тільки, локальна легенда. Нажаль дешо недооцінений смак. Всі до нього настільки звикли, що не шарять наскільки це насправді скарб. Якщо не пили, то варто спробувати, а якщо вже зацінили то можна ще раз 
 
-Повʼязані огляди: [[content/reviews/own/Nonstop military]], [[Nonstop original]], [[Nonstop original zero]], [[Nonstop ultra]], [[Nonstop boost]], [[Nonstop stalker green]]
+Повʼязані огляди: [[content/reviews/own/Nonstop military]], [[Nonstop original]], [[Nonstop original zero]], [[Nonstop ultra]], [[Nonstop boost]], [[content/reviews/own/Nonstop stalker green]]
 #огляди

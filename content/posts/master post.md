@@ -79,7 +79,7 @@ publishedAt: 2025-12-20
 Nonstop stalker: 
 - [[content/reviews/own/Nonstop stalker orange|кавун🟠]]
 - [[Nonstop stalker violet|манго-груша🟣]]
-- [[Nonstop stalker green|лайм-м'ята-ожина🟢]]
+- [[content/reviews/own/Nonstop stalker green|лайм-м'ята-ожина🟢]]
 - [[content/reviews/own/Nonstop stalker red|вишня-ром-ананас🔴]]
 Nonstop juice: 
 - [[content/reviews/own/Nonstop juice series splash|splash]]
@@ -217,7 +217,7 @@ Redbull organics:
 - [[Burn dark energy|dark energy]]
 - [[Burn fruit punch|fruit punch]]
 - [[Burn guava|guava]]
-- [[Burn orange fire|orange fire]]
+- [[content/reviews/own/Burn orange fire|orange fire]]
 - [[content/reviews/own/Burn white gummy bear|white gummy bear]]
 
 
@@ -239,7 +239,7 @@ Hell summer:
 - [[Hell Summer Chillin’ Guanabana|chillin' guanabana-mango]]
 Hell spritz: 
 - [[content/reviews/own/Hell Spritz Maracuja|maracuja]]
-- [[Hell Spritz Lime|lime]]
+- [[content/reviews/own/Hell Spritz Lime|lime]]
 Hell carnival:
 - [[Hell carnival cactus twist|cactus twist]]
 - [[content/reviews/own/Hell carnival cotton candy|cotton candy]]

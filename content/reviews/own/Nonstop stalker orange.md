@@ -50,5 +50,5 @@ createdAt: 2024-08-14
 
 По висновку - доволі добрий напій і поки що жива легенда, хоч я і знаю випадки, що не сподобалося. І справді, на відміну від умовного монстра смак дещо плаский. Думаю можна пробачити і хапанути пару баночок поки ще є, навіть без знижок
 
-Пов'язані огляди: [[Nonstop zoom]], [[Nonstop stalker violet]], [[Nonstop stalker green]], [[content/reviews/own/Nonstop stalker red]], [[Hell watermelon]], [[Monster ultra watermelon]]
+Пов'язані огляди: [[Nonstop zoom]], [[Nonstop stalker violet]], [[content/reviews/own/Nonstop stalker green]], [[content/reviews/own/Nonstop stalker red]], [[Hell watermelon]], [[Monster ultra watermelon]]
 #огляди

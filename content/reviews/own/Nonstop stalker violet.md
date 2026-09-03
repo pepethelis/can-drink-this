@@ -54,5 +54,5 @@ createdAt: 2025-06-08
 Як влучно колись [сказав сатана у своєму огляді](https://t.me/ukr_satan/1300):
 > Це ж сталкер, зробіть смак уран-петрушка, іржа-алича, графіт-оцет, ракова пухлина-чілі, яка нахуй груша-манго....
 
-Пов'язані огляди: [[content/reviews/own/Nonstop stalker orange]], [[Nonstop stalker green]], [[Burn mango]], [[Frugo mango]], [[Rockstar mango]], [[content/reviews/own/Monster juiced mango loco]], [[28 black sour mango kiwi]]
+Пов'язані огляди: [[content/reviews/own/Nonstop stalker orange]], [[content/reviews/own/Nonstop stalker green]], [[Burn mango]], [[Frugo mango]], [[Rockstar mango]], [[content/reviews/own/Monster juiced mango loco]], [[28 black sour mango kiwi]]
 #огляди

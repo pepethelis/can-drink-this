@@ -30,7 +30,7 @@ types:
   - energy
 related:
   - "[[content/reviews/own/Hell Spritz Maracuja]]"
-  - "[[Hell Spritz Lime]]"
+  - "[[content/reviews/own/Hell Spritz Lime]]"
   - "[[Hell multi plus]]"
   - "[[Hell focus plus]]"
   - "[[Hell Summer Groovy Grapefruit]]"
