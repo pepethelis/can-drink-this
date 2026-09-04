@@ -15,6 +15,9 @@ RUN bun install --frozen-lockfile
 
 COPY . .
 
+# Invalidate the content-sync layer when the vault repository changes.
+ADD https://api.github.com/repos/pepethelis/can-drink-this/commits/main /tmp/content-main-commit.json
+
 # Match the GitHub publish workflow: fetch content from the repository's
 # main branch and replace the current working branch content before building.
 RUN git fetch --depth=1 origin main && \
