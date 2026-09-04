@@ -67,7 +67,7 @@ publishedAt: 2025-12-20
 
 
 **Nonstop:** 
-- [[Nonstop military|military🪖]]
+- [[content/reviews/own/Nonstop military|military🪖]]
 - [[Nonstop original|original🔵]]
 - [[Nonstop original zero|original zero🔵⚪]]
 - [[Nonstop jungle|jungle🟢]]
@@ -79,7 +79,7 @@ publishedAt: 2025-12-20
 Nonstop stalker: 
 - [[content/reviews/own/Nonstop stalker orange|кавун🟠]]
 - [[Nonstop stalker violet|манго-груша🟣]]
-- [[Nonstop stalker green|лайм-м'ята-ожина🟢]]
+- [[content/reviews/own/Nonstop stalker green|лайм-м'ята-ожина🟢]]
 - [[content/reviews/own/Nonstop stalker red|вишня-ром-ананас🔴]]
 Nonstop juice: 
 - [[content/reviews/own/Nonstop juice series splash|splash]]
@@ -90,20 +90,20 @@ Nonstop juice:
 - [[Battery binance|binance🟡]]
 - [[content/reviews/own/Battery unicorn|unicorn🔵🟣]]
 - [[Battery mix|mix🟣🟢]]
-- [[Battery frsh|frsh🟡🔴]]
-- [[Battery exotic|exotic🟡🟣]]
+- [[content/reviews/own/Battery frsh|frsh🟡🔴]]
+- [[content/reviews/own/Battery exotic|exotic🟡🟣]]
 - [[Battery cola|cola⚫🔴]]
 - [[content/reviews/own/Battery electric|electric🔵]]
 - [[Battery super charge|super charge🟤]]
 Battery juiced: 
-- [[Battery juiced peach lemonade|peach lemonade🟡]]
-- [[Battery juiced sour apple|sour apple🟢]]
+- [[content/reviews/own/Battery juiced peach lemonade|peach lemonade🟡]]
+- [[content/reviews/own/Battery juiced sour apple|sour apple🟢]]
 - [[Battery juiced exotic fruits|exotic fruits🟠]]
 
 
 **Моршинська воля:** 
 - [[Воля червона|оригінальна🔴]]
-- [[Воля жовта|манго-апельсин🟡]]
+- [[content/reviews/own/Воля жовта|манго-апельсин🟡]]
 - [[Воля рожева|журавлина🟣]]
 - [[Воля зелена|ківі-полуниця🟢]]
 - [[Воля синя|ягідний мікс🔵]]
@@ -127,9 +127,9 @@ Battery juiced:
 
 **Revo energy:** 
 - [[Revo energy original|original]]
-- [[Revo energy grape|grape]]
+- [[content/reviews/own/Revo energy grape|grape]]
 - [[Revo energy cherry|cherry]]
-- [[Revo energy|“revo taste”]]
+- [[content/reviews/own/Revo energy|“revo taste”]]
 
 
 **Bronx zero:** 
@@ -166,19 +166,19 @@ Battery juiced:
 - [[content/reviews/own/Monster lewis hamilton|Lewis Hamilton/Top Speed]]
 - [[content/reviews/own/Monster lando norris|Lando Norris]]
 Monster juiced: 
-- [[Monster juiced mango loco|mango loco]]
+- [[content/reviews/own/Monster juiced mango loco|mango loco]]
 - [[content/reviews/own/Monster juiced pacific punch|pacific punch]]
-- [[Monster juiced aussie style lemonade|aussie style lemonade]]
+- [[content/reviews/own/Monster juiced aussie style lemonade|aussie style lemonade]]
 - [[Monster juiced monarch|monarch]]
 - [[content/reviews/own/Monster juiced bad apple|bad apple]]
-- [[Monster juiced khaotic|khaotic]]
+- [[content/reviews/own/Monster juiced khaotic|khaotic]]
 - [[content/reviews/own/Monster juiced pipeline punch|pipeline punch]]
 - [[content/reviews/own/Monster juiced rio punch|rio punch]]
 Monster ultra: 
 - [[content/reviews/own/Monster ultra white|white]]
 - [[content/reviews/own/Monster ultra black|black]]
 - [[Monster ultra watermelon|watermelon]]
-- [[Monster ultra fantasy ruby red|ruby red]]
+- [[content/reviews/own/Monster ultra fantasy ruby red|ruby red]]
 - [[Monster ultra blue|blue]]
 - [[Monster ultra paradise|paradise]]
 - [[Monster ultra fiesta mango|fiesta mango]]
@@ -216,8 +216,8 @@ Redbull organics:
 - [[Burn mango|mango]]
 - [[Burn dark energy|dark energy]]
 - [[Burn fruit punch|fruit punch]]
-- [[Burn guava|guava]]
-- [[Burn orange fire|orange fire]]
+- [[content/reviews/own/Burn guava|guava]]
+- [[content/reviews/own/Burn orange fire|orange fire]]
 - [[content/reviews/own/Burn white gummy bear|white gummy bear]]
 
 
@@ -227,9 +227,9 @@ Redbull organics:
 - [[Hell goji berry|goji berry]]
 - [[Hell black cherry|black cherry]]
 - [[Hell green apple|green apple]]
-- [[Hell strawberry-banana|strawberry-banana]]
+- [[content/reviews/own/Hell strawberry-banana|strawberry-banana]]
 - [[Hell watermelon|watermelon]]
-- [[Hell sparkler|sparkler]]
+- [[content/reviews/own/Hell sparkler|sparkler]]
 Hell plus: 
 - [[Hell classic plus|Hell classic+]]
 - [[Hell focus plus|focus+]]
@@ -238,8 +238,8 @@ Hell summer:
 - [[Hell Summer Groovy Grapefruit|groovy grapefruit]]
 - [[Hell Summer Chillin’ Guanabana|chillin' guanabana-mango]]
 Hell spritz: 
-- [[Hell Spritz Maracuja|maracuja]]
-- [[Hell Spritz Lime|lime]]
+- [[content/reviews/own/Hell Spritz Maracuja|maracuja]]
+- [[content/reviews/own/Hell Spritz Lime|lime]]
 Hell carnival:
 - [[Hell carnival cactus twist|cactus twist]]
 - [[content/reviews/own/Hell carnival cotton candy|cotton candy]]

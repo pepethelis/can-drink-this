@@ -54,5 +54,5 @@ createdAt: 2025-10-21
 Як я сказав у попередній версії огляду: якась єбота, не смачно. В принципі нічого не змінилося з тих пір. Відверто кажучи я і не очікував що щось зміниться, ця банка потрапила до мене майже випадково
 Ще один цікавий факт: оце я вже вдруге його пʼю і вдруге він ніхуйово бʼє по голові. Навіть попри те, що тут усього 15мг, а не 30-32мг як зазвичай буває 
 
-Пов'язані огляди: [[Frugo wild cherry]], [[Frugo watermelon-strawberry]], [[Burn mango]], [[Rockstar mango]], [[28 black sour mango kiwi]], [[Monster juiced mango loco]]
+Пов'язані огляди: [[Frugo wild cherry]], [[Frugo watermelon-strawberry]], [[Burn mango]], [[Rockstar mango]], [[28 black sour mango kiwi]], [[content/reviews/own/Monster juiced mango loco]]
 #огляди

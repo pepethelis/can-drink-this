@@ -48,5 +48,5 @@ createdAt: 2024-09-24
 
 По висновку - вірю, що існують ті, хто закохається у цей смак, але більшості думаю він буде нудний. Разок на знижках та й усе
 
-Пов'язані огляди: [[Battery black]], [[Battery mix]], [[Battery frsh]], [[content/reviews/own/Battery unicorn]], [[Battery cola]], [[Battery juiced sour apple]], [[Battery juiced peach lemonade]]
+Пов'язані огляди: [[Battery black]], [[Battery mix]], [[content/reviews/own/Battery frsh]], [[content/reviews/own/Battery unicorn]], [[Battery cola]], [[content/reviews/own/Battery juiced sour apple]], [[content/reviews/own/Battery juiced peach lemonade]]
 #огляди

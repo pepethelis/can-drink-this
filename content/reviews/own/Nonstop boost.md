@@ -50,5 +50,5 @@ createdAt: 2025-02-08
 По висновку - гарний приємний смак, знаю людей, які пʼють лише цей нонстоп, хоча вибір мається. Міцна база, можна сьорбати іноді. З цікавого - у складі є екстракт шизандри. 
 На майбутнє звісно хочеться грін енерджи та ево, але їх вже нема ніде
 
-Повʼязані огляди: [[Nonstop military]], [[Nonstop original]], [[Nonstop original zero]], [[Nonstop ultra]], [[Nonstop jungle]]
+Повʼязані огляди: [[content/reviews/own/Nonstop military]], [[Nonstop original]], [[Nonstop original zero]], [[Nonstop ultra]], [[Nonstop jungle]]
 #огляди

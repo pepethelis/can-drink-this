@@ -52,5 +52,5 @@ createdAt: 2025-08-27
 
 По висновку - добрий смак, але я не впевнений, що вартий полювання. Енергосні ентузіасти можуть затестити, а усім іншим краще обрати значно більш доступний монстр білий. Співвідношення смаку до доступності у нього не гірше. А як є можливість взяти цей ультра, то треба хапати, бо смачний
 
-Пов'язані огляди: [[content/reviews/own/Monster ultra white]], [[Nonstop original zero]], [[Monster ultra fantasy ruby red]], [[Hell black cherry]], [[Воля синя]]
+Пов'язані огляди: [[content/reviews/own/Monster ultra white]], [[Nonstop original zero]], [[content/reviews/own/Monster ultra fantasy ruby red]], [[Hell black cherry]], [[Воля синя]]
 #огляди

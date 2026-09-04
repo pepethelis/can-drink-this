@@ -48,8 +48,8 @@ createdAt: 2025-05-01
 Бляшанка від canpack, дефолт 
 
 По висновку - новий смак у спектрі між НАЙОБКОЮ та енергетик+живчик=ЕНЕРГОЖИВЧИК. По смаку дійсно навіть не в моєму топ-5 по кислоті, тобто наєбали, смак не відповідає назві. Але саме смак прикольний, енергоживчика я ще не смакував. До прикладу [[content/reviews/own/Monster juiced bad apple|яблучний мфнстер]] по смаку відрізняється відчутно, тому він не енергоживчик. У якості енергоживчика можу його рекомендувати, але у якості sour apple - ні
-Як і [[Battery juiced peach lemonade|peach lemonade]], це такий собі свіженький напій на літо. Складно сказати як воно пасуватиме наприклад до осені чи зими. Мені здається, втратить актуальність 
+Як і [[content/reviews/own/Battery juiced peach lemonade|peach lemonade]], це такий собі свіженький напій на літо. Складно сказати як воно пасуватиме наприклад до осені чи зими. Мені здається, втратить актуальність 
 Також є [сатанячий огляд тут](https://t.me/ukr_satan/5391)
 
-Пов'язані огляди: [[Battery black]], [[Battery frsh]], [[Battery exotic]], [[Battery mix]], [[content/reviews/own/Battery unicorn]], [[Battery cola]], [[Battery juiced sour apple]], [[Battery juiced peach lemonade]]
+Пов'язані огляди: [[Battery black]], [[content/reviews/own/Battery frsh]], [[content/reviews/own/Battery exotic]], [[Battery mix]], [[content/reviews/own/Battery unicorn]], [[Battery cola]], [[content/reviews/own/Battery juiced sour apple]], [[content/reviews/own/Battery juiced peach lemonade]]
 #огляди 

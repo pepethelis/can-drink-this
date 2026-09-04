@@ -52,5 +52,5 @@ createdAt: 2025-09-21
 
 По висновку - мабуть найсмачніший класичний енергос, дорожчий звісно за нонстоп чи батрейку, але дешевший за редбул. Смачно
 
-Пов'язані огляди: [[Nonstop original]], [[Redbull classic]], [[Burn green apple-kiwi]], [[Burn mango]], [[Burn guava]], [[Burn orange fire]], [[Burn fruit punch]], [[Burn dark energy]]
+Пов'язані огляди: [[Nonstop original]], [[Redbull classic]], [[Burn green apple-kiwi]], [[Burn mango]], [[content/reviews/own/Burn guava]], [[content/reviews/own/Burn orange fire]], [[Burn fruit punch]], [[Burn dark energy]]
 #огляди
