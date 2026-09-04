@@ -28,23 +28,26 @@ bun run lint       # ESLint
 
 There are no unit tests in this project. Type checking (`bun run typecheck`) and `astro check` (included in `build`) are the primary correctness checks.
 
-Docker is also available: `docker compose up -d` runs the site on port 4321.
+Docker is also available: `docker compose up -d` runs the site on port 8080.
 
 Build output goes to `dist/`. Pagefind search index is generated post-build and copied into `public/pagefind/`.
+
+**Content is a separate repo.** The `Dockerfile` build fetches `src/data/{posts,reviews,assets}` from the `content` folder of `pepethelis/can-drink-this`'s `main` branch (replacing whatever is checked out locally) before building — matches the GitHub Pages publish workflow. It adds a cache-busting `ADD` of the GitHub commits API so the layer invalidates when the content repo changes. Local `src/data/` content is only a dev-time sample/placeholder.
 
 ## Features
 
 - **Full-text search**: Pagefind (client-side, no server needed)
-- **Dynamic OG images**: Auto-generated per post and review using Satori + resvg; posts can include a photo in the right panel
-- **Client-side review filters**: `/reviews` renders all reviews with `data-*` attributes; vanilla JS + `history.pushState` filters by category, type, brand, container (single-select) and taste, color (multi-select, OR logic, comma-separated in URL)
-- **Stats/analytics page**: `/stats` uses React (`@astrojs/react@5`) + Recharts 3.x for charts (category, type, brand, time, taste, container, sweetener, caffeine, alcohol distributions)
+- **Dynamic OG images**: Auto-generated per post and review using Satori + resvg; reviews can include a product photo in the right panel
+- **Client-side review filters**: `/reviews` renders all reviews with `data-*` attributes; `FilterBar.astro` + vanilla JS + `history.pushState` filters by category, author, type, brand, container, sponsor (single-select), taste, color, availability (multi-select, OR logic, comma-separated in URL), and favorite (boolean toggle)
+- **Stats/analytics page**: `/stats` uses React (`@astrojs/react@5`) + Recharts 3.x for charts, scoped per category tab (all/own/friendly/subscribers): category, type, brand, author, sponsor, time, publication year/month, posting-gap, taste, container, sweetener, caffeine, alcohol, activity distributions
 - **Comments**: Giscus (GitHub Discussions–backed), dynamically loaded
 - **Dark/light mode**: CSS variable–based, persisted in `localStorage`
+- **Reading progress bar**: `ReadingProgress.astro`, fixed top bar on review/post detail pages
 - **Scheduled posts**: Posts with future `publishedAt` are hidden (with 15-min margin)
 - **Obsidian integration**: Image and wiki-link syntax supported natively
 - **RSS feed**: Available at `/rss.xml`
 - **Sitemap**: Auto-generated, respects `SITE.showArchives`
-- **Docker**: `docker-compose.yml` + `Dockerfile` for containerized builds
+- **Docker**: `docker-compose.yml` + `Dockerfile` for containerized builds (pulls content from the separate content repo — see above)
 
 ## Architecture
 
@@ -61,7 +64,7 @@ The `src/data/` directory is an Obsidian vault. Two custom Remark plugins handle
 Both collections are defined in `src/content.config.ts` with Zod schemas in `src/schemas.ts`, loaded from Markdown via glob loaders:
 
 - **`posts`** (`src/data/posts/`) — standard blog articles with a simple schema
-- **`reviews`** (`src/data/reviews/`) — beverage reviews with a rich domain schema (brand, type, volume, caffeine, container, packager, taste, sweeteners, availability, etc.)
+- **`reviews`** (`src/data/reviews/`) — beverage reviews with a rich domain schema (brand, types, volume, caffeine, container, packager, taste, sweeteners, availability, etc.)
 
 ### Remark plugins (Markdown processing)
 - `remark-reading-time` — injects estimated reading time
@@ -97,7 +100,7 @@ In `DEV` mode, future-dated posts are shown. Always pass `postFilter` when fetch
 
 ## Content Collections
 
-Defined in `src/content.config.ts` using glob loaders. Schemas live in `src/schemas.ts`.
+Defined in `src/content.config.ts` using glob loaders. Enums live in `src/schemas.ts`; the actual field-level schema (nullability, defaults) is defined inline in `content.config.ts`, not in `schemas.ts` — check both when changing a field.
 
 ### `reviews` collection
 
@@ -106,6 +109,8 @@ Defined in `src/content.config.ts` using glob loaders. Schemas live in `src/sche
   - `src/data/reviews/own/` → `власні огляди`
   - `src/data/reviews/friendly/` → `дружні огляди`
   - `src/data/reviews/subscribers/` → `огляди від підписників`
+  - (unmatched folder defaults to `власні огляди`)
+- `categoryType` enum also has a `"пост"` value, unused by the reviews loader (reserved/legacy)
 - **Statuses**: `prebuild` → `to create` → `to enrich` → `to publish` → `published` → `needs update` → `to update`
 
 Key fields:
@@ -113,34 +118,39 @@ Key fields:
 | Field | Type | Notes |
 |---|---|---|
 | `aliases` | string[] (min 1) | Display titles; first alias is primary title |
-| `brand` | string | Free-form; uses `base/subline` format (e.g. `monster/ultra`). `brandType` enum in schemas.ts is a reference list only |
-| `type` | enum | `energy`, `fizzy`, `juice`, `water`, `tea`, `kvas`, `ayran`, `radler`, `coffee`, `plant-based`, `alco`, `alco-energy`, `tea-energy`, `other` |
-| `manufacturer` | enum | See `manufacturerType` in `schemas.ts` |
-| `volume` | enum[] | Predefined volumes in liters (e.g. `"0.5"`, `"0.33"`) |
-| `container` | enum[] | `can`, `glass`, `plastic`, `tetrapak` |
-| `packager` | enum | `ag`, `amp`, `bagpak`, `ball`, `canpack`, `crown`, `quality` |
-| `caffeine` | number (14–100) | mg per 100 ml |
-| `alco` | number (0–50) | Alcohol % |
-| `taste` | string[] | Flavor descriptors |
-| `sweeteners` | string[] | Optional |
-| `availability` | 0–5 | Rating for local store availability |
-| `primaryColors` | string[] | Package color descriptors |
-| `favorite` | boolean | Whether it's a favourite drink |
-| `category` | enum | Derived from folder path — do not set in frontmatter (`власні огляди`, `дружні огляди`, `огляди від підписників`) |
-| `ogImage` | image | Optional; supports Obsidian `[[image.jpg]]` syntax |
-| `gallery` | image[] | Optional |
-| `publishedAt` | date | Required to be visible |
-| `hidden` | boolean | Excludes from all listings |
-| `pinned` | boolean | |
-| `tags` | string[] | Default: `[]` |
-| `sponsor` | string[] | Optional |
-| `related` | string[] | Optional |
-| `contentTgPosts` | string[] | Telegram post embed URLs |
+| `brand` | string, nullish | Free-form; uses `base/subline` format (e.g. `monster/ultra`). `brandType` enum in schemas.ts is a reference list only, not enforced |
+| `types` | `beverageType` enum[] | Plural, multi-value field (was singular `type` — renamed). Values: `alco`, `beer`, `cider`, `ayran`, `coffee`, `energy`, `fizzy`, `juice`, `yogurt`, `kvass`, `kombucha`, `plant-based`, `radler`, `tea`, `water`, `pre-workout`, `other` |
+| `manufacturer` | string, nullish | Free-form; `manufacturerType` enum in schemas.ts is a reference list only, not enforced on this field |
+| `volume` | `volumeType` enum[], nullish | Predefined volumes in liters, e.g. `"2"`…`"0.15"` (21 values incl. `"0.3"`) — see `volumeType` in schemas.ts for the full list |
+| `container` | `containerType` enum[], nullish | `can`, `glass`, `plastic`, `tetrapak` |
+| `packager` | `packagerType` enum, nullish | `ag`, `amp`, `bagpak`, `ball`, `canpack`, `crown`, `quality` |
+| `caffeine` | number (14–100), nullish | mg per 100 ml |
+| `alco` | number (0–50), nullish | Alcohol % |
+| `taste` | string[], nullish | Flavor descriptors |
+| `sweeteners` | string[], nullish | |
+| `availability` | 0–5, nullish | Rating for local store availability |
+| `primaryColors` | string[], nullish | Package color descriptors |
+| `favorite` | boolean, nullish | Whether it's a favourite drink |
+| `category` | enum, default `власні огляди` | Derived from folder path — do not set in frontmatter |
+| `author` | string, default `SITE.author` | Used for the author filter on `/reviews` and stats |
+| `sponsor` | string[], nullish | Sponsor name(s); filterable on `/reviews` |
+| `cover` | image, nullish | Product photo; supports Obsidian `[[image.jpg]]` syntax. **Not** called `ogImage` (that name is reserved for `posts`) |
+| `gallery` | image[], nullish | |
+| `createdAt` / `updatedAt` | date, nullish | `createdAt` feeds the "posting gap" / creation-activity stats |
+| `publishedAt` | date, nullish | Required to be visible |
+| `hidden` | boolean, optional | Excludes from all listings |
+| `pinned` | boolean, optional | |
+| `tags` | string[], default `[]` | |
+| `canonicalURL` | string, optional | |
+| `externalUrl` | string, nullish | Rendered as an "External" link in the taxonomy section |
+| `related` | string[], default `[]` | |
+| `contentTgPosts` | string[], optional | Telegram post embed URLs |
 
 ### `posts` collection
 
 - **Source**: `src/data/posts/**/*.md`
-- Simpler schema: `publishedAt`, `aliases`, `summary`, `author`, `pinned`, `hidden`, `status`, `ogImage`, `gallery`, `related`
+- Schema: `publishedAt`, `updatedAt`, `aliases`, `summary`, `author`, `pinned`, `hidden`, `canonicalURL`, `status`, `externalUrl`, `ogImage`, `gallery`, `related`
+- Note `posts` uses `ogImage`; `reviews` uses `cover` for the equivalent field
 
 ## Pages & Routes
 
@@ -166,32 +176,35 @@ Key fields:
 
 ## Client-Side Filters (`/reviews`)
 
-`src/pages/reviews/index.astro` renders all reviews at build time with `data-*` attributes. Vanilla JS handles filtering entirely client-side.
+`src/pages/reviews/index.astro` renders all reviews at build time with `data-*` attributes and computes filter option maps server-side. `src/components/reviews/FilterBar.astro` renders the controls and owns all client-side filtering JS; sub-components are `FilterDropdown.astro`, `FilterBrandDropdown.astro`, `FilterMultiSelect.astro`, `FilterBoolToggle.astro` (all in `src/components/reviews/`).
 
-- **Single-select**: category, type, brand, container — custom `<div class="dd-root">` dropdowns with solid CSS panels (no native `<select>` to avoid OS-rendered blur)
-- **Multi-select**: taste, color — checkbox dropdowns (`<div class="ms-root">`), OR matching, comma-separated in URL (e.g. `?taste=citrus,orange`)
-- **Brand format**: `?brand=monster` matches all monster sub-brands; `?brand=monster/ultra` matches exactly
-- **URL state**: `history.pushState` + `astro:page-load` event for Astro view transitions
-- **Availability**: options with 0 cross-filter results are disabled/dimmed
+- **Single-select** (`SINGLE_KEYS`): category, author, type, brand, container, sponsor — custom `<div class="dd-root">` dropdowns with solid CSS panels (no native `<select>` to avoid OS-rendered blur)
+- **Multi-select** (`MULTI_KEYS`): taste, color, availability — checkbox dropdowns (`<div class="ms-root">`), OR matching, comma-separated in URL (e.g. `?taste=citrus,orange`)
+- **Boolean toggle**: favorite (`?favorite=1`) — `FilterBoolToggle.astro`
+- **Brand format**: `?brand=monster` matches all monster sub-brands (via `data-brand-base`); `?brand=monster/ultra` matches exactly (via `data-brand`). Brand groups are built server-side into `BrandGroup[]` (`src/types/reviews.ts`)
+- **URL state**: `history.pushState` + `astro:page-load`/`popstate` events for Astro view transitions
+- **Active filter badges**: chip row above results, per filter key, with a "clear all" button
+- **Cross-filter availability**: options that would yield 0 results are disabled/dimmed (`dd-disabled` / `ms-disabled`)
 
 ## OG Image Generation
 
-`src/utils/generateOgImages.ts` — Satori + resvg pipeline.
+`src/utils/generateOgImages.ts` — Satori + resvg pipeline. Templates live in `src/utils/og-templates/` (`post.ts`, `review.ts`, `site.ts`).
 
-- **Reviews**: `src/pages/reviews/[...slug]/index.png.ts` — dark-themed card with title, summary, category/type chips, product photo (right panel when `ogImage` present)
-- **Posts**: `src/pages/posts/[...slug]/index.png.ts` — dark-themed card with title, summary, author, optional photo
+- **Reviews**: `src/pages/reviews/[...slug]/index.png.ts` — dark-themed card with title, summary, category/type chips, product photo (right panel when `cover` present). Falls back to the post template on error
+- **Posts**: `src/pages/posts/[...slug]/index.png.ts` — dark-themed card with title, summary, author, optional photo (uses `ogImage`)
 - Images are resized to 480×630 JPEG q82 before base64 encoding into Satori SVG
-- Font validation: checks TTF (`0x00010000`) or OTF (`0x4f54544f`) magic bytes before passing to Satori
+- `src/utils/loadGoogleFont.ts` validates TTF (`0x00010000`) or OTF (`0x4f54544f`) magic bytes before passing fonts to Satori
 - Gated by `SITE.dynamicOgImage` flag
 
 ## Stats Page (`/stats`)
 
-`src/pages/stats.astro` computes aggregate data server-side and passes it to `<StatsCharts client:load />`.
+`src/pages/stats.astro` computes aggregate data server-side via `getReviewStats` (`src/utils/getReviewStats.ts`) — one scoped `ReviewStatsData` object per category (all/own/friendly/subscribers) — and passes them plus serialized raw review data to `<StatsCharts client:load />`. `getReviewStats` also accepts an optional second `creationReviews` arg (defaults to the same list) to compute creation-time vs. publish-time activity separately — `stats.astro` passes `allReviewsIncludingUnpublished` here so creation-activity charts include unpublished drafts.
 
 `src/components/StatsCharts.tsx` — React component with:
+- A category tab switcher (`CATEGORIES`: all/own/friendly/subscribers) that swaps which `ReviewStatsData` is charted
 - `DonutChart` — category, caffeine, alcohol distributions
-- `HBarChart` — type, brand, taste, container, sweetener, caffeine (mg), alcohol (%) distributions
-- `TimeChart` — reviews over time
+- `HBarChart` — type, brand, author, sponsor, taste, container, sweetener, caffeine (mg), alcohol (%) distributions
+- `TimeChart` — reviews over time, publication year/month, posting-gap (days between `createdAt` and `publishedAt`), creation activity
 - `useTheme()` hook reads CSS vars on mount + `MutationObserver` on `data-theme` for dark mode reactivity
 - Recharts 3.x: `fill` in data objects (not `<Cell>`); tooltip `color` must be set explicitly to prevent dark-mode black text
 
@@ -213,6 +226,12 @@ Key fields:
 | `RightPanel.astro` | Sidebar panel |
 | `Breadcrumb.astro` | Breadcrumb navigation |
 | `BackButton.astro` | Back navigation (if `SITE.showBackButton`) |
+| `ReadingProgress.astro` | Fixed top scroll-progress bar on review/post detail pages |
+| `reviews/FilterBar.astro` | `/reviews` filter controls + all client-side filtering logic |
+| `reviews/FilterDropdown.astro` | Single-select dropdown (category, author, type, container, sponsor) |
+| `reviews/FilterBrandDropdown.astro` | Single-select brand dropdown with base/sub-brand grouping |
+| `reviews/FilterMultiSelect.astro` | Multi-select checkbox dropdown (taste, color, availability) |
+| `reviews/FilterBoolToggle.astro` | Boolean toggle (favorite) |
 
 ## Layouts
 
@@ -226,9 +245,9 @@ Key fields:
 
 ## ReviewDetails Taxonomy Section
 
-`src/layouts/ReviewDetails.astro` renders a labeled taxonomy grid between the article content and `<BackToTopButton />`.
+`src/layouts/ReviewDetails.astro` renders a labeled taxonomy grid between the article content and `<BackToTopButton />`. Also renders `<ReadingProgress />` above the header, and an "External" link row (linking to `externalUrl`) when present.
 
-- **Filterable fields** (accent-colored pill links → `/reviews?key=value`): category, type, brand, container, taste (per-value), color/primaryColors (per-value)
+- **Filterable fields** (accent-colored pill links → `/reviews?key=value`): category, type (`types`, per-value), brand, container (per-value), taste (per-value), color/primaryColors (per-value)
 - **Info-only fields** (muted tags, no links): sweeteners, caffeine (`N mg/100ml`), alcohol (`N%`), favourite (★), volume (`N L` per item), availability (`N / 5`), manufacturer, packager
 
 ## Content Authoring Notes
@@ -236,6 +255,7 @@ Key fields:
 - Reviews are written in Obsidian and use its `[[image.png]]` and `[[Note|alias]]` syntax
 - The `aliases` array (min 1 item) is used as display title — the first alias is the primary title
 - `brand` uses `base/subline` format for sub-lines: `monster/ultra`, `redbull/edition`. The base (`monster`) is extracted for brand-group filtering
-- `ogImage` can reference an asset using Obsidian syntax; falls back to dynamic generation
+- Reviews use `cover` (not `ogImage`) for the product photo; it can reference an asset using Obsidian syntax and falls back to dynamic OG generation. Posts use `ogImage`
+- `AUTHORS` and `SPONSORS` (`src/constants.ts`) map author/sponsor names to profile links, used in `ReviewDetails.astro` byline and sponsor credit
 - A review is only visible when: `publishedAt` is set, `hidden` is `false`, `status` is not `prebuild`/`to create` (for own reviews), and publish time has passed
 - Tags are shared across both `posts` and `reviews` collections
