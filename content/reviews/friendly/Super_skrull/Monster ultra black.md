@@ -2,7 +2,7 @@
 author: super_skrull
 aliases:
   - Monster ultra black
-publishedAt:
+publishedAt: 2026-09-04
 status: published
 brand: monster/ultra
 container:
@@ -15,6 +15,7 @@ types:
   - energy
 cover: "[[photo_2026-09-04_08-30-57.jpg]]"
 externalUrl: https://t.me/super_skrulling/4189
+caffeine: 30
 ---
 **M∅NSTER ENERGY ULTRA BLACK**  
 
