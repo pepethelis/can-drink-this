@@ -160,7 +160,7 @@ const nextPost =
         )
       }
       <div class="my-2 flex flex-wrap items-center gap-2">
-        {publishedAt && <Datetime {publishedAt} {updatedAt} size="lg" />}
+        <Datetime {publishedAt} {updatedAt} size="lg" />
         <Divider />
         by {
           authorObj ? (

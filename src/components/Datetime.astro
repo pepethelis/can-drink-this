@@ -11,7 +11,7 @@ dayjs.extend(timezone);
 type Props = {
   class?: string;
   size?: "sm" | "lg";
-  publishedAt: string | Date;
+  publishedAt?: string | Date | null;
   timezone?: string;
   updatedAt?: string | Date | null;
 };
@@ -25,13 +25,13 @@ const {
 } = Astro.props;
 
 /* ========== Formatted Datetime ========== */
-const isModified = updatedAt && updatedAt > publishedAt;
+const isModified = !!publishedAt && !!updatedAt && updatedAt > publishedAt;
 
-const datetime = dayjs(isModified ? updatedAt : publishedAt).tz(
-  postTimezone || SITE.timezone
-);
+const datetime = publishedAt
+  ? dayjs(isModified ? updatedAt : publishedAt).tz(postTimezone || SITE.timezone)
+  : null;
 
-const date = datetime.format("D MMM, YYYY"); // e.g., '22 Mar, 2025'
+const date = datetime?.format("D MMM, YYYY"); // e.g., '22 Mar, 2025'
 ---
 
 <div class:list={["flex items-center gap-x-2 opacity-80", className]}>
@@ -48,8 +48,16 @@ const date = datetime.format("D MMM, YYYY"); // e.g., '22 Mar, 2025'
       </span>
     )
   }
-  <time
-    class:list={["text-sm", { "sm:text-base": size === "lg" }]}
-    datetime={datetime.toISOString()}>{date}</time
-  >
+  {
+    datetime ? (
+      <time
+        class:list={["text-sm", { "sm:text-base": size === "lg" }]}
+        datetime={datetime.toISOString()}>{date}</time
+      >
+    ) : (
+      <span class:list={["text-sm italic", { "sm:text-base": size === "lg" }]}>
+        Незабаром
+      </span>
+    )
+  }
 </div>

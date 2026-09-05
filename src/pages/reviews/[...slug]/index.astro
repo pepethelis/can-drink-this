@@ -10,8 +10,10 @@ type Props = {
 };
 
 export async function getStaticPaths() {
-  const posts = await getCollection("reviews", ({ data }) =>
-    postFilter({ data })
+  const posts = await getCollection(
+    "reviews",
+    ({ data }) =>
+      postFilter({ data }) || (data.status === "to publish" && !data.hidden)
   );
   const postResult = posts.map(post => ({
     params: {

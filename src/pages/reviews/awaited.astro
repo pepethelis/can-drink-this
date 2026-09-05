@@ -1,0 +1,88 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Main from "@/layouts/Main.astro";
+import CardReview from "@/components/CardReview.astro";
+import BackToTopButton from "@/components/BackToTopButton.astro";
+import getTitleFormAliases from "@/utils/getTitleFormAliases";
+import { SITE } from "@/config";
+
+const awaitedReviews = await getCollection(
+  "reviews",
+  ({ data }) => data.status === "to publish" && !data.hidden
+);
+
+const sorted = awaitedReviews.sort((a, b) => {
+  const aDate = new Date(a.data.updatedAt ?? a.data.createdAt ?? 0);
+  const bDate = new Date(b.data.updatedAt ?? b.data.createdAt ?? 0);
+  return bDate.getTime() - aDate.getTime();
+});
+---
+
+<Layout title={`Awaited reviews | ${SITE.title}`}>
+  <Header />
+  <Main
+    pageTitle="Awaited reviews"
+    pageDesc="Це вже готові огляди, які просто очікують публікації на інших майданчиках. Після виходу там вони зʼявляться і в загальному списку оглядів."
+  >
+    <input
+      type="search"
+      id="awaited-search"
+      placeholder="Пошук за назвою, автором чи описом..."
+      class="focus-outline mb-6 w-full rounded-md border border-border bg-background px-3 py-2 text-sm"
+    />
+
+    <p id="awaited-empty" class="hidden py-8 text-center text-foreground/50">
+      Нічого не знайдено.
+    </p>
+
+    <div id="awaited-list">
+      {
+        sorted.map(review => {
+          const title = getTitleFormAliases(review.data.aliases);
+          const searchText = [title, review.data.summary, review.data.author]
+            .filter(Boolean)
+            .join(" ")
+            .toLowerCase();
+          return (
+            <div data-awaited-review data-search={searchText}>
+              <CardReview {...review} />
+            </div>
+          );
+        })
+      }
+    </div>
+    <BackToTopButton />
+  </Main>
+  <Footer />
+</Layout>
+
+<script>
+  function init() {
+    const input = document.getElementById(
+      "awaited-search"
+    ) as HTMLInputElement | null;
+    const emptyEl = document.getElementById("awaited-empty");
+
+    function applySearch() {
+      const query = (input?.value ?? "").trim().toLowerCase();
+      const items = document.querySelectorAll<HTMLElement>(
+        "[data-awaited-review]"
+      );
+      let visible = 0;
+      items.forEach(item => {
+        const match = !query || (item.dataset.search ?? "").includes(query);
+        item.hidden = !match;
+        if (match) visible++;
+      });
+      if (emptyEl) emptyEl.hidden = visible > 0;
+    }
+
+    input?.addEventListener("input", applySearch);
+    applySearch();
+  }
+
+  document.addEventListener("astro:page-load", init);
+</script>

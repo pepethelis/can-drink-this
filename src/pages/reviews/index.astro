@@ -11,6 +11,7 @@ import { SITE } from "@/config";
 import postFilter from "@/utils/postFilter";
 import type { BrandGroup } from "@/types/reviews";
 import BackToTopButton from "@/components/BackToTopButton.astro";
+import LinkButton from "@/components/LinkButton.astro";
 
 const allReviews = await getCollection("reviews", ({ data }) =>
   postFilter({ data })
@@ -84,6 +85,12 @@ const sponsors = [...sponsorMap.entries()].sort((a, b) => b[1] - a[1]);
 <Layout title={`Reviews | ${SITE.title}`}>
   <Header />
   <Main pageTitle="Reviews" pageDesc="All the reviews I've collected.">
+    <LinkButton
+      href="reviews/awaited"
+      class="mb-4 inline-flex text-sm text-foreground/70 hover:text-accent"
+    >
+      Готові огляди, що очікують публікації →
+    </LinkButton>
     <FilterBar
       categories={categories}
       authors={authors}
