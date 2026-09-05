@@ -23,6 +23,7 @@ volume:
 caffeine: 32
 primaryColors:
   - blue
+  - silver
 manufacturer: new products
 updatedAt: 2026-06-24
 aliases:
