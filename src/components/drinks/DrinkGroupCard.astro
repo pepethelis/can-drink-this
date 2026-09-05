@@ -1,0 +1,103 @@
+---
+import { Image } from "astro:assets";
+import type { DrinkGroup } from "@/utils/groupReviewsByDrink";
+import { getPath } from "@/utils/getPath";
+import { resolveImageAsset } from "@/utils";
+import Datetime from "@/components/Datetime.astro";
+import Divider from "@/components/Divider.astro";
+import placeholder1 from "@/assets/images/default.png";
+import placeholder2 from "@/assets/images/default2.png";
+
+type Props = {
+  drink: DrinkGroup;
+};
+
+const { drink } = Astro.props;
+const { title, aliases, brand, brandBase, types, cover, reviews } = drink;
+
+const imageAssets = import.meta.glob(
+  "/src/data/**/*.{png,jpg,jpeg,webp,avif,gif,svg}",
+  { eager: true, import: "default" }
+);
+
+const isOwnRepresentative = reviews[0].data.category === "власні огляди";
+const coverSrc =
+  resolveImageAsset(cover ?? undefined, imageAssets) ||
+  (isOwnRepresentative ? placeholder1 : placeholder2);
+
+const secondaryAliases = aliases.slice(1);
+---
+
+<div
+  id={drink.id}
+  data-drink
+  data-title={title.toLowerCase()}
+  data-aliases={JSON.stringify(aliases.map(a => a.toLowerCase()))}
+  data-brand={brand ?? ""}
+  data-brand-base={brandBase ?? ""}
+  data-letter={drink.letter}
+  class="flex gap-4 rounded-lg py-4"
+>
+  {
+    typeof coverSrc === "string" ? (
+      <img
+        src={coverSrc}
+        alt={title}
+        decoding="async"
+        loading="lazy"
+        class="h-20 w-20 shrink-0 rounded-lg object-cover"
+      />
+    ) : (
+      <Image
+        src={coverSrc}
+        alt={title}
+        width={180}
+        height={180}
+        decoding="async"
+        loading="lazy"
+        class="h-20 w-20 shrink-0 rounded-lg object-cover"
+      />
+    )
+  }
+
+  <div class="min-w-0 flex-1">
+    <div class="flex flex-wrap items-center gap-x-2 text-xs uppercase tracking-wide opacity-80">
+      {brand && <span>{brand}</span>}
+      {brand && types.length > 0 && <Divider class={"opacity-80"} />}
+      {types.length > 0 && <span>{types.join(", ")}</span>}
+    </div>
+
+    <h3 class="text-lg font-medium">{title}</h3>
+
+    {
+      secondaryAliases.length > 0 && (
+        <p class="text-sm opacity-60">{secondaryAliases.join(" · ")}</p>
+      )
+    }
+
+    <ul class="mt-2 flex flex-col gap-1">
+      {
+        reviews.map(review => (
+          <li class="flex flex-wrap items-center gap-x-2 text-sm">
+            <a
+              href={getPath(review.id, review.filePath)}
+              class:list={[
+                "text-accent decoration-dashed underline-offset-4 hover:underline",
+                "focus-visible:no-underline focus-visible:underline-offset-0",
+              ]}
+            >
+              {review.data.author}
+            </a>
+            {review.data.publishedAt && (
+              <Datetime
+                publishedAt={review.data.publishedAt}
+                updatedAt={review.data.updatedAt}
+                size="sm"
+              />
+            )}
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</div>

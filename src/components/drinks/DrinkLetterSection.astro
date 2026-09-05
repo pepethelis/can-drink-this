@@ -1,0 +1,60 @@
+---
+import type { DrinkGroup } from "@/utils/groupReviewsByDrink";
+import DrinkGroupCard from "./DrinkGroupCard.astro";
+
+type Props = {
+  letter: string;
+  drinks: DrinkGroup[];
+};
+
+const { letter, drinks } = Astro.props;
+
+// Purely cosmetic clustering: consecutive drinks sharing a brand base get a
+// small heading above them. Sort order/filtering is untouched — this just
+// groups runs that are already adjacent because titles start with the brand
+// name (e.g. "Monster Ultra Red", "Monster Juiced ...").
+type RenderItem =
+  | { kind: "cluster"; brand: string; drinks: DrinkGroup[] }
+  | { kind: "drink"; drink: DrinkGroup };
+
+const items: RenderItem[] = [];
+for (const drink of drinks) {
+  const last = items[items.length - 1];
+  if (drink.brandBase && last?.kind === "cluster" && last.brand === drink.brandBase) {
+    last.drinks.push(drink);
+  } else if (drink.brandBase) {
+    items.push({ kind: "cluster", brand: drink.brandBase, drinks: [drink] });
+  } else {
+    items.push({ kind: "drink", drink });
+  }
+}
+
+const capitalize = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+---
+
+<section data-letter-section={letter} class="mb-8">
+  <h2
+    id={`letter-${letter}`}
+    class="mb-2 scroll-mt-24 text-sm font-bold tracking-widest text-accent uppercase"
+  >
+    {letter}
+  </h2>
+  <div class="divide-y divide-border">
+    {
+      items.map(item =>
+        item.kind === "cluster" ? (
+          <div data-brand-cluster={item.brand}>
+            <h3 class="pt-3 text-xs font-semibold tracking-wide opacity-60">
+              {capitalize(item.brand)}
+            </h3>
+            <div class="divide-y divide-border">
+              {item.drinks.map(drink => <DrinkGroupCard drink={drink} />)}
+            </div>
+          </div>
+        ) : (
+          <DrinkGroupCard drink={item.drink} />
+        )
+      )
+    }
+  </div>
+</section>

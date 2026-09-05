@@ -1,0 +1,75 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Main from "@/layouts/Main.astro";
+import BackToTopButton from "@/components/BackToTopButton.astro";
+import DrinkFilterControls from "@/components/drinks/DrinkFilterControls.astro";
+import DrinkLetterSection from "@/components/drinks/DrinkLetterSection.astro";
+import groupReviewsByDrink from "@/utils/groupReviewsByDrink";
+import postFilter from "@/utils/postFilter";
+import { SITE } from "@/config";
+import type { BrandGroup } from "@/types/reviews";
+
+const allReviews = await getCollection(
+  "reviews",
+  ({ data }) =>
+    postFilter({ data }) && data.category !== "огляди від підписників"
+);
+
+const drinkGroups = groupReviewsByDrink(allReviews);
+
+// ── Brand filter option map, scoped to unique drinks (not review posts) ────────
+const brandGroupMap = new Map<string, BrandGroup>();
+for (const g of drinkGroups) {
+  if (!g.brand || !g.brandBase) continue;
+  const sub = g.brandBase === g.brand ? null : g.brand.slice(g.brandBase.length + 1);
+  const entry = brandGroupMap.get(g.brandBase) ?? {
+    base: g.brandBase,
+    total: 0,
+    subs: [],
+  };
+  entry.total++;
+  if (sub) {
+    const existing = entry.subs.find(s => s.name === sub);
+    if (existing) existing.count++;
+    else entry.subs.push({ name: sub, count: 1 });
+  }
+  brandGroupMap.set(g.brandBase, entry);
+}
+const brandGroups = [...brandGroupMap.values()]
+  .sort((a, b) => a.base.localeCompare(b.base))
+  .map(g => ({ ...g, subs: g.subs.sort((a, b) => b.count - a.count) }));
+
+// ── Alphabet buckets ─────────────────────────────────────────────────────────
+const byLetter = new Map<string, typeof drinkGroups>();
+for (const g of drinkGroups) {
+  const arr = byLetter.get(g.letter) ?? [];
+  arr.push(g);
+  byLetter.set(g.letter, arr);
+}
+const letters = [...byLetter.keys()].sort((a, b) =>
+  a === "#" ? -1 : b === "#" ? 1 : a.localeCompare(b)
+);
+---
+
+<Layout title={`Drinks | ${SITE.title}`}>
+  <Header />
+  <Main
+    pageTitle="Drinks"
+    pageDesc="Every distinct drink reviewed on the site, across all reviewers."
+  >
+    <DrinkFilterControls brandGroups={brandGroups} letters={letters} />
+
+    <div id="drinks-list">
+      {
+        letters.map(letter => (
+          <DrinkLetterSection letter={letter} drinks={byLetter.get(letter)!} />
+        ))
+      }
+    </div>
+    <BackToTopButton />
+  </Main>
+  <Footer />
+</Layout>

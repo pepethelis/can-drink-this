@@ -10,6 +10,7 @@ import IconInfo from "@/assets/icons/IconInfo.svg";
 import IconHome from "@/assets/icons/IconHome.svg";
 import IconLayoutList from "@/assets/icons/IconLayoutList.svg";
 import IconCategory from "@/assets/icons/IconCategory.svg";
+import IconBooks from "@/assets/icons/IconBooks.svg";
 import LinkButton from "./LinkButton.astro";
 import { SITE } from "@/config";
 import { SOCIALS } from "@/constants";
@@ -30,6 +31,7 @@ const isActive = (path: string) => {
 const LINKS = [
   { title: "Home", icon: IconHome, href: ``, activePath: "/" },
   { title: "Reviews", icon: IconList, href: `reviews`, activePath: "/reviews" },
+  { title: "Drinks", icon: IconBooks, href: `drinks`, activePath: "/drinks" },
   { title: "Posts", icon: IconLayoutList, href: `posts`, activePath: "/posts" },
   {
     title: "Search",
@@ -121,6 +123,21 @@ const LINKS = [
             aria-label="posts"
           >
             Reviews
+          </LinkButton>
+        </li>
+        <li class="col-span-2">
+          <LinkButton
+            href={`drinks`}
+            class:list={[
+              "focus-outline flex justify-center p-3 lg:p-1",
+              {
+                "active-nav [&>svg]:stroke-accent": isActive("/drinks"),
+              },
+            ]}
+            title="Drinks"
+            aria-label="drinks"
+          >
+            Drinks
           </LinkButton>
         </li>
         <li class="col-span-2">

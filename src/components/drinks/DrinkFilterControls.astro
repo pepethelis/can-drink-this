@@ -1,0 +1,352 @@
+---
+import type { BrandGroup } from "@/types/reviews";
+import FilterBrandDropdown from "@/components/reviews/FilterBrandDropdown.astro";
+
+type Props = {
+  brandGroups: BrandGroup[];
+  letters: string[];
+};
+
+const { brandGroups, letters } = Astro.props;
+---
+
+<div class="mb-4 grid grid-cols-1 gap-2 sm:grid-cols-2">
+  <div class="filter-field">
+    <label class="filter-label" for="drink-search">Search</label>
+    <input
+      id="drink-search"
+      type="text"
+      placeholder="Search drinks by name..."
+      autocomplete="off"
+      class="filter-select"
+    />
+  </div>
+  <FilterBrandDropdown
+    label="Brand"
+    tooltip="Бренд напою"
+    groups={brandGroups}
+  />
+</div>
+
+<nav
+  aria-label="Alphabet"
+  id="letter-nav"
+  class="sticky top-0 z-10 mb-4 flex flex-wrap gap-1 bg-background py-2"
+>
+  {
+    letters.map(letter => (
+      <a
+        href={`#letter-${letter}`}
+        data-letter-link={letter}
+        class="letter-link flex size-7 items-center justify-center rounded text-xs font-semibold uppercase text-foreground/70 hover:text-accent"
+      >
+        {letter}
+      </a>
+    ))
+  }
+</nav>
+
+<p id="result-count" class="mb-4 text-sm text-foreground/40"></p>
+
+<p id="empty-state" class="hidden py-8 text-center text-foreground/50">
+  No drinks match the selected filters.
+</p>
+
+<style>
+  .filter-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+  .filter-label {
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: color-mix(in srgb, var(--foreground) 40%, transparent);
+  }
+  .filter-select {
+    width: 100%;
+    background: var(--muted);
+    color: var(--foreground);
+    border: 1px solid transparent;
+    border-radius: 0.5rem;
+    padding: 0.375rem 0.625rem;
+    font-size: 0.75rem;
+    line-height: 1.25;
+    transition:
+      border-color 0.15s,
+      color 0.15s;
+  }
+  .filter-select:focus {
+    outline: none;
+    border-color: color-mix(in srgb, var(--accent) 60%, transparent);
+  }
+  .letter-link.letter-disabled {
+    opacity: 0.25;
+    pointer-events: none;
+  }
+  .letter-link.letter-active {
+    color: var(--accent);
+    background: color-mix(in srgb, var(--accent) 15%, transparent);
+  }
+</style>
+
+<script>
+  function getParams() {
+    return new URLSearchParams(location.search);
+  }
+
+  function matchesBrand(item: HTMLElement, brand: string) {
+    return brand.includes("/")
+      ? item.dataset.brand === brand
+      : item.dataset.brandBase === brand;
+  }
+
+  function parseAliases(s: string | undefined): string[] {
+    try {
+      return JSON.parse(s ?? "[]");
+    } catch {
+      return [];
+    }
+  }
+
+  function itemMatches(
+    item: HTMLElement,
+    params: URLSearchParams,
+    query: string
+  ): boolean {
+    const brand = params.get("brand");
+    if (brand && !matchesBrand(item, brand)) return false;
+
+    if (query) {
+      const title = item.dataset.title ?? "";
+      const aliases = parseAliases(item.dataset.aliases);
+      const matchesTitle = title.includes(query);
+      const matchesAlias = aliases.some(a => a.includes(query));
+      if (!matchesTitle && !matchesAlias) return false;
+    }
+
+    return true;
+  }
+
+  function applyFilters() {
+    const params = getParams();
+    const query = (
+      document.getElementById("drink-search") as HTMLInputElement | null
+    )?.value
+      .trim()
+      .toLowerCase() ?? "";
+
+    const items = document.querySelectorAll<HTMLElement>("[data-drink]");
+    const visibleByLetter = new Map<string, number>();
+    let visible = 0;
+
+    items.forEach(item => {
+      const show = itemMatches(item, params, query);
+      item.hidden = !show;
+      if (show) {
+        visible++;
+        const letter = item.dataset.letter ?? "#";
+        visibleByLetter.set(letter, (visibleByLetter.get(letter) ?? 0) + 1);
+      }
+    });
+
+    document
+      .querySelectorAll<HTMLElement>("[data-letter-section]")
+      .forEach(section => {
+        const letter = section.dataset.letterSection ?? "#";
+        section.hidden = (visibleByLetter.get(letter) ?? 0) === 0;
+      });
+
+    document
+      .querySelectorAll<HTMLAnchorElement>("[data-letter-link]")
+      .forEach(link => {
+        const letter = link.dataset.letterLink ?? "#";
+        link.classList.toggle(
+          "letter-disabled",
+          (visibleByLetter.get(letter) ?? 0) === 0
+        );
+      });
+
+    document
+      .querySelectorAll<HTMLElement>("[data-brand-cluster]")
+      .forEach(cluster => {
+        const anyVisible = Array.from(
+          cluster.querySelectorAll<HTMLElement>("[data-drink]")
+        ).some(d => !d.hidden);
+        cluster.hidden = !anyVisible;
+      });
+
+    const emptyEl = document.getElementById("empty-state");
+    if (emptyEl) emptyEl.hidden = visible > 0;
+
+    const countEl = document.getElementById("result-count");
+    if (countEl) {
+      const total = items.length;
+      const hasFilter = Boolean(params.get("brand")) || Boolean(query);
+      countEl.textContent = hasFilter
+        ? `${visible} of ${total} drinks`
+        : `${total} drinks`;
+    }
+  }
+
+  function updateBrandControl(params: URLSearchParams) {
+    const active = params.get("brand") ?? "";
+    const root = document.querySelector<HTMLElement>(
+      `.dd-root[data-dd-key="brand"]`
+    );
+    if (!root) return;
+    const trigger = root.querySelector<HTMLButtonElement>(".dd-trigger");
+    const label = root.querySelector<HTMLSpanElement>(".dd-label");
+    const activeOpt = root.querySelector<HTMLElement>(
+      `.dd-option[data-value="${CSS.escape(active)}"]`
+    );
+    const labelText =
+      active && activeOpt
+        ? (activeOpt.childNodes[0] as Text)?.data?.trim() || active
+        : "All";
+    if (label) label.textContent = labelText;
+    if (trigger) trigger.toggleAttribute("data-active", !!active);
+    root.querySelectorAll<HTMLElement>(".dd-option").forEach(opt => {
+      opt.classList.toggle(
+        "dd-active",
+        opt.dataset.value === active && !!active
+      );
+    });
+  }
+
+  function pushBrand(brand: string) {
+    const params = getParams();
+    if (brand) params.set("brand", brand);
+    else params.delete("brand");
+    const qs = params.toString();
+    history.pushState(
+      {},
+      "",
+      qs ? `${location.pathname}?${qs}` : location.pathname
+    );
+    updateBrandControl(params);
+    applyFilters();
+  }
+
+  function closeAllDropdowns() {
+    document.querySelectorAll(".dd-root.dd-open").forEach(r => {
+      r.classList.remove("dd-open");
+    });
+  }
+
+  // ── Scroll-spy: highlight the letter nav link for the section in view ──────
+  let scrollSpyObserver: IntersectionObserver | null = null;
+
+  function setActiveLetter(letter: string | null) {
+    document
+      .querySelectorAll<HTMLElement>("[data-letter-link]")
+      .forEach(link => {
+        link.classList.toggle(
+          "letter-active",
+          letter !== null && link.dataset.letterLink === letter
+        );
+      });
+  }
+
+  function initScrollSpy() {
+    scrollSpyObserver?.disconnect();
+
+    const nav = document.getElementById("letter-nav");
+    const headings = Array.from(
+      document.querySelectorAll<HTMLElement>(
+        '[data-letter-section] h2[id^="letter-"]'
+      )
+    );
+    if (!headings.length) return;
+
+    const navHeight = nav?.getBoundingClientRect().height ?? 0;
+
+    scrollSpyObserver = new IntersectionObserver(
+      entries => {
+        const visible = entries
+          .filter(e => e.isIntersecting)
+          .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+        if (visible.length > 0) {
+          setActiveLetter(visible[0].target.id.replace(/^letter-/, ""));
+        }
+      },
+      { rootMargin: `-${navHeight + 8}px 0px -70% 0px`, threshold: 0 }
+    );
+
+    headings.forEach(h => scrollSpyObserver?.observe(h));
+  }
+
+  function init() {
+    const params = getParams();
+    const searchInput = document.getElementById(
+      "drink-search"
+    ) as HTMLInputElement | null;
+    if (searchInput) {
+      const q = params.get("q");
+      searchInput.value = q ?? "";
+    }
+    updateBrandControl(params);
+    applyFilters();
+    initScrollSpy();
+  }
+
+  document.addEventListener("click", e => {
+    const target = e.target as HTMLElement;
+
+    const ddTrigger = target.closest<HTMLElement>(".dd-trigger");
+    if (ddTrigger) {
+      const root = ddTrigger.closest<HTMLElement>(".dd-root")!;
+      const isOpen = root.classList.contains("dd-open");
+      closeAllDropdowns();
+      if (!isOpen) root.classList.add("dd-open");
+      return;
+    }
+
+    const ddOption = target.closest<HTMLElement>(".dd-root .dd-option");
+    if (ddOption) {
+      const value = ddOption.dataset.value ?? "";
+      closeAllDropdowns();
+      pushBrand(value);
+      return;
+    }
+
+    const letterLink = target.closest<HTMLAnchorElement>(
+      "[data-letter-link]"
+    );
+    if (letterLink) {
+      if (letterLink.classList.contains("letter-disabled")) {
+        e.preventDefault();
+        return;
+      }
+      const targetId = letterLink.getAttribute("href")?.slice(1);
+      const targetEl = targetId ? document.getElementById(targetId) : null;
+      if (targetEl) {
+        e.preventDefault();
+        targetEl.scrollIntoView({ behavior: "smooth", block: "start" });
+        history.replaceState({}, "", `#${targetId}`);
+      }
+      return;
+    }
+
+    if (!target.closest(".dd-root")) closeAllDropdowns();
+  });
+
+  document.getElementById("drink-search")?.addEventListener("input", e => {
+    const params = getParams();
+    const value = (e.target as HTMLInputElement).value.trim();
+    if (value) params.set("q", value);
+    else params.delete("q");
+    const qs = params.toString();
+    history.replaceState(
+      {},
+      "",
+      qs ? `${location.pathname}?${qs}` : location.pathname
+    );
+    applyFilters();
+  });
+
+  window.addEventListener("popstate", init);
+  document.addEventListener("astro:page-load", init);
+</script>
