@@ -1,15 +1,15 @@
 ---
-status: to publish
+status: published
 aliases:
   - Aquarte protect
-externalUrl:
+externalUrl: https://t.me/kallection/38651
 brand: aquarte
 types:
   - water
 taste:
   - acerola
   - orange
-publishedAt:
+publishedAt: 2026-09-05
 favorite:
 container:
   - plastic

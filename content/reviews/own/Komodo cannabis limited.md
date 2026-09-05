@@ -1,13 +1,13 @@
 ---
-status: to publish
+status: published
 tags:
   - country/poland
   - package/bagpak
-externalUrl:
+externalUrl: https://t.me/kallection/38658
 brand: komodo
 taste:
   - cannabis
-publishedAt:
+publishedAt: 2026-09-05
 favorite:
 container:
   - can
@@ -30,6 +30,8 @@ aliases:
 types:
   - energy
 createdAt: 2026-08-19
+related:
+  - "[[Energy drink mit Hanf-Kräuter Extrakt|Energy drink mit Hanf-Kräuter Extrakt]]"
 ---
 **Komodo cannabis limited**. Офіційний смак - трава
 

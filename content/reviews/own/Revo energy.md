@@ -1,14 +1,14 @@
 ---
-status: to publish
+status: published
 aliases:
   - Revo energy
-externalUrl:
+externalUrl: https://t.me/kallection/38644
 brand: revo/energy
 types:
   - energy
 taste:
   - revo
-publishedAt:
+publishedAt: 2026-09-05
 container:
   - can
 sweeteners:
