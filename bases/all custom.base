@@ -8,9 +8,7 @@ views:
       - file.name
       - related
     sort:
-      - property: createdAt
-        direction: DESC
-      - property: file.mtime
+      - property: file.size
         direction: DESC
   - type: table
     name: subscribers
