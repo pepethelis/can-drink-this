@@ -1,14 +1,14 @@
 ---
-status: to publish
+status: published
 aliases:
   - NS original
-externalUrl:
+externalUrl: https://t.me/kallection/38690
 brand: ns
 types:
   - energy
 taste:
   - CLASSIC
-publishedAt:
+publishedAt: 2026-09-06
 favorite:
 container:
   - can
