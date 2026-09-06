@@ -30,7 +30,7 @@ related:
   - "[[Jacobs ice presso latte|Jacobs ice presso latte]]"
 createdAt: 2026-08-26
 ---
-**Jacobs ice presso classic**. Офіційний смак - класичний, тобто просто кавовий 
+**Jacobs ice presso classic**. Офіційний смак - класичний, тобто просто кавовий
 
 Пахне кавою, реальною кавою. Не прям як свіжопомелені зерна, а більш збалансовано і приємно
 

@@ -1,4 +1,4 @@
----
+﻿---
 status: to create
 tags:
   - package/ball
@@ -32,6 +32,7 @@ aliases:
   - Redbull winter edition
 types:
   - energy
+old_related: true
 ---
 **Redbull winter edition**. Офіційний смак - яблуко фуджі і імбир
 ==ОПИС ЗАПАХУ ЗАПАХУ==

@@ -1,4 +1,4 @@
----
+﻿---
 status: to create
 tags:
   - package/amp
@@ -30,6 +30,7 @@ aliases:
   - Candy Can toxic waste sour apple
 types:
   - fizzy
+old_related: true
 ---
 **Candy Can toxic waste sour apple**. Офіційний смак - кисле яблуко
 ==ОПИС ЗАПАХУ ЗАПАХУ==

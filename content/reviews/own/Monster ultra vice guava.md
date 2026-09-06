@@ -1,4 +1,4 @@
----
+﻿---
 status: prebuild
 tags:
   - package/canpack
@@ -34,6 +34,7 @@ aliases:
   - Monster ultra vice guava
 types:
   - energy
+old_related: true
 ---
 **Monster ultra vice guava**. Офіційний смак - гуава
 ==ОПИС ЗАПАХУ ЗАПАХУ==

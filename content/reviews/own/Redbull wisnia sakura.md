@@ -1,4 +1,4 @@
----
+﻿---
 status: prebuild
 tags:
 externalUrl:
@@ -61,6 +61,7 @@ types:
 Доступність ==БАЛИ== з 5 можливих
 
 Бляшанка від ==AG/AMP/BALL/canpack/bagpack/quality==
+
 
 По висновку - ==ВИСНОВОК==
 

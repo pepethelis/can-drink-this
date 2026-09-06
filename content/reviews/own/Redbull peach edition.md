@@ -1,4 +1,4 @@
----
+﻿---
 status: prebuild
 tags:
   - package/ball
@@ -27,6 +27,7 @@ aliases:
   - Redbull peach edition
 types:
   - energy
+old_related: true
 ---
 **Redbull peach edition**. Офіційний смак - білий персик
 Пахне в принципі я і очікується - персиком. Такий собі конвенційний персик, нічого особливого. В принципі все як у [[Exstase white peach]]
