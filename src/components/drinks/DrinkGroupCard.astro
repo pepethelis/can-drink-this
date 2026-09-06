@@ -5,6 +5,7 @@ import { getPath } from "@/utils/getPath";
 import { resolveImageAsset } from "@/utils";
 import Datetime from "@/components/Datetime.astro";
 import Divider from "@/components/Divider.astro";
+import IconChevronRight from "@/assets/icons/IconChevronRight.svg";
 import placeholder1 from "@/assets/images/default.png";
 import placeholder2 from "@/assets/images/default2.png";
 
@@ -26,6 +27,11 @@ const coverSrc =
   (isOwnRepresentative ? placeholder1 : placeholder2);
 
 const secondaryAliases = aliases.slice(1);
+
+// With a single review there's no ambiguity about which one the cover/title
+// represent, so make them clickable shortcuts straight to that review.
+const soleReviewPath =
+  reviews.length === 1 ? getPath(reviews[0].id, reviews[0].filePath) : null;
 ---
 
 <div
@@ -39,7 +45,29 @@ const secondaryAliases = aliases.slice(1);
   class="flex gap-4 rounded-lg py-4"
 >
   {
-    typeof coverSrc === "string" ? (
+    soleReviewPath ? (
+      <a href={soleReviewPath} class="shrink-0" aria-hidden="true" tabindex="-1">
+        {typeof coverSrc === "string" ? (
+          <img
+            src={coverSrc}
+            alt={title}
+            decoding="async"
+            loading="lazy"
+            class="h-20 w-20 rounded-lg object-cover"
+          />
+        ) : (
+          <Image
+            src={coverSrc}
+            alt={title}
+            width={180}
+            height={180}
+            decoding="async"
+            loading="lazy"
+            class="h-20 w-20 rounded-lg object-cover"
+          />
+        )}
+      </a>
+    ) : typeof coverSrc === "string" ? (
       <img
         src={coverSrc}
         alt={title}
@@ -67,7 +95,21 @@ const secondaryAliases = aliases.slice(1);
       {types.length > 0 && <span>{types.join(", ")}</span>}
     </div>
 
-    <h3 class="text-lg font-medium">{title}</h3>
+    <h3 class="text-lg font-medium">
+      {soleReviewPath ? (
+        <a
+          href={soleReviewPath}
+          class:list={[
+            "decoration-dashed underline-offset-4 hover:underline",
+            "focus-visible:no-underline focus-visible:underline-offset-0",
+          ]}
+        >
+          {title}
+        </a>
+      ) : (
+        title
+      )}
+    </h3>
 
     {
       secondaryAliases.length > 0 && (
@@ -75,26 +117,32 @@ const secondaryAliases = aliases.slice(1);
       )
     }
 
-    <ul class="mt-2 flex flex-col gap-1">
+    <ul class="mt-2 flex flex-col gap-1.5">
       {
         reviews.map(review => (
-          <li class="flex flex-wrap items-center gap-x-2 text-sm">
+          <li>
             <a
               href={getPath(review.id, review.filePath)}
               class:list={[
-                "text-accent decoration-dashed underline-offset-4 hover:underline",
-                "focus-visible:no-underline focus-visible:underline-offset-0",
+                "flex items-center justify-between gap-2 rounded-md border border-border px-3 py-1.5 text-sm",
+                "transition-colors hover:bg-accent/10 hover:border-accent/40",
+                "focus-visible:outline focus-visible:outline-2 focus-visible:outline-accent focus-visible:outline-offset-2",
               ]}
             >
-              {review.data.author}
+              <span class="flex min-w-0 flex-wrap items-center gap-x-2">
+                <span class="truncate font-medium text-accent">
+                  {review.data.author}
+                </span>
+                {review.data.publishedAt && (
+                  <Datetime
+                    publishedAt={review.data.publishedAt}
+                    updatedAt={review.data.updatedAt}
+                    size="sm"
+                  />
+                )}
+              </span>
+              <IconChevronRight class="size-4 shrink-0 opacity-60" />
             </a>
-            {review.data.publishedAt && (
-              <Datetime
-                publishedAt={review.data.publishedAt}
-                updatedAt={review.data.updatedAt}
-                size="sm"
-              />
-            )}
           </li>
         ))
       }
