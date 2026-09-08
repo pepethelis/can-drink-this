@@ -1,4 +1,4 @@
-﻿---
+---
 status: published
 tags:
   - package/ball
@@ -36,7 +36,6 @@ types:
 createdAt: 2026-01-05
 old_related: true
 ---
-
 Енергос **Celsius live fit cosmic vibe**. Офіційний смак - космік вайб, або, як сказано на сайті, "juicy fruit punch"
 
 По запаху ніби легкий цитрусовий, доволі солодкий

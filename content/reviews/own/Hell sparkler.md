@@ -29,10 +29,10 @@ aliases:
 types:
   - energy
 related:
-  - "[[content/reviews/own/Hell Spritz Maracuja]]"
-  - "[[content/reviews/own/Hell Spritz Lime]]"
-  - "[[Hell multi plus]]"
-  - "[[Hell focus plus]]"
+  - "[[content/reviews/own/Hell Spritz Maracuja|Hell spritz maracuja]]"
+  - "[[content/reviews/own/Hell Spritz Lime|Hell Spritz Lime]]"
+  - "[[Hell multi plus|Hell multi+]]"
+  - "[[Hell focus plus|Hell focus+]]"
   - "[[Hell Summer Groovy Grapefruit]]"
   - "[[Hell Summer Groovy Grapefruit]]"
 createdAt: 2025-12-27
@@ -41,7 +41,7 @@ createdAt: 2025-12-27
 
 По запаху ніби легкий святковий виноград. Але загалом запах дуже слабкий
 
-Смак не такий *звичайний* та хімозний як наприклад у [[content/reviews/own/Revo energy grape]]. Він тут доволі кислий, ігристий та веселий. Реально не просто звичайний хімозний виноград, до якого вже всі звикли, а щось нове і цікаве. Мабуть навіть трохи нагадує шампанське, теж виноградне, ігристе та цікаве
+Смак не такий *звичайний* та хімозний як наприклад у [[content/reviews/own/Revo energy grape|Revo energy grape]]. Він тут доволі кислий, ігристий та веселий. Реально не просто звичайний хімозний виноград, до якого вже всі звикли, а щось нове і цікаве. Мабуть навіть трохи нагадує шампанське, теж виноградне, ігристе та цікаве
 
 
 Дизайн літералі львівське. Але це ріл добрий дизайн від хеллу. Нарешті виглядає крутезно і це варто відзначити. Але це було досягнуто ціною зради їхнього класичного дизайну. Як відомо, у них зазвичай навіть малі лінійки все одно оформлені за однаковою структурою. Наприклад [[Hell Summer Groovy Grapefruit|лінійка summer]] або [[Hell focus plus|лінійка plus]]

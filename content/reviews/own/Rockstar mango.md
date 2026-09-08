@@ -33,7 +33,7 @@ related:
   - "[[Burn mango]]"
   - "[[Frugo mango]]"
   - "[[28 black sour mango kiwi]]"
-  - "[[content/reviews/own/Monster juiced mango loco]]"
+  - "[[content/reviews/own/Monster juiced mango loco|Monster juiced mango loco]]"
 createdAt: 2025-05-16
 ---
 **Rockstar energy**, блакитний. Офіційний смак - манго
