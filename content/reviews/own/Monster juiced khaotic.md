@@ -1,4 +1,4 @@
-﻿---
+---
 status: published
 tags:
   - package/ag
@@ -50,7 +50,7 @@ old_related: true
 Ключик та верхівка дефолтні
 
 
-Колір напою - супер насичений/хімозний жовтий. Щось дуже хороше по кольору у [[Monster VR46]]. По яскравості [[Monster nitro green]] буде яскравішим
+Колір напою - супер насичений/хімозний жовтий. Щось дуже хороше по кольору у [[Monster VR46|Monster the doctor]]. По яскравості [[Monster nitro green|Monster nitro dry]] буде яскравішим
 
 Об'єм 0,5л
 

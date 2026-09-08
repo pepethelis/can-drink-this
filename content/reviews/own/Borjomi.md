@@ -1,4 +1,4 @@
-﻿---
+---
 status: published
 externalUrl: https://t.me/kallection/37901
 brand: borjomi

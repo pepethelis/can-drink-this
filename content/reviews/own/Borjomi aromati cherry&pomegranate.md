@@ -1,4 +1,4 @@
-﻿---
+---
 status: published
 aliases:
   - Borjomi aromati cherry & pomegranate
