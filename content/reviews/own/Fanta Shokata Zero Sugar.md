@@ -31,8 +31,8 @@ aliases:
 types:
   - fizzy
 related:
-  - "[[content/reviews/own/Квас тарас flower power]]"
-  - "[[Cola default]]"
+  - "[[content/reviews/own/Квас тарас flower power|Квас тарас flower power]]"
+  - "[[Cola default|Кола звичайна]]"
 createdAt: 2025-01-17
 ---
 **Fanta Shokata Zero Sugar**
