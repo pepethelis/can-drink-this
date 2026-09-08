@@ -32,10 +32,6 @@ export const PAGE_META = {
     description:
       "Статистика за всіма оглядами: бренди, типи, смаки, кофеїн, тара та активність публікацій.",
   },
-  tags: {
-    title: "Tags",
-    description: "Усі теги, якими позначені огляди на сайті.",
-  },
   archives: {
     title: "Archives",
     description: "Архів оглядів, згрупований за роками публікації.",
@@ -68,10 +64,3 @@ export function paginatedMeta(meta: PageMeta, currentPage: number): PageMeta {
 
 /** OG image path for a `PAGE_META` key. */
 export const ogImageFor = (key: keyof typeof PAGE_META) => `/og/${key}.png`;
-
-/** Per-tag description for `/tags/<tag>` listings. */
-export const tagDescription = (tagName: string) =>
-  `Огляди й пости, позначені тегом «${tagName}».`;
-
-/** OG image path for a `/tags/<tag>` listing. */
-export const ogImageForTag = (tag: string) => `/og/tag/${tag}/index.png`;

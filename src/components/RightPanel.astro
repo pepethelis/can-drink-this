@@ -1,6 +1,5 @@
 ---
 import { getCollection } from "astro:content";
-import { slugifyTagPath } from "@/utils/slugify";
 import postFilter from "@/utils/postFilter";
 import type { BrandGroup } from "@/types/reviews";
 
@@ -14,23 +13,6 @@ const { showToc = false, tocItems = [] } = Astro.props;
 const reviews = await getCollection("reviews", ({ data }) =>
   postFilter({ data })
 );
-const tagCounts = new Map<
-  string,
-  { tag: string; tagName: string; count: number }
->();
-
-for (const review of reviews) {
-  for (const tagName of review.data.tags ?? []) {
-    const tag = slugifyTagPath(tagName);
-    const current = tagCounts.get(tag);
-    if (current) {
-      current.count += 1;
-    } else {
-      tagCounts.set(tag, { tag, tagName, count: 1 });
-    }
-  }
-}
-
 const categoryCounts = new Map<string, number>();
 for (const review of reviews) {
   const cat = review.data.category;

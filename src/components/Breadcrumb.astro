@@ -3,7 +3,7 @@
 const currentUrlPath = Astro.url.pathname.replace(/\/+$/, "");
 
 // Get url array from path
-// eg: /tags/monster/juiced => ['tags', 'monster', 'juiced']
+// eg: /reviews/own/monster-juiced => ['reviews', 'own', 'monster-juiced']
 const breadcrumbList = currentUrlPath.split("/").slice(1);
 
 // if breadcrumb is Home > Posts > 1 <etc>
@@ -12,10 +12,10 @@ if (breadcrumbList[1] === "posts") {
   breadcrumbList.splice(1, 2, `Posts (page ${breadcrumbList[2] || 1})`);
 }
 
-// ['tags', 'monster', 'juiced'] must lead to:
-// tags
-// tags/monster
-// tags/monster/juiced
+// ['reviews', 'own', 'monster-juiced'] must lead to:
+// reviews
+// reviews/own
+// reviews/own/monster-juiced
 const getBreadcrumbPath = (index: number) => {
   return `/${breadcrumbList.slice(0, index + 1).join("/")}`;
 };
@@ -37,7 +37,7 @@ const getBreadcrumbPath = (index: number) => {
               class:list={["capitalize opacity-75", { lowercase: index > 0 }]}
               aria-current="page"
             >
-              {/* make the last part lowercase in Home > Tags > some-tag */}
+              {/* make the last part lowercase in Home > Reviews > some-review */}
               {decodeURIComponent(breadcrumb)}
             </span>
           </li>

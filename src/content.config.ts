@@ -59,7 +59,6 @@ const reviews = defineCollection({
       category: categoryType.default("власні огляди"),
       author: z.string().default(SITE.author),
       sponsor: z.array(z.string()).nullish(),
-      tags: z.array(z.string()).nullish().default([]),
       pinned: z.boolean().optional(),
       canonicalURL: z.string().optional(),
       hidden: z.boolean().optional(),

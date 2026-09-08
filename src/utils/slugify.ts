@@ -11,11 +11,9 @@ export const slugifyStr = (str: string): string =>
     trim: true,
   });
 
-export const slugifyTagPath = (tag: string): string =>
-  tag
+/** Slugifies each segment of a slash-separated path, keeping the slashes. */
+export const slugifyPath = (value: string): string =>
+  value
     .split("/")
     .map(segment => slugifyStr(segment))
     .join("/");
-
-export const slugifyAll = (arr: string[]) =>
-  arr.map(str => slugifyTagPath(str));

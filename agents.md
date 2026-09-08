@@ -140,7 +140,6 @@ Key fields:
 | `publishedAt` | date, nullish | Required to be visible |
 | `hidden` | boolean, optional | Excludes from all listings |
 | `pinned` | boolean, optional | |
-| `tags` | string[], default `[]` | |
 | `canonicalURL` | string, optional | |
 | `externalUrl` | string, nullish | Rendered as an "External" link in the taxonomy section |
 | `related` | string[], default `[]` | |
@@ -163,15 +162,16 @@ Key fields:
 /reviews/[...page]         → paginated reviews (fallback / direct access)
 /reviews/[...slug]/        → single review
 /reviews/[...slug]/index.png → generated OG image (Satori + product photo)
+/reviews/awaited           → reviews finished but awaiting publication elsewhere
+/drinks/                   → drink directory, grouped by letter and brand
 /stats                     → analytics charts (React + Recharts)
-/tags/                     → tag cloud (all content types)
-/tags/[tag]/[...page]      → filtered by tag (posts + reviews)
 /archives/                 → archive listing (if SITE.showArchives)
 /search                    → pagefind full-text search
 /about                     → about.md
 /rss.xml                   → RSS feed
 /robots.txt                → auto-generated
 /og.png                    → default OG image
+/og/[page].png             → generated OG image per listing/utility page
 ```
 
 ## Client-Side Filters (`/reviews`)
@@ -194,7 +194,12 @@ Key fields:
 - **Posts**: `src/pages/posts/[...slug]/index.png.ts` — dark-themed card with title, summary, author, optional photo (uses `ogImage`)
 - Images are resized to 480×630 JPEG q82 before base64 encoding into Satori SVG
 - `src/utils/loadGoogleFont.ts` validates TTF (`0x00010000`) or OTF (`0x4f54544f`) magic bytes before passing fonts to Satori
+- **Listing / utility pages**: `src/pages/og/[slug].png.ts` — one image per key of `PAGE_META` (`src/pageMeta.ts`), rendered with the site template and that page's own title/description
 - Gated by `SITE.dynamicOgImage` flag
+
+## Page Metadata (`src/pageMeta.ts`)
+
+Pages without frontmatter (`/posts`, `/reviews`, `/reviews/awaited`, `/drinks`, `/stats`, `/archives`, `/search`, `/about`, `/404`) take their title and description from `PAGE_META`, and their OG image from `/og/<key>.png`. `paginatedMeta()` appends the page number so paginated routes do not share one title/description.
 
 ## Stats Page (`/stats`)
 
@@ -258,4 +263,3 @@ Key fields:
 - Reviews use `cover` (not `ogImage`) for the product photo; it can reference an asset using Obsidian syntax and falls back to dynamic OG generation. Posts use `ogImage`
 - `AUTHORS` and `SPONSORS` (`src/constants.ts`) map author/sponsor names to profile links, used in `ReviewDetails.astro` byline and sponsor credit
 - A review is only visible when: `publishedAt` is set, `hidden` is `false`, `status` is not `prebuild`/`to create` (for own reviews), and publish time has passed
-- Tags are shared across both `posts` and `reviews` collections

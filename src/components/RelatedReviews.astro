@@ -2,7 +2,7 @@
 import type { CollectionEntry } from "astro:content";
 import ReviewGrid from "@/components/ReviewGrid.astro";
 import getTitleFormAliases from "@/utils/getTitleFormAliases";
-import { slugifyTagPath } from "@/utils/slugify";
+import { slugifyPath } from "@/utils/slugify";
 
 type Props = {
   post: CollectionEntry<"reviews">;
@@ -37,7 +37,7 @@ const dedupeByTitle = (r: CollectionEntry<"reviews">) => {
 // ─── related (wikilink resolution) ───────────────────────────────────────
 
 const normalizePathKey = (value: string) =>
-  slugifyTagPath(
+  slugifyPath(
     value
       .trim()
       .replace(/^\.\//, "")
