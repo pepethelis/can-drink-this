@@ -28,11 +28,11 @@ aliases:
 types:
   - alco
 related:
-  - "[[Garage mandarin]]"
-  - "[[Garage hardcore]]"
-  - "[[Garage pineberry&mint]]"
-  - "[[Hike vibe mojito]]"
-  - "[[Hike vibe income tax]]"
+  - "[[Garage mandarin|Garage mandarin]]"
+  - "[[Garage hardcore|Garage hardcore cherry + Garage hardcore starfruit]]"
+  - "[[Garage pineberry&mint|Garage pineberry&mint]]"
+  - "[[Hike vibe mojito|Hike vibe mojito]]"
+  - "[[Hike vibe income tax|Hike vibe income tax]]"
 createdAt: 2025-10-24
 ---
 Типу гараж **Senor cartel lemon**. Офіційний смак - лимон

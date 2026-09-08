@@ -26,12 +26,12 @@ types:
   - alco
   - radler
 related:
-  - "[[Львівське радлер лимон]]"
-  - "[[Львівське радлер яблуко]]"
-  - "[[Lomza radler cherry]]"
-  - "[[Lomza radler watermelon]]"
-  - "[[Zibert grapefruit]]"
-  - "[[Gosser natur radler]]"
+  - "[[Львівське радлер лимон|Львівське радлер лимон]]"
+  - "[[Львівське радлер яблуко|Львівське радлер яблуко]]"
+  - "[[Lomza radler cherry|Lomza radler cherry]]"
+  - "[[Lomza radler watermelon|Lomza radler watermelon]]"
+  - "[[Zibert grapefruit|Zibert grapefruit]]"
+  - "[[Gosser natur radler|Gosser natur radler]]"
 createdAt: 2024-09-22
 ---
 Радлер **Schofferhofer Wild Cherry**
