@@ -10,6 +10,7 @@ import DrinkLetterSection from "@/components/drinks/DrinkLetterSection.astro";
 import groupReviewsByDrink from "@/utils/groupReviewsByDrink";
 import postFilter from "@/utils/postFilter";
 import { SITE } from "@/config";
+import { PAGE_META, ogImageFor } from "@/pageMeta";
 import type { BrandGroup } from "@/types/reviews";
 
 const allReviews = await getCollection(
@@ -54,7 +55,11 @@ const letters = [...byLetter.keys()].sort((a, b) =>
 );
 ---
 
-<Layout title={`Drinks | ${SITE.title}`}>
+<Layout
+  title={`${PAGE_META.drinks.title} | ${SITE.title}`}
+  description={PAGE_META.drinks.description}
+  ogImage={ogImageFor("drinks")}
+>
   <Header />
   <Main
     pageTitle="Drinks"

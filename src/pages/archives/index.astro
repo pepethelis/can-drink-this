@@ -7,6 +7,7 @@ import Footer from "@/components/Footer.astro";
 import CardReview from "@/components/CardReview.astro";
 import getPostsByGroupCondition from "@/utils/getPostsByGroupCondition";
 import { SITE } from "@/config";
+import { PAGE_META, ogImageFor } from "@/pageMeta";
 import postFilter from "@/utils/postFilter";
 
 // Redirect to 404 page if `showArchives` config is false
@@ -34,7 +35,11 @@ const months = [
 ];
 ---
 
-<Layout title={`Archives | ${SITE.title}`}>
+<Layout
+  title={`${PAGE_META.archives.title} | ${SITE.title}`}
+  description={PAGE_META.archives.description}
+  ogImage={ogImageFor("archives")}
+>
   <Header />
   <Main pageTitle="Archives" pageDesc="All the articles I've archived.">
     {

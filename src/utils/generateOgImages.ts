@@ -97,7 +97,7 @@ export async function generateOgImageForReview(
   }
 }
 
-export async function generateOgImageForSite() {
-  const svg = await siteOgImage();
+export async function generateOgImageForSite(title?: string, desc?: string) {
+  const svg = await siteOgImage(title, desc);
   return svgBufferToPngBuffer(svg);
 }

@@ -10,6 +10,7 @@ import Pagination from "@/components/Pagination.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
 import { SITE } from "@/config";
 import postFilter from "@/utils/postFilter";
+import { PAGE_META, ogImageFor, paginatedMeta } from "@/pageMeta";
 
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = await getCollection("reviews", ({ data }) =>
@@ -21,9 +22,14 @@ export const getStaticPaths = (async ({ paginate }) => {
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
+const meta = paginatedMeta(PAGE_META.reviews, page.currentPage);
 ---
 
-<Layout title={`Reviews | ${SITE.title}`}>
+<Layout
+  title={`${meta.title} | ${SITE.title}`}
+  description={meta.description}
+  ogImage={ogImageFor("reviews")}
+>
   <Header />
   <Main pageTitle="Reviews" pageDesc="All the reviews I've collected.">
     <ul>

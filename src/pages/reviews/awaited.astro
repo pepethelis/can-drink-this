@@ -8,6 +8,7 @@ import CardReview from "@/components/CardReview.astro";
 import BackToTopButton from "@/components/BackToTopButton.astro";
 import getTitleFormAliases from "@/utils/getTitleFormAliases";
 import { SITE } from "@/config";
+import { PAGE_META, ogImageFor } from "@/pageMeta";
 
 const awaitedReviews = await getCollection(
   "reviews",
@@ -21,7 +22,11 @@ const sorted = awaitedReviews.sort((a, b) => {
 });
 ---
 
-<Layout title={`Awaited reviews | ${SITE.title}`}>
+<Layout
+  title={`${PAGE_META.awaited.title} | ${SITE.title}`}
+  description={PAGE_META.awaited.description}
+  ogImage={ogImageFor("awaited")}
+>
   <Header />
   <Main
     pageTitle="Awaited reviews"

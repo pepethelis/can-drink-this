@@ -47,10 +47,10 @@ const currentOgType = pubDate ? "article" : "website";
 
 const structuredData = {
   "@context": "https://schema.org",
-  "@type": "BlogPosting",
+  "@type": pubDate ? "BlogPosting" : "WebPage",
   headline: `${title}`,
   image: `${socialImageURL}`,
-  datePublished: `${pubDate?.toISOString()}`,
+  ...(pubDate && { datePublished: pubDate.toISOString() }),
   ...(modDate && { dateModified: modDate.toISOString() }),
   author: [
     {

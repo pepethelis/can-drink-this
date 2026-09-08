@@ -8,6 +8,7 @@ import CardReview from "@/components/CardReview.astro";
 import FilterBar from "@/components/reviews/FilterBar.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
 import { SITE } from "@/config";
+import { PAGE_META, ogImageFor } from "@/pageMeta";
 import postFilter from "@/utils/postFilter";
 import type { BrandGroup } from "@/types/reviews";
 import BackToTopButton from "@/components/BackToTopButton.astro";
@@ -82,7 +83,11 @@ for (const r of sorted)
 const sponsors = [...sponsorMap.entries()].sort((a, b) => b[1] - a[1]);
 ---
 
-<Layout title={`Reviews | ${SITE.title}`}>
+<Layout
+  title={`${PAGE_META.reviews.title} | ${SITE.title}`}
+  description={PAGE_META.reviews.description}
+  ogImage={ogImageFor("reviews")}
+>
   <Header />
   <Main pageTitle="Reviews" pageDesc="All the reviews I've collected.">
     <LinkButton

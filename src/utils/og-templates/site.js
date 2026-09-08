@@ -2,7 +2,11 @@ import satori from "satori";
 import { SITE } from "@/config";
 import loadGoogleFonts from "../loadGoogleFont";
 
-export default async () => {
+/**
+ * @param {string} [title] Heading shown on the card; defaults to the site title.
+ * @param {string} [desc] Sub-heading; defaults to the site description.
+ */
+export default async (title = SITE.title, desc = SITE.desc) => {
   return satori(
     {
       type: "div",
@@ -78,14 +82,14 @@ export default async () => {
                             type: "p",
                             props: {
                               style: { fontSize: 72, fontWeight: "bold" },
-                              children: SITE.title,
+                              children: title,
                             },
                           },
                           {
                             type: "p",
                             props: {
                               style: { fontSize: 28 },
-                              children: SITE.desc,
+                              children: desc,
                             },
                           },
                         ],
@@ -122,7 +126,7 @@ export default async () => {
       width: 1200,
       height: 630,
       embedFont: true,
-      fonts: await loadGoogleFonts(SITE.title + SITE.desc + SITE.website),
+      fonts: await loadGoogleFonts(title + desc + SITE.website),
     }
   );
 };

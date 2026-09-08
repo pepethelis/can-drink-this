@@ -10,6 +10,11 @@ import Pagination from "@/components/Pagination.astro";
 import getUniqueTags from "@/utils/getUniqueTags";
 import getPostsByTag from "@/utils/getPostsByTag";
 import { SITE } from "@/config";
+import {
+  ogImageForTag,
+  paginatedMeta,
+  tagDescription,
+} from "@/pageMeta";
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   const reviews = await getCollection("reviews");
@@ -29,9 +34,17 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 const params = Astro.params;
 const { tag } = params;
 const { page, tagName } = Astro.props;
+const meta = paginatedMeta(
+  { title: `Tag: ${tagName}`, description: tagDescription(tagName) },
+  page.currentPage
+);
 ---
 
-<Layout title={`Tag: ${tagName} | ${SITE.title}`}>
+<Layout
+  title={`${meta.title} | ${SITE.title}`}
+  description={meta.description}
+  ogImage={ogImageForTag(tag!)}
+>
   <Header />
   <Main
     pageTitle={[`Tag:`, `${tagName}`]}

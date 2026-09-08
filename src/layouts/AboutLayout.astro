@@ -5,13 +5,18 @@ import Footer from "@/components/Footer.astro";
 import Breadcrumb from "@/components/Breadcrumb.astro";
 import Layout from "./Layout.astro";
 import { SITE } from "@/config";
+import { PAGE_META, ogImageFor } from "@/pageMeta";
 
 type Props = MarkdownLayoutProps<{ title: string }>;
 
 const { frontmatter } = Astro.props;
 ---
 
-<Layout title={`${frontmatter.title} | ${SITE.title}`}>
+<Layout
+  title={`${frontmatter.title} | ${SITE.title}`}
+  description={PAGE_META.about.description}
+  ogImage={ogImageFor("about")}
+>
   <Header />
   <Breadcrumb />
   <main id="main-content" class="content-layout">

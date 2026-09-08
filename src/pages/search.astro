@@ -5,11 +5,16 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import { SITE } from "@/config";
+import { PAGE_META, ogImageFor } from "@/pageMeta";
 
 const backUrl = SITE.showBackButton ? `${Astro.url.pathname}` : "/";
 ---
 
-<Layout title={`Search | ${SITE.title}`}>
+<Layout
+  title={`${PAGE_META.search.title} | ${SITE.title}`}
+  description={PAGE_META.search.description}
+  ogImage={ogImageFor("search")}
+>
   <Header />
   <Main pageTitle="Search" pageDesc="Search any article ...">
     <div id="pagefind-search" transition:persist data-backurl={backUrl}></div>

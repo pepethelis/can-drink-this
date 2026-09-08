@@ -4,9 +4,14 @@ import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import LinkButton from "@/components/LinkButton.astro";
 import { SITE } from "@/config";
+import { PAGE_META, ogImageFor } from "@/pageMeta";
 ---
 
-<Layout title={`404 Not Found | ${SITE.title}`}>
+<Layout
+  title={`${PAGE_META["404"].title} | ${SITE.title}`}
+  description={PAGE_META["404"].description}
+  ogImage={ogImageFor("404")}
+>
   <Header />
 
   <main
