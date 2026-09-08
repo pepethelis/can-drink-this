@@ -31,8 +31,8 @@ primaryColors:
   - gray
   - white
 related:
-  - "[[content/reviews/own/Redbull green edition]]"
   - "[[Crazy wolf blue kaktus-feigen|Crazy wolf blue kaktus-feigen]]"
+  - "[[content/reviews/own/Redbull green edition|Redbull green edition]]"
 aliases:
   - Komodo cactus
 types:
