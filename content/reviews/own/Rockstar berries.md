@@ -32,9 +32,9 @@ aliases:
 types:
   - energy
 related:
-  - "[[Воля синя]]"
-  - "[[Hell goji berry]]"
-  - "[[Monster ultra blue]]"
+  - "[[Воля синя|Воля синя]]"
+  - "[[Hell goji berry|Hell goji berry]]"
+  - "[[Monster ultra blue|Monster ultra blue]]"
 createdAt: 2025-05-25
 ---
 **Rockstar energy, синій**. Офіційний смак - blueberry, pomegranate, acai

@@ -1,4 +1,4 @@
-﻿---
+---
 status: published
 aliases:
   - Revo energy

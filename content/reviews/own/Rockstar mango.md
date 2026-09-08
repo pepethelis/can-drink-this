@@ -30,9 +30,9 @@ aliases:
 types:
   - energy
 related:
-  - "[[Burn mango]]"
-  - "[[Frugo mango]]"
-  - "[[28 black sour mango kiwi]]"
+  - "[[Burn mango|Burn mango]]"
+  - "[[Frugo mango|Frugo mango]]"
+  - "[[28 black sour mango kiwi|28 black sour mango kiwi]]"
   - "[[content/reviews/own/Monster juiced mango loco|Monster juiced mango loco]]"
 createdAt: 2025-05-16
 ---

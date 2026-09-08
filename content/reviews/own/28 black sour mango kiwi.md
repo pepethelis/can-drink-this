@@ -30,10 +30,10 @@ aliases:
 types:
   - energy
 related:
-  - "[[Burn mango]]"
-  - "[[Frugo mango]]"
-  - "[[Rockstar mango]]"
-  - "[[content/reviews/own/Monster juiced mango loco]]"
+  - "[[Burn mango|Burn mango]]"
+  - "[[Frugo mango|Frugo mango]]"
+  - "[[Rockstar mango|Rockstar mango]]"
+  - "[[content/reviews/own/Monster juiced mango loco|Monster juiced mango loco]]"
 createdAt: 2025-03-21
 ---
 **28 black**. Офіційний смак - **sour mango-kivi**

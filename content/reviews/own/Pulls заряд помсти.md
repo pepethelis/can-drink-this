@@ -18,8 +18,8 @@ cover: "[[IMG_2899.jpeg]]"
 availability: 3
 summary:
 related:
-  - "[[Monster black]]"
-  - "[[Nonstop original]]"
+  - "[[Monster black|Monster black]]"
+  - "[[Nonstop original|Nonstop original]]"
   - "[огляд від сатани](https://t.me/ukr_satan/5537)"
 caffeine: 35
 volume:

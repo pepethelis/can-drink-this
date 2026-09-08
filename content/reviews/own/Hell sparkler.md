@@ -33,8 +33,8 @@ related:
   - "[[content/reviews/own/Hell Spritz Lime|Hell Spritz Lime]]"
   - "[[Hell multi plus|Hell multi+]]"
   - "[[Hell focus plus|Hell focus+]]"
-  - "[[Hell Summer Groovy Grapefruit]]"
-  - "[[Hell Summer Groovy Grapefruit]]"
+  - "[[Hell Summer Groovy Grapefruit|Hell Groovy Grapefruit]]"
+  - "[[Hell Summer Groovy Grapefruit|Hell Groovy Grapefruit]]"
 createdAt: 2025-12-27
 ---
 **Hell sparkler**. Офіційний смак - виноград
