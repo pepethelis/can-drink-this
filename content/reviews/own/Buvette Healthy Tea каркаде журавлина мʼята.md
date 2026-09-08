@@ -52,6 +52,3 @@ old_related: true
 
 
 По висновку - чергова гламурна вода, але прикол якої я не викупив
-
-
-Пов'язані огляди: [[Buvette Healthy Tea лемонграс]], [[Buvette Healthy Tea абрикос тангерин]], [[Buvette Healthy Tea троянда лимон імбир]]

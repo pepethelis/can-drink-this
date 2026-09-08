@@ -1,4 +1,4 @@
-﻿---
+---
 status: published
 tags:
   - package/canpack
@@ -46,7 +46,7 @@ old_related: true
 
 Колір напою - насичений жовтий
 
-Обʼєм 0,48л, не 0,5л як у інших батарейках. А мода пішла з [[content/reviews/own/Battery electric]]
+Обʼєм 0,48л, не 0,5л як у інших батарейках. А мода пішла з [[content/reviews/own/Battery electric|Battery electric]]
 
 Кофеїну 32мг /100мл
 

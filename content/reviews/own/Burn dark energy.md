@@ -63,6 +63,3 @@ old_related: true
 
 
 По висновку - назвали б його citrus shock була б імба назва. За смаком в принципі нормально, навіть прикольно. Ще прикол, що це другий цитрусовий бьорн, але не такий апельсиновий як [[content/reviews/own/Burn orange fire]]. Загалом рекомендувати і сьорбати можна. Але бьорни чогось дорогі останнім часом, особливо 0,25
-
-
-Пов'язані огляди: [[Burn red]], [[Burn green apple-kiwi]], [[Burn mango]], [[content/reviews/own/Burn guava]], [[content/reviews/own/Burn orange fire]], [[Burn fruit punch]]

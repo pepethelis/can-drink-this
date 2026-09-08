@@ -1,4 +1,4 @@
-﻿---
+---
 status: published
 tags:
   - package/canpack
@@ -47,7 +47,7 @@ old_related: true
 
 Колір напою - класичний карамельний
 
-Об'єм **0,48л**, новий об'єм у карлсберга починаючи з [[content/reviews/own/Battery electric]]
+Об'єм **0,48л**, новий об'єм у карлсберга починаючи з [[content/reviews/own/Battery electric|Battery electric]]
 
 Кофеїну **40мг**/100мл, тобто 125% від дефолтних 32мг
 

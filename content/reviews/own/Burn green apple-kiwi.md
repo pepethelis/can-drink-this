@@ -68,6 +68,3 @@ old_related: true
 
 
 По висновку - норм енергос, але не так смачно, як класичний. Замість 0,25 можна взяти 0,5 нонстопа фіолетового чи помаранчевого за ту саму ціну
-
-
-Пов'язані огляди: [[Burn red]], [[Burn mango]], [[content/reviews/own/Burn guava]], [[content/reviews/own/Burn orange fire]], [[Burn fruit punch]], [[Burn dark energy]]

@@ -33,8 +33,6 @@ sweeteners:
 Бляшанка від ==AG/AMP/BALL/canpack/bagpack/quality==
 
 По висновку - ==ВИСНОВОК==
-
-Пов'язані огляди: [[]]
 #огляди
 
 ```
