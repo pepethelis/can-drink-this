@@ -75,6 +75,3 @@ old_related: true
 Imagine thus at 3AM score - 5/5, це було б ахуєнно
 
 Пост вийшов завдяки [спонсору оглядів](https://t.me/dekanat_tef), підписуйтесь на Дмитра
-
-
-Пов'язані огляди: [[Power taurine energy regular]], [[Power taurine energy pomme]], [[Power taurine energy mangue]]

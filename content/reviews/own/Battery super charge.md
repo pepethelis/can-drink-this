@@ -68,6 +68,3 @@ old_related: true
 По висновку - кофеїновий овердрайв з відсилкою на смак ситра з дитинства. Ностальгуючим та кофеїновим привіт, іншим співчуваю. Щодо підвищеної концентрації - схоже правда, бо заснути навіть до пʼятої ранку було складно
 
 Imagine this at 3AM score - не надто добрий. Є кандидати точно краще
-
-
-Пов'язані огляди: [[Battery black]], [[content/reviews/own/Battery frsh]], [[content/reviews/own/Battery exotic]], [[Battery mix]], [[content/reviews/own/Battery unicorn]], [[Battery cola]], [[content/reviews/own/Battery electric]], [[content/reviews/own/Battery juiced sour apple]], [[content/reviews/own/Battery juiced sour apple]], [[Battery juiced exotic fruits]]

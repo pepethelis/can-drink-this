@@ -67,7 +67,3 @@ old_related: true
 Як і [[content/reviews/own/Battery juiced peach lemonade|peach lemonade]], це такий собі свіженький напій на літо. Складно сказати як воно пасуватиме наприклад до осені чи зими. Мені здається, втратить актуальність
 
 Також є [сатанячий огляд тут](https://t.me/ukr_satan/5391)
-
-
-Пов'язані огляди: [[Battery black]], [[content/reviews/own/Battery frsh]], [[content/reviews/own/Battery exotic]], [[Battery mix]], [[content/reviews/own/Battery unicorn]], [[Battery cola]], [[content/reviews/own/Battery juiced sour apple]], [[content/reviews/own/Battery juiced peach lemonade]]
- 

@@ -65,6 +65,3 @@ old_related: true
 
 
 По висновку - цілком нормальний варік, як для яблучного енергосу, але як для хеллу, то смак взагалі імба і топчик. Це не тому, що сама банка розрив, це тому що здебільшого хелл сосе. А ще тут ціна як у монстра чорного чомусь, тому загалом воно того не варте. Реал краще буде взяти [[content/reviews/own/Battery juiced sour apple|батарейку яблучну]]
-
-
-Пов'язані огляди: [[Hell Summer Groovy Grapefruit]], [[Hell Summer Chillin’ Guanabana]], [[content/reviews/own/Battery juiced sour apple]]

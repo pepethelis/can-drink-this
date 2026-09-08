@@ -64,6 +64,3 @@ old_related: true
 
 
 По висновку - дефолтне енергуйне, впевнено рекомендувати б не став, а загалом хай буде для різноманіття
-
-
-Пов'язані огляди: [[Battery black]], [[content/reviews/own/Battery frsh]], [[content/reviews/own/Battery exotic]], [[content/reviews/own/Battery unicorn]], [[Battery cola]], [[content/reviews/own/Battery juiced sour apple]], [[content/reviews/own/Battery juiced peach lemonade]]

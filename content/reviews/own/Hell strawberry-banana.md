@@ -65,6 +65,3 @@ old_related: true
 
 
 По висновку - рожевий енергосік хелл зі смаком рошенівських желейок. Смакує незвично, раджу затестити хоч раз. Але хз чи має цей смак потенціал стати легендарним
-
-
-Пов'язані огляди: [[Hell classic]], [[Hell watermelon]], [[Hell goji berry]], [[content/reviews/own/Hell peach-lemon]], [[Hell green apple]], [[Hell black cherry]]

@@ -72,6 +72,3 @@ old_related: true
 
 
 По висновку - потужний цитрусовий напій, освіжаюча міць, терпка потужність. Імхо значно крутіше за [[Shake zero orange crush|шейк зеро апельсиновий]], який чомусь розливають у пляшки [[content/reviews/own/Monster juiced aussie style lemonade|мфнстр пуссі лимонад]] і просять ще підвищену ціну. А тут крутіший смак, а ціна дефолтна як для офіційного імпорту. Я розумію плюси лінійки juiced, але доктор у цьому смаку крутіший, по дизайну доречі теж. Люблю дизайни juiced, але там не вдалося щось. Хочеться монстровий лимонад? Беріть доктора, рекомендую, при тому, що і ціна зазвичай добра. Ще зі схожого можна відмітити [[content/reviews/own/Monster juiced khaotic]], але він відчутно більш рідкісний
-
-
-Пов'язані огляди: [[content/reviews/own/Monster juiced aussie style lemonade]], [[Monster nitro green]], [[content/reviews/own/Monster lewis hamilton]], [[content/reviews/own/Monster juiced khaotic]]
