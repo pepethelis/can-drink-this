@@ -74,7 +74,3 @@ old_related: true
 Загалом нормас банка з трохи невиразним смаком. Плодити невиразні смаки - 👎👎, але якщо смакує і не дорого - 👍👍
 
 Пост вийшов завдяки [спонсору оглядів](https://t.me/dekanat_tef)
-
-
-Пов'язані огляди: [[Monster black]], [[Redbull classic]], [[Crazy wolf yellow tropical]], [[Crazy wolf blue kaktus-feigen]]
- 

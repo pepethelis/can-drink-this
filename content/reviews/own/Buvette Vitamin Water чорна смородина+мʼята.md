@@ -52,6 +52,3 @@ old_related: true
 
 
 По висновку - чергова гламурна вода, причому гарна. Цілком можна рекомендувати любителям гламурної води та і не тільки. Гарна вода
-
-
-Пов'язані огляди: [[Buvette Watermelon Water]], [[Buvette Vitamin Water ківі огірок]], [[Buvette Vitamin Water абрикос інжир]], [[Buvette Vitamin Water грейпфрут розмарин]]

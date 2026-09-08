@@ -61,6 +61,3 @@ old_related: true
 
 
 По висновку - майже те саме, що й апельсиновий, але не так смачно
-
-
-Пов'язані огляди: [[Shake zero hugo]], [[Shake zero orange crush]], [[Shake zero indian tonic]], [[Shake zero pomegranate punch]], [[Shake zero sparkling rose strawberry]]

@@ -65,6 +65,3 @@ old_related: true
 
 
 По висновку - мохіто з кофеїном в банці від хелл. Смакує в принципі норм, але шукати таку рідкісну банку чисто заради цього - трохи навіть крінж. А якщо це нова лімітка на рік- півтора, то норм. Якщо пізніше покращиться доступність, то обидві банки з лінійки hell spritz будуть чудовими варіками на літо. З льодом в стакані взагалі імба, imagine this at 3AM rating - 7/10
-
-
-Пов'язані огляди: [[content/reviews/own/Hell Spritz Maracuja]], [[Hell Summer Groovy Grapefruit]], [[Hell Summer Chillin’ Guanabana]], [[Hell multi plus]], [[Hell focus plus]], [[Komodo frozen mojito]]

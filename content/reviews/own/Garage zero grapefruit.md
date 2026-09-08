@@ -60,6 +60,3 @@ old_related: true
 
 
 По висновку - норм напій, але мені скоріше не сподобалось
-
-
-Пов'язані огляди: [[Garage zero lime]], [[Garage zero raspberry]]

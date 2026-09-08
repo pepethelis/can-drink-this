@@ -73,6 +73,3 @@ old_related: true
 По висновку - звичайний класичний енергос, мільйон таких у різних регіонах є, наприклад [[Dark dog]], [[Battery black]], [[Своя лінія recharge wild dog classic]] та інших подібних. Просто звичайний нормальний енергос, насправді нічого особливого і нічого поганого. Imagine this at 3AM rating - слабкий
 
 Пост вийшов завдяки [спонсору оглядів](https://t.me/dekanat_tef), підписуйтесь на Дмитра
-
-
-Пов'язані огляди: [[Power taurine energy pomme]], [[Power taurine energy red]], [[Power taurine energy mangue]]

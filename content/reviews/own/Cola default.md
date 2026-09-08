@@ -64,6 +64,3 @@ old_related: true
 
 
 По висновку - дефолтна кола із дефолтним смаком і ціною. Не фанат, але норм цілком норм
-
-
-Пов'язані огляди: [[Cola coffee]], [[Cola coffee caramel]], [[Monster assault]], [[Redbull organics simply cola]], [[Battery cola]]

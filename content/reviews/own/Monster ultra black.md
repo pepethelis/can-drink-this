@@ -64,6 +64,3 @@ old_related: true
 
 
 По висновку - міцний як гетьман петро порошенко вишневий енергос від монстра. Смачний і смачний. І я б краще пив його, ніж пʼяну вишню, яку чомусь усі люблять
-
-
-Пов'язані огляди: [[Frugo wild cherry]], [[content/reviews/own/Monster ultra white]], [[Monster ultra blue]], [[Monster ultra paradise]]

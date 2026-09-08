@@ -58,6 +58,3 @@ old_related: true
 
 По висновку - ==ВИСНОВОК==
 Пост вийшов завдяки [спонсору оглядів](https://t.me/dekanat_tef), підписуйтесь на Дмитра
-
-Пов'язані огляди: [[Monster black]], [[Monster black zero]], [[Burn red]], [[Nonstop original]]
-#огляди

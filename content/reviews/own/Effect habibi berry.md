@@ -73,6 +73,3 @@ old_related: true
 По висновку - шото дивне і незвичне. Разок на затест можна, якщо є у наявності, але це не така розривна імба як [[Effect grape mint|м'ятний ефект]]
 
 Пост вийшов завдяки [спонсору оглядів](https://t.me/dekanat_tef)
-
-
-Пов'язані огляди: [[Effect original]], [[Effect grape mint]], [[Effect strawberry apricot]]

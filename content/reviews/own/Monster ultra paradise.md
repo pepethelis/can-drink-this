@@ -66,6 +66,3 @@ old_related: true
 
 
 По висновку - дійсно смачний енергос з ультра лінійки. Нема ані тієї хімозності як в інших ультра, ані надто слабкого і абстрактного смаку як у [[content/reviews/own/Monster ultra white]]. Можливо це саме мальтодекстрин рятує ситуацію. Смак гарний і добрий, мені дуже сподобався. Рекомендую, смачна хуйня. Можливо найсмачніше серед ультра лінійки. Йде в улюблені
-
-
-Пов'язані огляди: [[content/reviews/own/Monster ultra white]], [[Burn green apple-kiwi]], [[content/reviews/own/Nonstop stalker green]], [[28 black sour mango kiwi]]

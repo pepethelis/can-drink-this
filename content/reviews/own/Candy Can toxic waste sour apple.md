@@ -54,6 +54,3 @@ old_related: true
 
 По висновку - ==ВИСНОВОК==
 Пост вийшов завдяки [спонсору оглядів](https://t.me/dekanat_tef), підписуйтесь на Дмитра
-
-Пов'язані огляди: [[Candy Can bubble gum]], [[Candy Can birthday cake]], [[Candy Can pacman orange candy]]
-#огляди

@@ -64,6 +64,3 @@ old_related: true
 
 
 По висновку - норм, навіть гарно, якщо прохолодне і без майже газу. Загалом можна брати на пробу, може сподобається
-
-
-Пов'язані огляди: [[Hell classic]], [[content/reviews/own/Hell peach-lemon]], [[Hell green apple]], [[Hell goji berry]]

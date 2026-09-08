@@ -68,6 +68,3 @@ old_related: true
 
 
 По висновку - гарний приємний напій. Оця лінійка схоже чи не найсмачніше з того, що є у шейка. Смачно, але спойлер, [[Shake zero hugo|hugo]] більше сподобався. Хоча і цей дуже добрий, просто хуго більш виразний та незвичний. Чисто теоритично [[Dark dog pink fizz]] мав би мати схожий смак, але там він зовсім інакший, полуниця там дивна дуже, а тут гарна і смачна
-
-
-Пов'язані огляди: [[Shake zero hugo]], [[Shake zero orange crush]], [[Shake zero indian tonic]], [[Shake zero bitter lemon]], [[Shake zero pomegranate punch]], [[Shake zero pina colada]]

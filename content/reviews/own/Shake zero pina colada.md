@@ -68,6 +68,3 @@ old_related: true
 По висновку - добрий без алко коктейль в банці. Приємний, доволі мʼякий і освіжаючий. Можливо він стане в один ряд з моїми улюбленими [[Shake zero hugo]] та [[Shake zero sparkling rose strawberry]]. Цілком можна радити на затест, звісно якщо буде в наявності десь поруч. Навмисно шукати мабуть не варто
 
 Невеличнкий спойлер - існує ще і мохіто
-
-
-Пов'язані огляди: [[Shake zero hugo]], [[Shake zero orange crush]], [[Shake zero bitter lemon]], [[Shake zero pomegranate punch]], [[Shake zero sparkling rose strawberry]], [[Shake zero indian tonic]]

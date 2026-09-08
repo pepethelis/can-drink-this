@@ -61,6 +61,3 @@ old_related: true
 
 
 По висновку - я не викупив смак, хьюго та полуничний, що я оглядав раніше, смачніше
-
-
-Пов'язані огляди: [[Shake zero hugo]], [[Shake zero orange crush]], [[Shake zero indian tonic]], [[Shake zero bitter lemon]], [[Shake zero sparkling rose strawberry]]

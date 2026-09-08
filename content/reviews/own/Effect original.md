@@ -65,7 +65,3 @@ old_related: true
 По висновку - насправді хоч смак і класичний, він все одно якийсь дивний. Не думаю, що воно вартує уваги. Хіба що за гарної ціни
 
 Пост вийшов завдяки [спонсору оглядів](https://t.me/dekanat_tef)
-
-
-Пов'язані огляди: [[Effect grape mint]], [[Effect habibi berry]], [[Effect strawberry apricot]]
- 

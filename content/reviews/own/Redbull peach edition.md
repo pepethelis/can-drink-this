@@ -51,6 +51,3 @@ old_related: true
 
 По висновку - ==ВИСНОВОК==
 Imagine this at 3am score - 4/5
-
-Пов'язані огляди: [[Redbull classic]], [[content/reviews/own/Redbull red edition]], [[Redbull yellow edition]], [[content/reviews/own/Redbull green edition]], [[Redbull white edition]]
-#огляди

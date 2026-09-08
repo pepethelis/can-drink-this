@@ -68,6 +68,3 @@ old_related: true
 
 
 По висновку - гарний і приємний напій. Бадьорий та освіжаючий. Смак може і специфічний, але мені сподобалось
-
-
-Пов'язані огляди: [[Shake zero orange crush]], [[Shake zero indian tonic]], [[Shake zero bitter lemon]], [[Shake zero pomegranate punch]], [[Shake zero sparkling rose strawberry]]

@@ -65,6 +65,3 @@ old_related: true
 
 
 По висновку - гарний смак, можна іноді брати для різноманіття. Щоб прям цілеспрямовано або без знижок, то я б не став брати. Я не великий фанат таких тропічних смаків і краще б взяв з подібного [[Nonstop boost|фіолетовий нонстоп]]. З вічних бажань є [грін енерджи](https://t.me/kallection/14515) та  [нонстоп ево](https://t.me/kallection/13525), яких більше не роблять
-
-
-Пов'язані огляди: [[content/reviews/own/Nonstop military]], [[Nonstop original]], [[Nonstop original zero]], [[Nonstop zoom]], [[Nonstop boost]], [[Nonstop jungle]]

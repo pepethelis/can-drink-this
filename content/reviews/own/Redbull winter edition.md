@@ -55,6 +55,3 @@ old_related: true
 
 По висновку - ==ВИСНОВОК==
 Пост вийшов завдяки [спонсору оглядів](https://t.me/dekanat_tef), підписуйтесь на Дмитра
-
-Пов'язані огляди: [[Redbull classic]], [[Redbull yellow edition]], [[content/reviews/own/Redbull red edition]], [[content/reviews/own/Redbull green edition]], [[Redbull white edition]]
-#огляди

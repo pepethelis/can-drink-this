@@ -62,6 +62,3 @@ old_related: true
 
 
 По висновку - норм тонік, якщо вас не хвилює його шейковий дух. Поки інші банки з лінійки гарні чи просто смачненькі, тут якась шляпа. Є тоніки і смачніші, навіть не враховуючи швепс. Наприклад у оболоню є два непогані тоніки. Цей я рекомендувати не буду, пити ще раз - теж
-
-
-Пов'язані огляди: [[Shake zero hugo]], [[Shake zero orange crush]], [[Shake zero bitter lemon]], [[Shake zero pomegranate punch]], [[Shake zero sparkling rose strawberry]]

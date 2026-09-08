@@ -63,6 +63,3 @@ old_related: true
 
 
 По висновку - загалом бадьоро і смачно, але краще пити таке влітку
-
-
-Пов'язані огляди: [[Shake zero hugo]], [[Shake zero indian tonic]], [[Shake zero bitter lemon]], [[Shake zero pomegranate punch]], [[Shake zero sparkling rose strawberry]]
