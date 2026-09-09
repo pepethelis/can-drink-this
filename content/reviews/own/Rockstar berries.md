@@ -32,8 +32,8 @@ aliases:
 types:
   - energy
 related:
-  - "[[Воля синя|Воля синя]]"
-  - "[[Hell goji berry|Hell goji berry]]"
+  - "[[content/reviews/own/Воля синя|Воля синя]]"
+  - "[[content/reviews/own/Hell goji berry|Hell goji berry]]"
   - "[[Monster ultra blue|Monster ultra blue]]"
 createdAt: 2025-05-25
 ---

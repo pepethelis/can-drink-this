@@ -106,7 +106,7 @@ Battery juiced:
 - [[content/reviews/own/Воля жовта|манго-апельсин🟡]]
 - [[Воля рожева|журавлина🟣]]
 - [[Воля зелена|ківі-полуниця🟢]]
-- [[Воля синя|ягідний мікс🔵]]
+- [[content/reviews/own/Воля синя|ягідний мікс🔵]]
 Моршинська воля кава: 
 - [[Воля кава-м'ята|кава-м'ята🟢]]
 - [[content/reviews/own/Воля кава-апельсин|кава-апельсин🟠]]
@@ -224,7 +224,7 @@ Redbull organics:
 **Hell:** 
 - [[Hell classic|classic]]
 - [[content/reviews/own/Hell peach-lemon|peach-lemon]]
-- [[Hell goji berry|goji berry]]
+- [[content/reviews/own/Hell goji berry|goji berry]]
 - [[Hell black cherry|black cherry]]
 - [[Hell green apple|green apple]]
 - [[content/reviews/own/Hell strawberry-banana|strawberry-banana]]
@@ -466,7 +466,7 @@ Hell ice coffee:
 - [[Живчик груша|груша]]
 - [[Живчик лісові ягоди|лісові ягоди]]
 - [[content/reviews/own/Живчик моно валеріана|моно валеріана]]
-- [[Живчик моно лаванда|моно лаванда]]
+- [[content/reviews/own/Живчик моно лаванда|моно лаванда]]
 
 
 **Shake zero:**
