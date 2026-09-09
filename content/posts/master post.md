@@ -140,7 +140,7 @@ Battery juiced:
 
 
 **Cheat code:** 
-- [[Cheat code ultra|ultra]]
+- [[content/reviews/own/Cheat code ultra|ultra]]
 - [[Cheat code charge|charge]]
 - [[Cheat code exotic|exotic]]
 - [[Cheat code original|original]]
