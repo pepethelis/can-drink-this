@@ -25,7 +25,7 @@ types:
   - coffee
 related:
   - "[[Hell ice coffee latte]]"
-  - "[[Hell ice coffee strawberry latte]]"
+  - "[[content/reviews/own/Hell ice coffee strawberry latte]]"
 createdAt: 2024-09-06
 ---
 **Jacobs ice presso latte**

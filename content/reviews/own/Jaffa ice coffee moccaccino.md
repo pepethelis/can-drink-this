@@ -27,7 +27,7 @@ types:
 related:
   - "[[Jacobs ice presso latte]]"
   - "[[Hell ice coffee latte]]"
-  - "[[Hell ice coffee strawberry latte]]"
+  - "[[content/reviews/own/Hell ice coffee strawberry latte]]"
   - "[[Vega Milk banana]]"
   - "[[Vega Milk coconut]]"
 createdAt: 2026-04-25

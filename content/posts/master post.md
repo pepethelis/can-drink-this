@@ -73,12 +73,12 @@ publishedAt: 2025-12-20
 - [[Nonstop jungle|jungle🟢]]
 - [[Nonstop boost|boost🟣]]
 - [[Nonstop ultra|ultra🟠]]
-- [[Nonstop zoom|zoom🍉]]
+- [[content/reviews/own/Nonstop zoom|zoom🍉]]
 - [[content/reviews/own/Nonstop spark|spark🟡]]
 - [[content/reviews/own/Nonstop 20 years edition|лімітка до двадцятиріччя🎉]]
 Nonstop stalker: 
 - [[content/reviews/own/Nonstop stalker orange|кавун🟠]]
-- [[Nonstop stalker violet|манго-груша🟣]]
+- [[content/reviews/own/Nonstop stalker violet|манго-груша🟣]]
 - [[content/reviews/own/Nonstop stalker green|лайм-м'ята-ожина🟢]]
 - [[content/reviews/own/Nonstop stalker red|вишня-ром-ананас🔴]]
 Nonstop juice: 
@@ -215,7 +215,7 @@ Redbull organics:
 - [[Burn green apple-kiwi|apple-kiwi]]
 - [[Burn mango|mango]]
 - [[Burn dark energy|dark energy]]
-- [[Burn fruit punch|fruit punch]]
+- [[content/reviews/own/Burn fruit punch|fruit punch]]
 - [[content/reviews/own/Burn guava|guava]]
 - [[content/reviews/own/Burn orange fire|orange fire]]
 - [[content/reviews/own/Burn white gummy bear|white gummy bear]]
@@ -236,7 +236,7 @@ Hell plus:
 - [[Hell multi plus|multi+]]
 Hell summer: 
 - [[Hell Summer Groovy Grapefruit|groovy grapefruit]]
-- [[Hell Summer Chillin’ Guanabana|chillin' guanabana-mango]]
+- [[content/reviews/own/Hell Summer Chillin’ Guanabana|chillin' guanabana-mango]]
 Hell spritz: 
 - [[content/reviews/own/Hell Spritz Maracuja|maracuja]]
 - [[content/reviews/own/Hell Spritz Lime|lime]]
@@ -245,7 +245,7 @@ Hell carnival:
 - [[content/reviews/own/Hell carnival cotton candy|cotton candy]]
 Hell ice coffee: 
 - [[Hell ice coffee latte|latte]]
-- [[Hell ice coffee strawberry latte|pink latte]]
+- [[content/reviews/own/Hell ice coffee strawberry latte|pink latte]]
 
 
 **Effect:** 
