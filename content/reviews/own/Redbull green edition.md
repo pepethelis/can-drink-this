@@ -30,7 +30,7 @@ types:
 createdAt: 2026-08-01
 related:
   - "[[Komodo cactus|Komodo cactus]]"
-  - "[[Своя лінія recharge wild dog cactus|Своя лінія recharge wild dog cactus]]"
+  - "[[content/reviews/own/Своя лінія recharge wild dog cactus|Своя лінія recharge wild dog cactus]]"
   - "[[Crazy wolf blue kaktus-feigen|Crazy wolf blue kaktus-feigen]]"
 ---
 **Redbull green edition**, тобто зелений редбул. Офіційний смак - kaktusfrucht/owoc kaktusa, а саме опунція(prickly pear) чи фрукт дракона(пітахая). Є думки, що мова саме про опунцію

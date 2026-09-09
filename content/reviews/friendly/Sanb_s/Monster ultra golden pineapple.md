@@ -2,16 +2,19 @@
 author: sanb_s
 aliases:
   - Monster ultra golden pineapple
-publishedAt:
+publishedAt: 2025-03-01
 status: published
-brand:
+brand: monster/ultra
 container:
+  - can
 volume:
 summary:
 taste:
+  - pineapple
 types:
+  - energy
 cover: "[[photo_2025-03-01_20-56-36.jpg]]"
-externalUrl:
+externalUrl: https://t.me/ukr_satan/4705
 ---
 Вечірнє #енергохарчування  
 

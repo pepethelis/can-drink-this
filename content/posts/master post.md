@@ -120,7 +120,7 @@ Battery juiced:
 
 **Своя лінія:** 
 - [[Своя лінія recharge wild dog classic|wild dog classic]]
-- [[Своя лінія recharge wild dog cactus|wild dog cactus]]
+- [[content/reviews/own/Своя лінія recharge wild dog cactus|wild dog cactus]]
 - [[Своя лінія move on original|move on original]]
 - [[Своя лінія move on blueberry|move on blueberry]]
 
@@ -158,8 +158,8 @@ Battery juiced:
 **Monster:** 
 - [[Monster black|black]]
 - [[Monster black mega 0,553|black mega 0.533л]]
-- [[Monster black zero|black zero]]
-- [[Monster black zero|black zero]]
+- [[content/reviews/own/Monster black zero|black zero]]
+- [[content/reviews/own/Monster black zero|black zero]]
 - [[Monster VR46|The Doctor/VR46]]
 - [[Monster VR46 zero|VR46 zero]]
 - [[Monster assault|assault]]
