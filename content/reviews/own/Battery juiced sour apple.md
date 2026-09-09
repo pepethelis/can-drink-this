@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - package/canpack
 status: published
@@ -66,4 +66,4 @@ old_related: true
 
 Як і [[content/reviews/own/Battery juiced peach lemonade|peach lemonade]], це такий собі свіженький напій на літо. Складно сказати як воно пасуватиме наприклад до осені чи зими. Мені здається, втратить актуальність
 
-Також є [сатанячий огляд тут](https://t.me/ukr_satan/5391)
+Також є [[content/reviews/friendly/Sanb_s/Battery juiced sour apple|сатанячий огляд тут]]
