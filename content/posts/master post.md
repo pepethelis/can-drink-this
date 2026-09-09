@@ -141,7 +141,7 @@ Battery juiced:
 
 **Cheat code:** 
 - [[content/reviews/own/Cheat code ultra|ultra]]
-- [[Cheat code charge|charge]]
+- [[content/reviews/own/Cheat code charge|charge]]
 - [[Cheat code exotic|exotic]]
 - [[Cheat code original|original]]
 
@@ -304,7 +304,7 @@ Hell ice coffee:
 - [[Komodo frozen mojito|Komodo frozen mojito]]
 - [[Komodo wild strawberry|Komodo wild strawberry]]
 - [[Komodo juicy watermelon|Komodo juicy watermelon]]
-- [[Komodo cactus|Komodo cactus]]
+- [[content/reviews/own/Komodo cactus|Komodo cactus]]
 - [[Komodo cannabis limited|Komodo cannabis limited]]
 
 

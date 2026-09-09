@@ -27,7 +27,7 @@ volume:
   - "0.25"
 alco:
 related:
-  - "[[Komodo cactus|Komodo cactus]]"
+  - "[[content/reviews/own/Komodo cactus|Komodo cactus]]"
   - "[[content/reviews/own/Redbull green edition|Redbull green edition]]"
 createdAt: 2026-08-20
 ---
