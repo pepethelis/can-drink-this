@@ -20,7 +20,7 @@ summary:
 related:
   - "[[Monster black|Monster black]]"
   - "[[Nonstop original|Nonstop original]]"
-  - "[огляд від сатани](https://t.me/ukr_satan/5537)"
+  - "[[content/reviews/friendly/Sanb_s/Pulls заряд помсти|Pulls заряд помсти]]"
 caffeine: 35
 volume:
   - "0.25"
