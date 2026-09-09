@@ -1,11 +1,14 @@
 ---
-author:
+author: sanb_s
 aliases:
   - Dragon ice + fire
-publishedAt:
+  - Dragon ice
+  - Dragon fire
+publishedAt: 2024-09-16
 status: published
-brand:
+brand: dragon
 container:
+  - plastic
 volume:
 summary:
 taste:
