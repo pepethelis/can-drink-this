@@ -11,7 +11,9 @@ volume:
   - "0.33"
 summary:
 taste:
+  - CLASSIC
 types:
+  - energy
 cover:
 externalUrl: https://t.me/ukr_satan/4327
 contentTgPosts:
