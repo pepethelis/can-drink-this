@@ -16,7 +16,9 @@ contentTgPosts:
   - https://t.me/ukr_satan/4172
 types:
   - energy
+externalUrl: https://t.me/ukr_satan/4172
 ---
 Огляд на Мфnstr ultra zero sugar  
+
 
 Єдине забув уточнити, що це #енергохарчування має лише 30мг кофеїну на 100мл, а не дефолтні 32мг
