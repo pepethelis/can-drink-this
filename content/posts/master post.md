@@ -180,7 +180,7 @@ Monster ultra:
 - [[Monster ultra watermelon|watermelon]]
 - [[content/reviews/own/Monster ultra fantasy ruby red|ruby red]]
 - [[Monster ultra blue|blue]]
-- [[Monster ultra paradise|paradise]]
+- [[content/reviews/own/Monster ultra paradise|paradise]]
 - [[Monster ultra fiesta mango|fiesta mango]]
 - [[content/reviews/own/Monster ultra peachy keen|peachy keen]]
 - [[Monster ultra vice guava|vice guava]]
