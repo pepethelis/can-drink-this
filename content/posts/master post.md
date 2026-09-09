@@ -465,7 +465,7 @@ Hell ice coffee:
 - [[Живчик яблуко|яблуко]]
 - [[Живчик груша|груша]]
 - [[Живчик лісові ягоди|лісові ягоди]]
-- [[Живчик моно валеріана|моно валеріана]]
+- [[content/reviews/own/Живчик моно валеріана|моно валеріана]]
 - [[Живчик моно лаванда|моно лаванда]]
 
 
@@ -481,7 +481,7 @@ Hell ice coffee:
 
 
 **Mojo:**
-- [[Mojo mint-lime|mint-lime]]
+- [[content/reviews/own/Mojo mint-lime|mint-lime]]
 - [[content/reviews/own/Mojo chinotto|chinotto]]
 - [[Mojo pineapple twist|pineapple twist]]
 

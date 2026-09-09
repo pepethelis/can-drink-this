@@ -16,5 +16,6 @@ types:
   - fizzy
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32250
+externalUrl: https://t.me/sonechkin_rzekich/32251
 ---
 Огляд на моджо жовте мені на сподобалось 🥸

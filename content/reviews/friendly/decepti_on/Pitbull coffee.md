@@ -1,7 +1,7 @@
 ---
 author: decepti_on
 aliases:
-  - Pit bull coffee
+  - Pitbull coffee
 publishedAt: 2024-04-16
 status: published
 brand: pitbull
@@ -16,5 +16,6 @@ types:
   - energy
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32381
+externalUrl: https://t.me/sonechkin_rzekich/32382
 ---
 Огляд на пітбуль з кавою. Коштував 20 грн на смак ригота. 4/10
