@@ -1,5 +1,5 @@
 ### monster
-- [[Monster ultra gold]]
+- [[content/reviews/friendly/decepti_on/Monster ultra golden pineapple]]
 - [[Monster ultra rosa]]
 - [[Monster ultra red]]
 - [[Monster ultra blue hawaii]]
