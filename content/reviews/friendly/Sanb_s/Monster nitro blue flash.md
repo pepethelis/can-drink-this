@@ -1,12 +1,14 @@
 ---
-author:
+author: sanb_s
 aliases:
   - Monster nitro blue flash
-publishedAt:
+publishedAt: 2026-08-14
 status: published
-brand:
+brand: monster/nitro
 container:
+  - can
 volume:
+  - "0.5"
 summary:
 taste:
 types:

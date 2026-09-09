@@ -169,7 +169,7 @@ Monster juiced:
 - [[content/reviews/own/Monster juiced mango loco|mango loco]]
 - [[content/reviews/own/Monster juiced pacific punch|pacific punch]]
 - [[content/reviews/own/Monster juiced aussie style lemonade|aussie style lemonade]]
-- [[Monster juiced monarch|monarch]]
+- [[content/reviews/own/Monster juiced monarch|monarch]]
 - [[content/reviews/own/Monster juiced bad apple|bad apple]]
 - [[content/reviews/own/Monster juiced khaotic|khaotic]]
 - [[content/reviews/own/Monster juiced pipeline punch|pipeline punch]]

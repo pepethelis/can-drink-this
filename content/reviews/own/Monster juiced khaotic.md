@@ -45,7 +45,7 @@ old_related: true
 
 Дизайн доволі гарний, мені подобається. Кольорова схема це у нас класичний "teal and orange", тобто зеленуватий з помаранчевим. Хз чи зроблено це навмисно, але точно зроблено і це круто. Також я чогось випав в ахуй зі шрифту у "JUICED". Він наче звичайний, але мене тут прям зачепило, виглядає красиво і деталізовано. Загалом стиль "дивіться у нас тут графіті". Зазвичай це доволі брудний стиль, але тут прям красиво. Також що цікаво, це вже друга банка у лінійці juiced із метеликами
 
-Кольорове кодування в лінійці juiced зазвичай складне. Типу є здебільшого монотонні, як наприклад [[content/reviews/own/Monster juiced mango loco|Mango Loco]], [[content/reviews/own/Monster juiced pacific punch|Pacific Punch]], [[Monster juiced monarch|Monarch]], Pipeline Punch, але є і складні по типу RIO PUNCH чи бастарди як ото [[content/reviews/own/Monster juiced bad apple|Bad apple]]. Складно, рятує тільки те, що їх у нас не багато
+Кольорове кодування в лінійці juiced зазвичай складне. Типу є здебільшого монотонні, як наприклад [[content/reviews/own/Monster juiced mango loco|Mango Loco]], [[content/reviews/own/Monster juiced pacific punch|Pacific Punch]], [[content/reviews/own/Monster juiced monarch|Monarch]], Pipeline Punch, але є і складні по типу RIO PUNCH чи бастарди як ото [[content/reviews/own/Monster juiced bad apple|Bad apple]]. Складно, рятує тільки те, що їх у нас не багато
 
 Ключик та верхівка дефолтні
 

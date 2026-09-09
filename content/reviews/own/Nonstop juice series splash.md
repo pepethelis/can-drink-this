@@ -32,7 +32,7 @@ types:
 related:
   - "[[content/reviews/own/Battery juiced sour apple|Battery juiced sour apple]]"
   - "[[content/reviews/own/Battery juiced peach lemonade|Battery juiced peach lemonade]]"
-  - "[[Monster juiced monarch|Monster juiced monarch]]"
+  - "[[content/reviews/own/Monster juiced monarch|Monster juiced monarch]]"
   - "[[content/reviews/own/Monster juiced khaotic|Monster juiced khaotic]]"
   - "[[content/reviews/own/Monster juiced bad apple|Monster juiced bad apple]]"
   - "[[content/reviews/own/Monster juiced mango loco|Monster juiced mango loco]]"
