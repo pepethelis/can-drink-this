@@ -13,6 +13,7 @@ summary:
 taste:
   - apple
 types:
+  - energy
 cover: "[[photo_2025-05-01_15-48-05.jpg]]"
 externalUrl: https://t.me/ukr_satan/5391
 caffeine: 32
