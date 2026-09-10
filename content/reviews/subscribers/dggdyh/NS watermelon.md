@@ -18,6 +18,8 @@ aliases:
 telegram_format: html
 cover: "[[photo_2026-07-06_18-22-24.jpg]]"
 caffeine: 33
+related:
+  - "[[content/reviews/own/Nonstop zoom|Nonstop zoom]]"
 ---
 "NS WATERMELON" закос на кавуновий "NON-STOP", від російського бренду "World's best drinks"
 

@@ -15,6 +15,8 @@ aliases:
   - NS RED
 cover: "[[photo_2026-06-15_17-49-56.jpg]]"
 caffeine: 33
+related:
+  - "[[Nonstop ultra]]"
 ---
 "NS RED" закос на помаранчевий "NON-STOP", від російського бренду "World's best drinks"
 

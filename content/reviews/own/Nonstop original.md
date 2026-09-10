@@ -36,7 +36,7 @@ related:
   - "[[Hell classic]]"
   - "[[Battery black]]"
   - "[[Воля червона]]"
-  - "[[NS original]]"
+  - "[[content/reviews/own/NS original]]"
 types:
   - energy
 createdAt: 2025-09-20
