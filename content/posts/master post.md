@@ -33,7 +33,7 @@ publishedAt: 2025-12-20
 - [[Monster mega lo-carb|Monster mega lo-carb 0,71]]
 - [[Monster rehab green tea|Monster Rehab зелений]]
 - [[Brainer]]
-- [[Cult juicy ocean]]
+- [[content/reviews/friendly/Sanb_s/Cult juicy ocean]]
 - [[Cult bubble gum]]
 - [[content/reviews/friendly/Sanb_s/Monster Lando Norris|Monster Lando Norris]]
 ***Super_skrulling:***
