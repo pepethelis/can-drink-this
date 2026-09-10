@@ -1,4 +1,4 @@
-﻿---
+---
 status: prebuild
 aliases:
   - Dynami:t passion star
@@ -23,7 +23,7 @@ primaryColors:
   - orange
   - yellow
   - black
-manufacturer:
+manufacturer: лидскае пиво
 caffeine:
 volume:
   - "0.45"
@@ -39,7 +39,7 @@ sponsor:
 ==ОПИС ЗАПАХУ СМАКУ==
 
 
-==Дизайн==
+Стильний енергосний
 
 Кольорове кодування в лінійці ==наявне==
 
