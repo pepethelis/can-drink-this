@@ -1,6 +1,6 @@
 ### monster
-- [[content/reviews/friendly/decepti_on/Monster ultra golden pineapple]]
-- [[Monster ultra rosa]]
+- Monster ultra golden pineapple
+- Monster ultra rosa
 - [[Monster ultra red]]
 - [[Monster ultra blue hawaii]]
 - [[Monster juiced mixxd punch]]
@@ -33,24 +33,22 @@
 - [[Revo kokos]]/blue - sim23
 
 ### others
-- [[WOGонь]] - wog
-- [[Jett white]] - torba
-- [[Jett green]]
-- [[Jett orange]]
-- [[Pitbull pink]]
-- [[Pitbull blue]]
+- WOGонь - wog
+- Jett white - torba
+- Jett green
+- Jett orange
+- Pitbull pink
+- Pitbull blue
 - [[Pitbull brown]]
 - [[Aquarte anti-stress]] - torba, silpo
 - [[Aquarte support]] - torba, silpo
 - [[Ever aid bubble tea melon pineapple]]
 - [[Ever aid bubble tea peach]]
 - [[Ever aid bubble tea forest fruit]]
-- [[Pepsi полуниця-вершки]]
 
 ### unavailable
 - [[Schöfferhofer pineapple]]
 - Nonstop green energy
 - Nonstop evo
 - [[Burn watermelon]]
-- [[Pitbull X]]
-
+- Pitbull X
