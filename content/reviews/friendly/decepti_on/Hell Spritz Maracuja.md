@@ -11,7 +11,7 @@ volume:
   - "0.25"
 summary: Огляд на хелл шприц маракуя 🤕
 taste:
-  - maracuja
+  - passion fruit
 types:
   - energy
 cover:

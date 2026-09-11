@@ -5,7 +5,6 @@ tags:
 externalUrl: https://t.me/kallection/31362
 brand: hell/spritz
 taste:
-  - maracuja
   - passion fruit
   - tutti-frutti
 container:
