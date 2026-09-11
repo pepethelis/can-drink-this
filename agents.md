@@ -50,7 +50,7 @@ Every review **must** include:
 The following terms/spellings are **intentional** and should NOT be flagged as errors:
 
 **Ukrainian dialect/slang:**
-- `доречі`, `зроз`, `пон`, `іпсо`, `реалє`, `чюваки`, `повучаєцця`, `хз`, `тойво`, `нормасний`, `ріл`
+- `доречі`, `зроз`, `пон`, `іпсо`, `реалє`, `чюваки`, `повучаєцця`, `хз`, `тойво`, `нормасний`, `ріл`, `моцний`
 - `львувське` / `у львуві` (L'viv regional style)
 - `сексасною` or stylized variations
 - `гої` or variations
