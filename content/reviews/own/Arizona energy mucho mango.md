@@ -3,7 +3,7 @@ status: published
 tags:
   - package/ball
 externalUrl: https://t.me/kallection/33537
-brand: arizona
+brand: arizona/energy
 taste:
   - mango
 publishedAt: 2025-12-16
