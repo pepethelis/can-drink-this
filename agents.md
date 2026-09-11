@@ -50,7 +50,7 @@ Every review **must** include:
 The following terms/spellings are **intentional** and should NOT be flagged as errors:
 
 **Ukrainian dialect/slang:**
-- `доречі`, `зроз`, `пон`, `іпсо`, `реалє`, `чюваки`, `повучаєцця`, `хз`, `тойво`, `нормасний`, `ріл`, `моцний`
+- `доречі`, `зроз`, `пон`, `іпсо`, `реалє`, `чюваки`, `повучаєцця`, `хз`, `тойво`, `нормасний`, `ріл`, `моцний`, `шзх`
 - `львувське` / `у львуві` (L'viv regional style)
 - `сексасною` or stylized variations
 - `гої` or variations
@@ -59,6 +59,7 @@ The following terms/spellings are **intentional** and should NOT be flagged as e
 
 **Brand styling:**
 - `мфнстер` — intentional stylization of "Monster" (visual/design reference)
+- "рево"/"рева"/"ревас" - intentional stylization of "Revo"
 
 ## 🎨 Asset Organization
 
