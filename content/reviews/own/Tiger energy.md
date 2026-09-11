@@ -1,11 +1,11 @@
 ---
-status: to publish
+status: published
 tags:
-externalUrl:
+externalUrl: https://t.me/kallection/38779
 brand: tiger
 taste:
   - CLASSIC
-publishedAt:
+publishedAt: 2026-09-11
 favorite:
 container:
   - can
@@ -30,6 +30,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-08-31
+telegram_format: md
 ---
 # Tiger energy
 Офіційний смак - класичний
