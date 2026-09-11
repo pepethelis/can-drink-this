@@ -14,7 +14,7 @@ volume:
 status: published
 externalUrl: https://t.me/kallection/37069
 aliases:
-  - NS TONIC-LEMON
+  - NS tonic-lemon
 cover: "[[photo_2026-07-02_17-47-00.jpg]]"
 caffeine: 35
 ---

@@ -13,7 +13,7 @@ volume:
 status: published
 externalUrl: https://t.me/kallection/37503
 aliases:
-  - NS PEACH
+  - NS peach
 cover: "[[photo_2026-07-18_12-34-36.jpg]]"
 caffeine: 33
 ---

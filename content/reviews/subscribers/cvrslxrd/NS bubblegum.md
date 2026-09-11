@@ -3,7 +3,7 @@ author: cvrslxrd
 types:
   - energy
 aliases:
-  - NS BUBBLEGUM (cvrslxrd)
+  - NS BUBBLEGUM
 container:
   - can
 volume:

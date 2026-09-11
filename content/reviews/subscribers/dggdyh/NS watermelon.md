@@ -14,7 +14,7 @@ volume:
 status: published
 externalUrl: https://t.me/kallection/37181
 aliases:
-  - NS WATERMELON
+  - NS watermelon
 telegram_format: html
 cover: "[[photo_2026-07-06_18-22-24.jpg]]"
 caffeine: 33

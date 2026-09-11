@@ -3,7 +3,7 @@ author: dggdyh
 types:
   - energy
 aliases:
-  - NS ORIGINAL
+  - NS original
 container:
   - can
 volume:

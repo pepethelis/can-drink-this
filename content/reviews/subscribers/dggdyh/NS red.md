@@ -12,7 +12,7 @@ volume:
 status: published
 externalUrl: https://t.me/kallection/36732
 aliases:
-  - NS RED
+  - NS red
 cover: "[[photo_2026-06-15_17-49-56.jpg]]"
 caffeine: 33
 related:

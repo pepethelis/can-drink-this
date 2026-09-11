@@ -2,6 +2,7 @@
 status: published
 aliases:
   - Burn zero персик манго
+  - Burn zero peach mango
 externalUrl: https://t.me/kallection/37353
 brand: burn/zero
 types:
