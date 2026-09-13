@@ -1,15 +1,15 @@
 ---
-status: to publish
+status: published
 tags:
   - package/canpack
-externalUrl: https://t.me/kallection/26142
+externalUrl: https://t.me/kallection/38842
 brand: battery
 taste:
   - cotton candy
 favorite: true
 container:
   - can
-publishedAt:
+publishedAt: 2026-09-13
 cover: "[[IMG_7209.jpeg]]"
 sweeteners:
   - sugar

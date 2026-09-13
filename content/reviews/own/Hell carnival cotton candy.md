@@ -1,14 +1,14 @@
 ---
-status: to publish
+status: published
 aliases:
   - Hell carnival cotton candy
-externalUrl:
+externalUrl: https://t.me/kallection/38849
 brand: hell/carnival
 types:
   - energy
 taste:
   - cotton candy
-publishedAt:
+publishedAt: 2026-09-13
 favorite:
 container:
   - can
@@ -27,8 +27,6 @@ volume:
   - "0.25"
 alco:
 related:
-  - "[[content/reviews/own/Komodo cactus|Komodo cactus]]"
-  - "[[content/reviews/own/Redbull green edition|Redbull green edition]]"
 createdAt: 2026-08-20
 ---
 **Hell carnival cotton candy**. Офіційний смак - цукрова вата
