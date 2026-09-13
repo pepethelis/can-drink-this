@@ -30,7 +30,10 @@
 - [[Pangaia strawberry&mint]]
 - [[Revo strong]]
 - [[Hike vibe lemon drop]] - atb
-- [[Revo kokos]]/blue - sim23
+- 10 alco pops igritto
+- 10 alco pops amore
+- 10 alco pops euphoria
+- 10 alco pops cherry-сhilli
 
 ### others
 - WOGонь - wog
