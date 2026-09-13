@@ -16,6 +16,7 @@ types:
   - energy
 cover: "[[photo_2024-09-16_09-23-40.jpg]]"
 externalUrl: https://t.me/ukr_satan/1871
+caffeine: 35
 ---
 СаТаНа повертається😈  
 

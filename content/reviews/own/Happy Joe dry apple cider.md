@@ -34,6 +34,7 @@ related:
   - "[[Gosser natur radler]]"
   - "[[Toosecco, сидр сухий]]"
 createdAt: 2026-04-12
+caffeine: 0
 ---
 **Happy Joe dry apple cider**. Офіційний смак - сухий сидр
 

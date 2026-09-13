@@ -16,5 +16,6 @@ types:
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32047
 externalUrl: https://t.me/sonechkin_rzekich/32048
+caffeine: 32
 ---
 Огляд на енергетик хелл ставлю 6/10 бо не люблю лісові ягоди

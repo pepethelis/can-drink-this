@@ -34,6 +34,7 @@ related:
   - "[[Lomza radler cherry]]"
   - "[[Lomza radler watermelon]]"
 createdAt: 2025-06-15
+caffeine: 0
 ---
 Радлер **Gösser natur radler**. Офіційний смак наче і не вказано
 

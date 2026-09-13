@@ -15,6 +15,7 @@ types:
   - energy
 cover: "[[photo_2025-09-25_15-51-21.jpg]]"
 externalUrl: https://t.me/ukr_satan/6519
+caffeine: 32
 ---
 І так несподіване #енергохарчування cheat_code бузина та лимон  
 
