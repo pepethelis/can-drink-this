@@ -18,6 +18,7 @@ cover: "[[photo_2026-08-22_18-16-43.jpg]]"
 externalUrl: https://t.me/ukr_satan/8097
 caffeine: 250
 alco: 0
+listexUrl: https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-negazovaniy-z-pidsolodzhuvachem-non-stop-orandzh-vayb-enerdzhi-shot-ua-4820252125865
 ---
 Скуштував ось таке #енергохарчування  
 
