@@ -17,6 +17,7 @@ types:
 cover: "[[photo_2025-03-17_20-36-04.jpg]]"
 externalUrl: https://t.me/ukr_satan/4894
 caffeine: 48
+alco: 0
 ---
 Зацініть які в Польщі тигри водяться. Думали їх там немає, а вони є  
 

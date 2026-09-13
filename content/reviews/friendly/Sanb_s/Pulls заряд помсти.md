@@ -18,6 +18,7 @@ types:
   - energy
 cover: "[[photo_2026-08-31_18-58-12.jpg]]"
 externalUrl: https://t.me/ukr_satan/5537
+caffeine: 35
 ---
 PULLS заряд помсти⚡️⚡️  
   

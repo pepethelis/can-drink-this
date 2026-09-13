@@ -1,3 +1,8 @@
+---
+listexUrl: https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-revo-strong-05-l-10-ua-4820252126527
+alco: 10
+caffeine: 30
+---
 ﻿---
 status: prebuild
 tags:

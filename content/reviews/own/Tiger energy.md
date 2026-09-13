@@ -31,6 +31,7 @@ types:
   - energy
 createdAt: 2026-08-31
 telegram_format: md
+alco: 0
 ---
 # Tiger energy
 Офіційний смак - класичний

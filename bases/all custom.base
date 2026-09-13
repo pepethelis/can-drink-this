@@ -30,6 +30,7 @@ views:
       - file.name
       - alco
       - caffeine
+      - listexUrl
     sort:
       - property: file.name
         direction: ASC

@@ -33,6 +33,7 @@ related:
   - "[[Zibert grapefruit|Zibert grapefruit]]"
   - "[[Gosser natur radler|Gosser natur radler]]"
 createdAt: 2024-09-22
+caffeine: 0
 ---
 Радлер **Schofferhofer Wild Cherry**
 

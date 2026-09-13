@@ -36,6 +36,7 @@ related:
   - "[[content/reviews/own/Hell goji berry|Hell goji berry]]"
   - "[[Monster ultra blue|Monster ultra blue]]"
 createdAt: 2025-05-25
+alco: 0
 ---
 **Rockstar energy, синій**. Офіційний смак - blueberry, pomegranate, acai
 
