@@ -16,7 +16,8 @@ types:
   - energy
 cover: "[[photo_2026-08-22_18-16-43.jpg]]"
 externalUrl: https://t.me/ukr_satan/8097
-caffeine:
+caffeine: 250
+alco: 0
 ---
 Скуштував ось таке #енергохарчування  
 
