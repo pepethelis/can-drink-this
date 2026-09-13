@@ -18,5 +18,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33791
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33789
   - https://t.me/sonechkin_rzekich/33790
+caffeine: 32
 ---
 Огляд на нон стоп спарк 🐱

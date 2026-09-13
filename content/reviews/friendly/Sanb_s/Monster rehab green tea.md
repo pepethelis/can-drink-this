@@ -14,6 +14,7 @@ types:
   - energy
 cover: "[[photo_2025-03-06_10-08-25.jpg]]"
 externalUrl: https://t.me/ukr_satan/4789
+caffeine: 32
 ---
 Mфnster Rehab green tea  
   

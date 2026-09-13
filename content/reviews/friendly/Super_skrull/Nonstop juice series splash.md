@@ -14,6 +14,7 @@ taste:
 types:
   - energy
 cover: "[[photo_2026-02-26_14-57-35.jpg]]"
+caffeine: 32
 ---
 **NON STOP SPLASH JUICE SERIES**   
 

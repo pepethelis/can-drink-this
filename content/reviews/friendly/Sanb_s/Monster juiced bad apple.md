@@ -15,6 +15,7 @@ taste:
 cover: "[[photo_2024-11-18_09-35-15.jpg]]"
 types:
   - energy
+caffeine: 32
 ---
 MФNSTER ПОДВІЙНЕ ЯБЛУЧКО😈🍎🍏🤙💨
 

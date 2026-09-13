@@ -17,6 +17,7 @@ contentTgPosts:
 types:
   - energy
 externalUrl: https://t.me/ukr_satan/4172
+caffeine: 30
 ---
 Огляд на Мфnstr ultra zero sugar  
 

@@ -18,5 +18,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33575
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33573
   - https://t.me/sonechkin_rzekich/33574
+caffeine: 32
 ---
 Чутчут такая сонна вирішила зробить огляд на монстер фіеста манго

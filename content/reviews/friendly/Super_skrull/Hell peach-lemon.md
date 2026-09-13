@@ -16,6 +16,7 @@ taste:
 cover: "[[photo_2024-09-06_07-21-28.jpg]]"
 types:
   - energy
+caffeine: 30
 ---
 **HELL PEACH-LEMON** від HELL ENERGY  
 Смак: червоний персик, лимон, лайм та тутті-фрутті  

@@ -15,6 +15,7 @@ types:
   - energy
 cover: "[[photo_2025-06-09_22-03-17.jpg]]"
 externalUrl: https://t.me/ukr_satan/5564
+caffeine: 16
 ---
 Огляд на #енергохарчування OOPS  
 

@@ -17,5 +17,6 @@ types:
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32204
   - https://t.me/sonechkin_rzekich/32205
+caffeine: 32
 ---
 Огляд на нон стоп сталкер зі смаком риготи (кавуна) 3,5/10 він в трійці самих не смачних енергетиків

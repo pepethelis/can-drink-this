@@ -16,4 +16,5 @@ cover:
 externalUrl: https://t.me/sonechkin_rzekich/34042
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34042
+caffeine: 32
 ---

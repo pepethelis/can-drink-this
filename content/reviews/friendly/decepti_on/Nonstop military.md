@@ -18,5 +18,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33587
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33585
   - https://t.me/sonechkin_rzekich/33586
+caffeine: 32
 ---
 Огляд нонстоп мілітарі ✨

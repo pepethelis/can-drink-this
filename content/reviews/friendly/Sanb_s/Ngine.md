@@ -15,6 +15,7 @@ types:
   - energy
 cover: "[[photo_2025-03-04_11-06-40.jpg]]"
 externalUrl: https://t.me/ukr_satan/4739
+caffeine: 32
 ---
 Польське #енергохарчування NGINE  
 

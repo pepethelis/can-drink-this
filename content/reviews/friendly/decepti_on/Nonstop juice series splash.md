@@ -17,5 +17,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33912
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33910
   - https://t.me/sonechkin_rzekich/33911
+caffeine: 32
 ---
 Огляд на енергетик нонстоп мультифруктовий сік

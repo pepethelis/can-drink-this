@@ -18,5 +18,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33968
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33966
   - https://t.me/sonechkin_rzekich/33967
+caffeine: 30
 ---
 Огляд на пікмі полуничний монстер

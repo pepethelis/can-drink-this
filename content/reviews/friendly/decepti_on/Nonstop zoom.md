@@ -19,5 +19,6 @@ externalUrl: https://t.me/sonechkin_rzekich/32861
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32859
   - https://t.me/sonechkin_rzekich/32860
+caffeine: 32
 ---
 Огляд на нонстоп зум

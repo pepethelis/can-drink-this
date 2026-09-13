@@ -26,3 +26,10 @@ views:
     filters:
       and:
         - file.folder.startsWith("content/reviews")
+    order:
+      - file.name
+      - alco
+      - caffeine
+    sort:
+      - property: file.name
+        direction: ASC

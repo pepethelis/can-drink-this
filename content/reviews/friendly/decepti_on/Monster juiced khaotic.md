@@ -16,5 +16,6 @@ cover:
 externalUrl: https://t.me/sonechkin_rzekich/33539
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33538
+caffeine: 32
 ---
 Огляд на монстер хаотік з метеликами 🦋🦋🦋

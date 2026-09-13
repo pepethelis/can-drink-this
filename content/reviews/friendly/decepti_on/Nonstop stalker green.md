@@ -18,5 +18,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33378
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33376
   - https://t.me/sonechkin_rzekich/33377
+caffeine: 32
 ---
 Огляд на нон стоп сталкер зелений

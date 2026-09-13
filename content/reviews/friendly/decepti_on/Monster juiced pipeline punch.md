@@ -16,5 +16,6 @@ types:
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34105
   - https://t.me/sonechkin_rzekich/34106
+caffeine: 32
 ---
 Огляд на енергєтічєскій напіток монстер піпєлін пунш 😄

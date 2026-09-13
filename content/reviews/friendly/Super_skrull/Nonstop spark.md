@@ -15,6 +15,7 @@ taste:
 types:
   - energy
 cover: "[[photo_2025-11-02_12-40-31.jpg]]"
+caffeine: 32
 ---
 **NON STOP SPARK ZERO SUGAR**  
 

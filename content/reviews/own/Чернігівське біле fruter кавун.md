@@ -34,6 +34,7 @@ related:
   - "[[Lomza radler cherry]]"
   - "[[Lomza radler watermelon]]"
 createdAt: 2025-06-11
+caffeine: 0
 ---
 Радлер **Чернігівське біле fruter**. Офіційний смак - кавун та м'ята
 

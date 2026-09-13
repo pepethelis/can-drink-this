@@ -11,13 +11,14 @@ publishedAt: 2026-04-21
 volume:
   - "0.5"
 status: published
-externalUrl: https://t.me/kallection/35710
+externalUrl: https://t.me/super_skrulling/3432
 aliases:
   - Monster ultra peachy keen
 cover: "[[photo_2026-04-17_09-24-50.jpg]]"
 contentTgPosts:
   - https://t.me/super_skrulling/3434
 summary: Спонсор огляду ЯНМУНД. Прислав дві баночки на огляд, за що йому велике дякую ❤️
+caffeine: 30
 ---
 M∅NSTER ENERGY ULTRA PEACHY KEEN
 

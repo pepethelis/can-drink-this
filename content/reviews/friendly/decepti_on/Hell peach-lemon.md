@@ -20,5 +20,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33514
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33512
   - https://t.me/sonechkin_rzekich/33513
+caffeine: 30
 ---
 Огляд на хелл персик лимон (перепрошую на фоні єбашать в кампютєр)

@@ -30,6 +30,7 @@ related:
   - "[[Aquarte focus]]"
   - "[[Aquarte energy]]"
 createdAt: 2024-11-16
+caffeine: 0
 ---
 **4move vitality vitamins**, тобто зелений. Офіційний смак - лайм&лимон
 

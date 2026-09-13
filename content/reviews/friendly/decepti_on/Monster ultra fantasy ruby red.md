@@ -17,5 +17,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33499
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33497
   - https://t.me/sonechkin_rzekich/33498
+caffeine: 32
 ---
 Огляд на монстер ультра фентезі рубі ред

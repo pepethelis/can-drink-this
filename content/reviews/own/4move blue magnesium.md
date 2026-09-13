@@ -29,6 +29,7 @@ related:
   - "[[Aquarte focus]]"
   - "[[Aquarte energy]]"
 createdAt: 2024-11-19
+caffeine: 0
 ---
 **4move Focus Activevitamin magnesium**. Офіційний смак - цитрус
 

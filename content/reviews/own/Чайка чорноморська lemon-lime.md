@@ -23,7 +23,7 @@ primaryColors:
   - green
   - black
 manufacturer:
-caffeine:
+caffeine: 0
 volume:
   - "0.5"
 alco: 4.6
