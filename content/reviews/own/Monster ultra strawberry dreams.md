@@ -1,11 +1,11 @@
 ---
-status: to publish
+status: published
 tags:
-externalUrl:
+externalUrl: https://t.me/kallection/38901
 brand: monster/ultra
 taste:
   - strawberry
-publishedAt:
+publishedAt: 2026-09-16
 favorite:
 container:
   - can

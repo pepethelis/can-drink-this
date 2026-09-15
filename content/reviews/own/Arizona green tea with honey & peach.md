@@ -1,14 +1,14 @@
 ---
-status: to publish
+status: published
 tags:
   - package/amp
-externalUrl:
+externalUrl: https://t.me/kallection/38905
 brand: arizona
 taste:
   - tea
   - honey
   - peach
-publishedAt:
+publishedAt: 2026-09-16
 favorite:
 container:
   - can
