@@ -1,14 +1,14 @@
 ---
-status: to publish
+status: published
 aliases:
   - Jacobs ice presso classic
-externalUrl:
+externalUrl: https://t.me/kallection/38911
 brand: jacobs
 types:
   - coffee
 taste:
   - coffee
-publishedAt:
+publishedAt: 2026-09-16
 favorite:
 container:
   - can
