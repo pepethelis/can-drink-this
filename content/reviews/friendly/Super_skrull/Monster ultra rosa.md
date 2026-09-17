@@ -16,6 +16,7 @@ types:
   - energy
 cover: "[[photo_2025-03-09_09-11-55.jpg]]"
 externalUrl: https://t.me/super_skrulling/808
+alco: 0
 ---
 **M∅NSTER ENERGY ULTRA ROSÁ**
 

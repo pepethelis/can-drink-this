@@ -1,7 +1,6 @@
 ---
 caffeine: 0
----
-﻿---
+
 status: published
 aliases:
   - Garage hardcore pomegranate fizz

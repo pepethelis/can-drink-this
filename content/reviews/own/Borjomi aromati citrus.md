@@ -1,4 +1,6 @@
-﻿---
+---
+caffeine: 0
+
 status: published
 aliases:
   - Borjomi aromati citrus & ginger root

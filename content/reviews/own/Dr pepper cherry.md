@@ -1,7 +1,5 @@
 ---
 alco: 0
----
-﻿---
 status: published
 tags:
   - package/amp
@@ -32,6 +30,7 @@ types:
   - fizzy
 createdAt: 2025-08-02
 old_related: true
+caffeine: 0
 ---
 **Dr pepper cherry**. Офіційний смак - вишня
 

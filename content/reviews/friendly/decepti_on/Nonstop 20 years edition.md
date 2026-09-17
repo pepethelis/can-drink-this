@@ -18,5 +18,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33759
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33757
   - https://t.me/sonechkin_rzekich/33758
+alco: 0
 ---
 Огляд на нонстоп лімітований з вишнею

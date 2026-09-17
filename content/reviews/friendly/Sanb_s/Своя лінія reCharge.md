@@ -15,6 +15,7 @@ types:
   - energy
 cover: "[[photo_2025-04-08_10-30-48.jpg]]"
 externalUrl: https://t.me/ukr_satan/5178
+alco: 0
 ---
 Я до речі вже тиждень ніяк не напишу огляд на це #енергохарчування ⚡️⚡️⚡️
 

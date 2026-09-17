@@ -34,6 +34,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-06-12
+alco: 0
 ---
 **Komodo frozen mojito**. Офіційний смак - мохіто
 

@@ -17,6 +17,7 @@ types:
 cover: "[[photo_2025-04-23_10-01-22.jpg]]"
 externalUrl: https://t.me/ukr_satan/5319
 caffeine: 32
+alco: 0
 ---
 Огляд який я заборгував...  
 

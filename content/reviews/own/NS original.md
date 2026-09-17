@@ -26,7 +26,7 @@ manufacturer: ООО "здоровьіе продуктьі"
 caffeine: 33
 volume:
   - "0.45"
-alco:
+alco: 0
 createdAt: 2026-09-06
 sponsor:
   - dggdyh

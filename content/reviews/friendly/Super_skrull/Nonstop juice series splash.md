@@ -15,6 +15,7 @@ types:
   - energy
 cover: "[[photo_2026-02-26_14-57-35.jpg]]"
 caffeine: 32
+alco: 0
 ---
 **NON STOP SPLASH JUICE SERIES**   
 

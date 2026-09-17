@@ -27,6 +27,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-05-05
+alco: 0
 ---
 **Battery Frsh**, тобто жовто-червона батарейка
 

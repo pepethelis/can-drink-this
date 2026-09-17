@@ -18,5 +18,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33978
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33976
   - https://t.me/sonechkin_rzekich/33977
+alco: 0
 ---
 Огляд на монстер чорна вишня

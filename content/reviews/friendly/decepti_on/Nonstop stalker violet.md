@@ -21,5 +21,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/32818
   - https://t.me/sonechkin_rzekich/32819
 caffeine: 32
+alco: 0
 ---
 Огляд на сталкер фіолетовий моя оцінка 7/10 (я не люблю манго)

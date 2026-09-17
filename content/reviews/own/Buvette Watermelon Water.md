@@ -1,7 +1,5 @@
 ---
 caffeine: 0
----
-﻿---
 status: published
 tags:
 externalUrl: https://t.me/kallection/25911
@@ -24,6 +22,7 @@ types:
   - water
 createdAt: 2025-01-29
 old_related: true
+alco: 0
 ---
 **Buvette Watermelon Water**. Офіційний смак - **кавун**
 

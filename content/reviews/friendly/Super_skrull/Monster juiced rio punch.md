@@ -17,6 +17,7 @@ cover: "[[photo_2025-10-03_19-14-09.jpg]]"
 contentTgPosts:
   - https://t.me/super_skrulling/2303
 caffeine: 32
+alco: 0
 ---
 **PUNCH M∅NSTER RIO PUNCH**  
 

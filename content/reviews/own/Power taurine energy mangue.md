@@ -32,6 +32,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-05-21
+alco: 0
 ---
 **Power taurine energy mangue**. Офіційний смак - mangue, тобто манго
 

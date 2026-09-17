@@ -38,6 +38,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-08-01
+alco: 0
 ---
 **Komodo cactus**. Офіційний смак - кактус
 

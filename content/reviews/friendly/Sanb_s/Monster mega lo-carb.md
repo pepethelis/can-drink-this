@@ -18,6 +18,7 @@ externalUrl: https://t.me/ukr_satan/4964
 contentTgPosts:
   - https://t.me/ukr_satan/4964
   - https://t.me/ukr_satan/4965
+alco: 0
 ---
 Огляд на Mфnster lo-carb  
   

@@ -31,6 +31,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-03-05
+alco: 0
 ---
 **Battery electric**. Офіційний смак - "синя" малина
 

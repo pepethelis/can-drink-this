@@ -14,6 +14,7 @@ types:
   - energy
 cover: "[[photo_2026-07-05_19-37-48.jpg]]"
 externalUrl: https://t.me/ukr_satan/7927
+alco: 0
 ---
 Mфnster Rehab чай + лісові ягоди  
 

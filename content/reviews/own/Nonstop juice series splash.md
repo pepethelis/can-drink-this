@@ -39,6 +39,7 @@ related:
   - "[[content/reviews/own/Monster juiced pacific punch|Monster juiced pacific punch]]"
   - "[[content/reviews/own/Monster juiced rio punch|Monster juiced rio punch]]"
 createdAt: 2026-04-01
+alco: 0
 ---
 **Nonstop juice series splash**. Офіційний смак - ніде не вказано
 

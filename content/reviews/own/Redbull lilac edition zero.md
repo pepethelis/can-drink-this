@@ -26,6 +26,7 @@ aliases:
 types:
   - energy
 old_related: true
+alco: 0
 ---
 **Redbull lilac edition zero**. Офіційний смак - ==СМАК==
 

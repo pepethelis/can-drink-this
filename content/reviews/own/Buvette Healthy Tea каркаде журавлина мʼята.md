@@ -1,4 +1,5 @@
-﻿---
+---
+caffeine: 0
 status: needs update
 tags:
 externalUrl: https://t.me/kallection/28021
@@ -24,6 +25,7 @@ types:
   - tea
 createdAt: 2025-04-25
 old_related: true
+alco: 0
 ---
 **Buvette Healthy Tea**. Офіційний смак - **каркаде, журавлина, мʼята**
 

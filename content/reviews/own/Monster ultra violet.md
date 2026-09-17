@@ -32,6 +32,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-07-09
+alco: 0
 ---
 **Monster ultra violet**. Офіційний смак на банці не вказано, але на сайті - "Light Citrus and Grape". Так черговий цитрусовий монстр
 

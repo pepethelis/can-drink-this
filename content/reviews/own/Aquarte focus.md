@@ -1,4 +1,5 @@
-﻿---
+---
+caffeine: 0
 status: published
 tags:
 externalUrl: https://t.me/kallection/23880
@@ -23,6 +24,7 @@ aliases:
 types:
   - water
 createdAt: 2024-11-03
+alco: 0
 ---
 Вода **Aquarte Focus**. Офіційний смак - яблуко-женьшень, хоча від яблука там лише ароматизатор
 

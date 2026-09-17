@@ -16,6 +16,7 @@ aliases:
   - Monster juiced viking berry
 cover: "[[photo_2026-06-30_23-48-15.jpg]]"
 caffeine: 32
+alco: 0
 ---
 Огляд на Monster Juiced Viking Berry
 

@@ -17,6 +17,7 @@ types:
   - coffee
 cover: "[[photo_2024-09-07_08-30-33.jpg]]"
 externalUrl: https://t.me/super_skrulling/169
+alco: 0
 ---
 **JAVA MONSTER FRENCH VANILLA TRIPLE SHOT**  
 Смак: френч ванілла  

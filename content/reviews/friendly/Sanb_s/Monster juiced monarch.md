@@ -15,6 +15,7 @@ types:
 cover: "[[photo_2025-10-10_19-20-16.jpg]]"
 externalUrl: https://t.me/ukr_satan/6727
 caffeine: 32
+alco: 0
 ---
 #енергохарчування Monster Monarch  
 

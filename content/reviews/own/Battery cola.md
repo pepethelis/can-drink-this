@@ -30,6 +30,7 @@ types:
   - energy
 createdAt: 2025-09-26
 old_related: true
+alco: 0
 ---
 **Battery cola**. Офіційний смак - кола
 

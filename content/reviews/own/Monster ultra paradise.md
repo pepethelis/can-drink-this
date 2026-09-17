@@ -30,6 +30,7 @@ types:
   - energy
 createdAt: 2025-10-08
 old_related: true
+alco: 0
 ---
 **Monster ultra paradise**. Офіційний смак на банці не вказано, але на сайті - "Kiwi Lime with a hint of Cucumber"
 

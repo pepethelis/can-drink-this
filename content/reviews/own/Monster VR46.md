@@ -32,6 +32,7 @@ types:
   - energy
 createdAt: 2025-01-12
 old_related: true
+alco: 0
 ---
 **Monster Energy The Doctor**. Офіційно смак на банці не вказаний, але на сайті відмічено смак - терпкий, освіжаючий, цитрусовий
 

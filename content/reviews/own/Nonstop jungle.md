@@ -33,6 +33,7 @@ types:
   - energy
 createdAt: 2025-09-28
 updatedAt: 2026-09-13
+alco: 0
 ---
 **Nonstop jungle**, він же зелений нонстоп. Офіційний смак - не вказано 
 

@@ -1,7 +1,6 @@
 ---
 caffeine: 0
----
-﻿---
+
 status: published
 tags:
   - package/ball

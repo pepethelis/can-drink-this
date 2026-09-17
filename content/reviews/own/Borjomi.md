@@ -19,12 +19,13 @@ primaryColors:
   - white
   - silver
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine:
+caffeine: 0
 volume:
   - "0.33"
 aliases:
   - Borjomi
 createdAt: 2026-07-05
+alco: 0
 ---
 Вода природна мінеральна донасичена газом, біокарбонатна натрівєва **Borjomi**. Офіційний смак - мінералка лол
 

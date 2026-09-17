@@ -1,7 +1,5 @@
 ---
 caffeine: 0
----
-﻿---
 status: published
 tags:
 externalUrl: https://t.me/kallection/35215
@@ -33,6 +31,7 @@ aliases:
 types:
   - tea
 createdAt: 2026-02-25
+alco: 0
 ---
 **Ever aid bubble tea grapefruit passion fruit mango**. Офіційний смак - грейпфрут, маракуя, манго
 

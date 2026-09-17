@@ -18,5 +18,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33921
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33919
   - https://t.me/sonechkin_rzekich/33920
+alco: 0
 ---
 Огляд на пікмі редбулл білий персик 🥺

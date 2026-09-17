@@ -33,6 +33,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-08-13
+alco: 0
 ---
 **Redbull white edition**. Офіційний смак - кокос-асаї
 

@@ -35,6 +35,7 @@ related:
   - "[[content/reviews/own/Hell strawberry-banana|Hell strawberry-banana]]"
   - "[[Effect strawberry apricot|Effect strawberry apricot]]"
   - "[[Frugo watermelon-strawberry|Frugo watermelon-strawberry]]"
+alco: 0
 ---
 **Komodo wild strawberry**. Офіційний смак - суниця
 

@@ -28,6 +28,7 @@ types:
   - energy
 createdAt: 2025-09-20
 old_related: true
+alco: 0
 ---
 **Nonstop original zero**, перший нонстоп без цукру. Офіційний смак не вказано, але ми розуміємо, що має бути класичний
 

@@ -15,6 +15,7 @@ types:
   - energy
 cover: "[[photo_2026-06-23_19-19-48.jpg]]"
 externalUrl: https://t.me/ukr_satan/7892
+alco: 0
 ---
 Новеньке #енергохарчування  
 

@@ -17,5 +17,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33539
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33538
 caffeine: 32
+alco: 0
 ---
 Огляд на монстер хаотік з метеликами 🦋🦋🦋

@@ -27,6 +27,7 @@ types:
   - plant-based
 createdAt: 2025-11-10
 caffeine: 0
+alco: 0
 ---
 Плент-бейзд дрінк **Vega Milk coconut with rice**. Офіційний смак - кокос
 

@@ -32,6 +32,7 @@ related:
   - "[[content/reviews/own/Burn white gummy bear|Burn white gummy bear]]"
   - "[[content/reviews/own/Hell carnival cotton candy|Hell carnival cotton candy]]"
 createdAt: 2026-08-20
+alco: 0
 ---
 **Battery unicorn**, енергосік від карсберг. Офіційний смак - цукрова вата, неофіційний - каєфний
 

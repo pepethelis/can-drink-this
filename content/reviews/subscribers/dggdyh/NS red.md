@@ -17,6 +17,7 @@ cover: "[[photo_2026-06-15_17-49-56.jpg]]"
 caffeine: 33
 related:
   - "[[Nonstop ultra]]"
+alco: 0
 ---
 "NS RED" закос на помаранчевий "NON-STOP", від російського бренду "World's best drinks"
 

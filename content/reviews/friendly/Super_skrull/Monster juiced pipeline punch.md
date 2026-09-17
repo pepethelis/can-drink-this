@@ -16,6 +16,7 @@ types:
 cover: "[[photo_2025-03-10_11-41-26.jpg]]"
 externalUrl: https://t.me/super_skrulling/813
 caffeine: 32
+alco: 0
 ---
 **M∅NSTER ENERGY PIPELINE PUNCH**
 

@@ -16,6 +16,7 @@ types:
   - energy
 cover: "[[photo_2025-03-17_20-47-00.jpg]]"
 externalUrl: https://t.me/ukr_satan/4895
+alco: 0
 ---
 ОЛЄ-ОЛЄ-ОЛЄ ⚽️⚽️⚽️⚽️  
 

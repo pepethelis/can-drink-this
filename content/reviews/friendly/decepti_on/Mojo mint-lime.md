@@ -20,5 +20,6 @@ externalUrl: https://t.me/sonechkin_rzekich/32224
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32222
   - https://t.me/sonechkin_rzekich/32223
+alco: 0
 ---
 Огляд на моджо!!!!!!!

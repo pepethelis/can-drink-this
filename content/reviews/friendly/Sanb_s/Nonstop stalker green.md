@@ -17,6 +17,7 @@ types:
 cover: "[[photo_2025-05-29_18-49-50.jpg]]"
 externalUrl: https://t.me/ukr_satan/5528
 caffeine: 32
+alco: 0
 ---
 Ну шо, легендарне #енергохарчування NON STOP STALKER GREEN  
 

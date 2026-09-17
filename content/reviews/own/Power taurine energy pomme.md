@@ -33,6 +33,7 @@ types:
   - energy
 createdAt: 2025-02-21
 old_related: true
+alco: 0
 ---
 **Power taurine energy pomme**. Офіційний смак - яблуко
 

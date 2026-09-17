@@ -1,8 +1,7 @@
 ---
 alco: 0
 caffeine: 0
----
-﻿---
+
 status: published
 tags:
 externalUrl: https://t.me/kallection/23732

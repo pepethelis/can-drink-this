@@ -17,5 +17,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/34105
   - https://t.me/sonechkin_rzekich/34106
 caffeine: 32
+alco: 0
 ---
 Огляд на енергєтічєскій напіток монстер піпєлін пунш 😄

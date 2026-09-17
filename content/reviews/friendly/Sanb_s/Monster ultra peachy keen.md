@@ -16,6 +16,7 @@ types:
 cover: "[[photo_2025-02-01_21-01-34.jpg]]"
 externalUrl: https://t.me/ukr_satan/4318
 caffeine: 32
+alco: 0
 ---
 Mфnster ultra peachy keen  
 

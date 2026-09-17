@@ -26,6 +26,7 @@ types:
   - energy
 createdAt: 2025-04-12
 old_related: true
+alco: 0
 ---
 **Redbull yellow edition**, тобто жовтий редбул. Офіційний смак - тропічний. В деяких країнах це його офіційна назва
 

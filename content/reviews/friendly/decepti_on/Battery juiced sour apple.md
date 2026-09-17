@@ -18,5 +18,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33670
   - https://t.me/sonechkin_rzekich/33671
   - https://t.me/sonechkin_rzekich/33672
+alco: 0
 ---
 Огляд на баттері з яблуком

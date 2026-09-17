@@ -18,5 +18,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33570
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33568
   - https://t.me/sonechkin_rzekich/33569
+alco: 0
 ---
 Огляд на монстер ананасовий гарна банка

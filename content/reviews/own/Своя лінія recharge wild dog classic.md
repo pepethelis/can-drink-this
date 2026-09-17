@@ -24,6 +24,7 @@ types:
   - energy
 createdAt: 2025-05-20
 old_related: true
+alco: 0
 ---
 **Wild dog classic**. Офіційний смак - не вказано
 

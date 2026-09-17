@@ -18,6 +18,7 @@ types:
 cover: "[[photo_2025-02-12_23-02-16.jpg]]"
 externalUrl: https://t.me/ukr_satan/4445
 caffeine: 33
+alco: 0
 ---
 Унікальне комбо #енергохарчування - черешня + ківі  
 

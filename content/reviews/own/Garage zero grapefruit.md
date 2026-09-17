@@ -1,7 +1,5 @@
 ---
 caffeine: 0
----
-﻿---
 status: published
 tags:
 externalUrl: https://t.me/kallection/22611
@@ -27,6 +25,7 @@ types:
   - fizzy
 createdAt: 2024-09-15
 old_related: true
+alco: 0
 ---
 **Garage fun zero**. Офіційний смак - **grapefruit**
 

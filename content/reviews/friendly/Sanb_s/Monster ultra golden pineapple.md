@@ -15,6 +15,7 @@ types:
   - energy
 cover: "[[photo_2025-03-01_20-56-36.jpg]]"
 externalUrl: https://t.me/ukr_satan/4705
+alco: 0
 ---
 Вечірнє #енергохарчування  
 

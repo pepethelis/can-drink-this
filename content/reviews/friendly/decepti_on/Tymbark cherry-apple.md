@@ -19,5 +19,6 @@ externalUrl: https://t.me/sonechkin_rzekich/30969
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/30968
 caffeine: 0
+alco: 0
 ---
 Огляд соку

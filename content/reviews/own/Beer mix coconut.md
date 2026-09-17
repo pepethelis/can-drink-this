@@ -21,7 +21,7 @@ primaryColors:
   - blue
   - brown
 manufacturer: оболонь
-caffeine:
+caffeine: 0
 aliases:
   - Beer mix coconut
   - Бірмікс кокос

@@ -15,6 +15,7 @@ taste:
 types:
   - energy
 cover: "[[photo_2025-03-08_17-35-00.jpg]]"
+alco: 0
 ---
 **M∅NSTER ENERGY ULTRA GOLDEN PINEAPPLE** 
 

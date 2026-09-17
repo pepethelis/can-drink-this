@@ -19,5 +19,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33932
   - https://t.me/sonechkin_rzekich/33933
   - https://t.me/sonechkin_rzekich/33934
+alco: 0
 ---
 Огляд на редбулл малина з льодом

@@ -1,7 +1,5 @@
 ---
 caffeine: 0
----
-﻿---
 status: needs update
 tags:
 externalUrl: https://t.me/kallection/26106
@@ -27,6 +25,7 @@ types:
   - water
 createdAt: 2025-02-07
 old_related: true
+alco: 0
 ---
 **Buvette Vitamin Water**. Офіційний смак - **ківі-огірок**
 

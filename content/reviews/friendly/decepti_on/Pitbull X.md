@@ -16,5 +16,6 @@ cover:
 externalUrl: https://t.me/sonechkin_rzekich/32416
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32416
+alco: 0
 ---
 Огляд на пітбуль зелений. Написано має виражений смак апельсину спойлер апельсину там немає. Просто непоганий не солодкий енергетик. За 20 грн бомба 7/10

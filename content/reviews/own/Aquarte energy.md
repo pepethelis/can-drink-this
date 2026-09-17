@@ -1,4 +1,5 @@
-﻿---
+---
+caffeine: 0
 status: published
 tags:
 externalUrl: https://t.me/kallection/24503
@@ -24,6 +25,7 @@ aliases:
 types:
   - water
 createdAt: 2024-11-07
+alco: 0
 ---
 Вода **Aquarte energy**. Офіційний смак - гуарана-гібіскус-гранат
 

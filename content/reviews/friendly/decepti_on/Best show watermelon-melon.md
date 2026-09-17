@@ -20,5 +20,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33679
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33677
   - https://t.me/sonechkin_rzekich/33678
+alco: 0
 ---
 Огляд на бест шот кавун диня

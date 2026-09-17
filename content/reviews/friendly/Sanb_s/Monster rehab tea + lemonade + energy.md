@@ -15,6 +15,7 @@ types:
   - energy
 cover: "[[photo_2025-03-18_19-41-00.jpg]]"
 externalUrl: https://t.me/ukr_satan/4925
+alco: 0
 ---
 Mфnster Rehab tea + lemonade + energy  
   

@@ -19,5 +19,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/31075
   - https://t.me/sonechkin_rzekich/31076
 caffeine: 0
+alco: 0
 ---
 Огляд кактусової водички

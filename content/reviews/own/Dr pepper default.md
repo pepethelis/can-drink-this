@@ -1,7 +1,5 @@
 ---
 alco: 0
----
-﻿---
 status: published
 tags:
   - package/amp
@@ -30,6 +28,7 @@ types:
   - fizzy
 createdAt: 2025-06-20
 old_related: true
+caffeine: 0
 ---
 **Dr pepper дефолтний**. Офіційний смак не вказано
 

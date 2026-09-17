@@ -39,6 +39,7 @@ types:
 createdAt: 2025-12-15
 cover: "[[IMG_7181.jpeg]]"
 old_related: true
+alco: 0
 ---
 Чай-енергос **Monster rehab tea + lemonade (🇭🇺)**. Офіційний смак - чай і лимонад, а на сайті - "Brewed Tea and Lemonade"
 

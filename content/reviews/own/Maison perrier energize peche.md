@@ -31,6 +31,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-05-29
+alco: 0
 ---
 **Maison perrier energize peche**. Офіційний смак - peche/персик
 

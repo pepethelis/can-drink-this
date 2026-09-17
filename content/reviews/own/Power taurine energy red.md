@@ -33,6 +33,7 @@ types:
   - energy
 createdAt: 2026-04-04
 old_related: true
+alco: 0
 ---
 **Power taurine energy red**. Офіційний смак не вказано, також не гуглиться. Нагадує по вайбу китайську(повстяну) вишню
 

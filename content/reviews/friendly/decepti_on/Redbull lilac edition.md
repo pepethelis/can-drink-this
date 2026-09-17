@@ -18,5 +18,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33929
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33927
   - https://t.me/sonechkin_rzekich/33928
+alco: 0
 ---
 Огляд на редбулл з травою та грейпфрутом

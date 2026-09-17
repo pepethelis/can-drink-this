@@ -14,6 +14,7 @@ taste:
 types:
   - energy
 cover: "[[photo_2025-10-31_09-04-15.jpg]]"
+alco: 0
 ---
 **NON STOP 20 YEARS EDITION LIMITED**  
 

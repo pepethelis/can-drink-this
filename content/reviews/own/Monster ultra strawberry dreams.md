@@ -30,6 +30,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-08-28
+alco: 0
 ---
 **Monster ultra strawberry dreams**. Офіційний смак - полуниця
 

@@ -35,6 +35,7 @@ types:
   - energy
 createdAt: 2025-08-10
 old_related: true
+alco: 0
 ---
 **Monster juiced khaotic**. Офіційний смак - "Orange Citrus", згідно з офіційним сайтом
 

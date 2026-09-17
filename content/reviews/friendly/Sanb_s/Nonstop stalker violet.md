@@ -18,6 +18,7 @@ types:
 cover: "[[photo_2024-07-29_22-10-09.jpg]]"
 externalUrl: https://t.me/ukr_satan/1300
 caffeine: 32
+alco: 0
 ---
 #енергохарчування  
 

@@ -18,5 +18,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33953
   - https://t.me/sonechkin_rzekich/33954
 caffeine: 32
+alco: 0
 ---
 Огляд монстер вікінг беррі

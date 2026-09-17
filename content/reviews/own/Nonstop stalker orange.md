@@ -29,6 +29,7 @@ types:
   - energy
 createdAt: 2024-08-14
 old_related: true
+alco: 0
 ---
 **Nonstop stalker**, він же кавунячий сталкер
 

@@ -16,6 +16,7 @@ types:
 cover: "[[photo_2026-08-14_11-56-53.jpg]]"
 externalUrl: https://t.me/ukr_satan/8067
 caffeine: 32
+alco: 0
 ---
 Mфnster NITRO blue flash💎  
 

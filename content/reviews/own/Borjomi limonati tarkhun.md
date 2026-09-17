@@ -21,7 +21,7 @@ primaryColors:
   - green
   - white
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine:
+caffeine: 0
 volume:
   - "0.33"
   - "0.5"
@@ -30,6 +30,7 @@ aliases:
 types:
   - fizzy
 createdAt: 2026-08-13
+alco: 0
 ---
 **Borjomi limonati tarkhun**. Офіційний смак - тархун
 

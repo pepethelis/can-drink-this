@@ -17,5 +17,6 @@ cover:
 externalUrl: https://t.me/sonechkin_rzekich/33618
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33617
+alco: 0
 ---
 Ранковий огляд на батері фреш (хтось просив я зробила)

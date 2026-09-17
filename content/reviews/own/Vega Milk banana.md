@@ -1,7 +1,5 @@
 ---
 caffeine: 0
----
-﻿---
 status: published
 tags:
 externalUrl: https://t.me/kallection/32373
@@ -29,6 +27,7 @@ aliases:
 types:
   - plant-based
 createdAt: 2025-10-12
+alco: 0
 ---
 Плент-бейзд дрінк **Vega Milk banana with oat**. Офіційний смак - банан
 

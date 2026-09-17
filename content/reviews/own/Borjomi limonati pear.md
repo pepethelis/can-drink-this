@@ -21,7 +21,7 @@ primaryColors:
   - yellow
   - white
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine:
+caffeine: 0
 volume:
   - "0.33"
 aliases:
@@ -29,6 +29,7 @@ aliases:
 types:
   - fizzy
 createdAt: 2026-08-03
+alco: 0
 ---
 **Borjomi limonati pear**. Офіційний смак - груша
 

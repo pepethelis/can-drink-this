@@ -33,6 +33,7 @@ aliases:
 types:
   - energy
 old_related: true
+alco: 0
 ---
 **Redbull winter edition**. Офіційний смак - яблуко фуджі і імбир
 

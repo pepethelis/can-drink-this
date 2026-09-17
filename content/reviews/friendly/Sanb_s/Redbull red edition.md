@@ -17,6 +17,7 @@ types:
   - energy
 externalUrl: https://t.me/ukr_satan/4415
 caffeine: 32
+alco: 0
 ---
 Раптовий огляд на редбулівське кавуняче #енергохарчування 
 

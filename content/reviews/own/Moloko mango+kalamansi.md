@@ -1,7 +1,5 @@
 ---
 caffeine: 0
----
-﻿---
 status: published
 tags:
   - package/amp
@@ -31,6 +29,7 @@ types:
   - fizzy
 createdAt: 2025-05-07
 old_related: true
+alco: 0
 ---
 **Moloko**. Офіційний смак - **mango + kalamansi**. Не питайте, я хз що то таке
 

@@ -19,5 +19,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33585
   - https://t.me/sonechkin_rzekich/33586
 caffeine: 32
+alco: 0
 ---
 Огляд нонстоп мілітарі ✨

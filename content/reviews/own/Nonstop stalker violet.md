@@ -30,6 +30,7 @@ types:
   - energy
 createdAt: 2025-06-08
 old_related: true
+alco: 0
 ---
 **Nonstop stalker moonlight**, він же фіолетовий нонстоп сталкер. Офіційний смак - манго-груша
 

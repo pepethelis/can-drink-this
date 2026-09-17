@@ -35,6 +35,7 @@ related:
   - "[[Rockstar mango|Rockstar mango]]"
   - "[[content/reviews/own/Monster juiced mango loco|Monster juiced mango loco]]"
 createdAt: 2025-03-21
+alco: 0
 ---
 **28 black**. Офіційний смак - **sour mango-kivi**
 

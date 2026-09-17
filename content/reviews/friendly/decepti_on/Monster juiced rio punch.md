@@ -17,5 +17,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33551
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33550
 caffeine: 32
+alco: 0
 ---
 Огляд монстер ріо пунш

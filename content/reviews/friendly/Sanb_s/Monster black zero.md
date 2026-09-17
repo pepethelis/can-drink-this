@@ -17,6 +17,7 @@ types:
 cover: "[[photo_2025-05-22_10-02-07.jpg]]"
 externalUrl: https://t.me/ukr_satan/5488
 caffeine: 32
+alco: 0
 ---
 Огляд на новий для нашого ринку Mфnster zero sugar  
 

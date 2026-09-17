@@ -17,5 +17,6 @@ types:
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32381
 externalUrl: https://t.me/sonechkin_rzekich/32382
+alco: 0
 ---
 Огляд на пітбуль з кавою. Коштував 20 грн на смак ригота. 4/10

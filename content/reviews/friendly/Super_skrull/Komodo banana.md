@@ -14,6 +14,7 @@ brand: komodo
 taste:
   - banana
 cover: "[[photo_2026-08-29_13-24-46.jpg]]"
+alco: 0
 ---
 **KOMODO BANAN ENERGY DRINK**  
 Смак: банан 🍌  

@@ -1,7 +1,5 @@
 ---
-caffeine: 30
----
-﻿---
+
 status: to create
 tags:
 externalUrl:
@@ -24,7 +22,7 @@ primaryColors:
   - blue
   - black
 manufacturer: new products
-caffeine:
+caffeine: 30
 volume:
   - "0.5"
 alco: 8.5

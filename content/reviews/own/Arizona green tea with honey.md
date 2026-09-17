@@ -1,4 +1,5 @@
-﻿---
+---
+caffeine: 0
 status: to update
 tags:
   - package/amp
@@ -29,6 +30,7 @@ aliases:
 types:
   - tea
 createdAt: 2024-11-13
+alco: 0
 ---
 Чай **AriZona original green tea**. На лінійці не знаюся, але думаю що офіційний смак саме original green tea
 

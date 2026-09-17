@@ -41,6 +41,7 @@ types:
   - energy
 createdAt: 2026-04-19
 old_related: true
+alco: 0
 ---
 **Monster juiced pipeline punch**. Офіційний смак - апельсин, маракуя, гуава
 

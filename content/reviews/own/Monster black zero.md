@@ -32,6 +32,7 @@ types:
   - energy
 createdAt: 2026-05-02
 old_related: true
+alco: 0
 ---
 **Monster Energy black zero**, він же монстр чорний без цукру
 

@@ -17,6 +17,7 @@ aliases:
   - NS tonic-lemon
 cover: "[[photo_2026-07-02_17-47-00.jpg]]"
 caffeine: 35
+alco: 0
 ---
 "NS TONIC-LEMON" закос на >якийсь-там< "NON-STOP", від російського бренду "World's best drinks"
 

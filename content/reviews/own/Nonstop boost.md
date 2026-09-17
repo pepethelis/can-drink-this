@@ -1,4 +1,6 @@
-﻿---
+---
+alco: 0
+
 status: needs update
 tags:
   - package/canpack

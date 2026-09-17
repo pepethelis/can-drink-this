@@ -19,6 +19,7 @@ externalUrl: https://t.me/ukr_satan/4327
 contentTgPosts:
   - https://t.me/ukr_satan/4327
 caffeine: 32
+alco: 0
 ---
 #енергохарчування WOGонь 0,33🔥  
 

@@ -16,6 +16,7 @@ types:
 cover: "[[photo_2026-09-04_08-30-57.jpg]]"
 externalUrl: https://t.me/super_skrulling/4189
 caffeine: 30
+alco: 0
 ---
 **M∅NSTER ENERGY ULTRA BLACK**  
 

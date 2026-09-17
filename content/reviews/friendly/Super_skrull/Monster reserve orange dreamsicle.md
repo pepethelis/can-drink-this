@@ -16,6 +16,7 @@ types:
   - energy
 cover: "[[photo_2025-09-28_15-52-07.jpg]]"
 externalUrl: https://t.me/super_skrulling/2252
+alco: 0
 ---
 **M∅NSTER ENERGY Reserve Orange Dreamsicle**
 

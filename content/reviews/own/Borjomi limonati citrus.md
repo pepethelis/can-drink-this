@@ -22,7 +22,7 @@ primaryColors:
   - blue
   - white
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine:
+caffeine: 0
 volume:
   - "0.33"
   - "0.5"
@@ -31,6 +31,7 @@ aliases:
 types:
   - fizzy
 old_related: true
+alco: 0
 ---
 **Borjomi limonati citrus**. Офіційний смак - цитрус (або лимонний судячи з дизайну)
 

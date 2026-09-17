@@ -27,6 +27,7 @@ types:
   - energy
 createdAt: 2024-09-19
 old_related: true
+alco: 0
 ---
 **Battery Energy Drink**, тобто дефолтна чорна батарейка
 

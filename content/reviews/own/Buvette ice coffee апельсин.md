@@ -23,6 +23,8 @@ types:
   - water
 createdAt: 2025-05-13
 old_related: true
+caffeine: 0
+alco: 0
 ---
 **Buvette ice coffee**. Офіційний смак - **кава з соком апельсина**
 

@@ -19,4 +19,5 @@ externalUrl: https://t.me/ukr_satan/6917
 contentTgPosts:
   - https://t.me/ukr_satan/6917
 caffeine: 32
+alco: 0
 ---

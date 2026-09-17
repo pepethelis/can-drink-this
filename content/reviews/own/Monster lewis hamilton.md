@@ -36,6 +36,7 @@ favorite: false
 types:
   - energy
 createdAt: 2026-07-04
+alco: 0
 ---
 **Monster Lewis Hamilton**, пізніше став відомим як **Monster full throttle** або **Monster top speed**. Офіційний смак на банці не вказано, але на сайті "Peach and Nectarine"
 

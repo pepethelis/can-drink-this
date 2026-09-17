@@ -36,6 +36,7 @@ aliases:
 types:
   - energy
 old_related: true
+alco: 0
 ---
 **Monster black mega 0,553**. Офіційний смак згідно із сайтом - "Sweet and Salty - It tastes like Monster!"
 

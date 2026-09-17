@@ -19,5 +19,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33056
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33055
 caffeine: 32
+alco: 0
 ---
 Огляд на монстр з яблуком оцінка 7/10 ракових жоп, смачний, приємний післясмак я б взяла його ще раз (ціна 80грн)

@@ -29,6 +29,7 @@ aliases:
 types:
   - energy
 createdAt: 2024-11-16
+alco: 0
 ---
 **Monster Energy Pacific Punch**, він же монстр кремовий морський з русалкою
 

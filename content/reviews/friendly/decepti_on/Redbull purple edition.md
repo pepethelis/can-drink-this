@@ -18,5 +18,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33951
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33949
   - https://t.me/sonechkin_rzekich/33950
+alco: 0
 ---
 Огляд на редбулл асай

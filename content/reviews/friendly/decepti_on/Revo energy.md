@@ -17,5 +17,6 @@ cover:
 externalUrl: https://t.me/sonechkin_rzekich/33761
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33760
+alco: 0
 ---
 Огляд на рево БЕЗАЛКОГОЛЬНЕ

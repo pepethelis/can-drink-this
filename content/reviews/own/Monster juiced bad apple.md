@@ -33,6 +33,7 @@ aliases:
 types:
   - energy
 createdAt: 2025-03-26
+alco: 0
 ---
 **Monster Juiced Bad Apple**, офіційний смак - "Crisp, Dry apple flavour that ’s not too sweet and goes down smooth."
 

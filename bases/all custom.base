@@ -26,7 +26,6 @@ views:
     filters:
       and:
         - file.folder.startsWith("content/reviews")
-        - '!types.contains("energy")'
     order:
       - file.name
       - alco

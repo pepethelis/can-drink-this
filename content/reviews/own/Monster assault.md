@@ -32,6 +32,7 @@ types:
   - energy
 createdAt: 2025-03-22
 old_related: true
+alco: 0
 ---
 **Monster Energy Assault**
 

@@ -18,5 +18,6 @@ cover:
 externalUrl: https://t.me/sonechkin_rzekich/31170
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/31169
+alco: 0
 ---
 Огляд на водичку солодку персик мандарин залупа хуйня треш 4/10💀💀💀💀

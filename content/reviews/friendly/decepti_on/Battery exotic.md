@@ -17,5 +17,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33631
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33629
   - https://t.me/sonechkin_rzekich/33630
+alco: 0
 ---
 Огляд на баттері екзотік

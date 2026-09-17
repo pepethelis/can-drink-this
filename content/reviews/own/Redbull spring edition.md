@@ -26,6 +26,7 @@ aliases:
   - Redbull wisnia sakura
 types:
   - energy
+alco: 0
 ---
 **Redbull wisnia sakura**. Офіційний смак - плоди сакури
 

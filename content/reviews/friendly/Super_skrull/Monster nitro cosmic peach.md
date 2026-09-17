@@ -16,6 +16,7 @@ types:
   - energy
 cover: "[[photo_2025-09-28_11-45-15.jpg]]"
 caffeine: 32
+alco: 0
 ---
 **M∅NSTER ENERGY "COSMIC PEACH"**  
 

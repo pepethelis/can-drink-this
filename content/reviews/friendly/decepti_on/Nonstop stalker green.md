@@ -19,5 +19,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33376
   - https://t.me/sonechkin_rzekich/33377
 caffeine: 32
+alco: 0
 ---
 Огляд на нон стоп сталкер зелений

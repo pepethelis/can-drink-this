@@ -30,6 +30,7 @@ types:
   - energy
 createdAt: 2025-10-30
 old_related: true
+alco: 0
 ---
 **Nonstop spark**. Офіційний смак за традицією не вказано, але вірогідно, що буде ананас
 

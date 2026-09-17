@@ -16,6 +16,7 @@ types:
   - energy
 cover: "[[photo_2025-03-03_10-07-08.jpg]]"
 externalUrl: https://t.me/ukr_satan/4719
+alco: 0
 ---
 Огляд на PITBULL ARMY  
   

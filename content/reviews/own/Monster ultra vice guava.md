@@ -35,6 +35,7 @@ aliases:
 types:
   - energy
 old_related: true
+alco: 0
 ---
 **Monster ultra vice guava**. Офіційний смак - гуава
 

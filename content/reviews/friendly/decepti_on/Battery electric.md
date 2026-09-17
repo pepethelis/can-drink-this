@@ -17,5 +17,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33959
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33957
   - https://t.me/sonechkin_rzekich/33958
+alco: 0
 ---
 Огляд на баттері синя малина

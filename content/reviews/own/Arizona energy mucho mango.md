@@ -31,6 +31,7 @@ types:
   - tea
 createdAt: 2025-11-22
 old_related: true
+alco: 0
 ---
 Чай-енергос **Arizona energy mucho mango**. Офіційний смак - манго
 

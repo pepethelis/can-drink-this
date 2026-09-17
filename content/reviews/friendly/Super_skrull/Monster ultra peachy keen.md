@@ -19,6 +19,7 @@ contentTgPosts:
   - https://t.me/super_skrulling/3434
 summary: Спонсор огляду ЯНМУНД. Прислав дві баночки на огляд, за що йому велике дякую ❤️
 caffeine: 30
+alco: 0
 ---
 M∅NSTER ENERGY ULTRA PEACHY KEEN
 

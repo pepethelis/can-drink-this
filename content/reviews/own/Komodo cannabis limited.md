@@ -32,6 +32,7 @@ types:
 createdAt: 2026-08-19
 related:
   - "[[Energy drink mit Hanf-Kräuter Extrakt|Energy drink mit Hanf-Kräuter Extrakt]]"
+alco: 0
 ---
 **Komodo cannabis limited**. Офіційний смак - трава
 

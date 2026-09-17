@@ -34,6 +34,8 @@ aliases:
 types:
   - tea
 createdAt: 2026-08-22
+caffeine: 0
+alco: 0
 ---
 **Arizona green tea with honey & peach**. Офіційний смак - зелений чай з медом і зі смаком персика
 

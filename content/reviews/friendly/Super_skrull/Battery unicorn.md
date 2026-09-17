@@ -16,6 +16,7 @@ taste:
 cover: "[[photo_2024-09-05_08-57-16.jpg]]"
 types:
   - energy
+alco: 0
 ---
 **BATTERY UNICRON** від Карлсберг Україна  
   

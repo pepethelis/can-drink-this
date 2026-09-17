@@ -16,6 +16,7 @@ aliases:
   - NS peach
 cover: "[[photo_2026-07-18_12-34-36.jpg]]"
 caffeine: 33
+alco: 0
 ---
 "NS PEACH" закос на персиковий "NON-STOP" (хз, чи таке існує), від російського бренду "World's best drinks"
 

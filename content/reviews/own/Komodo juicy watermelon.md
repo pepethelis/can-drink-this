@@ -35,6 +35,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-07-16
+alco: 0
 ---
 **Komodo juicy watermelon**. Офіційний смак - кавун
 

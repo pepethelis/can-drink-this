@@ -15,6 +15,7 @@ taste:
 cover: "[[photo_2024-09-06_20-01-27.jpg]]"
 types:
   - energy
+alco: 0
 ---
 **MONSTER ENERGY ULTRA VIOLET**  
 Смак: виноград  

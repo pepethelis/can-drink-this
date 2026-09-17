@@ -1,7 +1,5 @@
 ---
 caffeine: 0
----
-﻿---
 status: published
 tags:
 externalUrl: https://t.me/kallection/23517
@@ -27,6 +25,7 @@ types:
   - fizzy
 createdAt: 2024-10-21
 old_related: true
+alco: 0
 ---
 **Garage fun zero**, зелений. Офіційний смак - **lime**
 

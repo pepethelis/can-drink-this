@@ -17,6 +17,7 @@ types:
 cover: "[[photo_2025-05-29_18-31-06.jpg]]"
 externalUrl: https://t.me/ukr_satan/5529
 caffeine: 32
+alco: 0
 ---
 А ще я винен вам огляд на цю банку #енергохарчування Mфnster Nitro Cosmic Peach  
 

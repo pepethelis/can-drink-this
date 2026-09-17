@@ -27,6 +27,7 @@ types:
   - energy
 createdAt: 2025-10-16
 old_related: true
+alco: 0
 ---
 **Monster ultra fiesta mango**. Офіційний смак - манго. Про смак зазначено і на банці, і на сайті
 

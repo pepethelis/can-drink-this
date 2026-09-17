@@ -19,5 +19,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33789
   - https://t.me/sonechkin_rzekich/33790
 caffeine: 32
+alco: 0
 ---
 Огляд на нон стоп спарк 🐱

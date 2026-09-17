@@ -16,6 +16,7 @@ types:
 cover: "[[photo_2025-03-05_12-01-24.jpg]]"
 externalUrl: https://t.me/ukr_satan/4768
 caffeine: 32
+alco: 0
 ---
 Мфnster ultra Paradise🌴  
 

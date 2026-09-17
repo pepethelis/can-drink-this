@@ -17,6 +17,7 @@ externalUrl: https://t.me/ukr_satan/1453
 contentTgPosts:
   - https://t.me/ukr_satan/1438
 caffeine: 32
+alco: 0
 ---
 Кому цікаво щодо цієї танкової солярки - читайте:  
 

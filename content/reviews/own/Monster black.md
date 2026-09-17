@@ -31,6 +31,7 @@ types:
   - energy
 createdAt: 2025-09-06
 old_related: true
+alco: 0
 ---
 **Monster Energy**, він же монстр чорний
 

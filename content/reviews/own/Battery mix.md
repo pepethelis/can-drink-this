@@ -30,6 +30,7 @@ types:
   - energy
 createdAt: 2024-09-22
 old_related: true
+alco: 0
 ---
 **Battery Mix**, тобто фіолетово-зелена батарейка
 

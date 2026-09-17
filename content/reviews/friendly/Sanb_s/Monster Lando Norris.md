@@ -15,6 +15,7 @@ types:
 cover: "[[photo_2025-10-25_16-04-14.jpg]]"
 externalUrl: https://t.me/ukr_satan/6831
 caffeine: 32
+alco: 0
 ---
 Mфnster Lando Norris без цукру  
   

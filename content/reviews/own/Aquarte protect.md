@@ -1,4 +1,6 @@
-﻿---
+---
+caffeine: 0
+
 status: published
 aliases:
   - Aquarte protect

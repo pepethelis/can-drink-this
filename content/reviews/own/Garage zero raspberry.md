@@ -1,7 +1,5 @@
 ---
 caffeine: 0
----
-﻿---
 status: published
 tags:
   - package/canpack
@@ -28,6 +26,7 @@ types:
   - fizzy
 createdAt: 2024-10-11
 old_related: true
+alco: 0
 ---
 **Garage fun zero**, рожевий. Офіційний смак - **raspberry**
 

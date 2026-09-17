@@ -15,6 +15,7 @@ cover: "[[photo_2024-09-14_17-44-50.jpg]]"
 types:
   - energy
 caffeine: 32
+alco: 0
 ---
 **MONSTER ENERGY PACIFIC PUNCH**  
 Смак: апельсин, яблука, малина, вишня, гуава, ананас, маракуя.  

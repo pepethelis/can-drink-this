@@ -16,6 +16,7 @@ volume:
 publishedAt: 2026-08-19
 status: published
 caffeine: 33
+alco: 0
 ---
 "NS BUBBLEGUM" закос на баблгам "NON-STOP" (якщо таке є взагалі), від російського бренду "World's best drinks"
 

@@ -16,6 +16,7 @@ types:
 cover: "[[photo_2025-02-13_11-25-19.jpg]]"
 externalUrl: https://t.me/ukr_satan/4454
 caffeine: 32
+alco: 0
 ---
 Ще одине #енергохарчування з серії Juised Mфnster - KHAOTIC  
 

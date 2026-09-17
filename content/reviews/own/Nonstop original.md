@@ -40,6 +40,7 @@ related:
 types:
   - energy
 createdAt: 2025-09-20
+alco: 0
 ---
 **Nonstop original**, він же синій класик оріджинал синій нонстоп да
 

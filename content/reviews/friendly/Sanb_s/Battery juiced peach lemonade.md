@@ -16,6 +16,7 @@ types:
   - energy
 cover: "[[photo_2025-04-27_16-21-27.jpg]]"
 externalUrl: https://t.me/ukr_satan/5360
+alco: 0
 ---
 Новинка від Батарейки  
 

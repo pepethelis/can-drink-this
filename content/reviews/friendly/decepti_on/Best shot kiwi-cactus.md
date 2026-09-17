@@ -20,5 +20,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33633
   - https://t.me/sonechkin_rzekich/33634
   - https://t.me/sonechkin_rzekich/33635
+alco: 0
 ---
 Огляд на бест (ні) шот ківі кактус

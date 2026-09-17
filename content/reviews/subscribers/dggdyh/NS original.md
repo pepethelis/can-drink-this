@@ -21,6 +21,7 @@ related:
 externalUrl: https://t.me/kallection/38145
 caffeine: 33
 re:
+alco: 0
 ---
 "NS ORIGINAL" закос на класичний "NON-STOP" від російського бренду "World's best drinks"
 

@@ -23,10 +23,11 @@ primaryColors:
   - white
   - red
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine:
+caffeine: 0
 volume:
   - "0.33"
 createdAt: 2026-07-16
+alco: 0
 ---
 **Borjomi aromati cherry & pomegranate**. Офіційний смак - вишня і гранат
 

@@ -29,6 +29,7 @@ types:
   - energy
 createdAt: 2024-05-20
 old_related: true
+alco: 0
 ---
 **Nonstop ultra**, більш відомий як помаранчевий нонстоп
 

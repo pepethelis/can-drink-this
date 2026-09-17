@@ -19,5 +19,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33966
   - https://t.me/sonechkin_rzekich/33967
 caffeine: 30
+alco: 0
 ---
 Огляд на пікмі полуничний монстер

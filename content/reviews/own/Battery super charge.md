@@ -30,6 +30,7 @@ types:
   - energy
 createdAt: 2026-04-15
 old_related: true
+alco: 0
 ---
 **Battery super charge**. Офіційний смак не зазначено
 

@@ -16,6 +16,7 @@ types:
   - energy
 cover: "[[photo_2025-02-11_11-51-46.jpg]]"
 externalUrl: https://t.me/ukr_satan/4435
+alco: 0
 ---
 Огляд на отруйне #енергохарчування 👁  
 

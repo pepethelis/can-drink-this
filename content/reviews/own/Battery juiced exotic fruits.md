@@ -31,6 +31,7 @@ types:
   - energy
 createdAt: 2026-04-12
 old_related: true
+alco: 0
 ---
 **Battery juiced exotic fruits**. Офіційний смак - екзотичні фрукти, а саме манго, маракуйя та апельсин
 

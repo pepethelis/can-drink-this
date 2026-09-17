@@ -17,5 +17,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33916
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33914
   - https://t.me/sonechkin_rzekich/33915
+alco: 0
 ---
 Огляд на редбулл кактус 🥺

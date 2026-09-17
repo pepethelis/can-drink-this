@@ -29,6 +29,7 @@ types:
   - energy
 createdAt: 2025-05-01
 old_related: true
+alco: 0
 ---
 **Battery juiced sour apple**. Офіційний смак - кисле яблуко
 
