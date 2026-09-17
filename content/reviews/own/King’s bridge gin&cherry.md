@@ -1,6 +1,4 @@
 ---
-caffeine: 0
-
 status: published
 tags:
   - package/canpack
@@ -20,6 +18,7 @@ availability: 4
 volume:
   - "0.5"
 alco: 7
+caffeine: 0
 primaryColors:
   - violet
 manufacturer: new products

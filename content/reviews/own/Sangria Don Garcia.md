@@ -1,7 +1,4 @@
 ---
-caffeine: 0
-alco: 7
-
 status: published
 tags:
 externalUrl: https://t.me/kallection/22579
@@ -19,6 +16,7 @@ availability: 3
 volume:
   - "1.5"
 alco: 7
+caffeine: 0
 primaryColors:
   - red
   - black

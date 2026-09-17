@@ -1,5 +1,4 @@
 ---
-caffeine: 0
 
 status: published
 tags:
@@ -16,6 +15,7 @@ sweeteners:
   - extract/malt
 availability: 5
 alco: 6
+caffeine: 0
 volume:
   - "0.9"
 primaryColors:

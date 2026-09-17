@@ -1,6 +1,4 @@
 ---
-caffeine: 0
-
 status: published
 tags:
 externalUrl: https://t.me/kallection/27996
@@ -18,6 +16,7 @@ availability: 4
 volume:
   - "0.5"
 alco: 7
+caffeine: 0
 primaryColors:
   - blue
 manufacturer: new products

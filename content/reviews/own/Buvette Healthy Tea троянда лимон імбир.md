@@ -1,5 +1,4 @@
 ---
-caffeine: 0
 status: needs update
 tags:
 externalUrl: https://t.me/kallection/27671
@@ -28,6 +27,7 @@ types:
 createdAt: 2025-02-12
 old_related: true
 alco: 0
+caffeine: 0
 ---
 **Buvette Healthy Tea**. Офіційний смак - **троянда, лимон, імбир**
 

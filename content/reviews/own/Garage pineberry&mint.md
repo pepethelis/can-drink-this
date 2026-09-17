@@ -1,6 +1,4 @@
 ---
-caffeine: 0
-
 status: published
 tags:
 externalUrl: https://t.me/kallection/29270
@@ -18,6 +16,7 @@ sweeteners:
   - extract/grape
 availability: 5
 alco: 4.4
+caffeine: 0
 volume:
   - "0.44"
 primaryColors:

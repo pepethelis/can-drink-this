@@ -1,5 +1,4 @@
 ---
-caffeine: 0
 status: published
 tags:
 externalUrl: https://t.me/kallection/24303
@@ -25,6 +24,7 @@ types:
   - water
 createdAt: 2024-11-19
 alco: 0
+caffeine: 0
 ---
 Вода **Aquarte relax**. Офіційний смак - ромашка та маракуйя
 

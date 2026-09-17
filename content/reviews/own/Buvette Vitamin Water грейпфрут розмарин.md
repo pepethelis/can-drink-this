@@ -1,5 +1,4 @@
 ---
-caffeine: 0
 status: needs update
 tags:
 externalUrl: https://t.me/kallection/26108
@@ -25,6 +24,7 @@ types:
 createdAt: 2025-02-07
 old_related: true
 alco: 0
+caffeine: 0
 ---
 **Buvette Vitamin Water**. Офіційний смак - **грейпфрут, розмарин**
 

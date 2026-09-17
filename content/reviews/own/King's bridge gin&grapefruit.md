@@ -1,5 +1,4 @@
 ---
-caffeine: 0
 
 status: published
 tags:
@@ -20,6 +19,7 @@ availability: 5
 volume:
   - "0.5"
 alco: 7
+caffeine: 0
 primaryColors:
   - pink
 manufacturer: new products
