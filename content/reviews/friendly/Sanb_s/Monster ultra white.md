@@ -19,6 +19,8 @@ alco: 0
 externalUrl: https://t.me/ukr_satan/4172
 contentTgPosts:
   - https://t.me/ukr_satan/4172
+listexUrls:
+  - https://listex.info/product/napiy-energetichniy-bezalkogolniy-silnogazovaniy-monster-energy-ultra-zb-500ml-ua-5060947547162
 ---
 Огляд на Мфnstr ultra zero sugar  
 

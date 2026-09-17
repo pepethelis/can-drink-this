@@ -18,5 +18,7 @@ alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33551
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33550
+listexUrls:
+  - https://listex.info/product/500-can-x12-monster-rio-punch-2025-ua-ua-5056784903476
 ---
 Огляд монстер ріо пунш

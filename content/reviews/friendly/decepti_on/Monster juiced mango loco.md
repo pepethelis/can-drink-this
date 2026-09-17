@@ -20,5 +20,8 @@ externalUrl: https://t.me/sonechkin_rzekich/33575
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33573
   - https://t.me/sonechkin_rzekich/33574
+listexUrls:
+  - https://listex.info/product/napiy-energetichniy-bezalkogolniy-silnogazovaniy-monster-energy-mango-loco-zb-500ml-ua-5060947547131
+  - https://listex.info/uk/product/napiy-energetichniy-monster-mangoloco-ba-gaz-zbv-ua-5060639121700
 ---
 Чутчут такая сонна вирішила зробить огляд на монстер фіеста манго
