@@ -18,6 +18,8 @@ types:
   - pre-workout
 cover: "[[photo_2025-03-18_08-18-11.jpg]]"
 alco: 0
+caffeine: 40
+externalUrl: https://t.me/super_skrulling/929
 ---
 **Передтрен Amix CellUP Pre Workout**, `500 мл`., Вишня  
 

@@ -19,5 +19,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33671
   - https://t.me/sonechkin_rzekich/33672
 alco: 0
+caffeine: 32
 ---
 Огляд на баттері з яблуком

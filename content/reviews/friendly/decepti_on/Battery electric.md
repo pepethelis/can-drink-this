@@ -18,5 +18,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33957
   - https://t.me/sonechkin_rzekich/33958
 alco: 0
+caffeine: 32
 ---
 Огляд на баттері синя малина
