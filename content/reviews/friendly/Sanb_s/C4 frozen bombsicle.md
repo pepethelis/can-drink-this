@@ -4,7 +4,6 @@ aliases:
   - С4 frozen bombsicle
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/6745
 publishedAt: 2025-10-15
 cover: "[[photo_2025-10-15_21-21-02.jpg]]"
 types:
@@ -16,6 +15,7 @@ container:
 volume:
   - "0.5"
 alco: 0
+externalUrl: https://t.me/ukr_satan/6745
 ---
 🔥Ту-дух банка С4 frozen bombsicle  
 

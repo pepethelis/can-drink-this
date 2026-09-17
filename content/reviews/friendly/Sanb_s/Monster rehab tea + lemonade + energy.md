@@ -4,7 +4,6 @@ aliases:
   - Monster rehab tea + lemonade + energy
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4925
 publishedAt: 2025-03-18
 cover: "[[photo_2025-03-18_19-41-00.jpg]]"
 types:
@@ -16,6 +15,7 @@ container:
 volume:
   - "0.473"
 alco: 0
+externalUrl: https://t.me/ukr_satan/4925
 ---
 Mфnster Rehab tea + lemonade + energy  
   

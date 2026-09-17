@@ -4,7 +4,6 @@ aliases:
   - Dzik orange
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/7900
 publishedAt: 2026-06-27
 cover: "[[photo_2026-06-27_16-36-50.jpg]]"
 types:
@@ -17,6 +16,8 @@ container:
 volume:
   - "0.5"
 caffeine: 40
+externalUrl: https://t.me/ukr_satan/7900
+alco: 0
 ---
 DZIK energy orange🍊  
 

@@ -4,7 +4,6 @@ aliases:
   - Cult juicy ocean
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/6682
 publishedAt: 2025-10-08
 cover:
 types:
@@ -15,6 +14,7 @@ container:
   - can
 volume:
 alco: 0
+externalUrl: https://t.me/ukr_satan/6682
 contentTgPosts:
   - https://t.me/ukr_satan/6682
 ---

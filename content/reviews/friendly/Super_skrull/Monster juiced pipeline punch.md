@@ -4,7 +4,6 @@ aliases:
   - Monster juiced pipleine punch
 summary:
 status: published
-externalUrl: https://t.me/super_skrulling/813
 publishedAt: 2025-03-10
 cover: "[[photo_2025-03-10_11-41-26.jpg]]"
 types:
@@ -17,6 +16,7 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/super_skrulling/813
 ---
 **M∅NSTER ENERGY PIPELINE PUNCH**
 

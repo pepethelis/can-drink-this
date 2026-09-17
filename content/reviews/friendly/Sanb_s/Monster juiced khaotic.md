@@ -4,7 +4,6 @@ aliases:
   - Monster juiced khaotic
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4454
 publishedAt: 2025-02-13
 cover: "[[photo_2025-02-13_11-25-19.jpg]]"
 types:
@@ -17,6 +16,7 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/4454
 ---
 Ще одине #енергохарчування з серії Juised Mфnster - KHAOTIC  
 

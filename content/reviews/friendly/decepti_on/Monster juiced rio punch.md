@@ -4,7 +4,6 @@ aliases:
   - Monster juiced rio punch
 summary: Огляд монстер ріо пунш
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33551
 publishedAt: 2025-08-19
 cover:
 types:
@@ -16,6 +15,7 @@ container:
 volume:
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33551
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33550
 ---

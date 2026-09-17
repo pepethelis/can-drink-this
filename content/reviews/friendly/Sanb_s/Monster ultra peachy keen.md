@@ -4,7 +4,6 @@ aliases:
   - Monster ultra peachy keen
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4318
 publishedAt: 2025-02-01
 cover: "[[photo_2025-02-01_21-01-34.jpg]]"
 types:
@@ -17,6 +16,7 @@ container:
 volume:
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/4318
 ---
 Mфnster ultra peachy keen  
 

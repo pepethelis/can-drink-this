@@ -4,7 +4,6 @@ aliases:
   - Burn orange fire
 summary: Огляд на Берн з апельсином
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33303
 publishedAt:
 cover:
 types:
@@ -17,6 +16,7 @@ container:
 volume:
   - "0.25"
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33303
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33302
 ---

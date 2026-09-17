@@ -5,7 +5,6 @@ aliases:
   - Pitbull power
 summary: Огляд на синій пітбуль по знижці в атб
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33315
 publishedAt:
 cover:
 types:
@@ -17,6 +16,7 @@ container:
 volume:
   - "0.25"
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33315
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33313
   - https://t.me/sonechkin_rzekich/33314

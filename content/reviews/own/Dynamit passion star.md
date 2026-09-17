@@ -26,7 +26,7 @@ manufacturer: лидскае пиво
 volume:
   - "0.45"
 caffeine:
-alco:
+alco: 0
 sponsor:
   - dggdyh
 availability: 2

@@ -4,7 +4,6 @@ aliases:
   - Monster ultra paradise
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4768
 publishedAt: 2025-03-05
 cover: "[[photo_2025-03-05_12-01-24.jpg]]"
 types:
@@ -17,6 +16,7 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/4768
 ---
 Мфnster ultra Paradise🌴  
 

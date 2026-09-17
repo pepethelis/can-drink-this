@@ -4,7 +4,6 @@ aliases:
   - Oops
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/5564
 publishedAt: 2025-06-09
 cover: "[[photo_2025-06-09_22-03-17.jpg]]"
 types:
@@ -16,6 +15,8 @@ container:
 volume:
   - "0.5"
 caffeine: 16
+externalUrl: https://t.me/ukr_satan/5564
+alco: 0
 ---
 Огляд на #енергохарчування OOPS  
 

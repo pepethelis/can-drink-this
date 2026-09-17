@@ -4,7 +4,6 @@ aliases:
   - Monster Lando Norris
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/6831
 publishedAt: 2025-10-25
 cover: "[[photo_2025-10-25_16-04-14.jpg]]"
 types:
@@ -16,6 +15,7 @@ container:
 volume:
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/6831
 ---
 Mфnster Lando Norris без цукру  
   

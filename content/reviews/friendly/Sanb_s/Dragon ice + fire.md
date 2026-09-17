@@ -6,7 +6,6 @@ aliases:
   - Dragon fire
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/1871
 publishedAt: 2024-09-16
 cover: "[[photo_2024-09-16_09-23-40.jpg]]"
 types:
@@ -17,6 +16,8 @@ container:
   - plastic
 volume:
 caffeine: 35
+externalUrl: https://t.me/ukr_satan/1871
+alco: 0
 ---
 СаТаНа повертається😈  
 

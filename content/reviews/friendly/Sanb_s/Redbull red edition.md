@@ -4,7 +4,6 @@ aliases:
   - Redbull red edition
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4415
 publishedAt: 2025-02-10
 cover: "[[photo_2025-02-10_10-56-55.jpg]]"
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/4415
 ---
 Раптовий огляд на редбулівське кавуняче #енергохарчування 
 

@@ -4,7 +4,6 @@ aliases:
   - Nonstop military
 summary: Огляд нонстоп мілітарі ✨
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33587
 publishedAt: 2025-08-24
 cover:
 types:
@@ -17,6 +16,7 @@ container:
 volume:
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33587
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33585
   - https://t.me/sonechkin_rzekich/33586

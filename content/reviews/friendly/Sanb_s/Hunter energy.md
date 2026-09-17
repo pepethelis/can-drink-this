@@ -4,7 +4,6 @@ aliases:
   - Hunter energy
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4364
 publishedAt: 2025-10-30
 cover: "[[photo_2025-10-30_14-13-24.jpg]]"
 types:
@@ -15,6 +14,8 @@ container:
   - plastic
 volume:
   - "0.5"
+externalUrl: https://t.me/ukr_satan/4364
+alco: 0
 ---
 Так, ну що я можу сказати про HUNTER ENERGY  
 

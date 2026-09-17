@@ -4,7 +4,6 @@ aliases:
   - Amix CellUP Pre Workout
 summary:
 status: published
-externalUrl: https://t.me/super_skrulling/929
 publishedAt: 2025-03-18
 cover: "[[photo_2025-03-18_08-18-11.jpg]]"
 types:
@@ -20,6 +19,7 @@ volume:
   - "0.5"
 caffeine: 40
 alco: 0
+externalUrl: https://t.me/super_skrulling/929
 ---
 **Передтрен Amix CellUP Pre Workout**, `500 мл`., Вишня  
 

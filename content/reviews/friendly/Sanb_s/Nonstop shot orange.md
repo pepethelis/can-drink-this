@@ -4,7 +4,6 @@ aliases:
   - Nonstop shot orange vibe
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/8097
 publishedAt: 2026-08-22
 cover: "[[photo_2026-08-22_18-16-43.jpg]]"
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.06"
 caffeine: 250
 alco: 0
+externalUrl: https://t.me/ukr_satan/8097
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-negazovaniy-z-pidsolodzhuvachem-non-stop-orandzh-vayb-enerdzhi-shot-ua-4820252125865
 ---

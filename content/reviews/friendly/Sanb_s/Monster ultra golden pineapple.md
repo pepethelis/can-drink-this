@@ -4,7 +4,6 @@ aliases:
   - Monster ultra golden pineapple
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4705
 publishedAt: 2025-03-01
 cover: "[[photo_2025-03-01_20-56-36.jpg]]"
 types:
@@ -16,6 +15,7 @@ container:
   - can
 volume:
 alco: 0
+externalUrl: https://t.me/ukr_satan/4705
 ---
 Вечірнє #енергохарчування  
 

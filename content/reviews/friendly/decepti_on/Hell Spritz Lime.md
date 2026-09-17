@@ -4,7 +4,6 @@ aliases:
   - Hell Spritz Lime
 summary: Огляд на хелл лайм
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33403
 publishedAt: 2025-07-10
 cover:
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33403
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33400
   - https://t.me/sonechkin_rzekich/33401

@@ -4,7 +4,6 @@ aliases:
   - Monster juiced monarch
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/6727
 publishedAt: 2025-10-10
 cover: "[[photo_2025-10-10_19-20-16.jpg]]"
 types:
@@ -16,6 +15,7 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/6727
 ---
 #енергохарчування Monster Monarch  
 

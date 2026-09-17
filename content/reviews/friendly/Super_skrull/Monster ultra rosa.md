@@ -4,7 +4,6 @@ aliases:
   - Monster ultra rosa
 summary: "Flavour Profile: Bright and Sweet"
 status: published
-externalUrl: https://t.me/super_skrulling/808
 publishedAt: 2025-03-09
 cover: "[[photo_2025-03-09_09-11-55.jpg]]"
 types:
@@ -17,6 +16,7 @@ container:
 volume:
   - "0.5"
 alco: 0
+externalUrl: https://t.me/super_skrulling/808
 ---
 **M∅NSTER ENERGY ULTRA ROSÁ**
 

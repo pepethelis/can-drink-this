@@ -4,7 +4,6 @@ aliases:
   - Hell peach-lemon
 summary: Огляд на хелл персик лимон (перепрошую на фоні єбашать в кампютєр)
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33514
 publishedAt: 2025-08-06
 cover:
 types:
@@ -19,6 +18,7 @@ volume:
   - "0.5"
 caffeine: 30
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33514
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33512
   - https://t.me/sonechkin_rzekich/33513

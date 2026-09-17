@@ -4,7 +4,6 @@ aliases:
   - Monster juiced khaotic
 summary: Огляд на монстер хаотік з метеликами 🦋🦋🦋
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33539
 publishedAt: 2025-08-16
 cover:
 types:
@@ -16,6 +15,7 @@ container:
 volume:
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33539
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33538
 ---

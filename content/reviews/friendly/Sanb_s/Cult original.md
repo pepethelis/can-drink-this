@@ -4,7 +4,6 @@ aliases:
   - Cult original
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/6926
 publishedAt: 2025-11-04
 cover: "[[photo_2025-11-04_22-37-04.jpg]]"
 types:
@@ -17,6 +16,7 @@ container:
 volume:
   - "0.5"
 alco: 0
+externalUrl: https://t.me/ukr_satan/6926
 ---
 CULT energy activator Original  
 

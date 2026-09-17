@@ -4,7 +4,6 @@ aliases:
   - Venom original
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4435
 publishedAt: 2025-02-11
 cover: "[[photo_2025-02-11_11-51-46.jpg]]"
 types:
@@ -17,6 +16,7 @@ container:
 volume:
   - "0.473"
 alco: 0
+externalUrl: https://t.me/ukr_satan/4435
 ---
 Огляд на отруйне #енергохарчування 👁  
 

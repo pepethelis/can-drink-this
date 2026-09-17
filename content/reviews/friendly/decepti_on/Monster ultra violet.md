@@ -4,7 +4,6 @@ aliases:
   - Monster ultra violet
 summary:
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/34045
 publishedAt: 2026-07-15
 cover:
 types:
@@ -15,6 +14,7 @@ container:
   - can
 volume:
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/34045
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34045
 ---

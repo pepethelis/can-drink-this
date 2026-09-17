@@ -4,7 +4,6 @@ aliases:
   - Monster black zero
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/5488
 publishedAt: 2025-05-22
 cover: "[[photo_2025-05-22_10-02-07.jpg]]"
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/5488
 ---
 Огляд на новий для нашого ринку Mфnster zero sugar  
 

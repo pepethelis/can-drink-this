@@ -4,7 +4,6 @@ aliases:
   - Pitbull army
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4719
 publishedAt: 2025-03-03
 cover: "[[photo_2025-03-03_10-07-08.jpg]]"
 types:
@@ -17,6 +16,7 @@ container:
 volume:
   - "0.5"
 alco: 0
+externalUrl: https://t.me/ukr_satan/4719
 ---
 Огляд на PITBULL ARMY  
   

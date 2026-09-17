@@ -4,7 +4,6 @@ aliases:
   - Burn white gummy bear
 summary:
 status: published
-externalUrl: https://t.me/super_skrulling/4212
 publishedAt: 2026-09-07
 cover: "[[photo_2026-09-07_09-56-30.jpg]]"
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/super_skrulling/4212
 ---
 **BURN WHITE GUMMY BEAR**  
 

@@ -4,7 +4,6 @@ aliases:
   - Monster nitro blue flash
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/8067
 publishedAt: 2026-08-14
 cover: "[[photo_2026-08-14_11-56-53.jpg]]"
 types:
@@ -17,6 +16,7 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/8067
 ---
 Mфnster NITRO blue flash💎  
 

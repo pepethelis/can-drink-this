@@ -4,7 +4,6 @@ aliases:
   - Revo energy
 summary: Огляд на рево БЕЗАЛКОГОЛЬНЕ
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33761
 publishedAt: 2025-11-22
 cover:
 types:
@@ -16,6 +15,7 @@ container:
 volume:
   - "0.25"
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33761
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33760
 ---

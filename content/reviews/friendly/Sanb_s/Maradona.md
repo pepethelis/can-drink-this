@@ -4,7 +4,6 @@ aliases:
   - Maradona
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4895
 publishedAt: 2025-03-17
 cover: "[[photo_2025-03-17_20-47-00.jpg]]"
 types:
@@ -17,6 +16,7 @@ container:
 volume:
   - "0.25"
 alco: 0
+externalUrl: https://t.me/ukr_satan/4895
 ---
 ОЛЄ-ОЛЄ-ОЛЄ ⚽️⚽️⚽️⚽️  
 

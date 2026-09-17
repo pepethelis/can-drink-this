@@ -4,7 +4,6 @@ aliases:
   - Monster java 300 french vanilla
 summary:
 status: published
-externalUrl: https://t.me/super_skrulling/169
 publishedAt: 2024-09-07
 cover: "[[photo_2024-09-07_08-30-33.jpg]]"
 types:
@@ -18,6 +17,7 @@ container:
 volume:
   - "0.5"
 alco: 0
+externalUrl: https://t.me/super_skrulling/169
 ---
 **JAVA MONSTER FRENCH VANILLA TRIPLE SHOT**  
 Смак: френч ванілла  

@@ -4,7 +4,6 @@ aliases:
   - Brainer
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/3896
 publishedAt: 2025-01-10
 cover: "[[photo_2025-01-10_11-07-02.jpg]]"
 types:
@@ -16,6 +15,7 @@ container:
 volume:
   - "0.25"
 alco: 0
+externalUrl: https://t.me/ukr_satan/3896
 ---
 Надибав 👁ось таку хрінь. Brainer - крінжова назва, але напій обіцяє підвищення концентрації, покращення пам'яті, підвищення ефективності мислення, має купу вітамінів та без гуарани і кофеїну.  
   

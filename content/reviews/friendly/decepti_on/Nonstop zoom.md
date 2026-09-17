@@ -4,7 +4,6 @@ aliases:
   - Nonstop zoom
 summary: Огляд на нонстоп зум
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/32861
 publishedAt: 2024-08-22
 cover:
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/32861
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32859
   - https://t.me/sonechkin_rzekich/32860

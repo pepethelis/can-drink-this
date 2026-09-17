@@ -4,7 +4,6 @@ aliases:
   - Battery electric
 summary: Огляд на баттері синя малина
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33959
 publishedAt: 2026-03-25
 cover:
 types:
@@ -16,6 +15,7 @@ container:
 volume:
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33959
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33957
   - https://t.me/sonechkin_rzekich/33958

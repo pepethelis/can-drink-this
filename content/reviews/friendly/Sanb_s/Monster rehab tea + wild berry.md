@@ -4,7 +4,6 @@ aliases:
   - Monster rehab tea + wild berry
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/7927
 publishedAt: 2026-07-05
 cover: "[[photo_2026-07-05_19-37-48.jpg]]"
 types:
@@ -15,6 +14,7 @@ container:
   - can
 volume:
 alco: 0
+externalUrl: https://t.me/ukr_satan/7927
 ---
 Mфnster Rehab чай + лісові ягоди  
 

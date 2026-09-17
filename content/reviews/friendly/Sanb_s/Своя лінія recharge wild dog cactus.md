@@ -4,7 +4,6 @@ aliases:
   - Своя лінія recharge wild dog cactus
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/5319
 publishedAt: 2025-04-23
 cover: "[[photo_2025-04-23_10-01-22.jpg]]"
 types:
@@ -18,6 +17,7 @@ volume:
   - "1"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/5319
 ---
 Огляд який я заборгував...  
 

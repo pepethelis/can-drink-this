@@ -16,6 +16,7 @@ taste:
 container:
   - can
 volume:
+alco: 0
 ---
 Огляд на біле "Чорне" #енергохарчування 
 

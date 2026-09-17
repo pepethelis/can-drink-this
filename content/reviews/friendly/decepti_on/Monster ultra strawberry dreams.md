@@ -4,7 +4,6 @@ aliases:
   - Monster ultra strawberry dreams
 summary: Огляд на пікмі полуничний монстер
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33968
 publishedAt: 2026-04-04
 cover:
 types:
@@ -17,6 +16,7 @@ container:
 volume:
 caffeine: 30
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33968
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33966
   - https://t.me/sonechkin_rzekich/33967

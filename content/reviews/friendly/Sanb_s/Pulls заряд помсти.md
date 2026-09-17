@@ -4,7 +4,6 @@ aliases:
   - Pulls заряд помсти
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/5537
 publishedAt: 2025-06-01
 cover: "[[photo_2026-08-31_18-58-12.jpg]]"
 types:
@@ -19,6 +18,8 @@ container:
 volume:
   - "0.25"
 caffeine: 35
+externalUrl: https://t.me/ukr_satan/5537
+alco: 0
 ---
 PULLS заряд помсти⚡️⚡️  
   

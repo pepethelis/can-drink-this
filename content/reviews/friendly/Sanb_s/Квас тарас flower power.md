@@ -4,7 +4,6 @@ aliases:
   - Квас тарас flower power
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/1591
 publishedAt: 2024-08-19
 types:
   - kvass
@@ -16,6 +15,7 @@ volume:
   - "0.5"
 caffeine: 0
 alco: 0
+externalUrl: https://t.me/ukr_satan/1591
 contentTgPosts:
   - https://t.me/ukr_satan/1591
 ---

@@ -4,7 +4,6 @@ aliases:
   - Battery juiced peach lemonade
 summary: Огляд на енергетик баттері лимон персик та сирочок лимонний
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33640
 publishedAt: 2025-09-12
 cover:
 types:
@@ -17,6 +16,7 @@ container:
 volume:
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33640
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33638
   - https://t.me/sonechkin_rzekich/33639

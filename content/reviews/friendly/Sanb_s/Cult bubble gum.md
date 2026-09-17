@@ -4,7 +4,6 @@ aliases:
   - Cult bubble gum
 summary: Загалом скажу, що це краще і збалансованіше ніж усі фруктові монстри. Є ще різні банки, сподіваюсь, вони такі ж кайфові будуть
 status: published
-externalUrl: https://t.me/ukr_satan/6641
 publishedAt: 2025-10-05
 cover:
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/6641
 contentTgPosts:
   - https://t.me/ukr_satan/6641
 ---

@@ -4,7 +4,6 @@ aliases:
   - Monster ultra black
 summary: Огляд на монстер чорна вишня
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33978
 publishedAt: 2026-04-16
 cover:
 types:
@@ -16,6 +15,7 @@ container:
 volume:
   - "0.5"
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33978
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33976
   - https://t.me/sonechkin_rzekich/33977

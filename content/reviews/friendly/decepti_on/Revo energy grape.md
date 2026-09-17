@@ -4,7 +4,6 @@ aliases:
   - Revo energy grape
 summary: Огляд на колінці на БЕЗАЛКОГОЛЬНЕ рево з виноградом
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33786
 publishedAt: 2025-12-12
 cover:
 types:
@@ -17,6 +16,7 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33786
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33785
 ---

@@ -4,7 +4,6 @@ aliases:
   - Fanta berry
 summary: Огляд на фанту бабкін компот МАЛИНОВИЙ
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33287
 publishedAt: 2025-06-13
 cover:
 types:
@@ -17,6 +16,7 @@ container:
 volume:
 caffeine: 0
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33287
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33286
 ---

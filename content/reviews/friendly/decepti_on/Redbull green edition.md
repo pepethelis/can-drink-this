@@ -4,7 +4,6 @@ aliases:
   - Redbull green edition
 summary: Огляд на редбулл кактус 🥺
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33916
 publishedAt: 2026-03-06
 cover:
 types:
@@ -15,6 +14,7 @@ container:
   - can
 volume:
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33916
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33914
   - https://t.me/sonechkin_rzekich/33915

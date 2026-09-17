@@ -4,7 +4,6 @@ aliases:
   - Battery juiced peach lemonade
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/5360
 publishedAt: 2025-04-27
 cover: "[[photo_2025-04-27_16-21-27.jpg]]"
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/5360
 ---
 Новинка від Батарейки  
 

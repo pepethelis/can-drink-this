@@ -4,7 +4,6 @@ aliases:
   - Pulse
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4364
 publishedAt: 2025-02-05
 cover: "[[photo_2025-02-05_12-25-47.jpg]]"
 types:
@@ -17,6 +16,8 @@ container:
 volume:
   - "0.25"
 caffeine: 20
+externalUrl: https://t.me/ukr_satan/4364
+alco: 0
 ---
 Виготовлене в Польщі для Литви і нарешті імпортоване в Україну #енергохарчування  
 

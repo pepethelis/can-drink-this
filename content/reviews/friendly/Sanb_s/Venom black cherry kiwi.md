@@ -4,7 +4,6 @@ aliases:
   - Venom black cherry kiwi
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4445
 publishedAt: 2025-02-12
 cover: "[[photo_2025-02-12_23-02-16.jpg]]"
 types:
@@ -19,6 +18,7 @@ volume:
   - "0.473"
 caffeine: 33
 alco: 0
+externalUrl: https://t.me/ukr_satan/4445
 ---
 Унікальне комбо #енергохарчування - черешня + ківі  
 

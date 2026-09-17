@@ -4,7 +4,6 @@ aliases:
   - Hunter original
 summary: Огляд на енергетик хантер оригінальний
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33595
 publishedAt: 2025-08-28
 cover:
 types:
@@ -14,7 +13,9 @@ taste:
 container:
   - can
 volume:
+externalUrl: https://t.me/sonechkin_rzekich/33595
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33594
+alco: 0
 ---
 Огляд на енергетик хантер оригінальний

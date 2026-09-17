@@ -4,7 +4,6 @@ aliases:
   - Своя лінія reCharge
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/5178
 publishedAt: 2025-04-08
 cover: "[[photo_2025-04-08_10-30-48.jpg]]"
 types:
@@ -17,6 +16,7 @@ volume:
   - "1"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/5178
 ---
 Я до речі вже тиждень ніяк не напишу огляд на це #енергохарчування ⚡️⚡️⚡️
 

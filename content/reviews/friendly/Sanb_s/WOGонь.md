@@ -4,7 +4,6 @@ aliases:
   - WOGонь
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4327
 publishedAt: 2025-02-02
 cover:
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.33"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/4327
 contentTgPosts:
   - https://t.me/ukr_satan/4327
 ---

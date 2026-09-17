@@ -4,7 +4,6 @@ aliases:
   - Hell goji berry
 summary: "Огляд на енергетик хелл з ягодами годжі:"
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33073
 publishedAt: 2025-02-12
 cover:
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.5"
 caffeine: 30
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33073
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33071
   - https://t.me/sonechkin_rzekich/33072

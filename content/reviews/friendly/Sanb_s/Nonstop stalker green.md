@@ -4,7 +4,6 @@ aliases:
   - Nonstop stalker green
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/5528
 publishedAt: 2025-05-29
 cover: "[[photo_2025-05-29_18-49-50.jpg]]"
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/5528
 ---
 Ну шо, легендарне #енергохарчування NON STOP STALKER GREEN  
 

@@ -4,7 +4,6 @@ aliases:
   - TwoЄcbd
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/5558
 publishedAt: 2025-06-08
 cover: "[[photo_2025-06-08_18-18-58.jpg]]"
 types:
@@ -17,6 +16,7 @@ volume:
   - "0.33"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/5558
 ---
 Two є cbd 😆 (типу твоє, назва піздець їбана)  
 

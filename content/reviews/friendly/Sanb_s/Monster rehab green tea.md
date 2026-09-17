@@ -4,7 +4,6 @@ aliases:
   - Monster rehab green tea
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4789
 publishedAt: 2025-03-06
 cover: "[[photo_2025-03-06_10-08-25.jpg]]"
 types:
@@ -16,6 +15,7 @@ container:
 volume:
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/4789
 ---
 Mфnster Rehab green tea  
   

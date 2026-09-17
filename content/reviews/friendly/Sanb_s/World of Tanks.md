@@ -4,7 +4,6 @@ aliases:
   - World of Tanks
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/1453
 publishedAt:
 cover:
 types:
@@ -16,6 +15,7 @@ container:
 volume:
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/1453
 contentTgPosts:
   - https://t.me/ukr_satan/1438
 ---

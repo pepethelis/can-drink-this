@@ -4,7 +4,6 @@ aliases:
   - Hell Spritz Maracuja
 summary: Огляд на хелл шприц маракуя 🤕
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33544
 publishedAt: 2025-08-18
 cover:
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33544
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33543
 ---

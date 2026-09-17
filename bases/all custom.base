@@ -32,5 +32,5 @@ views:
       - caffeine
       - listexUrls
     sort:
-      - property: file.name
+      - property: caffeine
         direction: ASC

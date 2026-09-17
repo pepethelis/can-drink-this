@@ -4,7 +4,6 @@ aliases:
   - Burn white gummy bear
 summary: Огляд на енергєтічєскій напіток Берн з ведмедиками гаммі
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/34055
 publishedAt: 2026-07-11
 cover:
 types:
@@ -17,6 +16,7 @@ container:
 volume:
   - "0.25"
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/34055
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34054
 ---

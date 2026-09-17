@@ -4,7 +4,6 @@ aliases:
   - C4 twisted limeade
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/6823
 publishedAt: 2025-10-24
 cover: "[[photo_2025-10-24_13-02-33.jpg]]"
 types:
@@ -16,6 +15,7 @@ container:
 volume:
   - "0.5"
 alco: 0
+externalUrl: https://t.me/ukr_satan/6823
 ---
 Огляд на ще один [С4](https://t.me/ukr_satan/6745) тепер Twisted Limeade  
 

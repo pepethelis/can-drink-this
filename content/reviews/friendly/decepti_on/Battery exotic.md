@@ -4,7 +4,6 @@ aliases:
   - Battery exotic
 summary: Огляд на баттері екзотік
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/33631
 publishedAt: 2025-09-10
 cover:
 types:
@@ -16,6 +15,7 @@ container:
 volume:
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/33631
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33629
   - https://t.me/sonechkin_rzekich/33630

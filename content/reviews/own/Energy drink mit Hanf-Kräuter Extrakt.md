@@ -30,6 +30,7 @@ availability: 1
 favorite: true
 tags:
   - package/amp
+alco: 0
 ---
 **Energy drink mit Hanf-Kräuter Extrakt**. Офіційний смак - екстракт канабісу
 

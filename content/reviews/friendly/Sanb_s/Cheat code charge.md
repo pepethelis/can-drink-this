@@ -4,7 +4,6 @@ aliases:
   - Cheat code charge
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/6521
 publishedAt: 2025-09-26
 cover: "[[photo_2025-09-26_09-54-37.jpg]]"
 types:
@@ -17,6 +16,7 @@ container:
 volume:
   - "0.33"
 alco: 0
+externalUrl: https://t.me/ukr_satan/6521
 ---
 Відразу хочу чирконути про cheat_code з вишневим смаком:  
 

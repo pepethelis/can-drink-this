@@ -4,7 +4,6 @@ aliases:
   - Ngine
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4739
 publishedAt: 2025-03-04
 cover: "[[photo_2025-03-04_11-06-40.jpg]]"
 types:
@@ -16,6 +15,8 @@ container:
 volume:
   - "0.25"
 caffeine: 32
+externalUrl: https://t.me/ukr_satan/4739
+alco: 0
 ---
 Польське #енергохарчування NGINE  
 

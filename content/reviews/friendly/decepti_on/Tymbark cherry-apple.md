@@ -4,7 +4,6 @@ aliases:
   - Tymbark cherry-apple
 summary: Огляд соку
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/30969
 publishedAt: 2023-07-01
 cover:
 types:
@@ -18,6 +17,7 @@ container:
 volume:
 caffeine: 0
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/30969
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/30968
 ---

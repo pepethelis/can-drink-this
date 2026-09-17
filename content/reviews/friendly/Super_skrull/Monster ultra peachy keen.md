@@ -4,7 +4,6 @@ aliases:
   - Monster ultra peachy keen
 summary: Спонсор огляду ЯНМУНД. Прислав дві баночки на огляд, за що йому велике дякую ❤️
 status: published
-externalUrl: https://t.me/super_skrulling/3432
 publishedAt: 2026-04-21
 cover: "[[photo_2026-04-17_09-24-50.jpg]]"
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.5"
 caffeine: 30
 alco: 0
+externalUrl: https://t.me/super_skrulling/3432
 contentTgPosts:
   - https://t.me/super_skrulling/3434
 ---

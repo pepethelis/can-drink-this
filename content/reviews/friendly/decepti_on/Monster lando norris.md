@@ -4,7 +4,6 @@ aliases:
   - Monster lando norris
 summary:
 status: published
-externalUrl: https://t.me/sonechkin_rzekich/34042
 publishedAt: 2026-07-15
 cover:
 types:
@@ -16,6 +15,7 @@ container:
 volume:
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/sonechkin_rzekich/34042
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34042
 ---

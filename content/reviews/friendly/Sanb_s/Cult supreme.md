@@ -3,7 +3,6 @@ author: sanb_s
 aliases:
   - Cult supreme
 status: published
-externalUrl: https://t.me/ukr_satan/6954
 publishedAt: 2025-11-06
 cover: "[[photo_2025-11-06_11-43-44.jpg]]"
 types:
@@ -14,6 +13,7 @@ container:
 volume:
   - "0.5"
 alco: 0
+externalUrl: https://t.me/ukr_satan/6954
 ---
 CULT supreme  
 

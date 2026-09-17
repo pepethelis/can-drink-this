@@ -4,7 +4,6 @@ aliases:
   - Tiger classic max
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4894
 publishedAt: 2025-03-17
 cover: "[[photo_2025-03-17_20-36-04.jpg]]"
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.25"
 caffeine: 48
 alco: 0
+externalUrl: https://t.me/ukr_satan/4894
 ---
 Зацініть які в Польщі тигри водяться. Думали їх там немає, а вони є  
 

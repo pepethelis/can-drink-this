@@ -4,7 +4,6 @@ aliases:
   - Redbull summer edition zero
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/7892
 publishedAt: 2026-06-23
 cover: "[[photo_2026-06-23_19-19-48.jpg]]"
 types:
@@ -16,6 +15,7 @@ container:
 volume:
   - "0.25"
 alco: 0
+externalUrl: https://t.me/ukr_satan/7892
 ---
 Новеньке #енергохарчування  
 

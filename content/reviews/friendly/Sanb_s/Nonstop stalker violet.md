@@ -4,7 +4,6 @@ aliases:
   - Nonstop stalker violet
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/1300
 publishedAt: 2024-07-19
 cover: "[[photo_2024-07-29_22-10-09.jpg]]"
 types:
@@ -19,6 +18,7 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/1300
 ---
 #енергохарчування  
 

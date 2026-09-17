@@ -1,10 +1,10 @@
 ---
-publishedAt: 2026-05-04
-summary: ""
-cover: "[[IMG_8601.jpg]]"
 aliases:
   - Наявність батарейки frsh
+summary: ""
 externalUrl: https://t.me/kallection/35940
+publishedAt: 2026-05-04
+cover: "[[IMG_8601.jpg]]"
 ---
 усім, хто, як і я, підозрював, що цю батарейку зняли з виробництва, поспішаю повідомити, що її досі виробляють
 

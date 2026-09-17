@@ -4,7 +4,6 @@ aliases:
   - Geyser forest drop
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4963
 publishedAt: 2025-03-22
 cover: "[[photo_2025-03-22_19-51-34.jpg]]"
 types:
@@ -17,6 +16,7 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/4963
 ---
 Раптовий огляд на #енергохарчування GAYser forest drop🌲  
 

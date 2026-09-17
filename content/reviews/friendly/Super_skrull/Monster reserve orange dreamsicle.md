@@ -4,7 +4,6 @@ aliases:
   - Monster reserve orange dreamsicle
 summary:
 status: published
-externalUrl: https://t.me/super_skrulling/2252
 publishedAt: 2025-09-28
 cover: "[[photo_2025-09-28_15-52-07.jpg]]"
 types:
@@ -17,6 +16,7 @@ container:
 volume:
   - "0.473"
 alco: 0
+externalUrl: https://t.me/super_skrulling/2252
 ---
 **M∅NSTER ENERGY Reserve Orange Dreamsicle**
 

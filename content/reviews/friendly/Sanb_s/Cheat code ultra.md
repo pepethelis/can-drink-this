@@ -4,7 +4,6 @@ aliases:
   - Cheat code ultra
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/6519
 publishedAt: 2025-09-25
 cover: "[[photo_2025-09-25_15-51-21.jpg]]"
 types:
@@ -17,6 +16,7 @@ volume:
   - "0.33"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/6519
 ---
 І так несподіване #енергохарчування cheat_code бузина та лимон  
 

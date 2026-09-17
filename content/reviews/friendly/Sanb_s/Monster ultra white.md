@@ -4,7 +4,6 @@ aliases:
   - Monster ultra white
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4172
 publishedAt: 2025-01-23
 types:
   - energy
@@ -17,6 +16,7 @@ volume:
   - "0.5"
 caffeine: 30
 alco: 0
+externalUrl: https://t.me/ukr_satan/4172
 contentTgPosts:
   - https://t.me/ukr_satan/4172
 ---

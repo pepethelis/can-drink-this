@@ -4,7 +4,6 @@ aliases:
   - Monster ultra black
 summary:
 status: published
-externalUrl: https://t.me/super_skrulling/4189
 publishedAt: 2026-09-04
 cover: "[[photo_2026-09-04_08-30-57.jpg]]"
 types:
@@ -17,6 +16,7 @@ volume:
   - "0.5"
 caffeine: 30
 alco: 0
+externalUrl: https://t.me/super_skrulling/4189
 ---
 **M∅NSTER ENERGY ULTRA BLACK**  
 

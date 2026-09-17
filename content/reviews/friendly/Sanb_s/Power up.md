@@ -4,7 +4,6 @@ aliases:
   - Power up
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4534
 publishedAt:
 cover: "[[photo_2025-02-20_11-36-57.jpg]]"
 types:
@@ -16,6 +15,8 @@ container:
 volume:
   - "1"
 caffeine: 32
+externalUrl: https://t.me/ukr_satan/4534
+alco: 0
 ---
 А таке #енергохарчування ви куштували???  
 

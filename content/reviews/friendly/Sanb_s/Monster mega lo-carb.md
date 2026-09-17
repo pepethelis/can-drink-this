@@ -4,7 +4,6 @@ aliases:
   - Monster mega lo-carb
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/4964
 publishedAt: 2025-03-22
 cover:
 types:
@@ -16,6 +15,7 @@ container:
 volume:
   - "0.71"
 alco: 0
+externalUrl: https://t.me/ukr_satan/4964
 contentTgPosts:
   - https://t.me/ukr_satan/4964
   - https://t.me/ukr_satan/4965

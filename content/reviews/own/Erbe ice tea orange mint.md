@@ -26,7 +26,7 @@ manufacturer: ТОВ "Асканія Бевериджиз"
 volume:
   - "0.33"
 caffeine: 0
-alco:
+alco: 0
 availability: 3
 favorite:
 ---

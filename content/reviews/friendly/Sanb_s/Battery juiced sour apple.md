@@ -4,7 +4,6 @@ aliases:
   - Battery juiced sour apple
 summary:
 status: published
-externalUrl: https://t.me/ukr_satan/5391
 publishedAt: 2025-05-01
 cover: "[[photo_2025-05-01_15-48-05.jpg]]"
 types:
@@ -18,6 +17,7 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/ukr_satan/5391
 ---
 Огляд на кисленьке яблучне 🍏🍎 #енергохарчування  
 
