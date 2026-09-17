@@ -34,6 +34,8 @@ related:
   - "[[content/reviews/own/Квас тарас flower power|Квас тарас flower power]]"
   - "[[Cola default|Кола звичайна]]"
 createdAt: 2025-01-17
+caffeine: 0
+alco: 0
 ---
 **Fanta Shokata Zero Sugar**
 

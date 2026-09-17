@@ -31,6 +31,8 @@ related:
   - "[[Vega Milk banana]]"
   - "[[Vega Milk coconut]]"
 createdAt: 2026-04-25
+caffeine: 0
+alco: 0
 ---
 **Jaffa ice coffee moccaccino**. Офіційний смак - мокачіно
 

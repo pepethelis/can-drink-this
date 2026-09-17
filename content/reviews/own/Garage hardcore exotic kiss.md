@@ -17,7 +17,7 @@ primaryColors:
   - orange
   - black
 manufacturer: carlsberg
-caffeine:
+caffeine: 0
 aliases:
   - Garage hardcore exotic kiss
 volume:

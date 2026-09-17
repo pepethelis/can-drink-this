@@ -27,6 +27,7 @@ types:
   - fizzy
 createdAt: 2026-05-16
 alco: 0
+caffeine: 0
 ---
 **Shake zero mojito**. Друга банка з новітньої партії. Першою була [[Shake zero pina colada|піна колада]]
 

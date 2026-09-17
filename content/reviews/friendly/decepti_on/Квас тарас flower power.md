@@ -17,5 +17,7 @@ externalUrl: https://t.me/sonechkin_rzekich/32505
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32503
   - https://t.me/sonechkin_rzekich/32504
+alco: 0
+caffeine: 0
 ---
 ОГЛЯД на квітковий квас Тарас 8/10

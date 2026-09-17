@@ -17,5 +17,7 @@ types:
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32250
 externalUrl: https://t.me/sonechkin_rzekich/32251
+caffeine: 0
+alco: 0
 ---
 Огляд на моджо жовте мені на сподобалось 🥸

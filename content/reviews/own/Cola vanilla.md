@@ -19,7 +19,7 @@ summary:
 primaryColors:
   - creme
 manufacturer:
-caffeine:
+caffeine: 0
 volume:
   - "0.33"
 alco: 0

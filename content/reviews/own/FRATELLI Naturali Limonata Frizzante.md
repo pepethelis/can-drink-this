@@ -28,6 +28,8 @@ related:
   - "[[Arizona green tea with honey]]"
   - "[[Моршинська лимонад апельсин та персик]]"
 createdAt: 2025-09-28
+caffeine: 0
+alco: 0
 ---
 **FRATELLI Naturali Limonata Frizzante**. Офіційний смак - "напій зі смаком лимону"
 

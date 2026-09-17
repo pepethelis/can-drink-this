@@ -30,6 +30,7 @@ types:
   - alco
 createdAt: 2024-08-09
 old_related: true
+caffeine: 0
 ---
 **Garage hardcore cherry та starfruit**, вони ж гараж хард рожевий та зелений. Два огляди за раз
 

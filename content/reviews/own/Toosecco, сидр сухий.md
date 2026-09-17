@@ -31,6 +31,7 @@ related:
   - "[[Johan Freitag gin&tonic]]"
   - "[[Gardenz cola]]"
 createdAt: 2025-05-06
+caffeine: 0
 ---
 **Сидр сухий toosecco**. Офіційний смак - виноград.
 

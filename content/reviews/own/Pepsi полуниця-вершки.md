@@ -25,7 +25,7 @@ primaryColors:
   - pink
   - creme
 manufacturer: Quadrant amroq baverages SRL
-caffeine:
+caffeine: 0
 volume:
   - "0.33"
 alco: 0

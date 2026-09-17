@@ -24,7 +24,7 @@ primaryColors:
   - yellow
   - white
 manufacturer: Роял Фрут Гарден
-caffeine:
+caffeine: 0
 volume:
   - "0.5"
 alco: 5

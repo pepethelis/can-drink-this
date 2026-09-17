@@ -33,6 +33,7 @@ related:
   - "[[Lomza radler watermelon]]"
   - "[[Schöfferhofer wild cherry]]"
 createdAt: 2025-09-26
+caffeine: 0
 ---
 Радлер **Zibert grapefruit**. Офіційний смак - грейпфрут
 

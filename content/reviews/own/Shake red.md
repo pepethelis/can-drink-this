@@ -32,6 +32,7 @@ related:
   - "[[Nonstop ultra|Nonstop ultra]]"
   - "[[Johan Freitag gin&tonic|Johan Freitag gin&tonic]]"
 createdAt: 2025-05-04
+caffeine: 0
 ---
 **Shake pornstar червоний**. Офіційний смак - має бути якийсь відомий коктейль, але ми знаємо що там зазвичай хімозна параша
 

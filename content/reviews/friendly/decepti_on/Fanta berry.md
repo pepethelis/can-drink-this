@@ -17,5 +17,7 @@ cover:
 externalUrl: https://t.me/sonechkin_rzekich/33287
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33286
+caffeine: 0
+alco: 0
 ---
 Огляд на фанту бабкін компот МАЛИНОВИЙ

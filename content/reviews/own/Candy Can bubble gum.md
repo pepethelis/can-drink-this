@@ -30,6 +30,8 @@ aliases:
 types:
   - fizzy
 createdAt: 2026-08-15
+caffeine: 0
+alco: 0
 ---
 **Candy Can bubble gum**. Офіційний смак - бубблегум
 

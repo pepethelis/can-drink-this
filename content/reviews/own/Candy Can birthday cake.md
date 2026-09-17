@@ -30,6 +30,7 @@ types:
   - fizzy
 createdAt: 2026-04-21
 caffeine: 0
+alco: 0
 ---
 **Candy Can birthday cake**. Офіційний смак - полуниця-ваніль
 

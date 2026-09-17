@@ -30,6 +30,7 @@ related:
   - "[[Garage hardcore]]"
   - "[[Garage pineberry&mint]]"
 createdAt: 2025-12-11
+caffeine: 0
 ---
 Типу гараж **Hike vibe income tax**. Офіційний смак - коктейль "income tax"
 

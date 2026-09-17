@@ -22,7 +22,7 @@ primaryColors:
   - golden
   - green
 manufacturer: Hochwald Foods GmbH
-caffeine:
+caffeine: 0
 volume:
   - "0.25"
 alco: 0

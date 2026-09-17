@@ -18,7 +18,8 @@ cover: "[[photo_2026-09-12_12-20-16.jpg]]"
 externalUrl: https://t.me/ukr_satan/8140
 caffeine: 250
 alco: 0
-listexUrl: https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-negazovaniy-z-pidsolodzhuvachem-non-stop-tropik-enerdzhi-shot-ua-4820252125902
+listexUrls: 
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-negazovaniy-z-pidsolodzhuvachem-non-stop-tropik-enerdzhi-shot-ua-4820252125902
 ---
 NON STOP TROPIC ENERGY SHOT  
 

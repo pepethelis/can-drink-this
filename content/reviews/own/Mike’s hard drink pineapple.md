@@ -24,7 +24,7 @@ primaryColors:
   - blue
   - yellow
 manufacturer: ПРАТ "Абінбев Ефес Україна"
-caffeine:
+caffeine: 0
 volume:
   - "0.43"
 alco: 4.4

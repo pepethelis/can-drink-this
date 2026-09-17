@@ -34,6 +34,7 @@ related:
   - "[[Hike vibe mojito|Hike vibe mojito]]"
   - "[[Hike vibe income tax|Hike vibe income tax]]"
 createdAt: 2025-10-24
+caffeine: 0
 ---
 Типу гараж **Senor cartel lemon**. Офіційний смак - лимон
 

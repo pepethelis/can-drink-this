@@ -30,6 +30,7 @@ related:
   - "[[Garage hardcore]]"
   - "[[Garage pineberry&mint]]"
 createdAt: 2025-09-16
+caffeine: 0
 ---
 Типу гараж **Hike vibe mojito**. Офіційний смак - мохіто
 

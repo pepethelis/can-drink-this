@@ -33,6 +33,8 @@ aliases:
 types:
   - fizzy
 createdAt: 2026-04-17
+caffeine: 0
+alco: 0
 ---
 **Mojo mint-lime**. Офіційний смак - м'ята та лайм
 

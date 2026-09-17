@@ -27,6 +27,7 @@ types:
 related:
   - "[[King’s bridge gin&tonic]]"
 createdAt: 2025-05-30
+caffeine: 0
 ---
 **Johan Freitag gin&tonic**. Офіційний смак мабуть джин+тонік, підкажіть чат
 

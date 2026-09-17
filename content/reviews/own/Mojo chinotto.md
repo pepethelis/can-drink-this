@@ -31,6 +31,8 @@ aliases:
 types:
   - fizzy
 createdAt: 2026-04-17
+caffeine: 0
+alco: 0
 ---
 **Mojo chinotto**. Офіційний смак - чінотто (така собі апельсинова альтернативна кола)
 

@@ -20,7 +20,7 @@ primaryColors:
   - brown
   - creme
 manufacturer: Quadrant amroq baverages SRL
-caffeine:
+caffeine: 0
 volume:
   - "0.33"
 aliases:
@@ -37,6 +37,7 @@ related:
   - "[[Dr pepper default]]"
   - "[[Dr pepper cherry]]"
 createdAt: 2026-06-13
+alco: 0
 ---
 **Pepsi крем-сода**. Офіційний смак - власне крем-сода
 

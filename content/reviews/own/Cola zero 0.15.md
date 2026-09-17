@@ -33,6 +33,8 @@ related:
   - "[[Monster assault]]"
   - "[[Redbull organics simply cola]]"
 createdAt: 2025-11-04
+alco: 0
+caffeine: 0
 ---
 **Coca cola zero**, тобто звичайна кола, але без цукру. Офіційний смак - кола лол
 

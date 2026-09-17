@@ -30,6 +30,8 @@ related:
   - "[[Vega Milk banana]]"
   - "[[Vega Milk coconut]]"
 createdAt: 2026-05-04
+caffeine: 0
+alco: 0
 ---
 **Jaffa ice coffee coconut latte**. Офіційний смак - лате кокосове
 

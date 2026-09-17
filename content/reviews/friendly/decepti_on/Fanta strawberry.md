@@ -18,5 +18,7 @@ externalUrl: https://t.me/sonechkin_rzekich/33297
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33295
   - https://t.me/sonechkin_rzekich/33296
+caffeine: 0
+alco: 0
 ---
 Огляд на фанту з полуницею

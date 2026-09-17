@@ -1,9 +1,4 @@
 ---
-listexUrl: https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-revo-strong-05-l-10-ua-4820252126527
-alco: 10
-caffeine: 30
----
-﻿---
 status: prebuild
 tags:
 externalUrl:
@@ -18,14 +13,14 @@ sweeteners:
 cover: "[[default.png]]"
 availability:
 summary:
+alco: 10
+caffeine: 30
 primaryColors:
   - gray
   - black
 manufacturer: new products
-caffeine:
 volume:
   - "0.5"
-alco: 10
 aliases:
   - Revo strong
   - Revo 10%
@@ -33,6 +28,8 @@ aliases:
 types:
   - alco
   - energy
+listexUrls: 
+  - https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-revo-strong-05-l-10-ua-4820252126527
 ---
 **Revo strong**. Офіційний смак - ==СМАК==
 

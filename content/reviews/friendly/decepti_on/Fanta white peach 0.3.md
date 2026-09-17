@@ -18,5 +18,7 @@ cover:
 externalUrl: https://t.me/sonechkin_rzekich/32213
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32212
+caffeine: 0
+alco: 0
 ---
 Огляд на водичку з персиком від фанти з магазину корейських приколів ціна 220 гривень оцінка 5/10

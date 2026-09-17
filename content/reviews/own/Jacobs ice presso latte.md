@@ -27,6 +27,8 @@ related:
   - "[[Hell ice coffee latte]]"
   - "[[content/reviews/own/Hell ice coffee strawberry latte]]"
 createdAt: 2024-09-06
+alco: 0
+caffeine: 0
 ---
 **Jacobs ice presso latte**
 

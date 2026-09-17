@@ -31,6 +31,8 @@ aliases:
 types:
   - fizzy
 old_related: true
+caffeine: 0
+alco: 0
 ---
 **Candy Can toxic waste sour apple**. Офіційний смак - кисле яблуко
 

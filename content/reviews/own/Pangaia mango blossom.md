@@ -19,7 +19,7 @@ primaryColors:
   - pink
   - white
 manufacturer: ТОВ "ЛВН Лімітед"
-caffeine:
+caffeine: 0
 alco: 5
 volume:
   - "0.33"

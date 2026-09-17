@@ -25,7 +25,7 @@ primaryColors:
   - green
   - creme
 manufacturer: carlsberg
-caffeine:
+caffeine: 0
 volume:
   - "0.5"
 related:

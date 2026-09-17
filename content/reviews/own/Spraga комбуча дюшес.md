@@ -22,7 +22,7 @@ primaryColors:
   - white
   - blue
 manufacturer: ТОВ "Спрага дистриб'юшн"
-caffeine:
+caffeine: 0
 volume:
   - "0.33"
 createdAt: 2026-07-08

@@ -31,6 +31,8 @@ aliases:
 types:
   - fizzy
 createdAt: 2026-05-12
+caffeine: 0
+alco: 0
 ---
 **Candy Can pacman orange candy**. Офіційний смак - апельсин, малина, ананас
 

@@ -18,5 +18,6 @@ externalUrl: https://t.me/sonechkin_rzekich/31077
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/31075
   - https://t.me/sonechkin_rzekich/31076
+caffeine: 0
 ---
 Огляд кактусової водички

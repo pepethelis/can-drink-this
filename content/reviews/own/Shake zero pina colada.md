@@ -28,6 +28,7 @@ types:
 createdAt: 2025-12-13
 old_related: true
 alco: 0
+caffeine: 0
 ---
 **Shake zero pina colada**. Несподіваний камбек лінійки шейк зіро. Я думав я з нею закінчив, а тут отаке
 

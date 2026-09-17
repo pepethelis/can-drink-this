@@ -28,6 +28,7 @@ related:
   - "[[Johan Freitag gin&tonic]]"
   - "[[Shake red]]"
 createdAt: 2024-09-27
+caffeine: 0
 ---
 Якийсь пивний напій **Solveza Mojito**. Офіційний смак - мохіто
 

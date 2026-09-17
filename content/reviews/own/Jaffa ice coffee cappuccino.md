@@ -30,6 +30,8 @@ related:
   - "[[Vega Milk banana]]"
   - "[[Vega Milk coconut]]"
 createdAt: 2026-04-22
+caffeine: 0
+alco: 0
 ---
 **Jaffa ice coffee cappuccino**. Офіційний смак - капучіно
 

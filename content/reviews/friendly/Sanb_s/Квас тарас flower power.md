@@ -16,6 +16,8 @@ contentTgPosts:
 types:
   - kvass
 externalUrl: https://t.me/ukr_satan/1591
+alco: 0
+caffeine: 0
 ---
 Ну шо їбать огляд на НЕ енергетик, чекали? Звичайно ж ні!
 
