@@ -22,5 +22,7 @@ externalUrl: https://t.me/sonechkin_rzekich/33514
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33512
   - https://t.me/sonechkin_rzekich/33513
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-gazovaniy-hell-peach-lemon-500-ml-ua-5999571051878
 ---
 Огляд на хелл персик лимон (перепрошую на фоні єбашать в кампютєр)

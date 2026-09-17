@@ -32,6 +32,8 @@ favorite:
 related:
   - "[[content/reviews/own/Komodo cactus|Komodo cactus]]"
   - "[[content/reviews/own/Redbull green edition|Redbull green edition]]"
+listexUrls:
+  - https://listex.info/product/napiy-energetichniy-gazovaniy-ba-cactus-twist-250-ml-ua-5999571058365
 ---
 **Hell carnival cactus twist**. Офіційний смак - полуниця і лимон (наєбали виходить)
 

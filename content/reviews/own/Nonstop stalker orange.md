@@ -30,6 +30,9 @@ favorite: true
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-stalker-500-ml-zb-ua-4820252122413
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-stalker-250-ml-zb-ua-4820252122406
 ---
 **Nonstop stalker**, він же кавунячий сталкер
 

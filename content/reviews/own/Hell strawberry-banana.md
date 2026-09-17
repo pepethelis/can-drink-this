@@ -30,6 +30,8 @@ favorite:
 old_related: true
 tags:
   - package/quality
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-gazovaniy-hell-strawberry-banana-500-ml-ua-5999571054718
 ---
 **Hell strawberry-banana**. Офіційний смак полуниця-банан
 

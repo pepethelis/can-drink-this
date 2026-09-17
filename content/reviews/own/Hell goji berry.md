@@ -31,6 +31,8 @@ availability: 4
 old_related: true
 tags:
   - package/quality
+listexUrls:
+  - https://listex.info/product/napiy-energetichniy-bezalkogolniy-gazovaniy-goji-berry-hell-zb-500ml-ua-5999571054695
 ---
 **Hell goji berry**, тобто синій хелл. Офіційний смак - ягоди годжі
 

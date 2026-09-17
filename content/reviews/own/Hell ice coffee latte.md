@@ -27,6 +27,8 @@ availability: 3
 old_related: true
 tags:
   - package/quality
+listexUrls:
+  - https://listex.info/uk/product/energetichna-kava-z-molokom-latte-ua-5999860497073
 ---
 **Hell ice coffee latte**, тобто кофік від хелл
 

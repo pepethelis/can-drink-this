@@ -28,6 +28,8 @@ alco: 0
 availability: 3
 tags:
   - package/bagpak
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-sokovmisniy-silnogazovaniy-pasterizovaniy-sheyk-kokteyl-mohito-033-ua-4820252125476
 ---
 **Shake zero mojito**. Друга банка з новітньої партії. Першою була [[Shake zero pina colada|піна колада]]
 

@@ -21,5 +21,8 @@ externalUrl: https://t.me/sonechkin_rzekich/32861
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32859
   - https://t.me/sonechkin_rzekich/32860
+listexUrls:
+  - https://listex.info/uk/product/non-stop-zum-napiy-bezalkogolniy-energetichniy-silnogazovaniy-05l-zb-ua-4820252124035
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-zum-025l-ua-4820252124097
 ---
 Огляд на нонстоп зум

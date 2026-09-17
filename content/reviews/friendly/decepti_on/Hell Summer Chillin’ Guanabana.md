@@ -19,5 +19,7 @@ externalUrl: https://t.me/sonechkin_rzekich/32846
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32844
   - https://t.me/sonechkin_rzekich/32845
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-gazovaniy-hell-sc-chillin-guanabana-ua-5999571054176
 ---
 Огляд на хелл з манго 5/10 (надто солодке для мене)

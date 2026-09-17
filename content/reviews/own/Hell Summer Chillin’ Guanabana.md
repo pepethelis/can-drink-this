@@ -26,6 +26,8 @@ availability: 4
 old_related: true
 tags:
   - package/quality
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-gazovaniy-hell-sc-chillin-guanabana-ua-5999571054176
 ---
 **Hell Chillin' Guanabana-mango**, більш блакитний з двох hell summer
 

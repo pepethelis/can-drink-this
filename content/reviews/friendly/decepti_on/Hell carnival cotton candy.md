@@ -21,5 +21,7 @@ related:
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34088
   - https://t.me/sonechkin_rzekich/34089
+listexUrls:
+  - https://listex.info/uk/product/napiy-energetichniy-gazovaniy-ba-cotton-candy-250-ml-ua-5999571058334
 ---
 Огляд на хелл солодка вата 😄

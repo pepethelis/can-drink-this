@@ -27,6 +27,8 @@ availability: 4
 favorite:
 tags:
   - package/quality
+listexUrls:
+  - https://listex.info/uk/product/napiy-energetichniy-hell-ai-ua-5999571051793
 ---
 **Hell A.I.** Офіційний смак - фруктове асорті та ягоди
 

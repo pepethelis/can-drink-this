@@ -29,6 +29,8 @@ alco: 0
 availability: 3
 old_related: true
 tags:
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-sokovmisniy-silnogazovaniy-pasterizovaniy-sheyk-kokteyl-bitter-lemon-330ml-ua-4820252120174
 ---
 **Shake zero bitter lemon**. Офіційний смак - мб лимонний (або ото, що маленьким шрифтом)
 

@@ -29,6 +29,8 @@ availability: 3
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/product/sheyk-kokteyl-oranzh-krash-napiy-bezalkogolniy-sokovmisniy-silnogazovaniy-pasterizovaniy-033-l-ua-4820252123335
 ---
 **Shake zero orange crush**, або як я його зву - апельсин. Офіційний смак - мб апельсин(або ото, що маленьким шрифтом)
 

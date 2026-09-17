@@ -27,6 +27,8 @@ alco: 0
 availability: 4
 tags:
   - package/quality
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-energetichniy-gazovaniy-hell-multi-ua-5999885747023
 ---
 **Hell multi+**. Офіційний смак - фруктове асорті
 

@@ -21,5 +21,7 @@ alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/32754
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32753
+listexUrls:
+  - https://listex.info/product/holodna-kava-z-molokom-ice-coffee-pink-latte-ua-5999571053223
 ---
 Швидкий огляд на лате з полуницею, на смак цікаво прикольно мені сподобалось 7/10

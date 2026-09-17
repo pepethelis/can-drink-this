@@ -33,6 +33,8 @@ related:
   - "[[Johan Freitag gin&tonic|Johan Freitag gin&tonic]]"
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/sheyk-kokteyl-porn-star-napiy-slaboalkogolniy-silnogazovaniy-05l-ua-4820252124448
 ---
 **Shake pornstar червоний**. Офіційний смак - має бути якийсь відомий коктейль, але ми знаємо що там зазвичай хімозна параша
 

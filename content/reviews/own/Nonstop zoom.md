@@ -31,6 +31,9 @@ favorite: true
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/non-stop-zum-napiy-bezalkogolniy-energetichniy-silnogazovaniy-05l-zb-ua-4820252124035
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-zum-025l-ua-4820252124097
 ---
 **Nonstop zoom**, тобто типу кавунячий нонстоп, тобто [[content/reviews/own/Nonstop stalker orange|перший сталкер]], той що ніби кавунячний, але у новій ємності. Смак на банці не вказаний, але у всіх промо сказано, що це саме кавун
 

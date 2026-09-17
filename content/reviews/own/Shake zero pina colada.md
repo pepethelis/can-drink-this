@@ -29,6 +29,8 @@ availability: 3
 old_related: true
 tags:
   - package/bagpak
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-sokovmisniy-silnogazovaniy-pasterizovaniy-sheyk-kokteyl-pina-kolada-033-ua-4820252125490
 ---
 **Shake zero pina colada**. Несподіваний камбек лінійки шейк зіро. Я думав я з нею закінчив, а тут отаке
 

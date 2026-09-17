@@ -18,5 +18,7 @@ alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/32048
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32047
+listexUrls:
+  - https://listex.info/uk/product/napiy-energetichniy-hell-ai-ua-5999571051793
 ---
 Огляд на енергетик хелл ставлю 6/10 бо не люблю лісові ягоди

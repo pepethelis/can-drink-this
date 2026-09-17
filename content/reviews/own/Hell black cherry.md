@@ -31,6 +31,8 @@ availability: 4
 old_related: true
 tags:
   - package/quality
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-energetichniy-gazovaniy-hell-black-cherry-500-ml-ua-5999884034346
 ---
 **Hell black cherry**, він же фіолетовий
 

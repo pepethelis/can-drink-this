@@ -28,6 +28,8 @@ alco: 0
 availability: 3.5
 favorite:
 related:
+listexUrls:
+  - https://listex.info/uk/product/napiy-energetichniy-gazovaniy-ba-cotton-candy-250-ml-ua-5999571058334
 ---
 **Hell carnival cotton candy**. Офіційний смак - цукрова вата
 

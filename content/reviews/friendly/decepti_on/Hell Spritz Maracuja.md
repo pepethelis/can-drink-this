@@ -20,5 +20,7 @@ alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33544
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33543
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-energetichniy-gazovaniy-hell-maracuja-spritz-ua-5999571055678
 ---
 Огляд на хелл шприц маракуя 🤕

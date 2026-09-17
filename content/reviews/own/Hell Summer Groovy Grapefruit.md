@@ -24,6 +24,8 @@ availability: 4
 old_related: true
 tags:
   - package/quality
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-gazovaniy-hell-sc-groovy-grapefruit-ua-5999571054169
 ---
 **Hell Groovy Grapefruit**, більш помаранчевий з двох hell summer. Офіційний смак - грейпфрут
 

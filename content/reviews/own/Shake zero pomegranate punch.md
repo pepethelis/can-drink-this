@@ -29,6 +29,8 @@ availability: 3
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/product/sheyk-kokteyl-granatoviy-panch-napiy-bezalkogolniy-sokovmisniy-silnogazovaniy-pasterizovaniy-033-l-ua-4820252123328
 ---
 **Shake zero pomegranate punch**. Офіційний смак - гранатовий(або ото, що маленьким шрифтом)
 

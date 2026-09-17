@@ -32,6 +32,8 @@ related:
   - "[[content/reviews/own/Hell Summer Chillin’ Guanabana|Hell Chillin' Guanabana-mango]]"
 tags:
   - package/quality
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-energetichniy-gazovaniy-hell-maracuja-spritz-ua-5999571055678
 ---
 **Hell Maracuja Spritz**, фіолетовий hell із лінійки spritz. Офіційний смак - персик, маракуйя та тутті-фрутті йобаний
 

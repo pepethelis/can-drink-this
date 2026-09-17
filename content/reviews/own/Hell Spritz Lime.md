@@ -30,6 +30,8 @@ favorite:
 old_related: true
 tags:
   - package/quality
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-energetichniy-gazovaniy-hell-lime-spritz-ua-5999571055692
 ---
 **Hell Lime Spritz**. Офіційний смак - лайм та мʼята
 

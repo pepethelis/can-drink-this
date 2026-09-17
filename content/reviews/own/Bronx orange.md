@@ -1,3 +1,7 @@
+---
+listexUrls:
+  - https://listex.info/uk/product/napiy-salkenerg-bronx-chorniy-apelsin-805l-zb-ua-4820193036367
+---
 ﻿---
 status: published
 tags:

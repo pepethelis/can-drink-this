@@ -19,5 +19,8 @@ alco: 0
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32204
   - https://t.me/sonechkin_rzekich/32205
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-stalker-500-ml-zb-ua-4820252122413
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-stalker-250-ml-zb-ua-4820252122406
 ---
 Огляд на нон стоп сталкер зі смаком риготи (кавуна) 3,5/10 він в трійці самих не смачних енергетиків

@@ -1,3 +1,7 @@
+---
+listexUrls:
+  - https://listex.info/uk/product/bronks-bronx-05-zb-ua-4820193032390
+---
 ﻿---
 status: published
 tags:

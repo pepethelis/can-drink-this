@@ -34,6 +34,9 @@ availability: 4
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-sokovmisniy-silnogazovaniy-sheyk-kokteyl-igrista-polunicya-330ml-ua-4820252120167
+  - https://listex.info/product/sheyk-kokteyl-igrista-polunicya-napiy-bezalkogolniy-sokovmisniy-silnogazovaniy-pasterizovaniy-05l-ua-4820252123151
 ---
 **Shake zero sparkling rose strawberry**. Офіційний смак - ігриста полуниця
 

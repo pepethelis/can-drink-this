@@ -32,6 +32,8 @@ alco: 8
 availability: 4
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-energetichniy-kivi-yabluko-silnogazovaniy-8-05l-zhb-bronx-ua-4820193038873
 ---
 **Bronx зелений**. Офіційний смак - ківі-яблуко
 

@@ -22,5 +22,7 @@ externalUrl: https://t.me/sonechkin_rzekich/33484
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33482
   - https://t.me/sonechkin_rzekich/33483
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-gazovaniy-hell-strawberry-banana-500-ml-ua-5999571054718
 ---
 Огляд на хелл полуниця банан
