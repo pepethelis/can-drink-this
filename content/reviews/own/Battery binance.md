@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
 externalUrl: https://t.me/kallection/25453
@@ -18,6 +16,7 @@ availability: 1
 volume:
   - "0.5"
 caffeine: 32
+alco: 0
 primaryColors:
   - golden
 manufacturer: carlsberg

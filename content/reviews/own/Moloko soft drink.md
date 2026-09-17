@@ -1,5 +1,4 @@
 ---
-caffeine: 0
 status: published
 tags:
   - package/amp
@@ -31,6 +30,7 @@ types:
 createdAt: 2025-02-20
 old_related: true
 alco: 0
+caffeine: 0
 ---
 **Moloko**. Офіційний смак - **soft drink**
 

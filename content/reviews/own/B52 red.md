@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
   - package/canpack
@@ -21,6 +19,7 @@ availability: 3
 volume:
   - "0.25"
 caffeine: 31
+alco: 0
 primaryColors:
   - red
   - silver

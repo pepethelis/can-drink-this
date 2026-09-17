@@ -1,5 +1,4 @@
 ---
-caffeine: 0
 status: published
 tags:
   - package/amp
@@ -30,6 +29,7 @@ types:
 createdAt: 2025-05-07
 old_related: true
 alco: 0
+caffeine: 0
 ---
 **Moloko**. Офіційний смак - **mango + kalamansi**. Не питайте, я хз що то таке
 

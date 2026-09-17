@@ -1,6 +1,4 @@
 ---
-caffeine: 0
-
 status: needs update
 tags:
   - country/poland
@@ -19,6 +17,7 @@ availability: 2
 volume:
   - "0.5"
 alco: 0
+caffeine: 0
 primaryColors:
   - red
 manufacturer: van pur

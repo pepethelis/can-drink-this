@@ -1,7 +1,4 @@
 ---
-caffeine: 0
-alco: 2.5
-
 status: published
 tags:
   - package/ball
@@ -24,6 +21,7 @@ cover: "[[IMG_3776.jpg]]"
 availability: 3
 volume:
   - "0.33"
+caffeine: 0
 alco: 2.5
 primaryColors:
   - violet

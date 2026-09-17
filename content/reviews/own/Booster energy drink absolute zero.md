@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
   - package/amp
@@ -22,6 +20,7 @@ sponsor:
 volume:
   - "0.33"
 caffeine: 32
+alco: 0
 primaryColors:
   - golden
   - black

@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: prebuild
 tags:
 externalUrl:
@@ -20,6 +18,7 @@ primaryColors:
   - white
 manufacturer: IDS Borjomi Beverages Co. N.V.
 caffeine: 30
+alco: 0
 volume:
   - "0.24"
 aliases:

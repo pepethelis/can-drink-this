@@ -1,5 +1,4 @@
 ---
-caffeine: 0
 status: published
 tags:
   - package/canpack
@@ -34,6 +33,7 @@ types:
   - fizzy
 createdAt: 2026-04-19
 alco: 0
+caffeine: 0
 ---
 **Mojo pineapple twist**. Офіційний смак - ананас/полуниця/лемонграс
 

@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
   - package/amp
@@ -19,6 +17,7 @@ availability: 2
 sponsor:
   - gdgood
 caffeine: 23
+alco: 0
 volume:
   - "0.33"
 manufacturer: Veritas Vertriebsges mbH
