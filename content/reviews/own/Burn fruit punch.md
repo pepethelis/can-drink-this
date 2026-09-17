@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
   - package/canpack
@@ -17,6 +15,7 @@ sweeteners:
   - inositol
 availability: 4
 caffeine: 31
+alco: 0
 volume:
   - "0.25"
 primaryColors:
