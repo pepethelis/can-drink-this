@@ -18,6 +18,9 @@ volume:
   - "0.5"
 alco: 0
 externalUrl: https://t.me/super_skrulling/169
+listexUrls:
+  - https://listex.info/uk/product/napiy-energetich-monster-energy-french-vanilla-zb-ua-70847035107
+caffeine: 60
 ---
 **JAVA MONSTER FRENCH VANILLA TRIPLE SHOT**  
 Смак: френч ванілла  

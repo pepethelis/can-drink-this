@@ -30,6 +30,8 @@ old_related: true
 tags:
   - package/bagpak
   - package/ag
+listexUrls:
+  - https://listex.info/product/500-can-x12-monster-aussie-lemonade-ua-ua-5061013949767
 ---
 **Monster juiced aussie style lemonade**, він же монстер з рибами
 

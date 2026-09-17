@@ -19,6 +19,9 @@ externalUrl: https://t.me/ukr_satan/4964
 contentTgPosts:
   - https://t.me/ukr_satan/4964
   - https://t.me/ukr_satan/4965
+listexUrls:
+  - https://listex.info/product/napiy-energ-monster-energy-mega-lo-carb-slgaz-zb-ua-70847811213
+caffeine: 29
 ---
 Огляд на Mфnster lo-carb  
   

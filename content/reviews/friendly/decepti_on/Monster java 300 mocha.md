@@ -19,6 +19,7 @@ externalUrl: https://t.me/sonechkin_rzekich/33079
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33077
   - https://t.me/sonechkin_rzekich/33078
+caffeine: 60
 ---
 Огляд на монстр з кавою ціна 150 грн в Сільпо по знижці. Оцінка 4/10
 

@@ -8,7 +8,7 @@ publishedAt: 2025-08-16
 cover:
 types:
   - energy
-brand: battery/juiced
+brand: monster/juiced
 taste:
 container:
   - can

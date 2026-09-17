@@ -35,6 +35,8 @@ related:
   - "[[Lomza radler watermelon]]"
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/pivo-chernigivske-bile-fruter-kavun-ta-myata-05l-zb-ua-4820034927397
 ---
 Радлер **Чернігівське біле fruter**. Офіційний смак - кавун та м'ята
 

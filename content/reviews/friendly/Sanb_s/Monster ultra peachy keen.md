@@ -17,6 +17,8 @@ volume:
 caffeine: 32
 alco: 0
 externalUrl: https://t.me/ukr_satan/4318
+listexUrls:
+  - https://listex.info/uk/product/napiy-energetichniy-monster-energy-peachy-keen-zb-ua-5060947546332
 ---
 Mфnster ultra peachy keen  
 

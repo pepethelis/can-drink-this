@@ -20,6 +20,8 @@ alco: 0
 externalUrl: https://t.me/super_skrulling/3432
 contentTgPosts:
   - https://t.me/super_skrulling/3434
+listexUrls:
+  - https://listex.info/uk/product/napiy-energetichniy-monster-energy-peachy-keen-zb-ua-5060947546332
 ---
 M∅NSTER ENERGY ULTRA PEACHY KEEN
 
