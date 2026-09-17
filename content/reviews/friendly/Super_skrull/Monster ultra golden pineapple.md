@@ -1,4 +1,5 @@
 ---
+author: super_skrull
 aliases:
   - Monster ultra golden pineapple
 summary:
@@ -15,7 +16,6 @@ container:
 volume:
   - "0.5"
 alco: 0
-author: super_skrull
 ---
 **M∅NSTER ENERGY ULTRA GOLDEN PINEAPPLE** 
 

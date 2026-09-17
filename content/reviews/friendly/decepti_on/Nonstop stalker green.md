@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Nonstop stalker green
 summary: Огляд на нон стоп сталкер зелений
@@ -16,7 +17,6 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33376
   - https://t.me/sonechkin_rzekich/33377

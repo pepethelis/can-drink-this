@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Oshee cyberpunk bubble gum
 summary: Огляд на енергетик кіберпанк з жуйкою! 8/10
@@ -15,7 +16,6 @@ container:
   - can
 volume:
   - "0.5"
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32562
   - https://t.me/sonechkin_rzekich/32563

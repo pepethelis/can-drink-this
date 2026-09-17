@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Monster black zero
 summary:
@@ -17,7 +18,6 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-author: sanb_s
 ---
 Огляд на новий для нашого ринку Mфnster zero sugar  
 

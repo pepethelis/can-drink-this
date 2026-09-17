@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Hell carnival cotton candy
 summary: Огляд на хелл солодка вата 😄
@@ -17,7 +18,6 @@ caffeine: 32
 alco: 0
 related:
   - "[[content/reviews/own/Hell carnival cotton candy|Hell carnival cotton candy]]"
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34088
   - https://t.me/sonechkin_rzekich/34089

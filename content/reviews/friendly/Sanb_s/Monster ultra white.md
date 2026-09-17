@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Monster ultra white
 summary:
@@ -16,7 +17,6 @@ volume:
   - "0.5"
 caffeine: 30
 alco: 0
-author: sanb_s
 contentTgPosts:
   - https://t.me/ukr_satan/4172
 ---

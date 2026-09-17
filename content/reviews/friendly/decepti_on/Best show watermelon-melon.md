@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Best show watermelon-melon
 summary: Огляд на бест шот кавун диня
@@ -17,7 +18,6 @@ container:
 volume:
   - "0.5"
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33677
   - https://t.me/sonechkin_rzekich/33678

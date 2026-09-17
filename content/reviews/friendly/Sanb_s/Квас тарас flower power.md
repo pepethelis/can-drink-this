@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Квас тарас flower power
 summary:
@@ -15,7 +16,6 @@ volume:
   - "0.5"
 caffeine: 0
 alco: 0
-author: sanb_s
 contentTgPosts:
   - https://t.me/ukr_satan/1591
 ---

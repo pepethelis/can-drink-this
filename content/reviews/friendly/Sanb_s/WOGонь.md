@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - WOGонь
 summary:
@@ -17,7 +18,6 @@ volume:
   - "0.33"
 caffeine: 32
 alco: 0
-author: sanb_s
 contentTgPosts:
   - https://t.me/ukr_satan/4327
 ---

@@ -1,4 +1,5 @@
 ---
+author: super_skrull
 aliases:
   - Monster juiced rio punch
 summary:
@@ -15,7 +16,6 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-author: super_skrull
 contentTgPosts:
   - https://t.me/super_skrulling/2303
 ---

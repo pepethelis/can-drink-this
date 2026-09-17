@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Venom black cherry kiwi
 summary:
@@ -18,7 +19,6 @@ volume:
   - "0.473"
 caffeine: 33
 alco: 0
-author: sanb_s
 ---
 Унікальне комбо #енергохарчування - черешня + ківі  
 

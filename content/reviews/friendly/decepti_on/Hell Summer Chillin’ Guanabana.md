@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Hell Summer Chillin’ Guanabana
 summary: Огляд на хелл з манго 5/10 (надто солодке для мене)
@@ -15,7 +16,6 @@ container:
 volume:
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32844
   - https://t.me/sonechkin_rzekich/32845

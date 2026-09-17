@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Bronx zero coffee
 summary: Огляд на Бронкс кола кофє
@@ -14,7 +15,6 @@ container:
   - can
 volume:
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33858
 ---

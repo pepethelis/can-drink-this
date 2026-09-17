@@ -1,4 +1,5 @@
 ---
+author: super_skrull
 aliases:
   - Monster java 300 french vanilla
 summary:
@@ -17,7 +18,6 @@ container:
 volume:
   - "0.5"
 alco: 0
-author: super_skrull
 ---
 **JAVA MONSTER FRENCH VANILLA TRIPLE SHOT**  
 Смак: френч ванілла  

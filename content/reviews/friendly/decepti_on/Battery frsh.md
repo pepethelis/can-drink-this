@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Battery frsh
 summary: Ранковий огляд на батері фреш (хтось просив я зробила)
@@ -16,7 +17,6 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33617
 ---

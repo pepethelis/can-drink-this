@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Nonstop 20 years edition
 summary: Огляд на нонстоп лімітований з вишнею
@@ -15,7 +16,6 @@ container:
 volume:
   - "0.5"
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33757
   - https://t.me/sonechkin_rzekich/33758

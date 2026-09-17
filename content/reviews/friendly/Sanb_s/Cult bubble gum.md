@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Cult bubble gum
 summary: Загалом скажу, що це краще і збалансованіше ніж усі фруктові монстри. Є ще різні банки, сподіваюсь, вони такі ж кайфові будуть
@@ -17,7 +18,6 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-author: sanb_s
 contentTgPosts:
   - https://t.me/ukr_satan/6641
 ---

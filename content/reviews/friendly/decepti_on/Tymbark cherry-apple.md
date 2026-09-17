@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Tymbark cherry-apple
 summary: Огляд соку
@@ -17,7 +18,6 @@ container:
 volume:
 caffeine: 0
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/30968
 ---

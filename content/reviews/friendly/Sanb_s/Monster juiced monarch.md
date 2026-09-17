@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Monster juiced monarch
 summary:
@@ -15,7 +16,6 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-author: sanb_s
 ---
 #енергохарчування Monster Monarch  
 

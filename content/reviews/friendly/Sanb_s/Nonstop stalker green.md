@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Nonstop stalker green
 summary:
@@ -17,7 +18,6 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
-author: sanb_s
 ---
 Ну шо, легендарне #енергохарчування NON STOP STALKER GREEN  
 

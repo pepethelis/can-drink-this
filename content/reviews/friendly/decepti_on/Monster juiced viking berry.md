@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Monster juiced viking berry
 summary: Огляд монстер вікінг беррі
@@ -15,7 +16,6 @@ container:
 volume:
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33953
   - https://t.me/sonechkin_rzekich/33954

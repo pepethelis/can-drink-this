@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Hell peach-lemon
 summary: Огляд на хелл персик лимон (перепрошую на фоні єбашать в кампютєр)
@@ -18,7 +19,6 @@ volume:
   - "0.5"
 caffeine: 30
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33512
   - https://t.me/sonechkin_rzekich/33513

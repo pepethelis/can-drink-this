@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Battery electric
 summary: Огляд на баттері синя малина
@@ -15,7 +16,6 @@ container:
 volume:
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33957
   - https://t.me/sonechkin_rzekich/33958

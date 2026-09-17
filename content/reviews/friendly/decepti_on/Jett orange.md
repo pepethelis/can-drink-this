@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Jett orange
 summary: Огляд на джетт манго апельсин
@@ -15,7 +16,6 @@ taste:
 container:
   - can
 volume:
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33701
   - https://t.me/sonechkin_rzekich/33702

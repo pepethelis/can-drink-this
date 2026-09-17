@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Nonstop shot orange vibe
 summary:
@@ -17,7 +18,6 @@ volume:
   - "0.06"
 caffeine: 250
 alco: 0
-author: sanb_s
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-negazovaniy-z-pidsolodzhuvachem-non-stop-orandzh-vayb-enerdzhi-shot-ua-4820252125865
 ---

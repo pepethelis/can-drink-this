@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Nonstop stalker violet
 summary: Огляд на сталкер фіолетовий моя оцінка 7/10 (я не люблю манго)
@@ -18,7 +19,6 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32818
   - https://t.me/sonechkin_rzekich/32819

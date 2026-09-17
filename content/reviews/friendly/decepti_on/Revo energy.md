@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Revo energy
 summary: Огляд на рево БЕЗАЛКОГОЛЬНЕ
@@ -15,7 +16,6 @@ container:
 volume:
   - "0.25"
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33760
 ---

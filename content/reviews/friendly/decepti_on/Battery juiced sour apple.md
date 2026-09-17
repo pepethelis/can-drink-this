@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Battery juiced sour apple
 summary: Огляд на баттері з яблуком
@@ -15,7 +16,6 @@ container:
 volume:
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33670
   - https://t.me/sonechkin_rzekich/33671

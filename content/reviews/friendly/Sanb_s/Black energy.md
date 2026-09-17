@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Black energy
 summary: |-
@@ -15,7 +16,6 @@ taste:
 container:
   - can
 volume:
-author: sanb_s
 ---
 Огляд на біле "Чорне" #енергохарчування 
 

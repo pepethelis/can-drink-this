@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Pulse
 summary:
@@ -16,7 +17,6 @@ container:
 volume:
   - "0.25"
 caffeine: 20
-author: sanb_s
 ---
 Виготовлене в Польщі для Литви і нарешті імпортоване в Україну #енергохарчування  
 

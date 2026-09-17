@@ -1,4 +1,5 @@
 ---
+author: super_skrull
 aliases:
   - Black energy drink apple
   - Блек яблучний
@@ -16,7 +17,6 @@ container:
 volume:
   - "0.5"
 alco: 0
-author: super_skrull
 ---
 **BLACK ENERGY DRINK Яблуко**
 

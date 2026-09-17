@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Monster nitro cosmic peach
 summary:
@@ -17,7 +18,6 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-author: sanb_s
 ---
 А ще я винен вам огляд на цю банку #енергохарчування Mфnster Nitro Cosmic Peach  
 

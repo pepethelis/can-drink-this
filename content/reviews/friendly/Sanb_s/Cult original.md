@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Cult original
 summary:
@@ -16,7 +17,6 @@ container:
 volume:
   - "0.5"
 alco: 0
-author: sanb_s
 ---
 CULT energy activator Original  
 

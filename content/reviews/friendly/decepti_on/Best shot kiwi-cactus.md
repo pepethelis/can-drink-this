@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Best shot kiwi-cactus
 summary: Огляд на бест (ні) шот ківі кактус
@@ -16,7 +17,6 @@ container:
   - can
 volume:
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33633
   - https://t.me/sonechkin_rzekich/33634

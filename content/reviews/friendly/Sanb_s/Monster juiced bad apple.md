@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Monster juiced bad apple
 summary:
@@ -16,7 +17,6 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-author: sanb_s
 ---
 MФNSTER ПОДВІЙНЕ ЯБЛУЧКО😈🍎🍏🤙💨
 

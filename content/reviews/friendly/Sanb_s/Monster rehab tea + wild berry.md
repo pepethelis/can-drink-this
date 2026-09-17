@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Monster rehab tea + wild berry
 summary:
@@ -14,7 +15,6 @@ container:
   - can
 volume:
 alco: 0
-author: sanb_s
 ---
 Mфnster Rehab чай + лісові ягоди  
 

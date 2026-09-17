@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Oops
 summary:
@@ -15,7 +16,6 @@ container:
 volume:
   - "0.5"
 caffeine: 16
-author: sanb_s
 ---
 Огляд на #енергохарчування OOPS  
 

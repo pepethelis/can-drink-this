@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Nonstop stalker violet
 summary:
@@ -18,7 +19,6 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
-author: sanb_s
 ---
 #енергохарчування  
 

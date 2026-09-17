@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Jett green
 summary: Ранковий огляд на ноунейм енергетик з тайстри
@@ -13,7 +14,6 @@ taste:
 container:
   - can
 volume:
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33687
   - https://t.me/sonechkin_rzekich/33688

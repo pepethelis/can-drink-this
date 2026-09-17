@@ -1,4 +1,5 @@
 ---
+author: super_skrull
 aliases:
   - Battery unicorn
 summary:
@@ -17,7 +18,6 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-author: super_skrull
 ---
 **BATTERY UNICRON** від Карлсберг Україна  
   

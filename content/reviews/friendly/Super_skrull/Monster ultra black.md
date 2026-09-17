@@ -1,4 +1,5 @@
 ---
+author: super_skrull
 aliases:
   - Monster ultra black
 summary:
@@ -16,7 +17,6 @@ volume:
   - "0.5"
 caffeine: 30
 alco: 0
-author: super_skrull
 ---
 **M∅NSTER ENERGY ULTRA BLACK**  
 

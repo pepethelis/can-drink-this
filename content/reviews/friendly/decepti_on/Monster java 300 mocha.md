@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Monster java 300 mocha
 summary: Огляд на монстр з кавою ціна 150 грн в Сільпо по знижці. Оцінка 4/10
@@ -15,7 +16,6 @@ container:
   - can
 volume:
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33077
   - https://t.me/sonechkin_rzekich/33078

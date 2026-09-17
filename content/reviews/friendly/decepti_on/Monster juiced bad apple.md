@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Monster juiced bad apple
 summary: Огляд на монстр з яблуком оцінка 7/10 ракових жоп, смачний, приємний післясмак я б взяла його ще раз (ціна 80грн)
@@ -17,7 +18,6 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33055
 ---

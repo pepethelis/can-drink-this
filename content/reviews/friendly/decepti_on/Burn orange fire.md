@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Burn orange fire
 summary: Огляд на Берн з апельсином
@@ -16,7 +17,6 @@ container:
 volume:
   - "0.25"
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33302
 ---

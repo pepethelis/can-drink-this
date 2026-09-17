@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Monster juiced pipeline punch
 summary: Огляд на енергєтічєскій напіток монстер піпєлін пунш 😄
@@ -14,7 +15,6 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34105
   - https://t.me/sonechkin_rzekich/34106

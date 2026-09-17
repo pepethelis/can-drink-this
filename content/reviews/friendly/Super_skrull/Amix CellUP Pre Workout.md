@@ -1,4 +1,5 @@
 ---
+author: super_skrull
 aliases:
   - Amix CellUP Pre Workout
 summary:
@@ -19,7 +20,6 @@ volume:
   - "0.5"
 caffeine: 40
 alco: 0
-author: super_skrull
 ---
 **Передтрен Amix CellUP Pre Workout**, `500 мл`., Вишня  
 

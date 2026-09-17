@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Hell goji berry
 summary: "Огляд на енергетик хелл з ягодами годжі:"
@@ -17,7 +18,6 @@ volume:
   - "0.5"
 caffeine: 30
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33071
   - https://t.me/sonechkin_rzekich/33072

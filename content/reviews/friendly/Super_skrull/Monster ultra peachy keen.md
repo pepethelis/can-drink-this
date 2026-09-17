@@ -1,4 +1,5 @@
 ---
+author: super_skrull
 aliases:
   - Monster ultra peachy keen
 summary: Спонсор огляду ЯНМУНД. Прислав дві баночки на огляд, за що йому велике дякую ❤️
@@ -17,7 +18,6 @@ volume:
   - "0.5"
 caffeine: 30
 alco: 0
-author: super_skrull
 contentTgPosts:
   - https://t.me/super_skrulling/3434
 ---

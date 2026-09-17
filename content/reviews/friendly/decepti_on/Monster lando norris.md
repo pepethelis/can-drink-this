@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Monster lando norris
 summary:
@@ -15,7 +16,6 @@ container:
 volume:
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34042
 ---

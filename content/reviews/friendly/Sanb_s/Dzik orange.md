@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Dzik orange
 summary:
@@ -16,7 +17,6 @@ container:
 volume:
   - "0.5"
 caffeine: 40
-author: sanb_s
 ---
 DZIK energy orange🍊  
 

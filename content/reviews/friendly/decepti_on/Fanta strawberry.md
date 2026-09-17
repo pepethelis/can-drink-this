@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Fanta strawberry
 summary: Огляд на фанту з полуницею
@@ -16,7 +17,6 @@ container:
 volume:
 caffeine: 0
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33295
   - https://t.me/sonechkin_rzekich/33296

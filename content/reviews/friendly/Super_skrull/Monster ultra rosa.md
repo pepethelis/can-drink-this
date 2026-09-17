@@ -1,4 +1,5 @@
 ---
+author: super_skrull
 aliases:
   - Monster ultra rosa
 summary: "Flavour Profile: Bright and Sweet"
@@ -16,7 +17,6 @@ container:
 volume:
   - "0.5"
 alco: 0
-author: super_skrull
 ---
 **M∅NSTER ENERGY ULTRA ROSÁ**
 

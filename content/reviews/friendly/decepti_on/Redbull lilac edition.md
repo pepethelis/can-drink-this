@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Redbull lilac edition
 summary: Огляд на редбулл з травою та грейпфрутом
@@ -15,7 +16,6 @@ container:
 volume:
   - "0.25"
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33927
   - https://t.me/sonechkin_rzekich/33928

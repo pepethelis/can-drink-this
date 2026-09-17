@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Pitbull coffee
 summary: Огляд на пітбуль з кавою. Коштував 20 грн на смак ригота. 4/10
@@ -15,7 +16,6 @@ container:
 volume:
   - "0.25"
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32381
 ---

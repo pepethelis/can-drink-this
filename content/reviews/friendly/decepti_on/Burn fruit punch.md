@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Burn fruit punch
 summary: Огляд на Берн фруктовий пунш. Ціна +- 40 грн, моя оцінка 7/10
@@ -15,7 +16,6 @@ container:
 volume:
   - "0.25"
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33004
 ---

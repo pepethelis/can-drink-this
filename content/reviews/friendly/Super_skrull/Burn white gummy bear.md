@@ -1,4 +1,5 @@
 ---
+author: super_skrull
 aliases:
   - Burn white gummy bear
 summary:
@@ -17,7 +18,6 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
-author: super_skrull
 ---
 **BURN WHITE GUMMY BEAR**  
 

@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Квас тарас flower power
 summary: ОГЛЯД на квітковий квас Тарас 8/10
@@ -15,7 +16,6 @@ container:
 volume:
 caffeine: 0
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32503
   - https://t.me/sonechkin_rzekich/32504

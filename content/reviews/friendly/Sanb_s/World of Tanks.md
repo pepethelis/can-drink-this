@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - World of Tanks
 summary:
@@ -15,7 +16,6 @@ container:
 volume:
 caffeine: 32
 alco: 0
-author: sanb_s
 contentTgPosts:
   - https://t.me/ukr_satan/1438
 ---

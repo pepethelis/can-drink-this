@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Monster ultra golden pineapple
 summary: Огляд на монстер ананасовий гарна банка
@@ -15,7 +16,6 @@ container:
   - can
 volume:
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33568
   - https://t.me/sonechkin_rzekich/33569

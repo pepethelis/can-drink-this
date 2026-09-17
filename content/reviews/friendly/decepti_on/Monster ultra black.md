@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Monster ultra black
 summary: Огляд на монстер чорна вишня
@@ -15,7 +16,6 @@ container:
 volume:
   - "0.5"
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33976
   - https://t.me/sonechkin_rzekich/33977

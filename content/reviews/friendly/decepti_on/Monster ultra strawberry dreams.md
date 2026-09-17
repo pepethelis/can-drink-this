@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Monster ultra strawberry dreams
 summary: Огляд на пікмі полуничний монстер
@@ -16,7 +17,6 @@ container:
 volume:
 caffeine: 30
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33966
   - https://t.me/sonechkin_rzekich/33967

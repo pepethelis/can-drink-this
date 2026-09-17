@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Monster ultra fantasy ruby red
 summary: Огляд на монстер ультра фентезі рубі ред
@@ -15,7 +16,6 @@ container:
 volume:
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33497
   - https://t.me/sonechkin_rzekich/33498

@@ -1,4 +1,5 @@
 ---
+author: super_skrull
 aliases:
   - Komodo banana
 status: published
@@ -14,7 +15,6 @@ container:
 volume:
   - "0.25"
 alco: 0
-author: super_skrull
 ---
 **KOMODO BANAN ENERGY DRINK**  
 Смак: банан 🍌  

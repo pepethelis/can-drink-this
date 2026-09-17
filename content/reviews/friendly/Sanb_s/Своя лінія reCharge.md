@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Своя лінія reCharge
 summary:
@@ -16,7 +17,6 @@ volume:
   - "1"
 caffeine: 32
 alco: 0
-author: sanb_s
 ---
 Я до речі вже тиждень ніяк не напишу огляд на це #енергохарчування ⚡️⚡️⚡️
 

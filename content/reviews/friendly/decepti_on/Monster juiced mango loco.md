@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Monster juiced mango loco
 summary: Чутчут такая сонна вирішила зробить огляд на монстер фіеста манго
@@ -16,7 +17,6 @@ container:
 volume:
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33573
   - https://t.me/sonechkin_rzekich/33574

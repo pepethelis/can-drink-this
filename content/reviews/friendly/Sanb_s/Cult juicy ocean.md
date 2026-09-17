@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Cult juicy ocean
 summary:
@@ -14,7 +15,6 @@ container:
   - can
 volume:
 alco: 0
-author: sanb_s
 contentTgPosts:
   - https://t.me/ukr_satan/6682
 ---

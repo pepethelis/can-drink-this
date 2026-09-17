@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Battery exotic
 summary: Огляд на баттері екзотік
@@ -15,7 +16,6 @@ container:
 volume:
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33629
   - https://t.me/sonechkin_rzekich/33630

@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Tiger classic max
 summary:
@@ -17,7 +18,6 @@ volume:
   - "0.25"
 caffeine: 48
 alco: 0
-author: sanb_s
 ---
 Зацініть які в Польщі тигри водяться. Думали їх там немає, а вони є  
 

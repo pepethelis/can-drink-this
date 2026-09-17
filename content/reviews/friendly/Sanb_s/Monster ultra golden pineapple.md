@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Monster ultra golden pineapple
 summary:
@@ -15,7 +16,6 @@ container:
   - can
 volume:
 alco: 0
-author: sanb_s
 ---
 Вечірнє #енергохарчування  
 

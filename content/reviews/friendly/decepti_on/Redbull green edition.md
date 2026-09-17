@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Redbull green edition
 summary: Огляд на редбулл кактус 🥺
@@ -14,7 +15,6 @@ container:
   - can
 volume:
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33914
   - https://t.me/sonechkin_rzekich/33915

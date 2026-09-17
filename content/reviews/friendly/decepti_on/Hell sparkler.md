@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Hell sparkler
 summary: Огляд на хелл спарклер
@@ -16,7 +17,6 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33778
   - https://t.me/sonechkin_rzekich/33779

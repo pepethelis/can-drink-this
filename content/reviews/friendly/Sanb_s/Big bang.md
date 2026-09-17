@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Big bang
 summary:
@@ -15,7 +16,6 @@ container:
 volume:
   - "0.25"
 caffeine: 15
-author: sanb_s
 ---
 Турецьке #енергохарчування BIG BANG🙀  
 

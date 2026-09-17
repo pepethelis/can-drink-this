@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Bronx zero
 summary: Огляд на Бронкс блакитний написано що зі сливою насправді хуй його знає 👀
@@ -14,7 +15,6 @@ container:
   - can
 volume:
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33830
   - https://t.me/sonechkin_rzekich/33831

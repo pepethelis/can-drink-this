@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Monster juiced khaotic
 summary:
@@ -16,7 +17,6 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-author: sanb_s
 ---
 Ще одине #енергохарчування з серії Juised Mфnster - KHAOTIC  
 

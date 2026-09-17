@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Hunter original
 summary: Огляд на енергетик хантер оригінальний
@@ -13,7 +14,6 @@ taste:
 container:
   - can
 volume:
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33594
 ---

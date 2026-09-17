@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Mojo mint-lime
 summary: Огляд на моджо!!!!!!!
@@ -17,7 +18,6 @@ container:
 volume:
   - "0.33"
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32222
   - https://t.me/sonechkin_rzekich/32223

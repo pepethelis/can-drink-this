@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Cheat code ultra
 summary:
@@ -16,7 +17,6 @@ volume:
   - "0.33"
 caffeine: 32
 alco: 0
-author: sanb_s
 ---
 І так несподіване #енергохарчування cheat_code бузина та лимон  
 

@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Hell Spritz Maracuja
 summary: Огляд на хелл шприц маракуя 🤕
@@ -17,7 +18,6 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33543
 ---

@@ -1,4 +1,5 @@
 ---
+author: super_skrull
 aliases:
   - Black energy drink wild berries
 summary:
@@ -15,7 +16,6 @@ container:
 volume:
   - "0.5"
 alco: 0
-author: super_skrull
 ---
 **BLACK ENERGY "ДИКІ ЯГОДИ"**
 

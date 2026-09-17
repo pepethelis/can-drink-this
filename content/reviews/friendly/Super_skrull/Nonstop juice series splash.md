@@ -1,4 +1,5 @@
 ---
+author: super_skrull
 aliases:
   - Nonstop juice series splash
 summary:
@@ -15,7 +16,6 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-author: super_skrull
 ---
 **NON STOP SPLASH JUICE SERIES**   
 

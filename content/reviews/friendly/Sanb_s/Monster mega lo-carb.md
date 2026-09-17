@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Monster mega lo-carb
 summary:
@@ -15,7 +16,6 @@ container:
 volume:
   - "0.71"
 alco: 0
-author: sanb_s
 contentTgPosts:
   - https://t.me/ukr_satan/4964
   - https://t.me/ukr_satan/4965

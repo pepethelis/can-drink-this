@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Fanta berry
 summary: Огляд на фанту бабкін компот МАЛИНОВИЙ
@@ -16,7 +17,6 @@ container:
 volume:
 caffeine: 0
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33286
 ---

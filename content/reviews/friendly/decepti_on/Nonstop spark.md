@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Nonstop spark
 summary: Огляд на нон стоп спарк 🐱
@@ -16,7 +17,6 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33789
   - https://t.me/sonechkin_rzekich/33790

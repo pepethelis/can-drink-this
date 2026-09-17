@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - С4 frozen bombsicle
 summary:
@@ -15,7 +16,6 @@ container:
 volume:
   - "0.5"
 alco: 0
-author: sanb_s
 ---
 🔥Ту-дух банка С4 frozen bombsicle  
 

@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Monster ultra paradise
 summary: Перший огляд в 2024 році я допиваю це диво природи і йду єбашити в кіберпанк ви от думаєте шо я така зайнята шо не пощу а я просто єбашу в ігри мені кайфа 🥸
@@ -14,7 +15,6 @@ container:
   - can
 volume:
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/31993
   - https://t.me/sonechkin_rzekich/31994

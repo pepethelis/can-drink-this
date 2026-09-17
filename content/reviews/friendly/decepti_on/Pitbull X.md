@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Pitbull X
 summary: Огляд на пітбуль зелений. Написано має виражений смак апельсину спойлер апельсину там немає. Просто непоганий не солодкий енергетик. За 20 грн бомба 7/10
@@ -14,7 +15,6 @@ container:
   - can
 volume:
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32416
 ---

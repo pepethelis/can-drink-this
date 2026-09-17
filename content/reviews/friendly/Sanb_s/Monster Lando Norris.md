@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Monster Lando Norris
 summary:
@@ -15,7 +16,6 @@ container:
 volume:
 caffeine: 32
 alco: 0
-author: sanb_s
 ---
 Mфnster Lando Norris без цукру  
   

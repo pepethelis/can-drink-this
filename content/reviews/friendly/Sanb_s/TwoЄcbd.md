@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - TwoЄcbd
 summary:
@@ -16,7 +17,6 @@ volume:
   - "0.33"
 caffeine: 32
 alco: 0
-author: sanb_s
 ---
 Two є cbd 😆 (типу твоє, назва піздець їбана)  
 

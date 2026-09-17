@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Tymbark peach-tangerine
 summary: Огляд на водичку солодку персик мандарин залупа хуйня треш 4/10💀💀💀💀
@@ -16,7 +17,6 @@ container:
   - glass
 volume:
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/31169
 ---

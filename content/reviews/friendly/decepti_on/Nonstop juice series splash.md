@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Nonstop juice series splash
 summary: Огляд на енергетик нонстоп мультифруктовий сік
@@ -15,7 +16,6 @@ container:
 volume:
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33910
   - https://t.me/sonechkin_rzekich/33911

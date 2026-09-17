@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Hell summer cool elderflower
 summary: Огляд на хелл за 22 гривні по знижці ставлю йому 7.6/10
@@ -17,7 +18,6 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32157
   - https://t.me/sonechkin_rzekich/32158

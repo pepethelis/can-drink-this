@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Своя лінія recharge wild dog cactus
 summary:
@@ -17,7 +18,6 @@ volume:
   - "1"
 caffeine: 32
 alco: 0
-author: sanb_s
 ---
 Огляд який я заборгував...  
 

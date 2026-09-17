@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Nonstop stalker orange
 summary: Огляд на нон стоп сталкер зі смаком риготи (кавуна) 3,5/10 він в трійці самих не смачних енергетиків
@@ -15,7 +16,6 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32204
   - https://t.me/sonechkin_rzekich/32205

@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Hunter energy
 summary:
@@ -14,7 +15,6 @@ container:
   - plastic
 volume:
   - "0.5"
-author: sanb_s
 ---
 Так, ну що я можу сказати про HUNTER ENERGY  
 

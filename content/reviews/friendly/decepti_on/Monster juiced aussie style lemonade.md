@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Monster juiced aussie style lemonade
 summary: Огляд на монстер оссі (пуссі) стайл лимонад
@@ -14,7 +15,6 @@ container:
   - can
 volume:
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33625
   - https://t.me/sonechkin_rzekich/33626

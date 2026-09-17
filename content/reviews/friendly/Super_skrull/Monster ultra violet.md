@@ -1,4 +1,5 @@
 ---
+author: super_skrull
 aliases:
   - Monster ultra violet
 summary:
@@ -15,7 +16,6 @@ container:
 volume:
   - "0.5"
 alco: 0
-author: super_skrull
 ---
 **MONSTER ENERGY ULTRA VIOLET**  
 Смак: виноград  

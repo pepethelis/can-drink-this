@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Cheat code charge
 summary:
@@ -16,7 +17,6 @@ container:
 volume:
   - "0.33"
 alco: 0
-author: sanb_s
 ---
 Відразу хочу чирконути про cheat_code з вишневим смаком:  
 

@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Burn guava
 summary: Огляд на Берн гуава
@@ -16,7 +17,6 @@ container:
 volume:
   - "0.25"
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33281
 ---

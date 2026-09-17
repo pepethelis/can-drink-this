@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Pitbull blue
   - Pitbull power
@@ -16,7 +17,6 @@ container:
 volume:
   - "0.25"
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33313
   - https://t.me/sonechkin_rzekich/33314

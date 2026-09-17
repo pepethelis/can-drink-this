@@ -1,4 +1,5 @@
 ---
+author: decepti_on
 aliases:
   - Nonstop military
 summary: Огляд нонстоп мілітарі ✨
@@ -16,7 +17,6 @@ container:
 volume:
 caffeine: 32
 alco: 0
-author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33585
   - https://t.me/sonechkin_rzekich/33586

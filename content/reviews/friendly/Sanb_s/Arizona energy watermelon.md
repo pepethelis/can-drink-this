@@ -1,4 +1,5 @@
 ---
+author: sanb_s
 aliases:
   - Arizona energy watermelon
 summary:
@@ -17,7 +18,6 @@ container:
 volume:
   - "0.5"
 alco: 0
-author: sanb_s
 ---
 Крч, купив я ось це на огляд тиждень тому, думав така хайпова банка, вип'ю кайфону і зроблю пОтУжНиЙ огляд, але...
 
