@@ -28,7 +28,7 @@ manufacturer: ООО "Мултон Партнерс"
 caffeine: 30
 volume:
   - "0.449"
-alco:
+alco: 0
 author: dggdyh
 ---
 BURN ZERO SUGAR

@@ -34,6 +34,7 @@ types:
   - energy
 createdAt: 2026-01-30
 old_related: true
+alco: 0
 ---
 **Dark dog pink fizz**. Офіційний смак - полуниця-кавун
 

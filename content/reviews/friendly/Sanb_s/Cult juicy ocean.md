@@ -16,6 +16,7 @@ cover:
 externalUrl: https://t.me/ukr_satan/6682
 contentTgPosts:
   - https://t.me/ukr_satan/6682
+alco: 0
 ---
 CULT juicy ocean🌊  
   

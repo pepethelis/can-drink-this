@@ -1,6 +1,4 @@
 ---
-caffeine: 0
-
 status: published
 aliases:
   - Borjomi aromati citrus & ginger root
@@ -25,10 +23,11 @@ primaryColors:
   - white
   - red
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine:
+caffeine: 0
 volume:
   - "0.33"
 createdAt: 2026-07-16
+alco: 0
 ---
 **Borjomi aromati citrus & ginger root**. Офіційний смак - цитрус і корень імбиря
 

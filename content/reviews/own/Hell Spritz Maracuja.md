@@ -31,6 +31,7 @@ related:
   - "[[Hell Summer Groovy Grapefruit|Hell Groovy Grapefruit]]"
   - "[[content/reviews/own/Hell Summer Chillin’ Guanabana|Hell Chillin' Guanabana-mango]]"
 createdAt: 2025-08-24
+alco: 0
 ---
 **Hell Maracuja Spritz**, фіолетовий hell із лінійки spritz. Офіційний смак - персик, маракуйя та тутті-фрутті йобаний
 

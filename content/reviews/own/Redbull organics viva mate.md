@@ -1,6 +1,4 @@
 ---
-caffeine: 0
-
 status: published
 tags:
   - package/ball
@@ -21,7 +19,7 @@ sponsor:
   - gdgood
 volume:
   - "0.25"
-caffeine: 32
+caffeine: 0
 primaryColors:
   - yellow
   - green
@@ -32,6 +30,7 @@ types:
   - fizzy
 createdAt: 2025-06-25
 old_related: true
+alco: 0
 ---
 **Organics by redbull - viva mate**. Найнеочікуваніший із усієї лінійки
 

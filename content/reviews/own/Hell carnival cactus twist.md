@@ -26,7 +26,7 @@ manufacturer: hell energy
 caffeine: 32
 volume:
   - "0.25"
-alco:
+alco: 0
 related:
   - "[[content/reviews/own/Komodo cactus|Komodo cactus]]"
   - "[[content/reviews/own/Redbull green edition|Redbull green edition]]"

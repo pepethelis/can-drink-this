@@ -29,6 +29,7 @@ types:
   - energy
 createdAt: 2025-06-13
 old_related: true
+alco: 0
 ---
 **Hell green apple**. Офіційний смак - зелене яблуко
 

@@ -16,6 +16,7 @@ taste:
 types:
   - energy
 cover: "[[photo_2024-09-16_14-35-40.jpg]]"
+alco: 0
 ---
 **BLACK ENERGY DRINK Яблуко**
 

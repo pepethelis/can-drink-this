@@ -1,6 +1,4 @@
 ---
-caffeine: 0
-
 status: published
 aliases:
   - Taller
@@ -25,7 +23,7 @@ primaryColors:
   - white
   - black
 manufacturer: ПРАТ "Абінбев Ефес Україна"
-caffeine:
+caffeine: 0
 volume:
   - "0.5"
 alco: 5

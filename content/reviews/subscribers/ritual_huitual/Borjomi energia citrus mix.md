@@ -27,6 +27,7 @@ primaryColors:
 createdAt: 2026-08-19
 caffeine: 30
 externalUrl: https://t.me/kallection/38271
+alco: 0
 ---
 Citrus Mix Energia by Borjomi
 

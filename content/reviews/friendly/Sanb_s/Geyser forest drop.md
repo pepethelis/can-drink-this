@@ -16,6 +16,7 @@ types:
 cover: "[[photo_2025-03-22_19-51-34.jpg]]"
 externalUrl: https://t.me/ukr_satan/4963
 caffeine: 32
+alco: 0
 ---
 Раптовий огляд на #енергохарчування GAYser forest drop🌲  
 

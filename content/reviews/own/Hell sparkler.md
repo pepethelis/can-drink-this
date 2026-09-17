@@ -36,6 +36,7 @@ related:
   - "[[Hell Summer Groovy Grapefruit|Hell Groovy Grapefruit]]"
   - "[[Hell Summer Groovy Grapefruit|Hell Groovy Grapefruit]]"
 createdAt: 2025-12-27
+alco: 0
 ---
 **Hell sparkler**. Офіційний смак - виноград
 

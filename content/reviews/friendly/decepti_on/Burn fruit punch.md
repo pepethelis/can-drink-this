@@ -17,5 +17,6 @@ cover:
 externalUrl: https://t.me/sonechkin_rzekich/33005
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33004
+alco: 0
 ---
 Огляд на Берн фруктовий пунш. Ціна +- 40 грн, моя оцінка 7/10

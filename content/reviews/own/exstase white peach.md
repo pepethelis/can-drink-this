@@ -29,6 +29,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-06-27
+alco: 0
 ---
 **Exstase white peach**. Офіційний смак - білий персик
 

@@ -34,6 +34,7 @@ types:
   - energy
 createdAt: 2026-02-16
 old_related: true
+alco: 0
 ---
 **Dark dog cherry**. Офіційний смак - вишня
 

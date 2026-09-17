@@ -34,6 +34,7 @@ types:
   - energy
 createdAt: 2024-09-21
 old_related: true
+alco: 0
 ---
 **Burn Apple-kiwi**, або ж зелений бьорн. Офіційний смак - яблуко-ківі
 

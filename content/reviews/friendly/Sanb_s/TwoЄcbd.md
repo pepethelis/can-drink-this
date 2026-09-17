@@ -16,6 +16,7 @@ types:
 cover: "[[photo_2025-06-08_18-18-58.jpg]]"
 externalUrl: https://t.me/ukr_satan/5558
 caffeine: 32
+alco: 0
 ---
 Two є cbd 😆 (типу твоє, назва піздець їбана)  
 

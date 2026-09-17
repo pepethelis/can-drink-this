@@ -1,6 +1,4 @@
 ---
-caffeine: 0
-
 status: published
 aliases:
   - Erbe ice tea orange mint
@@ -26,7 +24,7 @@ primaryColors:
   - acid green
   - white
 manufacturer: ТОВ "Асканія Бевериджиз"
-caffeine:
+caffeine: 0
 volume:
   - "0.33"
 alco:

@@ -19,5 +19,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33544
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33543
 caffeine: 32
+alco: 0
 ---
 Огляд на хелл шприц маракуя 🤕

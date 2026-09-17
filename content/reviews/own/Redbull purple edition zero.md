@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: prebuild
 tags:
   - package/ball
@@ -19,6 +17,7 @@ primaryColors:
   - purple
 manufacturer: redbull
 caffeine: 32
+alco: 0
 sponsor:
   - makmed1337
 volume:

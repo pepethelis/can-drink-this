@@ -29,6 +29,7 @@ types:
   - energy
 createdAt: 2025-02-27
 old_related: true
+alco: 0
 ---
 **Burn mango**, або ж бьорн синій манго
 

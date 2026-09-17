@@ -16,6 +16,7 @@ aliases:
   - Burn zero citrus
 caffeine: 30
 cover: "[[photo_2026-07-04_10-15-22.jpg]]"
+alco: 0
 ---
 BURN ZERO SUGAR 
 

@@ -21,5 +21,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33512
   - https://t.me/sonechkin_rzekich/33513
 caffeine: 30
+alco: 0
 ---
 Огляд на хелл персик лимон (перепрошую на фоні єбашать в кампютєр)

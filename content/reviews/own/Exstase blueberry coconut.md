@@ -30,6 +30,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-07-19
+alco: 0
 ---
 **Exstase blueberry coconut**. Офіційний смак - чорниця та кокос
 

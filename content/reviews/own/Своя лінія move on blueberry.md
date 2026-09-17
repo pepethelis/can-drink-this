@@ -33,6 +33,7 @@ types:
   - energy
 createdAt: 2026-03-25
 old_related: true
+alco: 0
 ---
 **Move on blueberry**, іншими словами чергова спроба ТМ своя лінія в енергоси. Офіційний смак - чорниця
 

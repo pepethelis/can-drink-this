@@ -18,5 +18,6 @@ cover:
 externalUrl: https://t.me/sonechkin_rzekich/34055
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34054
+alco: 0
 ---
 Огляд на енергєтічєскій напіток Берн з ведмедиками гаммі

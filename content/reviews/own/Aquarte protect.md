@@ -1,6 +1,4 @@
 ---
-caffeine: 0
-
 status: published
 aliases:
   - Aquarte protect
@@ -25,10 +23,10 @@ primaryColors:
   - orange
   - white
 manufacturer: vitmark
-caffeine:
+caffeine: 0
 volume:
   - "0.5"
-alco:
+alco: 0
 createdAt: 2026-08-06
 ---
 **Aquarte protect**. Офіційний смак - ацерола та апельсин

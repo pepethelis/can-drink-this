@@ -18,5 +18,6 @@ cover:
 externalUrl: https://t.me/sonechkin_rzekich/33282
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33281
+alco: 0
 ---
 Огляд на Берн гуава

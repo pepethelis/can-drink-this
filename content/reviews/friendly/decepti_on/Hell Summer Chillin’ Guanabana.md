@@ -18,5 +18,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/32844
   - https://t.me/sonechkin_rzekich/32845
 caffeine: 32
+alco: 0
 ---
 Огляд на хелл з манго 5/10 (надто солодке для мене)

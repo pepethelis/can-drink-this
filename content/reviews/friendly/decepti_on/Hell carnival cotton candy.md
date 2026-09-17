@@ -20,5 +20,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/34088
   - https://t.me/sonechkin_rzekich/34089
 caffeine: 32
+alco: 0
 ---
 Огляд на хелл солодка вата 😄

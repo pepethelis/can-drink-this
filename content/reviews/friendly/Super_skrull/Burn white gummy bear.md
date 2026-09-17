@@ -17,6 +17,7 @@ types:
 cover: "[[photo_2026-09-07_09-56-30.jpg]]"
 externalUrl: https://t.me/super_skrulling/4212
 caffeine: 32
+alco: 0
 ---
 **BURN WHITE GUMMY BEAR**  
 

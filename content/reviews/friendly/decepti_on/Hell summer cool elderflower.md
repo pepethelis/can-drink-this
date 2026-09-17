@@ -20,5 +20,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/32157
   - https://t.me/sonechkin_rzekich/32158
 caffeine: 32
+alco: 0
 ---
 Огляд на хелл за 22 гривні по знижці ставлю йому 7.6/10

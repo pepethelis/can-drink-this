@@ -20,5 +20,6 @@ externalUrl: https://t.me/sonechkin_rzekich/32754
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32753
 caffeine: 40
+alco: 0
 ---
 Швидкий огляд на лате з полуницею, на смак цікаво прикольно мені сподобалось 7/10

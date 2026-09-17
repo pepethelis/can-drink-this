@@ -15,6 +15,7 @@ types:
   - energy
 cover: "[[photo_2025-10-24_13-02-33.jpg]]"
 externalUrl: https://t.me/ukr_satan/6823
+alco: 0
 ---
 Огляд на ще один [С4](https://t.me/ukr_satan/6745) тепер Twisted Limeade  
 

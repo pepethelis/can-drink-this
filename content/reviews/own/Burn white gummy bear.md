@@ -28,6 +28,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-06-17
+alco: 0
 ---
 **Burn white gummy bear**. Офіційний смак - білий желейний ведмедик
 

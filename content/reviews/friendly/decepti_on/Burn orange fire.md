@@ -18,5 +18,6 @@ cover:
 externalUrl: https://t.me/sonechkin_rzekich/33303
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33302
+alco: 0
 ---
 Огляд на Берн з апельсином

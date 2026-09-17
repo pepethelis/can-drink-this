@@ -30,6 +30,7 @@ types:
   - energy
 createdAt: 2025-10-21
 old_related: true
+alco: 0
 ---
 **Frugo mango**. Офіційний смак - манго
 

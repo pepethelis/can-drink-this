@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: prebuild
 tags:
   - package/ball
@@ -24,6 +22,7 @@ manufacturer: redbull
 volume:
   - "0.25"
 caffeine: 32
+alco: 0
 related:
 aliases:
   - Redbull peach edition

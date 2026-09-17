@@ -25,7 +25,7 @@ manufacturer: hell energy
 caffeine: 32
 volume:
   - "0.25"
-alco:
+alco: 0
 related:
 createdAt: 2026-08-20
 ---

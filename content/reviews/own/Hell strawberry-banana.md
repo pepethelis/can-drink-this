@@ -29,6 +29,7 @@ types:
   - energy
 createdAt: 2025-11-14
 old_related: true
+alco: 0
 ---
 **Hell strawberry-banana**. Офіційний смак полуниця-банан
 

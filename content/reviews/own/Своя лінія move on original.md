@@ -33,6 +33,7 @@ types:
   - energy
 createdAt: 2026-04-03
 old_related: true
+alco: 0
 ---
 **Своя лінія move on original**. Офіційний смак - класичний
 

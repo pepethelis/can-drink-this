@@ -15,6 +15,7 @@ taste:
 types:
   - energy
 cover: "[[photo_2025-06-10_08-58-21.jpg]]"
+alco: 0
 ---
 **BLACK ENERGY "ДИКІ ЯГОДИ"**
 

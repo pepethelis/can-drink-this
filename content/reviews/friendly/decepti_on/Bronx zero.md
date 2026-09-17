@@ -17,5 +17,6 @@ externalUrl: https://t.me/sonechkin_rzekich/33832
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33830
   - https://t.me/sonechkin_rzekich/33831
+alco: 0
 ---
 Огляд на Бронкс блакитний написано що зі сливою насправді хуй його знає 👀

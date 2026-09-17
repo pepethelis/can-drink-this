@@ -1,4 +1,6 @@
-﻿---
+---
+alco: 2
+
 status: prebuild
 aliases:
   - Cheat code original

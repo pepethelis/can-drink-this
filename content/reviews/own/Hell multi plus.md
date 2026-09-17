@@ -26,6 +26,7 @@ aliases:
 types:
   - energy
 createdAt: 2025-06-05
+alco: 0
 ---
 **Hell multi+**. Офіційний смак - фруктове асорті
 

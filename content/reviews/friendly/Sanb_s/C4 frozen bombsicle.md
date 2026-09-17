@@ -15,6 +15,7 @@ types:
   - energy
 cover: "[[photo_2025-10-15_21-21-02.jpg]]"
 externalUrl: https://t.me/ukr_satan/6745
+alco: 0
 ---
 🔥Ту-дух банка С4 frozen bombsicle  
 

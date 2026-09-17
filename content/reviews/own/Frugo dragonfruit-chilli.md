@@ -27,6 +27,7 @@ types:
   - energy
 createdAt: 2025-10-25
 old_related: true
+alco: 0
 ---
 **Frugo Wild Punch Black**. Офіційний смак - draginfruit & chilli
 

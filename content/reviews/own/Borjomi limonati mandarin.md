@@ -1,6 +1,4 @@
 ---
-caffeine: 0
-
 status: published
 tags:
 externalUrl: https://t.me/kallection/38369
@@ -24,7 +22,7 @@ primaryColors:
   - orange
   - white
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine:
+caffeine: 0
 volume:
   - "0.33"
   - "0.5"
@@ -33,6 +31,7 @@ aliases:
 types:
   - fizzy
 createdAt: 2026-07-31
+alco: 0
 ---
 **Borjomi limonati mandarin**. Офіційний смак - мандарин
 

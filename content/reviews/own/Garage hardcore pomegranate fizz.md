@@ -1,5 +1,4 @@
 ---
-caffeine: 0
 
 status: published
 aliases:
@@ -23,7 +22,7 @@ availability: 4
 summary:
 primaryColors:
 manufacturer: carlsberg
-caffeine:
+caffeine: 0
 volume:
   - "0.44"
 alco: 8

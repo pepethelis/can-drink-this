@@ -29,6 +29,7 @@ types:
   - energy
 createdAt: 2025-09-27
 old_related: true
+alco: 0
 ---
 **Burn dark energy**, або ж жовтенький бьорн. Офіційний смак - не вказано
 

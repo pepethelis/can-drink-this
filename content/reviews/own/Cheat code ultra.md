@@ -37,6 +37,7 @@ types:
   - energy
 createdAt: 2025-10-22
 old_related: true
+alco: 0
 ---
 **Cheat code ultra**. Офіційний смак - бузина-лимон
 

@@ -1,6 +1,4 @@
 ---
-caffeine: 0
-
 status: prebuild
 aliases:
   - Buvette Healthy Tea манго-обліпиха
@@ -19,9 +17,9 @@ availability:
 summary:
 primaryColors:
 manufacturer:
-caffeine:
+caffeine: 0
 volume:
-alco:
+alco: 0
 ---
 **Buvette Healthy Tea манго-обліпиха**. Офіційний смак - ==СМАК==
 

@@ -19,6 +19,7 @@ externalUrl: https://t.me/ukr_satan/6641
 contentTgPosts:
   - https://t.me/ukr_satan/6641
 caffeine: 32
+alco: 0
 ---
 Литовське #енергохарчування CULT Buble gum energy  
   

@@ -31,6 +31,7 @@ aliases:
 types:
   - energy
 createdAt: 2026-08-14
+alco: 0
 ---
 **Exstase bubble gum**. Офіційний смак - бубблегум
 

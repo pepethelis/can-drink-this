@@ -16,6 +16,7 @@ types:
   - energy
 cover: "[[photo_2025-09-26_09-54-37.jpg]]"
 externalUrl: https://t.me/ukr_satan/6521
+alco: 0
 ---
 Відразу хочу чирконути про cheat_code з вишневим смаком:  
 

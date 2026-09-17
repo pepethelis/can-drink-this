@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
   - package/ball
@@ -24,6 +22,7 @@ volume:
 caffeine: 32
 primaryColors:
   - red
+alco: 0
 manufacturer: redbull
 aliases:
   - Redbull red edition
