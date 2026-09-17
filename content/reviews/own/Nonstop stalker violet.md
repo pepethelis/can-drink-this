@@ -31,6 +31,9 @@ availability: 1
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/non-stop-stalker-munlayt-napiy-bezalkogolniy-energetichniy-silnogazovaniy-05l-ua-4820252122901
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-stalker-munlayt-025l-ua-4820252122895
 ---
 **Nonstop stalker moonlight**, він же фіолетовий нонстоп сталкер. Офіційний смак - манго-груша
 

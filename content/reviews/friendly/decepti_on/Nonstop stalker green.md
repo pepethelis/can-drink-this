@@ -20,5 +20,8 @@ externalUrl: https://t.me/sonechkin_rzekich/33378
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33376
   - https://t.me/sonechkin_rzekich/33377
+listexUrls:
+  - https://listex.info/uk/product/non-stop-stalker-grin-napiy-bezalkogolniy-energetichniy-silnogazovaniy-05-l-ua-4820252124837
+  - https://listex.info/uk/product/non-stop-stalker-grin-napiy-bezalkogolniy-energetichniy-silnogazovaniy-025-l-ua-4820252124820
 ---
 Огляд на нон стоп сталкер зелений

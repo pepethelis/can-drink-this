@@ -34,6 +34,10 @@ favorite: true
 tags:
   - package/canpack
   - package/bagpak
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-evolyushn-fresh-ua-4820097897224
+  - https://listex.info/uk/product/napitok-energetich-non-stop-evolyushn-fresh-ba-silg-ua-4820097897217
+  - https://listex.info/uk/product/non-stop-evolyushn-fresh-napiy-bezalkogolniy-energetichniy-silnogazovaniy-075-l-ua-4820252123311
 ---
 **Nonstop jungle**, він же зелений нонстоп. Офіційний смак - не вказано 
 

@@ -30,6 +30,8 @@ availability: 5
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-sokoviy-serednogazovaniy-battery-juiced-sour-apple-ua-4820250944253
 ---
 **Battery juiced sour apple**. Офіційний смак - кисле яблуко
 

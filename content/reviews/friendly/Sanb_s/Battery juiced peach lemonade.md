@@ -18,6 +18,8 @@ volume:
 caffeine: 32
 alco: 0
 externalUrl: https://t.me/ukr_satan/5360
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-sokoviy-serednogazovaniy-battery-juiced-peach-lemonade-ua-4820250944239
 ---
 Новинка від Батарейки  
 

@@ -32,6 +32,9 @@ alco: 0
 availability: 5
 old_related: true
 tags:
+listexUrls:
+  - https://listex.info/uk/product/non-stop-stalker-grin-napiy-bezalkogolniy-energetichniy-silnogazovaniy-05-l-ua-4820252124837
+  - https://listex.info/uk/product/non-stop-stalker-grin-napiy-bezalkogolniy-energetichniy-silnogazovaniy-025-l-ua-4820252124820
 ---
 **Nonstop stalker green**. Офіційний смак на банці не вказано, але на сайті згадували лайм🍋‍🟩, м'яту🌿 та ожину🫐
 

@@ -18,6 +18,9 @@ volume:
 caffeine: 32
 alco: 0
 externalUrl: https://t.me/ukr_satan/5528
+listexUrls:
+  - https://listex.info/uk/product/non-stop-stalker-grin-napiy-bezalkogolniy-energetichniy-silnogazovaniy-05-l-ua-4820252124837
+  - https://listex.info/uk/product/non-stop-stalker-grin-napiy-bezalkogolniy-energetichniy-silnogazovaniy-025-l-ua-4820252124820
 ---
 Ну шо, легендарне #енергохарчування NON STOP STALKER GREEN  
 

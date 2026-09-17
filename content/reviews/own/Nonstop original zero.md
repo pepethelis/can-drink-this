@@ -29,6 +29,9 @@ availability: 4
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-z-pidsolodzhuvachami-non-stop-bez-cukru-05l-ua-4820252125360
+  - https://listex.info/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-z-pidsolodzhuvachami-non-stop-original-bez-cukru-025-ua-4820252125353
 ---
 **Nonstop original zero**, перший нонстоп без цукру. Офіційний смак не вказано, але ми розуміємо, що має бути класичний
 

@@ -19,6 +19,9 @@ volume:
 caffeine: 32
 alco: 0
 externalUrl: https://t.me/ukr_satan/1300
+listexUrls:
+  - https://listex.info/uk/product/non-stop-stalker-munlayt-napiy-bezalkogolniy-energetichniy-silnogazovaniy-05l-ua-4820252122901
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-stalker-munlayt-025l-ua-4820252122895
 ---
 #енергохарчування  
 

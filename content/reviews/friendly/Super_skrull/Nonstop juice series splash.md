@@ -16,6 +16,8 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-sokova-seriya-splesh-05-l-ua-4820252125759
 ---
 **NON STOP SPLASH JUICE SERIES**   
 

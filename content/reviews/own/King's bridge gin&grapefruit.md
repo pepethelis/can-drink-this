@@ -28,6 +28,8 @@ availability: 5
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-slaboalkogolniy-silnogazovaniy-kingz-bridzh-dzhin-z-greyfrutovim-sokom-05-l-ua-4820252120068
 ---
 **King’s bridge рожевий**. Офіційний смак - джин та грейпфрут
 

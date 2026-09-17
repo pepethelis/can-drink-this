@@ -40,6 +40,8 @@ related:
   - "[[content/reviews/own/Monster juiced rio punch|Monster juiced rio punch]]"
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-sokova-seriya-splesh-05-l-ua-4820252125759
 ---
 **Nonstop juice series splash**. Офіційний смак - ніде не вказано
 

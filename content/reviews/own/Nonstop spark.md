@@ -31,6 +31,8 @@ availability: 4
 favorite:
 old_related: true
 tags:
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-z-pidsolodzhuvachami-non-stop-spark-bez-cukru-05-ua-4820252125612
 ---
 **Nonstop spark**. Офіційний смак за традицією не вказано, але вірогідно, що буде ананас
 

@@ -20,5 +20,7 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33670
   - https://t.me/sonechkin_rzekich/33671
   - https://t.me/sonechkin_rzekich/33672
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-sokoviy-serednogazovaniy-battery-juiced-sour-apple-ua-4820250944253
 ---
 Огляд на баттері з яблуком

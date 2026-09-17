@@ -27,6 +27,8 @@ availability: 5
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/kingz-bridzh-dzhin-z-tonikom-napiy-slaboalkogolniy-silnogazovaniy-05-l-70-ua-4820252121089
 ---
 **King’s bridge сірий**. Офіційний смак - джин-тонік, класика
 

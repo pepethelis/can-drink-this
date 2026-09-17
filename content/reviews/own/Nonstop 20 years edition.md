@@ -30,6 +30,8 @@ favorite: true
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-20-rokiv-limitovana-seriya-05-ua-4820252125636
 ---
 **Nonstop 20 years edition**. Офіційний смак на банці не вказано, але судячи зі складу це вишня, а чутки перед релізом кажуть про вишневий брауні
 

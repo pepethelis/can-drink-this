@@ -32,6 +32,8 @@ availability: 3
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-sokovmisniy-serednogazovaniy-battery-juiced-exotic-fruits-banka-048l-ua-4820250945052
 ---
 **Battery juiced exotic fruits**. Офіційний смак - екзотичні фрукти, а саме манго, маракуйя та апельсин
 

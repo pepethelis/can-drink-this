@@ -28,6 +28,8 @@ availability: 4
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/kingz-bridzh-dzhin-cherri-napiy-slaboalkogolniy-energetichniy-silnogazovaniy-70-05lzb-ua-4820252124615
 ---
 **King’s bridge бордовий**. Офіційний смак - джин та вишня
 

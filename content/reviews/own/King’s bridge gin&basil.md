@@ -28,6 +28,8 @@ availability: 4
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/kingz-bridzh-dzhin-bezil-napiy-slaboalkogolniy-energetichniy-silnogazovaniy-70-05lzb-ua-4820252124608
 ---
 **King’s bridge зелений**. Офіційний смак - джин та базилік
 

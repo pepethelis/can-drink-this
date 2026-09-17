@@ -25,6 +25,8 @@ caffeine: 0
 alco: 7
 availability: 4
 tags:
+listexUrls:
+  - https://listex.info/uk/product/kingz-bridzh-dzhin-berri-napiy-slaboalkogolniy-silnogazovaniy-05-l-ua-4820252123304
 ---
 **King’s bridge синій**. Офіційний смак - джин та ягоди
 

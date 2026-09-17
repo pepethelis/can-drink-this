@@ -33,6 +33,9 @@ related:
   - "[[content/reviews/own/Hell carnival cotton candy|Hell carnival cotton candy]]"
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-battery-unicorn-05-zb-ua-4820250943904
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-battery-unicorn-033-zb-ua-4820250943928
 ---
 **Battery unicorn**, енергосік від карсберг. Офіційний смак - цукрова вата, неофіційний - каєфний
 

@@ -17,6 +17,8 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+listexUrls:
+  - https://listex.info/uk/product/napiy-energ-monster-energy-juice-viking-berry-zb-ua-70847898320
 ---
 Monster Viking Berry
 
