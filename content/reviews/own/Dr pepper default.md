@@ -1,5 +1,4 @@
 ---
-alco: 0
 status: published
 tags:
   - package/amp
@@ -29,6 +28,7 @@ types:
 createdAt: 2025-06-20
 old_related: true
 caffeine: 0
+alco: 0
 ---
 **Dr pepper дефолтний**. Офіційний смак не вказано
 

@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
   - country/poland
@@ -22,6 +20,7 @@ summary:
 volume:
   - "0.25"
 caffeine: 32
+alco: 0
 sponsor:
   - ritual_huitual
 manufacturer: KED Krasnodębski Sp. K

@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
   - package/bagpak
@@ -21,6 +19,7 @@ sponsor:
 volume:
   - "0.33"
 caffeine: 32
+alco: 0
 primaryColors:
   - violet
   - blue
