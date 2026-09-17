@@ -29,6 +29,8 @@ availability: 4
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/250-can-x6-burn-guava-ua-5061013963206
 ---
 **Burn guava**, або ж ще один бьорн жовтий
 

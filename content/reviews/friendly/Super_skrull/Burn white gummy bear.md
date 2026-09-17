@@ -18,6 +18,8 @@ volume:
 caffeine: 32
 alco: 0
 externalUrl: https://t.me/super_skrulling/4212
+listexUrls:
+  - https://listex.info/uk/product/burn-biliy-zheleyniy-medvedik-napiy-bezalkogolniy-silnoazovaniy-energetichniy-ua-5061013966498
 ---
 **BURN WHITE GUMMY BEAR**  
 

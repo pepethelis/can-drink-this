@@ -1,4 +1,6 @@
-﻿---
+---
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-bronx-zero-alco-033l-zb-ua-4820002713625
 status: published
 tags:
   - package/bagpak

@@ -29,6 +29,8 @@ alco: 0
 availability: 3
 favorite: true
 tags:
+listexUrls:
+  - https://listex.info/uk/product/burn-biliy-zheleyniy-medvedik-napiy-bezalkogolniy-silnoazovaniy-energetichniy-ua-5061013966498
 ---
 **Burn white gummy bear**. Офіційний смак - білий желейний ведмедик
 

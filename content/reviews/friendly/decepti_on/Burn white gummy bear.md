@@ -19,5 +19,8 @@ alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/34055
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34054
+caffeine: 32
+listexUrls:
+  - https://listex.info/uk/product/burn-biliy-zheleyniy-medvedik-napiy-bezalkogolniy-silnoazovaniy-energetichniy-ua-5061013966498
 ---
 Огляд на енергєтічєскій напіток Берн з ведмедиками гаммі

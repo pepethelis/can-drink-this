@@ -30,6 +30,8 @@ availability: 4
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/250-can-x6-burn-temna-energiya-ua-5060608749898
 ---
 **Burn dark energy**, або ж жовтенький бьорн. Офіційний смак - не вказано
 

@@ -18,6 +18,9 @@ alco: 0
 externalUrl: https://t.me/ukr_satan/1591
 contentTgPosts:
   - https://t.me/ukr_satan/1591
+listexUrls:
+  - https://listex.info/uk/product/napiy-brodinnya-pasterizovaniy-gazovaniy-kvas-hlibniy-zhivogo-brodinnya-kvas-taras-flower-power-zi-smakom-kvitiv-buzini-ta-lemongrasu-zb-05l-ua-4820250943751
+  - https://listex.info/uk/product/napiy-brodinnya-pasterizovaniy-gazovaniy-kvas-hlibniy-zhivogo-brodinnya-kvas-taras-flower-power-zi-smakom-kvitiv-buzini-ta-lemongrasu-pet-15l-ua-4820250943737
 ---
 Ну шо їбать огляд на НЕ енергетик, чекали? Звичайно ж ні!
 

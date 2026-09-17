@@ -19,5 +19,8 @@ externalUrl: https://t.me/sonechkin_rzekich/32505
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32503
   - https://t.me/sonechkin_rzekich/32504
+listexUrls:
+  - https://listex.info/uk/product/napiy-brodinnya-pasterizovaniy-gazovaniy-kvas-hlibniy-zhivogo-brodinnya-kvas-taras-flower-power-zi-smakom-kvitiv-buzini-ta-lemongrasu-zb-05l-ua-4820250943751
+  - https://listex.info/uk/product/napiy-brodinnya-pasterizovaniy-gazovaniy-kvas-hlibniy-zhivogo-brodinnya-kvas-taras-flower-power-zi-smakom-kvitiv-buzini-ta-lemongrasu-pet-15l-ua-4820250943737
 ---
 ОГЛЯД на квітковий квас Тарас 8/10

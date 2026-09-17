@@ -28,6 +28,8 @@ availability: 3
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/250-can-x6-burn-orange-fire-ua-ua-5061013962995
 ---
 **Burn orange fire**, або ж помаранчевий бьорн. Офіційний смак - апельсин
 

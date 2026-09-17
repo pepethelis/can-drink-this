@@ -38,6 +38,8 @@ related:
   - "[[Bronx green]]"
   - "[[Bronx orange]]"
 tags:
+listexUrls:
+  - https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-bummer-bummer-tm-bummer-05-l-ua-4820271512554
 ---
 Алко-енержи **Bummer**. Офіційний смак не вказано, але ми знаємо, що там типу рево має бути
 

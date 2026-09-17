@@ -29,6 +29,8 @@ availability: 4
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/250-can-x6-born-fruktoviy-punsh-ua-5060895744156
 ---
 **Burn fruit punch**, або ж синій бьорн. Офіційний смак - фруктовий пунш
 

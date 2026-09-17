@@ -29,6 +29,8 @@ availability: 4
 favorite:
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-bummer-espreso-tm-bummer-033-l-zhb-ua-4820271512844
 ---
 Кавовий алко-енержи **Bummer espresso**. Офіційний смак - еспресо
 

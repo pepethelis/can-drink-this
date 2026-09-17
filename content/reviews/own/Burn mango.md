@@ -30,6 +30,8 @@ availability: 4
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-silnogazovaniy-energetichniy-burn-zi-smakom-mango-025l-ua-5060466519602
 ---
 **Burn mango**, або ж бьорн синій манго
 
