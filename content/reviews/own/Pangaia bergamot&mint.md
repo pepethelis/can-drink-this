@@ -1,38 +1,38 @@
 ---
+aliases:
+  - Pangaia bergamot&mint
+summary:
 status: published
-tags:
 externalUrl: https://t.me/kallection/37360
+publishedAt: 2026-07-15
+createdAt: 2026-06-19
+cover: "[[IMG_3389.jpeg]]"
+types:
+  - alco
 brand: pangaia
 taste:
   - bergamot
   - mint
-publishedAt: 2026-07-15
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_3389.jpeg]]"
-availability: 4
-summary:
+container:
+  - can
 primaryColors:
   - green
   - blue
   - white
 manufacturer: ТОВ "ЛВН Лімітед"
-caffeine: 0
-alco: 5
 volume:
   - "0.33"
-aliases:
-  - Pangaia bergamot&mint
-types:
-  - alco
+caffeine: 0
+alco: 5
+availability: 4
+favorite:
 related:
   - "[[Pangaia mango blossom|Pangaia mango blossom]]"
   - "[[Чернігівське біле fruter кавун|Чернігівське біле fruter кавун]]"
   - "[[Чернігівське біле fruter капуоранж|Чернігівське біле fruter капуоранж]]"
-createdAt: 2026-06-19
+tags:
 ---
 **Pangaia bergamot&mint**. Офіційний смак - бергамот-мʼята
 

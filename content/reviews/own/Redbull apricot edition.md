@@ -1,39 +1,39 @@
 ---
+aliases:
+  - Redbull apricot edition
+summary:
 status: published
-tags:
-  - package/ball
-  - country/france
 externalUrl: https://t.me/kallection/37770
+publishedAt: 2026-07-29
+createdAt: 2026-07-04
+cover: "[[IMG_4273.jpeg]]"
+types:
+  - energy
 brand: redbull/edition
 taste:
   - apricot
   - strawberry
-publishedAt: 2026-07-29
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - glucose
-cover: "[[IMG_4273.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - orange
 manufacturer: redbull
-aliases:
-  - Redbull apricot edition
-types:
-  - energy
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
 related:
   - "[[Effect strawberry apricot|Effect strawberry apricot]]"
-createdAt: 2026-07-04
-alco: 0
+tags:
+  - package/ball
+  - country/france
 ---
 **Redbull apricot edition**. Офіційний смак - абрикос-полуниця
 

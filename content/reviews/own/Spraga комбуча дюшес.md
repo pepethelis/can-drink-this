@@ -1,34 +1,34 @@
 ---
-status: published
 aliases:
   - Spraga комбуча дюшес
+summary:
+status: published
 externalUrl: https://t.me/kallection/37908
-brand: spraga
+publishedAt: 2026-08-05
+createdAt: 2026-07-08
+cover: "[[IMG_4635.jpeg]]"
 types:
   - kombucha
+brand: spraga
 taste:
   - pear
-publishedAt: 2026-08-05
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_4635.jpeg]]"
-availability: 3.5
-summary:
+container:
+  - can
 primaryColors:
   - yellow
   - white
   - blue
 manufacturer: ТОВ "Спрага дистриб'юшн"
-caffeine: 0
 volume:
   - "0.33"
-createdAt: 2026-07-08
+caffeine: 0
+alco: 0
+availability: 3.5
+favorite:
 related:
   - "[[ДВІЖ|ДВІЖ]]"
-alco: 0
 ---
 **Spraga комбуча**. Офіційний смак - дюшес
 

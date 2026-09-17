@@ -1,24 +1,24 @@
 ---
-author: sanb_s
 aliases:
   - Monster mega lo-carb
-publishedAt: 2025-03-22
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4964
+publishedAt: 2025-03-22
+cover:
+types:
+  - energy
 brand: monster
+taste:
 container:
   - can
 volume:
   - "0.71"
-summary:
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/ukr_satan/4964
+alco: 0
+author: sanb_s
 contentTgPosts:
   - https://t.me/ukr_satan/4964
   - https://t.me/ukr_satan/4965
-alco: 0
 ---
 Огляд на Mфnster lo-carb  
   

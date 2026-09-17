@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Johan Freitag gin&tonic
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/29008
+publishedAt: 2025-06-04
+createdAt: 2025-05-30
+cover: "[[IMG_6976.jpg]]"
+types:
+  - alco
 brand: johan freitag
 taste:
   - gin
   - tonic
-container:
-  - can
-publishedAt: 2025-06-04
-cover: "[[IMG_6976.jpg]]"
 sweeteners:
   - glucose-fructose syrup
-availability: 3
-volume:
-  - "0.5"
-alco: 5
+container:
+  - can
 primaryColors:
   - blue
 manufacturer: JSC Cesu Alus
-aliases:
-  - Johan Freitag gin&tonic
-types:
-  - alco
+volume:
+  - "0.5"
+caffeine: 0
+alco: 5
+availability: 3
 related:
   - "[[King’s bridge gin&tonic]]"
-createdAt: 2025-05-30
-caffeine: 0
+tags:
+  - package/canpack
 ---
 **Johan Freitag gin&tonic**. Офіційний смак мабуть джин+тонік, підкажіть чат
 

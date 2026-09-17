@@ -1,38 +1,38 @@
 ---
+aliases:
+  - Candy Can toxic waste sour apple
+summary:
 status: to create
-tags:
-  - package/amp
 externalUrl:
+publishedAt:
+cover: "[[default.png]]"
+types:
+  - fizzy
 brand: candy can/toxic waste
 taste:
   - apple/sour
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - acesulfame
   - sucralose
-cover: "[[default.png]]"
-availability: 2
-summary:
-related:
-sponsor:
-  - gdgood
-volume:
-  - "0.33"
+container:
+  - can
 primaryColors:
   - green
   - yellow
 manufacturer: Candy Can
-aliases:
-  - Candy Can toxic waste sour apple
-types:
-  - fizzy
-old_related: true
+volume:
+  - "0.33"
 caffeine: 0
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+related:
+old_related: true
+tags:
+  - package/amp
 ---
 **Candy Can toxic waste sour apple**. Офіційний смак - кисле яблуко
 

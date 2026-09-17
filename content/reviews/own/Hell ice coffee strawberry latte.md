@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Hell ice coffee strawberry latte
 status: published
-tags:
-  - package/quality
 externalUrl: https://t.me/kallection/22267
+publishedAt: 2024-08-30
+createdAt: 2024-08-30
+cover: "[[IMG_7702.jpeg]]"
+types:
+  - coffee
+  - energy
 brand: hell/coffee
 taste:
   - coffee
   - strawberry
-container:
-  - can
-publishedAt: 2024-08-30
-cover: "[[IMG_7702.jpeg]]"
 sweeteners:
   - sugar
-availability: 3
+container:
+  - can
+primaryColors:
+  - pink
+manufacturer: hell energy
 volume:
   - "0.25"
 caffeine: 40
 alco: 0
-primaryColors:
-  - pink
-manufacturer: hell energy
-aliases:
-  - Hell ice coffee strawberry latte
-types:
-  - coffee
-  - energy
-createdAt: 2024-08-30
+availability: 3
 old_related: true
+tags:
+  - package/quality
 ---
 **Hell ice coffee pink latte**
 

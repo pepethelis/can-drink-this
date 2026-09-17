@@ -1,23 +1,23 @@
 ---
-author: sanb_s
 aliases:
   - Komodo cactus
-publishedAt: 2025-11-04
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/6917
+publishedAt: 2025-11-04
+cover:
+types:
+  - energy
 brand: komodo
+taste:
+  - cactus
 container:
   - can
 volume:
   - "0.25"
-summary:
-taste:
-  - cactus
-types:
-  - energy
-cover:
-externalUrl: https://t.me/ukr_satan/6917
-contentTgPosts:
-  - https://t.me/ukr_satan/6917
 caffeine: 32
 alco: 0
+author: sanb_s
+contentTgPosts:
+  - https://t.me/ukr_satan/6917
 ---

@@ -1,23 +1,23 @@
 ---
-author: decepti_on
 aliases:
   - Monster ultra golden pineapple
-publishedAt: 2025-08-21
+summary: Огляд на монстер ананасовий гарна банка
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33570
+publishedAt: 2025-08-21
+cover:
+types:
+  - energy
 brand: monster/ultra
+taste:
+  - pineapple
 container:
   - can
 volume:
-summary: Огляд на монстер ананасовий гарна банка
-taste:
-  - pineapple
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33570
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33568
   - https://t.me/sonechkin_rzekich/33569
-alco: 0
 ---
 Огляд на монстер ананасовий гарна банка

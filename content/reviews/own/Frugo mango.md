@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Frugo mango
+  - Frugo blue
+summary: Насправді мене наєбали і я не це купляв
 status: published
-tags:
 externalUrl: https://t.me/kallection/32721
+publishedAt: 2025-11-09
+createdAt: 2025-10-21
+cover: "[[IMG_9130.jpg]]"
+types:
+  - energy
 brand: frugo
 taste:
   - mango
-container:
-  - can
-publishedAt: 2025-11-09
-cover: "[[IMG_9130.jpg]]"
 sweeteners:
   - juice/apple
   - juice/mango
   - juice/lemon
   - sucralose
-availability: 3
-summary: Насправді мене наєбали і я не це купляв
+container:
+  - can
+primaryColors:
+  - blue
+manufacturer: foodcare
 volume:
   - "0.5"
   - "0.33"
 caffeine: 15
-primaryColors:
-  - blue
-manufacturer: foodcare
-aliases:
-  - Frugo mango
-  - Frugo blue
-types:
-  - energy
-createdAt: 2025-10-21
-old_related: true
 alco: 0
+availability: 3
+old_related: true
+tags:
 ---
 **Frugo mango**. Офіційний смак - манго
 

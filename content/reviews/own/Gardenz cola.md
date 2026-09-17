@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Gardenz cola
+summary:
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/36119
+publishedAt: 2026-05-16
+createdAt: 2026-03-01
+cover: "[[IMG_9672.jpeg]]"
+types:
+  - alco
+  - cider
 brand: gardenz
 taste:
   - cola
-publishedAt: 2026-05-16
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - juice/apple
-cover: "[[IMG_9672.jpeg]]"
-availability: 3
-summary:
-volume:
-  - "0.5"
-alco: 5
+container:
+  - can
 primaryColors:
   - red
   - blue
 manufacturer: квас бевериджиз
-aliases:
-  - Gardenz cola
-types:
-  - alco
-  - cider
+volume:
+  - "0.5"
+caffeine: 0
+alco: 5
+availability: 3
+favorite:
 related:
   - "[[Toosecco, сидр сухий]]"
   - "[[Gosser natur radler]]"
@@ -36,8 +36,8 @@ related:
   - "[[Чернігівське біле fruter кавун]]"
   - "[[Львівське радлер яблуко]]"
   - "[[Львівське радлер лимон]]"
-createdAt: 2026-03-01
-caffeine: 0
+tags:
+  - package/canpack
 ---
 Сидр **Gardenz cola**. Офіційний смак - кола
 

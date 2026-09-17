@@ -1,24 +1,24 @@
 ---
-author: sanb_s
 aliases:
   - Nonstop shot tropic
-publishedAt: 2026-09-12
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/8140
+publishedAt: 2026-09-12
+cover: "[[photo_2026-09-12_12-20-16.jpg]]"
+types:
+  - energy
 brand: nonstop/shot
+taste:
+  - tropical
 container:
   - plastic
 volume:
   - "0.06"
-summary:
-taste:
-  - tropical
-types:
-  - energy
-cover: "[[photo_2026-09-12_12-20-16.jpg]]"
-externalUrl: https://t.me/ukr_satan/8140
 caffeine: 250
 alco: 0
-listexUrls: 
+author: sanb_s
+listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-negazovaniy-z-pidsolodzhuvachem-non-stop-tropik-enerdzhi-shot-ua-4820252125902
 ---
 NON STOP TROPIC ENERGY SHOT  

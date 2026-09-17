@@ -1,35 +1,35 @@
 ---
-tags:
-  - package/canpack
+aliases:
+  - Battery juiced sour apple
 status: published
 externalUrl: https://t.me/kallection/28112
+publishedAt: 2025-05-01
+createdAt: 2025-05-01
+cover: "[[IMG_5789.jpg]]"
+types:
+  - energy
 brand: battery/juiced
 taste:
   - apple
-container:
-  - can
-publishedAt: 2025-05-01
-cover: "[[IMG_5789.jpg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
   - sugar syrup
   - juice/apple
-availability: 5
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - green
   - white
 manufacturer: carlsberg
-aliases:
-  - Battery juiced sour apple
-types:
-  - energy
-createdAt: 2025-05-01
-old_related: true
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+availability: 5
+old_related: true
+tags:
+  - package/canpack
 ---
 **Battery juiced sour apple**. Офіційний смак - кисле яблуко
 

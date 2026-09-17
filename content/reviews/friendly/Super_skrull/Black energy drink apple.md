@@ -1,22 +1,22 @@
 ---
-author: super_skrull
 aliases:
   - Black energy drink apple
   - Блек яблучний
-publishedAt: 2024-09-16
+summary:
 status: published
+publishedAt: 2024-09-16
+cover: "[[photo_2024-09-16_14-35-40.jpg]]"
+types:
+  - energy
 brand: black
+taste:
+  - apple
 container:
   - plastic
 volume:
   - "0.5"
-summary:
-taste:
-  - apple
-types:
-  - energy
-cover: "[[photo_2024-09-16_14-35-40.jpg]]"
 alco: 0
+author: super_skrull
 ---
 **BLACK ENERGY DRINK Яблуко**
 

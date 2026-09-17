@@ -1,23 +1,23 @@
 ---
-author: sanb_s
 aliases:
   - Battery juiced sour apple
-publishedAt: 2025-05-01
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/5391
+publishedAt: 2025-05-01
+cover: "[[photo_2025-05-01_15-48-05.jpg]]"
+types:
+  - energy
 brand: battery/juiced
+taste:
+  - apple
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - apple
-types:
-  - energy
-cover: "[[photo_2025-05-01_15-48-05.jpg]]"
-externalUrl: https://t.me/ukr_satan/5391
 caffeine: 32
 alco: 0
+author: sanb_s
 ---
 Огляд на кисленьке яблучне 🍏🍎 #енергохарчування  
 

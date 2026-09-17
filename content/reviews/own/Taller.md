@@ -1,33 +1,33 @@
 ---
-status: published
 aliases:
   - Taller
+summary:
+status: published
 externalUrl: https://t.me/kallection/37896
-brand: taller
+publishedAt: 2026-08-05
+createdAt: 2026-07-09
+cover: "[[IMG_4661.jpeg]]"
 types:
   - alco
   - beer
+brand: taller
 taste:
   - ORIGINAL
-publishedAt: 2026-08-05
-favorite:
-container:
-  - can
 sweeteners:
   - barley malt
-cover: "[[IMG_4661.jpeg]]"
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - orange
   - white
   - black
 manufacturer: ПРАТ "Абінбев Ефес Україна"
-caffeine: 0
 volume:
   - "0.5"
+caffeine: 0
 alco: 5
-createdAt: 2026-07-09
+availability: 3
+favorite:
 ---
 **Taller**, пиво світле. Офіційний смак - "Original Lager" lmao)
 

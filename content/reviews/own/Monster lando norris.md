@@ -1,39 +1,38 @@
 ---
-alco: 0
-
+aliases:
+  - Monster lando norris
+summary:
 status: to create
-tags:
-  - package/canpack
-  - country/poland
 externalUrl:
+publishedAt:
+cover: "[[default.png]]"
+types:
+  - energy
 brand: monster/racing
 taste:
   - melon
   - citrus
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - erythritol
   - sucralose
   - inositol
-cover: "[[default.png]]"
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - acid green
 manufacturer: monster energy limited
-sponsor:
-  - makmed1337
 volume:
   - "0.5"
 caffeine: 32
-aliases:
-  - Monster lando norris
-types:
-  - energy
+alco: 0
+sponsor:
+  - makmed1337
+availability: 3
+favorite:
 old_related: true
+tags:
+  - package/canpack
+  - country/poland
 ---
 **Monster lando norris**. Офіційний смак на банці не вказано, але на сайті - "Refreshing Melon with Yuzu", тобто диня з мандарино-грейпфрутом. Так, ще один монстр з оголошеним цитрусом
 

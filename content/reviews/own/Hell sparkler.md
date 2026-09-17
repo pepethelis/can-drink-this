@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Hell sparkler
+summary:
 status: published
-tags:
-  - package/quality
 externalUrl: https://t.me/kallection/34570
+publishedAt: 2026-02-11
+createdAt: 2025-12-27
+cover: "[[IMG_8056.jpeg]]"
+types:
+  - energy
 brand: hell
 taste:
   - grape
-publishedAt: 2026-02-11
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - caramel
   - inositol
-cover: "[[IMG_8056.jpeg]]"
-availability: 4
-summary:
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - green
   - golden
 manufacturer: hell energy
-aliases:
-  - Hell sparkler
-types:
-  - energy
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+availability: 4
+favorite:
 related:
   - "[[content/reviews/own/Hell Spritz Maracuja|Hell spritz maracuja]]"
   - "[[content/reviews/own/Hell Spritz Lime|Hell Spritz Lime]]"
@@ -35,8 +35,8 @@ related:
   - "[[Hell focus plus|Hell focus+]]"
   - "[[Hell Summer Groovy Grapefruit|Hell Groovy Grapefruit]]"
   - "[[Hell Summer Groovy Grapefruit|Hell Groovy Grapefruit]]"
-createdAt: 2025-12-27
-alco: 0
+tags:
+  - package/quality
 ---
 **Hell sparkler**. Офіційний смак - виноград
 

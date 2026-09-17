@@ -1,26 +1,26 @@
 ---
 author: dggdyh
-container:
-  - can
-taste:
-  - watermelon
-  - cactus
+aliases:
+  - NS watermelon
+status: published
+externalUrl: https://t.me/kallection/37181
+publishedAt: 2026-07-07
+cover: "[[photo_2026-07-06_18-22-24.jpg]]"
 types:
   - energy
 brand: ns
-publishedAt: 2026-07-07
+taste:
+  - watermelon
+  - cactus
+container:
+  - can
 volume:
   - "0.45"
-status: published
-externalUrl: https://t.me/kallection/37181
-aliases:
-  - NS watermelon
-telegram_format: html
-cover: "[[photo_2026-07-06_18-22-24.jpg]]"
 caffeine: 33
+alco: 0
 related:
   - "[[content/reviews/own/Nonstop zoom|Nonstop zoom]]"
-alco: 0
+telegram_format: html
 ---
 "NS WATERMELON" закос на кавуновий "NON-STOP", від російського бренду "World's best drinks"
 

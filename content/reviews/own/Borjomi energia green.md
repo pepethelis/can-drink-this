@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Borjomi energia green
+summary:
 status: prebuild
-tags:
 externalUrl:
+publishedAt:
+cover: "[[default.png]]"
+types:
+  - energy
 brand: borjomi/energia
 taste:
   - apple
   - feijoa
-publishedAt:
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[default.png]]"
-availability:
-summary:
 primaryColors:
   - green
   - white
   - blue
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine: 30
-alco: 0
 volume:
   - "0.24"
-aliases:
-  - Borjomi energia green
-types:
-  - energy
+caffeine: 30
+alco: 0
+availability:
+favorite:
 old_related: true
+tags:
 ---
 **Borjomi energia green**. Офіційний смак - ==СМАК==
 

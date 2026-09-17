@@ -1,33 +1,33 @@
 ---
+aliases:
+  - B52 blue
 status: published
-tags:
-  - package/canpack
-  - country/netherlands
 externalUrl: https://t.me/kallection/33313
+publishedAt: 2025-12-08
+createdAt: 2025-09-27
+cover: "[[IMG_2862.jpg]]"
+types:
+  - energy
 brand: b52
 taste:
   - CLASSIC
-container:
-  - can
-publishedAt: 2025-12-08
-cover: "[[IMG_2862.jpg]]"
 sweeteners:
   - acesulfame
   - aspartame
-availability: 3
-volume:
-  - "0.25"
-caffeine: 32
-alco: 0
+container:
+  - can
 primaryColors:
   - blue
   - silver
 manufacturer: royal swinkels
-aliases:
-  - B52 blue
-types:
-  - energy
-createdAt: 2025-09-27
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+availability: 3
+tags:
+  - package/canpack
+  - country/netherlands
 ---
 **B52 zero sugar**, варіація [[B52 red|енергуйки імені легендарного бомбера]], але без цукру. Офіційний смак - не вказано
 

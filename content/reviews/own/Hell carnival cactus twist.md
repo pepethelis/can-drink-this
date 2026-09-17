@@ -1,37 +1,37 @@
 ---
-status: published
 aliases:
   - Hell carnival cactus twist
+summary:
+status: published
 externalUrl: https://t.me/kallection/38559
-brand: hell/carnival
+publishedAt: 2026-09-03
+updatedAt: 2026-09-04
+createdAt: 2026-08-07
+cover: "[[IMG_6173.jpeg]]"
 types:
   - energy
+brand: hell/carnival
 taste:
   - strawberry
   - lemon
-publishedAt: 2026-09-03
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_6173.jpeg]]"
-availability: 3.5
-summary:
+container:
+  - can
 primaryColors:
   - green
   - creme
   - golden
 manufacturer: hell energy
-caffeine: 32
 volume:
   - "0.25"
+caffeine: 32
 alco: 0
+availability: 3.5
+favorite:
 related:
   - "[[content/reviews/own/Komodo cactus|Komodo cactus]]"
   - "[[content/reviews/own/Redbull green edition|Redbull green edition]]"
-createdAt: 2026-08-07
-updatedAt: 2026-09-04
 ---
 **Hell carnival cactus twist**. Офіційний смак - полуниця і лимон (наєбали виходить)
 

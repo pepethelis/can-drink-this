@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Garage hardcore cherry + Garage hardcore starfruit
+  - Garage hardcore cherry
+  - Garage hardcore starfruit
 status: published
-tags:
 externalUrl: https://t.me/kallection/21818
+publishedAt: 2024-08-14
+createdAt: 2024-08-09
+cover: "[[IMG_6833.jpg]]"
+types:
+  - alco
 brand: garage/hardcore
 taste:
   - cherry
   - starfruit
+sweeteners:
+  - maltose
 container:
   - can
   - plastic
-publishedAt: 2024-08-14
-cover: "[[IMG_6833.jpg]]"
-sweeteners:
-  - maltose
-availability: 5
-alco: 6
-volume:
-  - "0.5"
 primaryColors:
   - red
   - green
   - black
 manufacturer: carlsberg
-aliases:
-  - Garage hardcore cherry + Garage hardcore starfruit
-  - Garage hardcore cherry
-  - Garage hardcore starfruit
-types:
-  - alco
-createdAt: 2024-08-09
-old_related: true
+volume:
+  - "0.5"
 caffeine: 0
+alco: 6
+availability: 5
+old_related: true
+tags:
 ---
 **Garage hardcore cherry та starfruit**, вони ж гараж хард рожевий та зелений. Два огляди за раз
 

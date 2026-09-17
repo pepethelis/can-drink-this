@@ -1,36 +1,35 @@
 ---
-alco: 0
-
+aliases:
+  - Crazy wolf yellow tropical
 status: published
-tags:
-  - package/ball
 externalUrl: https://t.me/kallection/27666
+publishedAt: 2025-04-12
+createdAt: 2025-04-12
+cover: "[[IMG_5047.jpg]]"
+types:
+  - energy
 brand: crazy wolf
 taste:
   - tropical
-container:
-  - can
-publishedAt: 2025-04-12
-cover: "[[IMG_5047.jpg]]"
 sweeteners:
   - sugar
   - sugar syrup
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.33"
-caffeine: 30
+container:
+  - can
 primaryColors:
   - yellow
   - black
 manufacturer: kaufland dienstleistung
-aliases:
-  - Crazy wolf yellow tropical
-types:
-  - energy
-createdAt: 2025-04-12
+volume:
+  - "0.33"
+caffeine: 30
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
 old_related: true
+tags:
+  - package/ball
 ---
 **Crazy wolf жовтий**. Офіційний смак - тропічний
 

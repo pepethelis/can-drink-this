@@ -1,23 +1,23 @@
 ---
-author: super_skrull
 aliases:
   - Burn white gummy bear
-publishedAt: 2026-09-07
+summary:
 status: published
+externalUrl: https://t.me/super_skrulling/4212
+publishedAt: 2026-09-07
+cover: "[[photo_2026-09-07_09-56-30.jpg]]"
+types:
+  - energy
 brand: burn
+taste:
+  - gummy bear
 container:
   - can
 volume:
   - "0.25"
-summary:
-taste:
-  - gummy bear
-types:
-  - energy
-cover: "[[photo_2026-09-07_09-56-30.jpg]]"
-externalUrl: https://t.me/super_skrulling/4212
 caffeine: 32
 alco: 0
+author: super_skrull
 ---
 **BURN WHITE GUMMY BEAR**  
 

@@ -1,22 +1,22 @@
 ---
-author: super_skrull
 aliases:
   - Monster juiced pipleine punch
-publishedAt: 2025-03-10
+summary:
 status: published
+externalUrl: https://t.me/super_skrulling/813
+publishedAt: 2025-03-10
+cover: "[[photo_2025-03-10_11-41-26.jpg]]"
+types:
+  - energy
 brand: monster/juiced
+taste:
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-03-10_11-41-26.jpg]]"
-externalUrl: https://t.me/super_skrulling/813
 caffeine: 32
 alco: 0
+author: super_skrull
 ---
 **M∅NSTER ENERGY PIPELINE PUNCH**
 

@@ -1,36 +1,35 @@
 ---
-alco: 0
-
+aliases:
+  - Effect strawberry apricot
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/29550
+publishedAt: 2025-06-20
+createdAt: 2025-06-17
+cover: "[[IMG_8081.jpg]]"
+types:
+  - energy
 brand: effect
 taste:
   - strawberry
   - apricot
-container:
-  - can
-publishedAt: 2025-06-20
-cover: "[[IMG_8081.jpg]]"
 sweeteners:
   - sugar
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.33"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - orange
   - yellow
 manufacturer: NGS beverages
-aliases:
-  - Effect strawberry apricot
-types:
-  - energy
-createdAt: 2025-06-17
+volume:
+  - "0.33"
+caffeine: 32
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
 old_related: true
+tags:
+  - package/bagpak
 ---
 **Effect помаранчево-рожевий**, лімітка. Офіційний смак - полуниця-абрикос
 

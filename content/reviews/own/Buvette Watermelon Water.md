@@ -1,28 +1,28 @@
 ---
+aliases:
+  - Buvette Watermelon Water
 status: published
-tags:
 externalUrl: https://t.me/kallection/25911
+publishedAt: 2025-01-29
+createdAt: 2025-01-29
+cover: "[[IMG_2868.jpg]]"
+types:
+  - water
 brand: buevette
 taste:
   - clear
-container:
-  - plastic
-publishedAt: 2025-01-29
-cover: "[[IMG_2868.jpg]]"
 sweeteners:
   - none
-availability: 3
+container:
+  - plastic
+manufacturer: buvette
 volume:
   - "0.5"
-manufacturer: buvette
-aliases:
-  - Buvette Watermelon Water
-types:
-  - water
-createdAt: 2025-01-29
-old_related: true
-alco: 0
 caffeine: 0
+alco: 0
+availability: 3
+old_related: true
+tags:
 ---
 **Buvette Watermelon Water**. Офіційний смак - **кавун**
 

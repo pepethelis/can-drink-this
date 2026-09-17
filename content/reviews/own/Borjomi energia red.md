@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Borjomi energia red
+summary:
 status: prebuild
-tags:
 externalUrl:
+publishedAt:
+cover: "[[default.png]]"
+types:
+  - energy
 brand: borjomi/energia
 taste:
   - cherry
-publishedAt:
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[default.png]]"
-availability:
-summary:
 primaryColors:
   - red
   - white
   - blue
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine: 30
-alco: 0
 volume:
   - "0.24"
-aliases:
-  - Borjomi energia red
-types:
-  - energy
+caffeine: 30
+alco: 0
+availability:
+favorite:
 old_related: true
+tags:
 ---
 **Borjomi energia red**. Офіційний смак - ==СМАК==
 

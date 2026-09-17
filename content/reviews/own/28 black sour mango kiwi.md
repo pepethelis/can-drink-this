@@ -1,41 +1,41 @@
 ---
+aliases:
+  - 28 black sour mango kiwi
 status: published
-tags:
-  - package/ball
-  - country/germany
 externalUrl: https://t.me/kallection/27156
+publishedAt: 2025-03-21
+createdAt: 2025-03-21
+cover: "[[IMG_4139.jpg]]"
+types:
+  - energy
 brand: 28 black
 taste:
   - mango
   - kivi
-container:
-  - can
-publishedAt: 2025-03-21
-cover: "[[IMG_4139.jpg]]"
 sweeteners:
   - sugar
   - inositol
-availability: 2
-sponsor:
-  - gdgood
-caffeine: 32
-volume:
-  - "0.25"
+container:
+  - can
 primaryColors:
   - orange
   - black
 manufacturer: splendid drinks
-aliases:
-  - 28 black sour mango kiwi
-types:
-  - energy
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
 related:
   - "[[Burn mango|Burn mango]]"
   - "[[Frugo mango|Frugo mango]]"
   - "[[Rockstar mango|Rockstar mango]]"
   - "[[content/reviews/own/Monster juiced mango loco|Monster juiced mango loco]]"
-createdAt: 2025-03-21
-alco: 0
+tags:
+  - package/ball
+  - country/germany
 ---
 **28 black**. Офіційний смак - **sour mango-kivi**
 

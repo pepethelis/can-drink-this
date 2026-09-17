@@ -1,22 +1,22 @@
 ---
-author: decepti_on
 aliases:
   - Bronx zero
-publishedAt: 2026-01-15
+summary: Огляд на Бронкс блакитний написано що зі сливою насправді хуй його знає 👀
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33832
+publishedAt: 2026-01-15
+cover:
+types:
+  - energy
 brand: bronx/zero
+taste:
 container:
   - can
 volume:
-summary: Огляд на Бронкс блакитний написано що зі сливою насправді хуй його знає 👀
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33832
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33830
   - https://t.me/sonechkin_rzekich/33831
-alco: 0
 ---
 Огляд на Бронкс блакитний написано що зі сливою насправді хуй його знає 👀

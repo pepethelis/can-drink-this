@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Burn orange fire
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/28331
+publishedAt: 2025-05-10
+createdAt: 2025-05-10
+cover: "[[IMG_6159.jpg]]"
+types:
+  - energy
 brand: burn
 taste:
   - orange
-container:
-  - can
-publishedAt: 2025-05-10
-cover: "[[IMG_6159.jpg]]"
 sweeteners:
   - sugar
   - inositol
-availability: 3
-volume:
-  - "0.25"
-caffeine: 32
-alco: 0
+container:
+  - can
 primaryColors:
   - orange
   - black
 manufacturer: energy beverages
-aliases:
-  - Burn orange fire
-types:
-  - energy
-createdAt: 2025-05-10
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+availability: 3
 old_related: true
+tags:
+  - package/canpack
 ---
 **Burn orange fire**, або ж помаранчевий бьорн. Офіційний смак - апельсин
 

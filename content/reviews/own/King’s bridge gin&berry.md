@@ -1,30 +1,30 @@
 ---
+aliases:
+  - King’s bridge gin&berry
 status: published
-tags:
 externalUrl: https://t.me/kallection/27996
+publishedAt: 2025-04-25
+createdAt: 2025-04-25
+cover: "[[IMG_5536.jpg]]"
+types:
+  - alco
 brand: king's bridge
 taste:
   - gin
   - berries
-container:
-  - can
-publishedAt: 2025-04-25
-cover: "[[IMG_5536.jpg]]"
 sweeteners:
   - sugar
-availability: 4
-volume:
-  - "0.5"
-alco: 7
-caffeine: 0
+container:
+  - can
 primaryColors:
   - blue
 manufacturer: new products
-aliases:
-  - King’s bridge gin&berry
-types:
-  - alco
-createdAt: 2025-04-25
+volume:
+  - "0.5"
+caffeine: 0
+alco: 7
+availability: 4
+tags:
 ---
 **King’s bridge синій**. Офіційний смак - джин та ягоди
 

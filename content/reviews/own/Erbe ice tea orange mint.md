@@ -1,34 +1,34 @@
 ---
-status: published
 aliases:
   - Erbe ice tea orange mint
+summary:
+status: published
 externalUrl: https://t.me/kallection/38281
-brand: erbe
+publishedAt: 2026-08-22
+createdAt: 2026-07-21
+cover: "[[IMG_5268.jpeg]]"
 types:
   - tea
+brand: erbe
 taste:
   - orange
   - mint
-publishedAt: 2026-08-22
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - juice/apple
-cover: "[[IMG_5268.jpeg]]"
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - orange
   - acid green
   - white
 manufacturer: ТОВ "Асканія Бевериджиз"
-caffeine: 0
 volume:
   - "0.33"
+caffeine: 0
 alco:
-createdAt: 2026-07-21
+availability: 3
+favorite:
 ---
 **Erbe ice tea orange mint**. Офіційний смак - "фруктовий чай апельсин-м'ята"
 

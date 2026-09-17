@@ -1,27 +1,27 @@
 ---
 author: dggdyh
-types:
-  - energy
 aliases:
   - NS original
+status: published
+externalUrl: https://t.me/kallection/38145
+publishedAt: 2026-08-17
+cover: "[[photo_2026-08-17_13-28-44.jpg]]"
+types:
+  - energy
+brand: ns
+taste:
+  - CLASSIC
 container:
   - can
 volume:
   - "0.45"
-status: published
-publishedAt: 2026-08-17
-brand: ns
-taste:
-  - CLASSIC
-cover: "[[photo_2026-08-17_13-28-44.jpg]]"
+caffeine: 33
+alco: 0
 related:
   - "[[Nonstop original]]"
   - "[[Nonstop original zero|Nonstop original zero]]"
   - "[[content/reviews/own/NS original|NS original]]"
-externalUrl: https://t.me/kallection/38145
-caffeine: 33
 re:
-alco: 0
 ---
 "NS ORIGINAL" закос на класичний "NON-STOP" від російського бренду "World's best drinks"
 

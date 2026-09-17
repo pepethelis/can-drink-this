@@ -1,35 +1,35 @@
 ---
-status: published
+author: dggdyh
 aliases:
   - Burn zero персик манго
   - Burn zero peach mango
+summary:
+status: published
 externalUrl: https://t.me/kallection/37353
-brand: burn/zero
+publishedAt: 2026-07-15
+cover: "[[photo_2026-07-12_08-07-30.jpg]]"
 types:
   - energy
+brand: burn/zero
 taste:
   - peach
   - mango
-publishedAt: 2026-07-15
-favorite:
-container:
-  - can
 sweeteners:
   - acesulfame
   - sucralose
-cover: "[[photo_2026-07-12_08-07-30.jpg]]"
-availability:
-summary:
+container:
+  - can
 primaryColors:
   - orange
   - silver
   - gray
 manufacturer: ООО "Мултон Партнерс"
-caffeine: 30
 volume:
   - "0.449"
+caffeine: 30
 alco: 0
-author: dggdyh
+availability:
+favorite:
 ---
 BURN ZERO SUGAR
 

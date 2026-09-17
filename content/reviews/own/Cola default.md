@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Coca cola
+  - Кола звичайна
 status: published
-tags:
 externalUrl: https://t.me/kallection/33368
+publishedAt: 2025-12-09
+createdAt: 2025-11-04
+cover: "[[IMG_4251.jpg]]"
+types:
+  - fizzy
 brand: cola
 taste:
   - cola
+sweeteners:
+  - sugar
 container:
   - can
   - plastic
   - glass
-publishedAt: 2025-12-09
-cover: "[[IMG_4251.jpg]]"
-sweeteners:
-  - sugar
-availability: 5
-alco: 0
-volume:
-  - "0.5"
 primaryColors:
   - red
 manufacturer: coca cola
-aliases:
-  - Coca cola
-  - Кола звичайна
-types:
-  - fizzy
-createdAt: 2025-11-04
+volume:
+  - "0.5"
+alco: 0
+availability: 5
 old_related: true
+tags:
 ---
 **Coca cola**, тобто звичайна кола. Офіційний смак - кола лол
 

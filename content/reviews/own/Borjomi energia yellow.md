@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Borjomi energia yellow
+summary:
 status: prebuild
-tags:
 externalUrl:
+publishedAt:
+cover: "[[default.png]]"
+types:
+  - energy
 brand: borjomi/energia
 taste:
   - citrus
-publishedAt:
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[default.png]]"
-availability:
-summary:
 primaryColors:
   - yellow
   - white
   - blue
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine: 30
-alco: 0
 volume:
   - "0.24"
-aliases:
-  - Borjomi energia yellow
-types:
-  - energy
+caffeine: 30
+alco: 0
+availability:
+favorite:
 old_related: true
+tags:
 ---
 **Borjomi energia yellow**. Офіційний смак - ==СМАК==
 

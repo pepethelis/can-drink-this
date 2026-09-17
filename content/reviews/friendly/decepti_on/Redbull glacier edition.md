@@ -1,24 +1,24 @@
 ---
-author: decepti_on
 aliases:
   - Redbull glacier edition
-publishedAt: 2026-03-11
+summary: Огляд на редбулл малина з льодом
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33935
+publishedAt: 2026-03-11
+cover:
+types:
+  - energy
 brand: redbull/edition
+taste:
 container:
   - can
 volume:
   - "0.25"
-summary: Огляд на редбулл малина з льодом
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33935
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33932
   - https://t.me/sonechkin_rzekich/33933
   - https://t.me/sonechkin_rzekich/33934
-alco: 0
 ---
 Огляд на редбулл малина з льодом

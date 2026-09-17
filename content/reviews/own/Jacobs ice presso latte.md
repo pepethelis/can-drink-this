@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Jacobs ice presso latte
 status: published
-tags:
-  - package/amp
 externalUrl: https://t.me/kallection/22457
+publishedAt: 2024-09-06
+createdAt: 2024-09-06
+cover: "[[IMG_7967.jpg]]"
+types:
+  - coffee
 brand: jacobs
 taste:
   - coffee
-container:
-  - can
-publishedAt: 2024-09-06
-cover: "[[IMG_7967.jpg]]"
 sweeteners:
   - sugar
-availability: 4
-volume:
-  - "0.25"
-manufacturer: Hochwald Foods GmbH
+container:
+  - can
 primaryColors:
   - brown
   - green
-aliases:
-  - Jacobs ice presso latte
-types:
-  - coffee
+manufacturer: Hochwald Foods GmbH
+volume:
+  - "0.25"
+caffeine: 0
+alco: 0
+availability: 4
 related:
   - "[[Hell ice coffee latte]]"
   - "[[content/reviews/own/Hell ice coffee strawberry latte]]"
-createdAt: 2024-09-06
-alco: 0
-caffeine: 0
+tags:
+  - package/amp
 ---
 **Jacobs ice presso latte**
 

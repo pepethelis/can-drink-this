@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Battery juiced exotic fruits
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/35606
+publishedAt: 2026-04-12
+updatedAt: 2026-06-02
+createdAt: 2026-04-12
+cover: "[[IMG_0740.jpeg]]"
+types:
+  - energy
 brand: battery/juiced
 taste:
   - exotic
-container:
-  - can
-publishedAt: 2026-04-12
-cover: "[[IMG_0740.jpeg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
   - juice/mango
   - juice/passion fruit
   - juice/orange
-availability: 3
-volume:
-  - "0.48"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - orange
   - white
 manufacturer: carlsberg
-updatedAt: 2026-06-02
-aliases:
-  - Battery juiced exotic fruits
-types:
-  - energy
-createdAt: 2026-04-12
-old_related: true
+volume:
+  - "0.48"
+caffeine: 32
 alco: 0
+availability: 3
+old_related: true
+tags:
+  - package/canpack
 ---
 **Battery juiced exotic fruits**. Офіційний смак - екзотичні фрукти, а саме манго, маракуйя та апельсин
 

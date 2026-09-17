@@ -1,33 +1,32 @@
 ---
-
+aliases:
+  - King’s bridge gin&tonic
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/28015
+publishedAt: 2025-04-27
+createdAt: 2025-04-26
+cover: "[[IMG_5603.jpg]]"
+types:
+  - alco
 brand: king's bridge
 taste:
   - gin
   - tonic
-container:
-  - can
-publishedAt: 2025-04-27
-cover: "[[IMG_5603.jpg]]"
 sweeteners:
   - sugar
-availability: 5
-volume:
-  - "0.5"
-alco: 7
-caffeine: 0
+container:
+  - can
 primaryColors:
   - gray
 manufacturer: new products
-aliases:
-  - King’s bridge gin&tonic
-types:
-  - alco
-createdAt: 2025-04-26
+volume:
+  - "0.5"
+caffeine: 0
+alco: 7
+availability: 5
 old_related: true
+tags:
+  - package/canpack
 ---
 **King’s bridge сірий**. Офіційний смак - джин-тонік, класика
 

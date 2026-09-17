@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Maison perrier energize citron & citron vert
+summary:
 status: published
-tags:
-  - package/amp
-  - country/france
 externalUrl: https://t.me/kallection/36523
+publishedAt: 2026-06-06
+createdAt: 2026-05-21
+cover: "[[IMG_2385.jpeg]]"
+types:
+  - energy
 brand: maison perrier/energize
 taste:
   - lime
   - lemon
-publishedAt: 2026-06-06
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - extract/green tea
-cover: "[[IMG_2385.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - green
 manufacturer: Nestlé Waters
-aliases:
-  - Maison perrier energize citron & citron vert
-types:
-  - energy
-createdAt: 2026-05-21
+volume:
+  - "0.25"
+caffeine: 32
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+tags:
+  - package/amp
+  - country/france
 ---
 **Maison perrier energize citron & citron vert**. Офіційний смак - лимон та лайм
 

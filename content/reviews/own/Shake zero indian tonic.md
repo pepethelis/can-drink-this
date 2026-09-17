@@ -1,33 +1,32 @@
 ---
-alco: 0
-caffeine: 0
-
+aliases:
+  - Shake zero indian tonic
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/27715
+publishedAt: 2025-04-14
+createdAt: 2025-04-14
+cover: "[[IMG_5188.jpg]]"
+types:
+  - fizzy
 brand: shake/zero
 taste:
   - tonic
-container:
-  - can
-publishedAt: 2025-04-14
-cover: "[[IMG_5188.jpg]]"
 sweeteners:
   - sugar
-availability: 3
-volume:
-  - "0.33"
+container:
+  - can
 primaryColors:
   - yellow
   - silver
 manufacturer: new products
-aliases:
-  - Shake zero indian tonic
-types:
-  - fizzy
-createdAt: 2025-04-14
+volume:
+  - "0.33"
+caffeine: 0
+alco: 0
+availability: 3
 old_related: true
+tags:
+  - package/canpack
 ---
 **Shake zero indian tonic water**. Несподіваний камбек лінійки шейк зіро. Я думав я з нею закінчив, а тут отаке
 

@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Hell strawberry-banana
+summary: я шукав цю падлу місяцями
 status: published
-tags:
-  - package/quality
 externalUrl: https://t.me/kallection/33472
+publishedAt: 2025-12-13
+createdAt: 2025-11-14
+cover: "[[IMG_4610.jpeg]]"
+types:
+  - energy
 brand: hell
 taste:
   - strawberry
   - banana
-publishedAt: 2025-12-13
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_4610.jpeg]]"
-availability: 4
-summary: я шукав цю падлу місяцями
-volume:
-  - "0.5"
-caffeine: 30
+container:
+  - can
 primaryColors:
   - pink
   - black
 manufacturer: hell energy
-aliases:
-  - Hell strawberry-banana
-types:
-  - energy
-createdAt: 2025-11-14
-old_related: true
+volume:
+  - "0.5"
+caffeine: 30
 alco: 0
+availability: 4
+favorite:
+old_related: true
+tags:
+  - package/quality
 ---
 **Hell strawberry-banana**. Офіційний смак полуниця-банан
 

@@ -1,18 +1,18 @@
 ---
+aliases:
+  - Monster juiced khaotic
 status: published
-tags:
-  - package/ag
-  - country/poland
 externalUrl: https://t.me/kallection/30774
+publishedAt: 2025-08-10
+createdAt: 2025-08-10
+cover: "[[IMG_1021.jpg]]"
+types:
+  - energy
 brand: monster/juiced
 taste:
   - orange
   - tropical
   - citrus
-container:
-  - can
-publishedAt: 2025-08-10
-cover: "[[IMG_1021.jpg]]"
 sweeteners:
   - sugar
   - juice/apple
@@ -21,21 +21,21 @@ sweeteners:
   - juice/pineapple
   - sucralose
   - maltodextrin
-availability: 3
-aliases:
-  - Monster juiced khaotic
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - orange
   - blue
 manufacturer: monster energy limited
-types:
-  - energy
-createdAt: 2025-08-10
-old_related: true
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+availability: 3
+old_related: true
+tags:
+  - package/ag
+  - country/poland
 ---
 **Monster juiced khaotic**. Офіційний смак - "Orange Citrus", згідно з офіційним сайтом
 

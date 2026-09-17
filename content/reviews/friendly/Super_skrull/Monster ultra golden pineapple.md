@@ -1,21 +1,21 @@
 ---
-author: super_skrull
 aliases:
   - Monster ultra golden pineapple
-publishedAt: 2025-03-08
+summary:
 status: published
+publishedAt: 2025-03-08
+cover: "[[photo_2025-03-08_17-35-00.jpg]]"
+types:
+  - energy
 brand: monster/ultra
+taste:
+  - pineapple
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - pineapple
-types:
-  - energy
-cover: "[[photo_2025-03-08_17-35-00.jpg]]"
 alco: 0
+author: super_skrull
 ---
 **M∅NSTER ENERGY ULTRA GOLDEN PINEAPPLE** 
 

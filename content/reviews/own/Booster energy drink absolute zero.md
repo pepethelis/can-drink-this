@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Booster energy drink absolute zero
 status: published
-tags:
-  - package/amp
-  - country/germany
 externalUrl: https://t.me/kallection/27094
+publishedAt: 2025-03-19
+createdAt: 2025-03-14
+cover: "[[IMG_3880.jpg]]"
+types:
+  - energy
 brand: booster
 taste:
   - CLASSIC
-container:
-  - can
-publishedAt: 2025-03-19
 sweeteners:
   - acesulfame
   - aspartame
-availability: 2
-cover: "[[IMG_3880.jpg]]"
-sponsor:
-  - gdgood
-volume:
-  - "0.33"
-caffeine: 32
-alco: 0
+container:
+  - can
 primaryColors:
   - golden
   - black
 manufacturer: Veritas Vertriebsges mbH
-aliases:
-  - Booster energy drink absolute zero
-types:
-  - energy
-createdAt: 2025-03-14
+volume:
+  - "0.33"
+caffeine: 32
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
 old_related: true
+tags:
+  - package/amp
+  - country/germany
 ---
 **Booster energy drink absolute zero**. Офіційний смак - не вказано
 

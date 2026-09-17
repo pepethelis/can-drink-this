@@ -1,22 +1,22 @@
 ---
-author: sanb_s
 aliases:
   - Venom original
-publishedAt: 2025-02-11
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4435
+publishedAt: 2025-02-11
+cover: "[[photo_2025-02-11_11-51-46.jpg]]"
+types:
+  - energy
 brand: venom
+taste:
+  - CLASSIC
 container:
   - can
 volume:
   - "0.473"
-summary:
-taste:
-  - CLASSIC
-types:
-  - energy
-cover: "[[photo_2025-02-11_11-51-46.jpg]]"
-externalUrl: https://t.me/ukr_satan/4435
 alco: 0
+author: sanb_s
 ---
 Огляд на отруйне #енергохарчування 👁  
 

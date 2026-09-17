@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Maison perrier energize mure
+summary:
 status: published
-tags:
-  - package/amp
-  - country/france
 externalUrl: https://t.me/kallection/37029
+publishedAt: 2026-06-30
+createdAt: 2026-06-06
+cover: "[[IMG_2975.jpeg]]"
+types:
+  - energy
 brand: maison perrier/energize
 taste:
   - blueberry
-publishedAt: 2026-06-30
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - extract/green tea
-cover: "[[IMG_2975.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - purple
 manufacturer: Nestlé Waters
-aliases:
-  - Maison perrier energize mure
-types:
-  - energy
-telegram_format: html
-createdAt: 2026-06-06
+volume:
+  - "0.25"
+caffeine: 32
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+tags:
+  - package/amp
+  - country/france
+telegram_format: html
 ---
 **Maison perrier energize mure**. Офіційний смак - mure/чорниця
 

@@ -1,22 +1,22 @@
 ---
-author: sanb_s
 aliases:
   - Cheat code ultra
-publishedAt: 2025-09-25
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/6519
+publishedAt: 2025-09-25
+cover: "[[photo_2025-09-25_15-51-21.jpg]]"
+types:
+  - energy
 brand: cheat code
+taste:
 container:
   - can
 volume:
   - "0.33"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-09-25_15-51-21.jpg]]"
-externalUrl: https://t.me/ukr_satan/6519
 caffeine: 32
 alco: 0
+author: sanb_s
 ---
 І так несподіване #енергохарчування cheat_code бузина та лимон  
 

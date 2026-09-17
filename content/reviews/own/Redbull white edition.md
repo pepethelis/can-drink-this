@@ -1,39 +1,39 @@
 ---
+aliases:
+  - Redbull white edition
+summary:
 status: published
-tags:
-  - package/ball
-  - country/france
 externalUrl: https://t.me/kallection/38575
+publishedAt: 2026-09-03
+createdAt: 2026-08-13
+cover: "[[IMG_6408.jpeg]]"
+types:
+  - energy
 brand: redbull/edition
 taste:
   - coconut
   - acai
-publishedAt: 2026-09-03
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - glucose
-cover: "[[IMG_6408.jpeg]]"
-availability: 2
-summary:
-related:
-  - "[[Exstase blueberry coconut|Exstase blueberry coconut]]"
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - white
 manufacturer: redbull
-aliases:
-  - Redbull white edition
-types:
-  - energy
-createdAt: 2026-08-13
+volume:
+  - "0.25"
+caffeine: 32
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+related:
+  - "[[Exstase blueberry coconut|Exstase blueberry coconut]]"
+tags:
+  - package/ball
+  - country/france
 ---
 **Redbull white edition**. Офіційний смак - кокос-асаї
 

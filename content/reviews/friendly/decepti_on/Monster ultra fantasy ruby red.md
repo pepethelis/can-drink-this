@@ -1,23 +1,23 @@
 ---
-author: decepti_on
 aliases:
   - Monster ultra fantasy ruby red
-publishedAt: 2025-08-04
+summary: Огляд на монстер ультра фентезі рубі ред
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33499
+publishedAt: 2025-08-04
+cover:
+types:
+  - energy
 brand: monster/ultra
+taste:
 container:
   - can
 volume:
-summary: Огляд на монстер ультра фентезі рубі ред
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33499
+caffeine: 32
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33497
   - https://t.me/sonechkin_rzekich/33498
-caffeine: 32
-alco: 0
 ---
 Огляд на монстер ультра фентезі рубі ред

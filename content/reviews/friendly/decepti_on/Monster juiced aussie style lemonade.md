@@ -1,22 +1,22 @@
 ---
-author: decepti_on
 aliases:
   - Monster juiced aussie style lemonade
-publishedAt: 2025-09-09
+summary: Огляд на монстер оссі (пуссі) стайл лимонад
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33627
+publishedAt: 2025-09-09
+cover:
+types:
+  - energy
 brand: monster/juiced
+taste:
 container:
   - can
 volume:
-summary: Огляд на монстер оссі (пуссі) стайл лимонад
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33627
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33625
   - https://t.me/sonechkin_rzekich/33626
-alco: 0
 ---
 Огляд на монстер оссі (пуссі) стайл лимонад

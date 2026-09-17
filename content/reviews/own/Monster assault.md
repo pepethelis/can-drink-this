@@ -1,38 +1,38 @@
 ---
+aliases:
+  - Monster assault
 status: published
-tags:
-  - package/canpack
-  - country/germany
 externalUrl: https://t.me/kallection/27188
+publishedAt: 2025-03-22
+createdAt: 2025-03-22
+cover: "[[IMG_4195.jpg]]"
+types:
+  - energy
 brand: monster
 taste:
   - cola
-container:
-  - can
-publishedAt: 2025-03-22
-cover: "[[IMG_4195.jpg]]"
 sweeteners:
   - sugar
   - glucose
   - maltodextrin
-availability: 3
-sponsor:
-  - gdgood
-volume:
-  - "0.5"
-caffeine: 31
+container:
+  - can
 primaryColors:
   - camo
   - green
   - red
 manufacturer: monster energy limited
-aliases:
-  - Monster assault
-types:
-  - energy
-createdAt: 2025-03-22
-old_related: true
+volume:
+  - "0.5"
+caffeine: 31
 alco: 0
+sponsor:
+  - gdgood
+availability: 3
+old_related: true
+tags:
+  - package/canpack
+  - country/germany
 ---
 **Monster Energy Assault**
 

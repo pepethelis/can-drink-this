@@ -1,21 +1,21 @@
 ---
-author: sanb_s
 aliases:
   - Monster rehab tea + lemonade + energy
-publishedAt: 2025-03-18
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4925
+publishedAt: 2025-03-18
+cover: "[[photo_2025-03-18_19-41-00.jpg]]"
+types:
+  - energy
 brand: monster/rehab
+taste:
 container:
   - can
 volume:
   - "0.473"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-03-18_19-41-00.jpg]]"
-externalUrl: https://t.me/ukr_satan/4925
 alco: 0
+author: sanb_s
 ---
 Mфnster Rehab tea + lemonade + energy  
   

@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Monster black
+  - Чорний монстр
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/31386
+publishedAt: 2025-09-06
+createdAt: 2025-09-06
+cover: "[[IMG_1955.jpg]]"
+types:
+  - energy
 brand: monster
 taste:
   - ginseng
   - CLASSIC
   - ORIGINAL
-container:
-  - can
-publishedAt: 2025-09-06
-cover: "[[IMG_1955.jpg]]"
 sweeteners:
   - sugar
   - glucose
   - sucralose
   - maltodextrin
-availability: 5
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - black
 manufacturer: monster energy limited
-aliases:
-  - Monster black
-  - Чорний монстр
-types:
-  - energy
-createdAt: 2025-09-06
-old_related: true
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+availability: 5
+old_related: true
+tags:
+  - package/bagpak
 ---
 **Monster Energy**, він же монстр чорний
 

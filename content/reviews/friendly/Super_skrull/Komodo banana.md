@@ -1,20 +1,20 @@
 ---
-author: super_skrull
-types:
-  - energy
 aliases:
   - Komodo banana
+status: published
+publishedAt: 2026-08-29
+cover: "[[photo_2026-08-29_13-24-46.jpg]]"
+types:
+  - energy
+brand: komodo
+taste:
+  - banana
 container:
   - can
 volume:
   - "0.25"
-status: published
-publishedAt: 2026-08-29
-brand: komodo
-taste:
-  - banana
-cover: "[[photo_2026-08-29_13-24-46.jpg]]"
 alco: 0
+author: super_skrull
 ---
 **KOMODO BANAN ENERGY DRINK**  
 Смак: банан 🍌  

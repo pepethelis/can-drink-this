@@ -1,39 +1,39 @@
 ---
+aliases:
+  - Своя лінія move on blueberry
+summary:
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/35546
+publishedAt: 2026-04-09
+updatedAt: 2026-06-02
+createdAt: 2026-03-25
+cover: "[[IMG_0256.jpeg]]"
+types:
+  - energy
 brand: своя лінія
 taste:
   - blueberry
-publishedAt: 2026-04-09
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - glucose-fructose syrup
   - extract/damiana
   - extract/guarana
-cover: "[[IMG_0256.jpeg]]"
-availability: 4
-summary:
-volume:
-  - "0.33"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - violet
   - black
   - gray
 manufacturer: оболонь
-updatedAt: 2026-06-02
-aliases:
-  - Своя лінія move on blueberry
-types:
-  - energy
-createdAt: 2026-03-25
-old_related: true
+volume:
+  - "0.33"
+caffeine: 32
 alco: 0
+availability: 4
+favorite:
+old_related: true
+tags:
+  - package/canpack
 ---
 **Move on blueberry**, іншими словами чергова спроба ТМ своя лінія в енергоси. Офіційний смак - чорниця
 

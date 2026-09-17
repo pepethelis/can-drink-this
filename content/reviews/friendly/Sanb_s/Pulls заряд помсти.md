@@ -1,24 +1,24 @@
 ---
-author: sanb_s
 aliases:
   - Pulls заряд помсти
-publishedAt: 2025-06-01
-status: published
-brand: pulls
-container:
-  - can
-volume:
-  - "0.25"
 summary:
+status: published
+externalUrl: https://t.me/ukr_satan/5537
+publishedAt: 2025-06-01
+cover: "[[photo_2026-08-31_18-58-12.jpg]]"
+types:
+  - energy
+brand: pulls
 taste:
   - barberry
   - guarana
   - tutti-frutti
-types:
-  - energy
-cover: "[[photo_2026-08-31_18-58-12.jpg]]"
-externalUrl: https://t.me/ukr_satan/5537
+container:
+  - can
+volume:
+  - "0.25"
 caffeine: 35
+author: sanb_s
 ---
 PULLS заряд помсти⚡️⚡️  
   

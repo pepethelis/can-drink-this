@@ -1,34 +1,34 @@
 ---
-status: to publish
 aliases:
   - Cult watermelon dreams
+summary:
+status: to publish
 externalUrl:
-brand: cult
+publishedAt:
+createdAt:
+cover: "[[IMG_8005.jpeg]]"
 types:
   - energy
+brand: cult
 taste:
   - watermelon
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - dextrose
   - juice
-cover: "[[IMG_8005.jpeg]]"
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - red
   - green
   - white
 manufacturer: UAB Kalnapilio-Tauro Grupe
-caffeine: 32
 volume:
   - "0.5"
+caffeine: 32
 alco: 0
-createdAt:
+availability: 3
+favorite:
 ---
 **Cult watermelon dreams**. Офіційний смак - кавунячий
 

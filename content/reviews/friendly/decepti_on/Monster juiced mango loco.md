@@ -1,24 +1,24 @@
 ---
-author: decepti_on
 aliases:
   - Monster juiced mango loco
-publishedAt: 2025-08-22
+summary: Чутчут такая сонна вирішила зробить огляд на монстер фіеста манго
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33575
+publishedAt: 2025-08-22
+cover:
+types:
+  - energy
 brand: monster/juiced
+taste:
+  - mango
 container:
   - can
 volume:
-summary: Чутчут такая сонна вирішила зробить огляд на монстер фіеста манго
-taste:
-  - mango
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33575
+caffeine: 32
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33573
   - https://t.me/sonechkin_rzekich/33574
-caffeine: 32
-alco: 0
 ---
 Чутчут такая сонна вирішила зробить огляд на монстер фіеста манго

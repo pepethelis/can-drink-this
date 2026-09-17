@@ -1,36 +1,35 @@
 ---
-alco: 0
-
+aliases:
+  - Effect original
 status: published
-tags:
-  - package/amp
 externalUrl: https://t.me/kallection/28468
+publishedAt: 2025-05-14
+createdAt: 2025-05-14
+cover: "[[IMG_6386.jpg]]"
+types:
+  - energy
 brand: effect
 taste:
   - CLASSIC
-container:
-  - can
-publishedAt: 2025-05-14
-cover: "[[IMG_6386.jpg]]"
 sweeteners:
   - sugar
   - inositol
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.33"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - red
   - white
 manufacturer: NGS beverages
-aliases:
-  - Effect original
-types:
-  - energy
-createdAt: 2025-05-14
+volume:
+  - "0.33"
+caffeine: 32
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
 old_related: true
+tags:
+  - package/amp
 ---
 **Effect біло-червоний**. Офіційний смак - не вказано
 

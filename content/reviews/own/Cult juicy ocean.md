@@ -1,17 +1,17 @@
 ---
-status: to create
 aliases:
   - Cult juicy ocean
+summary:
+status: to create
 externalUrl:
-brand: cult
+publishedAt:
+createdAt:
+cover: "[[default.png]]"
 types:
   - energy
+brand: cult
 taste:
   - ORIGINAL
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - dextrose
@@ -26,19 +26,19 @@ sweeteners:
   - juice/guava
   - juice/peach
   - juice/lemon
-cover: "[[default.png]]"
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - blue
   - yellow
   - red
 manufacturer: UAB Kalnapilio-Tauro Grupe
-caffeine: 32
 volume:
   - "0.5"
+caffeine: 32
 alco: 0
-createdAt:
+availability: 3
+favorite:
 ---
 **Cult juicy ocean**. Офіційний смак не вказано
 

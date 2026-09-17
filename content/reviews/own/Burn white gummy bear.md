@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Burn white gummy bear
+summary:
 status: published
-tags:
 externalUrl: https://t.me/kallection/36773
+publishedAt: 2026-06-17
+createdAt: 2026-06-17
+cover: "[[IMG_3473.jpeg]]"
+types:
+  - energy
 brand: burn
 taste:
   - gummy bear
-favorite: true
-container:
-  - can
 sweeteners:
   - sugar
   - inositol
-cover: "[[IMG_3473.jpeg]]"
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - green
   - yellow
   - black
 manufacturer: energy beverages
-caffeine: 32
 volume:
   - "0.25"
-publishedAt: 2026-06-17
-aliases:
-  - Burn white gummy bear
-types:
-  - energy
-createdAt: 2026-06-17
+caffeine: 32
 alco: 0
+availability: 3
+favorite: true
+tags:
 ---
 **Burn white gummy bear**. Офіційний смак - білий желейний ведмедик
 

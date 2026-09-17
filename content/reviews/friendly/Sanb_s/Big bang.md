@@ -1,21 +1,21 @@
 ---
-author: sanb_s
 aliases:
   - Big bang
-publishedAt: 2025-02-14
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4468
+publishedAt: 2025-02-14
+cover: "[[photo_2025-02-13_22-07-04.jpg]]"
+types:
+  - energy
 brand:
+taste:
 container:
   - can
 volume:
   - "0.25"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-02-13_22-07-04.jpg]]"
-externalUrl: https://t.me/ukr_satan/4468
 caffeine: 15
+author: sanb_s
 ---
 Турецьке #енергохарчування BIG BANG🙀  
 

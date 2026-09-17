@@ -1,32 +1,31 @@
 ---
-
-status: published
 aliases:
   - Garage hardcore pomegranate fizz
+summary:
+status: published
 externalUrl: https://t.me/kallection/37779
-brand: garage/hardcore
+publishedAt: 2026-07-29
+createdAt: 2026-07-08
+cover: "[[IMG_4624.jpeg]]"
 types:
   - alco
+brand: garage/hardcore
 taste:
   - pomegranate
-publishedAt: 2026-07-29
-favorite:
-container:
-  - glass
 sweeteners:
   - barley malt
   - glucose-fructose syrup
   - juice/black carrot
-cover: "[[IMG_4624.jpeg]]"
-availability: 4
-summary:
+container:
+  - glass
 primaryColors:
 manufacturer: carlsberg
-caffeine: 0
 volume:
   - "0.44"
+caffeine: 0
 alco: 8
-createdAt: 2026-07-08
+availability: 4
+favorite:
 ---
 **Garage hardcore pomegranate fizz**. Офіційний смак - гранатовий
 

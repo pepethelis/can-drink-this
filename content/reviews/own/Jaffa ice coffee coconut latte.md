@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Jaffa ice coffee coconut latte
+summary:
 status: published
-tags:
 externalUrl: https://t.me/kallection/36694
+publishedAt: 2026-06-13
+createdAt: 2026-05-04
+cover: "[[IMG_1637.jpeg]]"
+types:
+  - coffee
 brand: jaffa
 taste:
   - coffee
-publishedAt: 2026-06-13
-favorite:
-container:
-  - tetrapak
 sweeteners:
   - juice/coconut
-cover: "[[IMG_1637.jpeg]]"
-availability: 3.5
-summary:
-volume:
-  - "0.25"
+container:
+  - tetrapak
 primaryColors:
   - brown
 manufacturer: vitmark
-aliases:
-  - Jaffa ice coffee coconut latte
-types:
-  - coffee
+volume:
+  - "0.25"
+caffeine: 0
+alco: 0
+availability: 3.5
+favorite:
 related:
   - "[[Jacobs ice presso latte]]"
   - "[[Hell ice coffee latte]]"
   - "[[content/reviews/own/Hell ice coffee strawberry latte]]"
   - "[[Vega Milk banana]]"
   - "[[Vega Milk coconut]]"
-createdAt: 2026-05-04
-caffeine: 0
-alco: 0
+tags:
 ---
 **Jaffa ice coffee coconut latte**. Офіційний смак - лате кокосове
 

@@ -1,37 +1,37 @@
 ---
-status: published
 aliases:
   - Cheat code exotic
+summary:
+status: published
 externalUrl: https://t.me/kallection/38492
-brand: cheat code
+publishedAt: 2026-08-31
+createdAt: 2026-08-05
+cover: "[[IMG_6104.jpeg]]"
 types:
   - energy
+brand: cheat code
 taste:
   - mango
   - lemon
   - mint
-publishedAt: 2026-08-31
-favorite:
-container:
-  - can
 sweeteners:
   - sucralose
   - acesulfame
   - extract/ginseng root
   - extract/guarana
-cover: "[[IMG_6104.jpeg]]"
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - blue
   - silver
   - orange
 manufacturer: оболонь
-caffeine: 32
 volume:
   - "0.33"
+caffeine: 32
 alco: 0
-createdAt: 2026-08-05
+availability: 3
+favorite:
 ---
 **Cheat code exotic**. Офіційний смак - манго, лимон, м'ята
 

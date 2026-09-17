@@ -1,41 +1,41 @@
 ---
+aliases:
+  - Komodo juicy watermelon
+summary:
 status: published
-tags:
-  - country/poland
-  - package/amp
 externalUrl: https://t.me/kallection/38037
+publishedAt: 2026-08-12
+createdAt: 2026-07-16
+cover: "[[IMG_5068.jpeg]]"
+types:
+  - energy
 brand: komodo
 taste:
   - watermelon
-publishedAt: 2026-08-12
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - glucose
   - extract/ginseng root
   - extract/guarana
   - inositol
-cover: "[[IMG_5068.jpeg]]"
-availability: 3
-summary:
-volume:
-  - "0.25"
-caffeine: 32
-sponsor:
-  - ritual_huitual
-manufacturer: KED Krasnodębski Sp. K
+container:
+  - can
 primaryColors:
   - red
   - green
-related:
-aliases:
-  - Komodo juicy watermelon
-types:
-  - energy
-createdAt: 2026-07-16
+manufacturer: KED Krasnodębski Sp. K
+volume:
+  - "0.25"
+caffeine: 32
 alco: 0
+sponsor:
+  - ritual_huitual
+availability: 3
+favorite:
+related:
+tags:
+  - country/poland
+  - package/amp
 ---
 **Komodo juicy watermelon**. Офіційний смак - кавун
 

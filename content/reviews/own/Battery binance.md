@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Battery binance
+  - Батарейка бінанс
 status: published
-tags:
 externalUrl: https://t.me/kallection/25453
+publishedAt: 2025-01-09
+createdAt: 2025-01-09
+cover: "[[IMG_2161.jpg]]"
+types:
+  - energy
 brand: battery
 taste:
   - CLASSIC
-container:
-  - can
-publishedAt: 2025-01-09
-cover: "[[IMG_2161.jpg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
-availability: 1
+container:
+  - can
+primaryColors:
+  - golden
+manufacturer: carlsberg
 volume:
   - "0.5"
 caffeine: 32
 alco: 0
-primaryColors:
-  - golden
-manufacturer: carlsberg
-aliases:
-  - Battery binance
-  - Батарейка бінанс
-types:
-  - energy
-createdAt: 2025-01-09
+availability: 1
 old_related: true
+tags:
 ---
 **Battery Energy x Binance**
 

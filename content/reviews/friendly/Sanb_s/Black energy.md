@@ -1,21 +1,21 @@
 ---
-author: sanb_s
 aliases:
   - Black energy
-publishedAt: 2024-12-10
-status: published
-brand: black
-container:
-  - can
-volume:
 summary: |-
   Виглядає так наче після того як вип'єш десь зі спини почуєш: 
   - "Швидко в палату, довбойоб!"
-taste:
-  - CLASSIC
+status: published
+publishedAt: 2024-12-10
 cover: "[[photo_2024-12-10_12-12-30.jpg]]"
 types:
   - energy
+brand: black
+taste:
+  - CLASSIC
+container:
+  - can
+volume:
+author: sanb_s
 ---
 Огляд на біле "Чорне" #енергохарчування 
 

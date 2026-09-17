@@ -1,23 +1,23 @@
 ---
-author: sanb_s
 aliases:
   - Monster nitro cosmic peach
-publishedAt: 2025-05-29
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/5529
+publishedAt: 2025-05-29
+cover: "[[photo_2025-05-29_18-31-06.jpg]]"
+types:
+  - energy
 brand: monster/nitro
+taste:
+  - peach
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - peach
-types:
-  - energy
-cover: "[[photo_2025-05-29_18-31-06.jpg]]"
-externalUrl: https://t.me/ukr_satan/5529
 caffeine: 32
 alco: 0
+author: sanb_s
 ---
 А ще я винен вам огляд на цю банку #енергохарчування Mфnster Nitro Cosmic Peach  
 

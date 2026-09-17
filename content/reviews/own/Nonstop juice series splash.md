@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Nonstop juice series splash
+  - Нонстоп сплеш
+summary:
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/35434
+publishedAt: 2026-04-02
+createdAt: 2026-04-01
+cover: "[[IMG_0382.jpeg]]"
+types:
+  - energy
 brand: nonstop/juice
 taste:
-publishedAt: 2026-04-02
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - juice/apple
   - juice/multifruit
   - extract/peach
-cover: "[[IMG_0382.jpeg]]"
-availability: 4
-summary:
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - orange
   - pink
 manufacturer: new products
-aliases:
-  - Nonstop juice series splash
-  - Нонстоп сплеш
-types:
-  - energy
+volume:
+  - "0.5"
+caffeine: 32
+alco: 0
+availability: 4
+favorite:
 related:
   - "[[content/reviews/own/Battery juiced sour apple|Battery juiced sour apple]]"
   - "[[content/reviews/own/Battery juiced peach lemonade|Battery juiced peach lemonade]]"
@@ -38,8 +38,8 @@ related:
   - "[[content/reviews/own/Monster juiced mango loco|Monster juiced mango loco]]"
   - "[[content/reviews/own/Monster juiced pacific punch|Monster juiced pacific punch]]"
   - "[[content/reviews/own/Monster juiced rio punch|Monster juiced rio punch]]"
-createdAt: 2026-04-01
-alco: 0
+tags:
+  - package/canpack
 ---
 **Nonstop juice series splash**. Офіційний смак - ніде не вказано
 

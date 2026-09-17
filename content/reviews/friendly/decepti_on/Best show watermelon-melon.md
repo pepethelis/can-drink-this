@@ -1,25 +1,25 @@
 ---
-author: decepti_on
 aliases:
   - Best show watermelon-melon
-publishedAt: 2025-09-29
+summary: Огляд на бест шот кавун диня
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33679
+publishedAt: 2025-09-29
+cover:
+types:
+  - energy
 brand: best shot
+taste:
+  - watermelon
+  - melon
 container:
   - can
 volume:
   - "0.5"
-summary: Огляд на бест шот кавун диня
-taste:
-  - watermelon
-  - melon
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33679
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33677
   - https://t.me/sonechkin_rzekich/33678
-alco: 0
 ---
 Огляд на бест шот кавун диня

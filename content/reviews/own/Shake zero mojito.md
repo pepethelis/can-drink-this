@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Shake zero mojito
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/36533
+publishedAt: 2026-06-06
+createdAt: 2026-05-16
+cover: "[[IMG_1959.jpeg]]"
+types:
+  - fizzy
 brand: shake/zero
 taste:
   - mojito
-container:
-  - can
-cover: "[[IMG_1959.jpeg]]"
 sweeteners:
   - sugar
-availability: 3
-volume:
-  - "0.33"
-  - "0.5"
+container:
+  - can
 primaryColors:
   - yellow
   - orange
   - white
 manufacturer: new products
-publishedAt: 2026-06-06
-aliases:
-  - Shake zero mojito
-types:
-  - fizzy
-createdAt: 2026-05-16
-alco: 0
+volume:
+  - "0.33"
+  - "0.5"
 caffeine: 0
+alco: 0
+availability: 3
+tags:
+  - package/bagpak
 ---
 **Shake zero mojito**. Друга банка з новітньої партії. Першою була [[Shake zero pina colada|піна колада]]
 

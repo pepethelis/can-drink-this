@@ -1,25 +1,25 @@
 ---
-author: decepti_on
 aliases:
   - Mojo mint-lime
-publishedAt: 2024-03-23
+summary: Огляд на моджо!!!!!!!
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/32224
+publishedAt: 2024-03-23
+cover:
+types:
+  - energy
 brand: mojo
+taste:
+  - mint
+  - lime
 container:
   - can
 volume:
   - "0.33"
-summary: Огляд на моджо!!!!!!!
-taste:
-  - mint
-  - lime
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/32224
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32222
   - https://t.me/sonechkin_rzekich/32223
-alco: 0
 ---
 Огляд на моджо!!!!!!!

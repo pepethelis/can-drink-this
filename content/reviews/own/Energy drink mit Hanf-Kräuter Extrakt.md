@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Energy drink mit Hanf-Kräuter Extrakt
 status: published
-tags:
-  - package/amp
 externalUrl: https://t.me/kallection/27837
+publishedAt: 2025-04-20
+createdAt: 2025-04-14
+cover: "[[IMG_5159.jpg]]"
+types:
+  - energy
 brand: hanf
 taste:
   - hemp
-favorite: true
-container:
-  - can
-publishedAt: 2025-04-20
-cover: "[[IMG_5159.jpg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
-availability: 1
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
-caffeine: 30
-manufacturer: Egger Getränke GmbH & Co OG
+container:
+  - can
 primaryColors:
   - green
   - black
   - bronze
-aliases:
-  - Energy drink mit Hanf-Kräuter Extrakt
-types:
-  - energy
-createdAt: 2025-04-14
+manufacturer: Egger Getränke GmbH & Co OG
+volume:
+  - "0.25"
+caffeine: 30
+sponsor:
+  - gdgood
+availability: 1
+favorite: true
+tags:
+  - package/amp
 ---
 **Energy drink mit Hanf-Kräuter Extrakt**. Офіційний смак - екстракт канабісу
 

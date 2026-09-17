@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Crazy wolf green ginseng-guarana
 status: published
-tags:
-  - package/ball
 externalUrl: https://t.me/kallection/28425
+publishedAt: 2025-05-13
+createdAt: 2025-05-13
+cover: "[[IMG_6307.jpg]]"
+types:
+  - energy
 brand: crazy wolf
 taste:
   - ginseng
   - guarana
-container:
-  - can
-publishedAt: 2025-05-13
-cover: "[[IMG_6307.jpg]]"
 sweeteners:
   - sugar
   - sugar syrup
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.5"
-caffeine: 30
-alco: 0
+container:
+  - can
 primaryColors:
   - green
   - black
 manufacturer: kaufland dienstleistung
-aliases:
-  - Crazy wolf green ginseng-guarana
-types:
-  - energy
-createdAt: 2025-05-13
+volume:
+  - "0.5"
+caffeine: 30
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
 old_related: true
+tags:
+  - package/ball
 ---
 **Crazy wolf зелений**. Офіційний смак - женьшень, гуарана
 

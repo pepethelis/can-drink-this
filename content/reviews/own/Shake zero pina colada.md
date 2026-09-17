@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Shake zero pina colada
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/34283
+publishedAt: 2026-01-23
+createdAt: 2025-12-13
+cover: "[[IMG_6992.jpeg]]"
+types:
+  - fizzy
 brand: shake/zero
 taste:
   - cocktail/pina colada
-container:
-  - can
-publishedAt: 2026-01-23
-cover: "[[IMG_6992.jpeg]]"
 sweeteners:
   - sugar
-availability: 3
-volume:
-  - "0.33"
-  - "0.5"
+container:
+  - can
 primaryColors:
   - yellow
   - blue
   - white
 manufacturer: new products
-aliases:
-  - Shake zero pina colada
-types:
-  - fizzy
-createdAt: 2025-12-13
-old_related: true
-alco: 0
+volume:
+  - "0.33"
+  - "0.5"
 caffeine: 0
+alco: 0
+availability: 3
+old_related: true
+tags:
+  - package/bagpak
 ---
 **Shake zero pina colada**. Несподіваний камбек лінійки шейк зіро. Я думав я з нею закінчив, а тут отаке
 

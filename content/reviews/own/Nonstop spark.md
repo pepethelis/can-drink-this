@@ -1,36 +1,36 @@
 ---
-status: published
-tags:
-externalUrl: https://t.me/kallection/32543
-brand: nonstop
-taste:
-  - pineapple
-publishedAt: 2025-10-30
-favorite:
-container:
-  - can
-sweeteners:
-  - maltodextrin
-  - acesulfame
-  - sucralose
-cover: "[[IMG_4206.jpeg]]"
-availability: 4
-volume:
-  - "0.5"
-caffeine: 32
-primaryColors:
-  - yellow
-manufacturer: new products
-updatedAt: 2026-06-02
 aliases:
   - Nonstop spark
   - Нонстоп спарк
   - Нонстоп жовтий
+status: published
+externalUrl: https://t.me/kallection/32543
+publishedAt: 2025-10-30
+updatedAt: 2026-06-02
+createdAt: 2025-10-30
+cover: "[[IMG_4206.jpeg]]"
 types:
   - energy
-createdAt: 2025-10-30
-old_related: true
+brand: nonstop
+taste:
+  - pineapple
+sweeteners:
+  - maltodextrin
+  - acesulfame
+  - sucralose
+container:
+  - can
+primaryColors:
+  - yellow
+manufacturer: new products
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+availability: 4
+favorite:
+old_related: true
+tags:
 ---
 **Nonstop spark**. Офіційний смак за традицією не вказано, але вірогідно, що буде ананас
 

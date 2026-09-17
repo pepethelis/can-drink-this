@@ -1,16 +1,17 @@
 ---
+aliases:
+  - Monster the doctor
+  - Monster VR46
 status: needs update
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/25521
+publishedAt: 2025-01-12
+createdAt: 2025-01-12
+cover: "[[IMG_2340.jpg]]"
+types:
+  - energy
 brand: monster/racing
 taste:
   - orange
-favorite: true
-container:
-  - can
-publishedAt: 2025-01-12
-cover: "[[IMG_2340.jpg]]"
 sweeteners:
   - sugar
   - glucose
@@ -18,21 +19,20 @@ sweeteners:
   - juice/lemon
   - juice/orange
   - lemon pulp
-availability: 4
-volume:
-  - "0.5"
-caffeine: 31
+container:
+  - can
 primaryColors:
   - yellow
 manufacturer: monster energy limited
-aliases:
-  - Monster the doctor
-  - Monster VR46
-types:
-  - energy
-createdAt: 2025-01-12
-old_related: true
+volume:
+  - "0.5"
+caffeine: 31
 alco: 0
+availability: 4
+favorite: true
+old_related: true
+tags:
+  - package/bagpak
 ---
 **Monster Energy The Doctor**. Офіційно смак на банці не вказаний, але на сайті відмічено смак - терпкий, освіжаючий, цитрусовий
 

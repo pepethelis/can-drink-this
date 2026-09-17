@@ -1,39 +1,38 @@
 ---
-alco: 0
-
+aliases:
+  - Monster juiced monarch
 status: needs update
-tags:
-  - package/bagpak
-  - package/ag
-  - country/poland
 externalUrl: https://t.me/kallection/24500
+publishedAt: 2024-11-29
+createdAt: 2024-11-29
+cover: "[[IMG_0835.jpg]]"
+types:
+  - energy
 brand: monster/juiced
 taste:
   - peach
   - nectarine
-container:
-  - can
-publishedAt: 2024-11-29
-cover: "[[IMG_0835.jpg]]"
 sweeteners:
   - sugar
   - juice
   - glucose syrup
   - maltodextrin
   - sucralose
-availability: 3
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - peach
 manufacturer: monster energy limited
-aliases:
-  - Monster juiced monarch
-types:
-  - energy
-createdAt: 2024-11-29
+volume:
+  - "0.5"
+caffeine: 32
+alco: 0
+availability: 3
 old_related: true
+tags:
+  - package/bagpak
+  - package/ag
+  - country/poland
 ---
 **Monster Energy Juiced Monarch**, він же монстр з метеликами
 

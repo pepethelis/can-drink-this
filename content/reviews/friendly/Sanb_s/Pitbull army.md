@@ -1,22 +1,22 @@
 ---
-author: sanb_s
 aliases:
   - Pitbull army
-publishedAt: 2025-03-03
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4719
+publishedAt: 2025-03-03
+cover: "[[photo_2025-03-03_10-07-08.jpg]]"
+types:
+  - energy
 brand: pitbull
+taste:
+  - CLASSIC
 container:
   - plastic
 volume:
   - "0.5"
-summary:
-taste:
-  - CLASSIC
-types:
-  - energy
-cover: "[[photo_2025-03-03_10-07-08.jpg]]"
-externalUrl: https://t.me/ukr_satan/4719
 alco: 0
+author: sanb_s
 ---
 Огляд на PITBULL ARMY  
   

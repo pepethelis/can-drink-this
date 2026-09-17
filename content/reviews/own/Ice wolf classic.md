@@ -1,35 +1,35 @@
 ---
-status: published
-tags:
-externalUrl: https://t.me/kallection/33668
-brand: ice wolf
-taste:
-  - ORIGINAL
-publishedAt: 2025-12-21
-favorite:
-container:
-  - can
-cover: "[[IMG_2867.jpg]]"
-sweeteners:
-  - glucose-fructose syrup
-  - sugar
-availability: 2
-volume:
-  - "0.33"
-caffeine: 24
-primaryColors:
-  - blue
-manufacturer: Роял Фрут Гарден
 aliases:
   - Ice wolf classic
   - Крижаний вовк класичний
+status: published
+externalUrl: https://t.me/kallection/33668
+publishedAt: 2025-12-21
+createdAt: 2025-12-05
+cover: "[[IMG_2867.jpg]]"
 types:
   - energy
+brand: ice wolf
+taste:
+  - ORIGINAL
+sweeteners:
+  - glucose-fructose syrup
+  - sugar
+container:
+  - can
+primaryColors:
+  - blue
+manufacturer: Роял Фрут Гарден
+volume:
+  - "0.33"
+caffeine: 24
+availability: 2
+favorite:
 related:
   - "[[Booster energy drink absolute zero]]"
   - "[[Nonstop original]]"
   - "[[Nonstop original zero]]"
-createdAt: 2025-12-05
+tags:
 ---
 **Ice wolf classic/Крижаний вовк класичний**. Офіційний смак - класичний, хоча я не згоден
 

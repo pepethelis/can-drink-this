@@ -1,23 +1,23 @@
 ---
-author: super_skrull
 aliases:
   - Battery unicorn
-publishedAt: 2024-09-05
+summary:
 status: published
+publishedAt: 2024-09-05
+cover: "[[photo_2024-09-05_08-57-16.jpg]]"
+types:
+  - energy
 brand: battery
+taste:
+  - ORIGINAL
+  - cotton candy
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - ORIGINAL
-  - cotton candy
-cover: "[[photo_2024-09-05_08-57-16.jpg]]"
-types:
-  - energy
-alco: 0
 caffeine: 32
+alco: 0
+author: super_skrull
 ---
 **BATTERY UNICRON** від Карлсберг Україна  
   

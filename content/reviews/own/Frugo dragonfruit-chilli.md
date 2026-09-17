@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Frugo dragonfruit-chilli
 status: published
-tags:
 externalUrl: https://t.me/kallection/32818
+publishedAt: 2025-11-13
+createdAt: 2025-10-25
+cover: "[[IMG_4035.jpeg]]"
+types:
+  - energy
 brand: frugo
 taste:
   - dragon fruit
   - chilli
-publishedAt: 2025-11-13
-favorite:
-container:
-  - can
 sweeteners:
   - juice/apple
   - sucralose
-cover: "[[IMG_4035.jpeg]]"
-availability: 3
-volume:
-  - "0.33"
-caffeine: 15
+container:
+  - can
 primaryColors:
   - black
 manufacturer: foodcare
-aliases:
-  - Frugo dragonfruit-chilli
-types:
-  - energy
-createdAt: 2025-10-25
-old_related: true
+volume:
+  - "0.33"
+caffeine: 15
 alco: 0
+availability: 3
+favorite:
+old_related: true
+tags:
 ---
 **Frugo Wild Punch Black**. Офіційний смак - draginfruit & chilli
 

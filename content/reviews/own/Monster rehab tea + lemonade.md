@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Monster rehab tea + lemonade
 status: published
-tags:
-  - country/hungary
 externalUrl: https://t.me/kallection/34291
+publishedAt: 2026-01-23
+createdAt: 2025-12-15
+cover: "[[IMG_7181.jpeg]]"
+types:
+  - energy
+  - tea
 brand: monster/rehab
 taste:
   - tea
   - lemonade
-publishedAt: 2026-01-23
-favorite: true
-container:
-  - can
 sweeteners:
   - juice/lemon
   - glucose syrup
@@ -21,25 +23,23 @@ sweeteners:
   - extract/acai
   - inositol
   - extract/goji berry
-availability: 3
-sponsor:
-  - nastya
-volume:
-  - "0.5"
-caffeine: 31
+container:
+  - can
 primaryColors:
   - yellow
   - black
 manufacturer: monster energy limited
-aliases:
-  - Monster rehab tea + lemonade
-types:
-  - energy
-  - tea
-createdAt: 2025-12-15
-cover: "[[IMG_7181.jpeg]]"
-old_related: true
+volume:
+  - "0.5"
+caffeine: 31
 alco: 0
+sponsor:
+  - nastya
+availability: 3
+favorite: true
+old_related: true
+tags:
+  - country/hungary
 ---
 Чай-енергос **Monster rehab tea + lemonade (🇭🇺)**. Офіційний смак - чай і лимонад, а на сайті - "Brewed Tea and Lemonade"
 

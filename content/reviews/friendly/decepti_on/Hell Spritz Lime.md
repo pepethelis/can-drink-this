@@ -1,26 +1,26 @@
 ---
-author: decepti_on
 aliases:
   - Hell Spritz Lime
-publishedAt: 2025-07-10
+summary: Огляд на хелл лайм
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33403
+publishedAt: 2025-07-10
+cover:
+types:
+  - energy
 brand: hell/spritz
+taste:
+  - lime
 container:
   - can
 volume:
   - "0.25"
-summary: Огляд на хелл лайм
-taste:
-  - lime
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33403
+caffeine: 32
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33400
   - https://t.me/sonechkin_rzekich/33401
   - https://t.me/sonechkin_rzekich/33402
-caffeine: 32
-alco: 0
 ---
 Огляд на хелл лайм

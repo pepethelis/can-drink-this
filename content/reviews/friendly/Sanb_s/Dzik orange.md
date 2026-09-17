@@ -1,22 +1,22 @@
 ---
-author: sanb_s
 aliases:
   - Dzik orange
-publishedAt: 2026-06-27
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/7900
+publishedAt: 2026-06-27
+cover: "[[photo_2026-06-27_16-36-50.jpg]]"
+types:
+  - energy
 brand: dzik
+taste:
+  - orange
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - orange
-types:
-  - energy
-cover: "[[photo_2026-06-27_16-36-50.jpg]]"
-externalUrl: https://t.me/ukr_satan/7900
 caffeine: 40
+author: sanb_s
 ---
 DZIK energy orange🍊  
 

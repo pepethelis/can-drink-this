@@ -1,41 +1,41 @@
 ---
+aliases:
+  - Rockstar mango
+  - Рокстар манго
 status: published
-tags:
-  - package/amp
-  - country/germany
 externalUrl: https://t.me/kallection/28528
+publishedAt: 2025-05-16
+createdAt: 2025-05-16
+cover: "[[IMG_6514.jpg]]"
+types:
+  - energy
 brand: rockstar
 taste:
   - mango
-container:
-  - can
-publishedAt: 2025-05-16
-cover: "[[IMG_6514.jpg]]"
 sweeteners:
   - sugar
   - juice
   - inositol
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.5"
-caffeine: 31
+container:
+  - can
 primaryColors:
   - blue
 manufacturer: pepsi
-aliases:
-  - Rockstar mango
-  - Рокстар манго
-types:
-  - energy
+volume:
+  - "0.5"
+caffeine: 31
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
 related:
   - "[[Burn mango|Burn mango]]"
   - "[[Frugo mango|Frugo mango]]"
   - "[[28 black sour mango kiwi|28 black sour mango kiwi]]"
   - "[[content/reviews/own/Monster juiced mango loco|Monster juiced mango loco]]"
-createdAt: 2025-05-16
-alco: 0
+tags:
+  - package/amp
+  - country/germany
 ---
 **Rockstar energy**, блакитний. Офіційний смак - манго
 

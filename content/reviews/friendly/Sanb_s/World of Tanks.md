@@ -1,23 +1,23 @@
 ---
-author: sanb_s
 aliases:
   - World of Tanks
-publishedAt:
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/1453
+publishedAt:
+cover:
+types:
+  - energy
 brand: world of tanks
+taste:
 container:
   - can
 volume:
-summary:
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/ukr_satan/1453
-contentTgPosts:
-  - https://t.me/ukr_satan/1438
 caffeine: 32
 alco: 0
+author: sanb_s
+contentTgPosts:
+  - https://t.me/ukr_satan/1438
 ---
 Кому цікаво щодо цієї танкової солярки - читайте:  
 

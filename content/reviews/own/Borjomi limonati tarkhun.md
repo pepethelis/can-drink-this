@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Borjomi limonati tarkhun
+summary: Овепрайс тархун😍😍
 status: published
-tags:
 externalUrl: https://t.me/kallection/38566
+publishedAt: 2026-09-03
+createdAt: 2026-08-13
+cover: "[[IMG_6414.jpeg]]"
+types:
+  - fizzy
 brand: borjomi/limonati
 taste:
   - tarkhun
-publishedAt: 2026-09-03
-favorite:
-container:
-  - can
-  - glass
 sweeteners:
   - sugar
   - juice/apple
   - juice/lemon
-cover: "[[IMG_6414.jpeg]]"
-availability: 4
-summary: Овепрайс тархун😍😍
+container:
+  - can
+  - glass
 primaryColors:
   - green
   - white
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine: 0
 volume:
   - "0.33"
   - "0.5"
-aliases:
-  - Borjomi limonati tarkhun
-types:
-  - fizzy
-createdAt: 2026-08-13
+caffeine: 0
 alco: 0
+availability: 4
+favorite:
+tags:
 ---
 **Borjomi limonati tarkhun**. Офіційний смак - тархун
 

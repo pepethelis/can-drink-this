@@ -1,22 +1,22 @@
 ---
-author: decepti_on
 aliases:
   - Monster juiced khaotic
-publishedAt: 2025-08-16
+summary: Огляд на монстер хаотік з метеликами 🦋🦋🦋
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33539
+publishedAt: 2025-08-16
+cover:
+types:
+  - energy
 brand: battery/juiced
+taste:
 container:
   - can
 volume:
-summary: Огляд на монстер хаотік з метеликами 🦋🦋🦋
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33539
-contentTgPosts:
-  - https://t.me/sonechkin_rzekich/33538
 caffeine: 32
 alco: 0
+author: decepti_on
+contentTgPosts:
+  - https://t.me/sonechkin_rzekich/33538
 ---
 Огляд на монстер хаотік з метеликами 🦋🦋🦋

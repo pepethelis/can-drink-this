@@ -1,21 +1,21 @@
 ---
-author: sanb_s
 aliases:
   - Ngine
-publishedAt: 2025-03-04
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4739
+publishedAt: 2025-03-04
+cover: "[[photo_2025-03-04_11-06-40.jpg]]"
+types:
+  - energy
 brand: ngine
+taste:
 container:
   - can
 volume:
   - "0.25"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-03-04_11-06-40.jpg]]"
-externalUrl: https://t.me/ukr_satan/4739
 caffeine: 32
+author: sanb_s
 ---
 Польське #енергохарчування NGINE  
 

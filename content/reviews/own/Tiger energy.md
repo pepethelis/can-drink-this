@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Tiger energy
+summary: Трохи експериментальний огляд для трохи експериментального смаку
 status: published
-tags:
 externalUrl: https://t.me/kallection/38779
+publishedAt: 2026-09-11
+createdAt: 2026-08-31
+cover: "[[IMG_7593.jpeg]]"
+types:
+  - energy
 brand: tiger
 taste:
   - CLASSIC
-publishedAt: 2026-09-11
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - sucralose
   - inositol
-cover: "[[IMG_7593.jpeg]]"
-availability: 3
-summary: Трохи експериментальний огляд для трохи експериментального смаку
+container:
+  - can
 primaryColors:
   - black
   - red
   - white
 manufacturer: ACM Food company
-caffeine:
 volume:
   - "0.25"
-related:
-aliases:
-  - Tiger energy
-types:
-  - energy
-createdAt: 2026-08-31
-telegram_format: md
+caffeine:
 alco: 0
+availability: 3
+favorite:
+related:
+tags:
+telegram_format: md
 ---
 # Tiger energy
 Офіційний смак - класичний

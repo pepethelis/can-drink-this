@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Revo energy cherry
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/34442
+publishedAt: 2026-02-01
+updatedAt: 2026-06-02
+createdAt: 2025-12-20
+cover: "[[IMG_7604.jpeg]]"
+types:
+  - energy
 brand: revo/energy
 taste:
   - cherry
-publishedAt: 2026-02-01
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - juice/multifruit
   - juice/cherry
-cover: "[[IMG_7604.jpeg]]"
-availability: 3
-alco: 0
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - pink
   - silver
 manufacturer: new products
-updatedAt: 2026-06-02
-aliases:
-  - Revo energy cherry
-types:
-  - energy
-createdAt: 2025-12-20
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+availability: 3
+favorite:
+tags:
+  - package/canpack
 ---
 **Revo energy cherry**. Офіційний смак - вишня
 

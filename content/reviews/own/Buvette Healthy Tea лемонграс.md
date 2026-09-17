@@ -1,24 +1,24 @@
 ---
-status: prebuild
 aliases:
   - Buvette Healthy Tea лемонграс
+summary:
+status: prebuild
 externalUrl:
-brand:
+publishedAt:
+cover: "[[default.png]]"
 types:
   - tea
+brand:
 taste:
-publishedAt:
-favorite:
-container:
 sweeteners:
-cover: "[[default.png]]"
-availability:
-summary:
+container:
 primaryColors:
 manufacturer:
-caffeine: 0
 volume:
+caffeine: 0
 alco: 0
+availability:
+favorite:
 ---
 **Buvette Healthy Tea лемонграс**. Офіційний смак - ==СМАК==
 

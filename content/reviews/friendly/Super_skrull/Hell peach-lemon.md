@@ -1,23 +1,23 @@
 ---
-author: super_skrull
 aliases:
   - Hell peach-lemon
-publishedAt: 2024-09-06
+summary:
 status: published
+publishedAt: 2024-09-06
+cover: "[[photo_2024-09-06_07-21-28.jpg]]"
+types:
+  - energy
 brand: hell
+taste:
+  - peach
+  - lemon
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - peach
-  - lemon
-cover: "[[photo_2024-09-06_07-21-28.jpg]]"
-types:
-  - energy
 caffeine: 30
 alco: 0
+author: super_skrull
 ---
 **HELL PEACH-LEMON** від HELL ENERGY  
 Смак: червоний персик, лимон, лайм та тутті-фрутті  

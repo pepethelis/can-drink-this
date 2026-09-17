@@ -1,30 +1,30 @@
 ---
+aliases:
+  - Aquarte focus
 status: published
-tags:
 externalUrl: https://t.me/kallection/23880
+publishedAt: 2024-11-03
+createdAt: 2024-11-03
+cover: "[[IMG_0194.jpg]]"
+types:
+  - water
 brand: aquarte
 taste:
   - apple
   - ginseng
-container:
-  - plastic
-publishedAt: 2024-11-03
-cover: "[[IMG_0194.jpg]]"
 sweeteners:
   - fructose
-availability: 4
-volume:
-  - "0.5"
+container:
+  - plastic
 primaryColors:
   - green
 manufacturer: vitmark
-aliases:
-  - Aquarte focus
-types:
-  - water
-createdAt: 2024-11-03
-alco: 0
+volume:
+  - "0.5"
 caffeine: 0
+alco: 0
+availability: 4
+tags:
 ---
 Вода **Aquarte Focus**. Офіційний смак - яблуко-женьшень, хоча від яблука там лише ароматизатор
 

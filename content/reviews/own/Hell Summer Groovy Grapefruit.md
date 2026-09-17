@@ -1,30 +1,29 @@
 ---
-alco: 0
-
+aliases:
+  - Hell Groovy Grapefruit
 status: published
-tags:
-  - package/quality
 externalUrl: https://t.me/kallection/30930
+publishedAt: 2025-08-17
+createdAt: 2025-08-10
+cover: "[[IMG_1071.jpg]]"
+types:
+  - energy
 brand: hell/summer
 taste:
   - grapefruit
-container:
-  - can
-publishedAt: 2025-08-17
-cover: "[[IMG_1071.jpg]]"
 sweeteners:
   - sugar
-availability: 4
+container:
+  - can
+manufacturer: hell energy
 volume:
   - "0.25"
 caffeine: 32
-manufacturer: hell energy
-aliases:
-  - Hell Groovy Grapefruit
-types:
-  - energy
-createdAt: 2025-08-10
+alco: 0
+availability: 4
 old_related: true
+tags:
+  - package/quality
 ---
 **Hell Groovy Grapefruit**, більш помаранчевий з двох hell summer. Офіційний смак - грейпфрут
 

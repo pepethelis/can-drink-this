@@ -1,39 +1,39 @@
 ---
+aliases:
+  - Crazy tiger
+summary:
 status: published
-tags:
-  - package/ball
-  - country/france
 externalUrl: https://t.me/kallection/34910
+publishedAt: 2026-03-03
+createdAt: 2026-01-23
+cover: "[[IMG_9010.jpeg]]"
+types:
+  - energy
 brand: crazy tiger
 taste:
   - CLASSIC
-publishedAt: 2026-03-03
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - caramel
   - inositol
   - sucralose
-cover: "[[IMG_9010.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
+container:
+  - can
+primaryColors:
+  - black
+manufacturer: royal unibrew
 volume:
   - "0.5"
 caffeine: 20
 alco: 0
-primaryColors:
-  - black
-manufacturer: royal unibrew
-aliases:
-  - Crazy tiger
-types:
-  - energy
-createdAt: 2026-01-23
+sponsor:
+  - gdgood
+availability: 2
+favorite:
 old_related: true
+tags:
+  - package/ball
+  - country/france
 ---
 
 Енергос **Crazy tiger**. Офіційний смак не вказано, тому очікуємо класичний

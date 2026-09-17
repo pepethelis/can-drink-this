@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Toosecco, сидр сухий
 status: published
-tags:
 externalUrl: https://t.me/kallection/28731
+publishedAt: 2025-05-25
+createdAt: 2025-05-06
+cover: "[[IMG_6029.jpeg]]"
+types:
+  - alco
+  - cider
 brand: toosecco
 taste:
   - wine
-container:
-  - can
-  - plastic
-publishedAt: 2025-05-25
-cover: "[[IMG_6029.jpeg]]"
 sweeteners:
   - sugar
   - juice/apple
-availability: 3
-volume:
-  - "0.33"
-alco: 5
+container:
+  - can
+  - plastic
 primaryColors:
   - white
   - green
 manufacturer: квас бевериджиз
-aliases:
-  - Toosecco, сидр сухий
-types:
-  - alco
-  - cider
+volume:
+  - "0.33"
+caffeine: 0
+alco: 5
+availability: 3
 related:
   - "[[Gosser natur radler]]"
   - "[[Johan Freitag gin&tonic]]"
   - "[[Gardenz cola]]"
-createdAt: 2025-05-06
-caffeine: 0
+tags:
 ---
 **Сидр сухий toosecco**. Офіційний смак - виноград.
 

@@ -1,22 +1,22 @@
 ---
-author: sanb_s
 aliases:
   - Monster nitro blue flash
-publishedAt: 2026-08-14
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/8067
+publishedAt: 2026-08-14
+cover: "[[photo_2026-08-14_11-56-53.jpg]]"
+types:
+  - energy
 brand: monster/nitro
+taste:
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2026-08-14_11-56-53.jpg]]"
-externalUrl: https://t.me/ukr_satan/8067
 caffeine: 32
 alco: 0
+author: sanb_s
 ---
 Mфnster NITRO blue flash💎  
 

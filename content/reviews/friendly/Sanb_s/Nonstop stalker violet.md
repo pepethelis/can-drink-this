@@ -1,24 +1,24 @@
 ---
-author: sanb_s
 aliases:
   - Nonstop stalker violet
-publishedAt: 2024-07-19
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/1300
+publishedAt: 2024-07-19
+cover: "[[photo_2024-07-29_22-10-09.jpg]]"
+types:
+  - energy
 brand: nonstop/stalker
+taste:
+  - mango
+  - orange
 container:
   - can
 volume:
   - "0.25"
-summary:
-taste:
-  - mango
-  - orange
-types:
-  - energy
-cover: "[[photo_2024-07-29_22-10-09.jpg]]"
-externalUrl: https://t.me/ukr_satan/1300
 caffeine: 32
 alco: 0
+author: sanb_s
 ---
 #енергохарчування  
 

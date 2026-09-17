@@ -1,15 +1,17 @@
 ---
+aliases:
+  - Schöfferhofer passion fruit
 status: published
-tags:
-  - package/ball
 externalUrl: https://t.me/kallection/32466
+publishedAt: 2025-10-25
+createdAt: 2025-10-18
+cover: "[[IMG_3776.jpg]]"
+types:
+  - alco
+  - radler
 brand: schofferhofer
 taste:
   - passion fruit
-publishedAt: 2025-10-25
-favorite:
-container:
-  - can
 sweeteners:
   - barley malt
   - sugar
@@ -17,21 +19,19 @@ sweeteners:
   - juice/lemon
   - juice/passion fruit
   - extract/prange
-cover: "[[IMG_3776.jpg]]"
-availability: 3
+container:
+  - can
+primaryColors:
+  - violet
+manufacturer: radeberger gruppe
 volume:
   - "0.33"
 caffeine: 0
 alco: 2.5
-primaryColors:
-  - violet
-manufacturer: radeberger gruppe
-aliases:
-  - Schöfferhofer passion fruit
-types:
-  - alco
-  - radler
-createdAt: 2025-10-18
+availability: 3
+favorite:
+tags:
+  - package/ball
 ---
 Радлер **Schöfferhofer passion fruit**. Офіційний смак - маракуйя
 

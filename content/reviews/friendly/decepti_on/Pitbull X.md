@@ -1,21 +1,21 @@
 ---
-author: decepti_on
 aliases:
   - Pitbull X
-publishedAt: 2024-04-22
+summary: Огляд на пітбуль зелений. Написано має виражений смак апельсину спойлер апельсину там немає. Просто непоганий не солодкий енергетик. За 20 грн бомба 7/10
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/32416
+publishedAt: 2024-04-22
+cover:
+types:
+  - energy
 brand: pitbull
+taste:
 container:
   - can
 volume:
-summary: Огляд на пітбуль зелений. Написано має виражений смак апельсину спойлер апельсину там немає. Просто непоганий не солодкий енергетик. За 20 грн бомба 7/10
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/32416
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32416
-alco: 0
 ---
 Огляд на пітбуль зелений. Написано має виражений смак апельсину спойлер апельсину там немає. Просто непоганий не солодкий енергетик. За 20 грн бомба 7/10

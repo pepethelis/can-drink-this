@@ -1,35 +1,34 @@
 ---
-alco: 0
-caffeine: 0
-
+aliases:
+  - Shake zero pomegranate punch
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/23413
+publishedAt: 2024-10-16
+createdAt: 2024-10-16
+cover: "[[IMG_9570.jpg]]"
+types:
+  - fizzy
 brand: shake/zero
 taste:
   - pomegranate
-container:
-  - can
-publishedAt: 2024-10-16
-cover: "[[IMG_9570.jpg]]"
 sweeteners:
   - sugar
   - juice/apple
   - juice/black carrot
-availability: 3
-volume:
-  - "0.33"
+container:
+  - can
 primaryColors:
   - pink
   - white
 manufacturer: new products
-aliases:
-  - Shake zero pomegranate punch
-types:
-  - fizzy
-createdAt: 2024-10-16
+volume:
+  - "0.33"
+caffeine: 0
+alco: 0
+availability: 3
 old_related: true
+tags:
+  - package/canpack
 ---
 **Shake zero pomegranate punch**. Офіційний смак - гранатовий(або ото, що маленьким шрифтом)
 

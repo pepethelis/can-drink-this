@@ -1,41 +1,41 @@
 ---
+aliases:
+  - Fanta Shokata Zero Sugar
 status: published
-tags:
 externalUrl: https://t.me/kallection/25629
+publishedAt: 2025-01-17
+createdAt: 2025-01-17
+cover: "[[IMG_2572.jpg]]"
+types:
+  - fizzy
 brand: fanta
 taste:
   - elderberry
   - lemon
-container:
-  - plastic
-publishedAt: 2025-01-17
-cover: "[[IMG_2572.jpg]]"
 sweeteners:
   - juice/lemon
   - acesulfame
   - sucralose
   - cyclamate
   - extract/elderberry
-availability: 5
+container:
+  - plastic
+primaryColors:
+  - blue
+manufacturer: coca cola
 volume:
   - "2"
   - "0.33"
   - "1.5"
   - "0.5"
   - "1.25"
-primaryColors:
-  - blue
-manufacturer: coca cola
-aliases:
-  - Fanta Shokata Zero Sugar
-types:
-  - fizzy
+caffeine: 0
+alco: 0
+availability: 5
 related:
   - "[[content/reviews/own/Квас тарас flower power|Квас тарас flower power]]"
   - "[[Cola default|Кола звичайна]]"
-createdAt: 2025-01-17
-caffeine: 0
-alco: 0
+tags:
 ---
 **Fanta Shokata Zero Sugar**
 

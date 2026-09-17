@@ -1,39 +1,39 @@
 ---
+aliases:
+  - Power taurine energy pomme
+summary:
 status: published
-tags:
-  - package/crown
-  - country/france
 externalUrl: https://t.me/kallection/35113
+publishedAt: 2026-03-14
+updatedAt: 2026-06-02
+createdAt: 2025-02-21
+cover: "[[IMG_9563.jpeg]]"
+types:
+  - energy
 brand: power taurine
 taste:
   - apple
-publishedAt: 2026-03-14
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - sucralose
   - inositol
-cover: "[[IMG_9563.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
-volume:
-  - "0.5"
-caffeine: 21
+container:
+  - can
 primaryColors:
   - green
 manufacturer: OGEU
-updatedAt: 2026-06-02
-aliases:
-  - Power taurine energy pomme
-types:
-  - energy
-createdAt: 2025-02-21
-old_related: true
+volume:
+  - "0.5"
+caffeine: 21
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+old_related: true
+tags:
+  - package/crown
+  - country/france
 ---
 **Power taurine energy pomme**. Офіційний смак - яблуко
 

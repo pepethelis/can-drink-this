@@ -1,19 +1,19 @@
 ---
-author: decepti_on
 aliases:
   - Jett green
-publishedAt: 2025-10-03
+summary: Ранковий огляд на ноунейм енергетик з тайстри
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33687
+publishedAt: 2025-10-03
+cover:
+types:
+  - energy
 brand: jett
+taste:
 container:
   - can
 volume:
-summary: Ранковий огляд на ноунейм енергетик з тайстри
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33687
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33687
   - https://t.me/sonechkin_rzekich/33688

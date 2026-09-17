@@ -1,21 +1,21 @@
 ---
-author: decepti_on
 aliases:
   - Monster lando norris
-publishedAt: 2026-07-15
+summary:
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/34042
+publishedAt: 2026-07-15
+cover:
+types:
+  - energy
 brand: monster/racing
+taste:
 container:
   - can
 volume:
-summary:
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/34042
-contentTgPosts:
-  - https://t.me/sonechkin_rzekich/34042
 caffeine: 32
 alco: 0
+author: decepti_on
+contentTgPosts:
+  - https://t.me/sonechkin_rzekich/34042
 ---

@@ -1,33 +1,33 @@
 ---
+aliases:
+  - King’s bridge gin&cherry
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/27319
+publishedAt: 2025-03-27
+createdAt: 2025-03-27
+cover: "[[IMG_4608.jpg]]"
+types:
+  - alco
 brand: king's bridge
 taste:
   - gin
   - cherry
-container:
-  - can
-publishedAt: 2025-03-27
-cover: "[[IMG_4608.jpg]]"
 sweeteners:
   - sugar
   - juice
-availability: 4
-volume:
-  - "0.5"
-alco: 7
-caffeine: 0
+container:
+  - can
 primaryColors:
   - violet
 manufacturer: new products
-aliases:
-  - King’s bridge gin&cherry
-types:
-  - alco
-createdAt: 2025-03-27
+volume:
+  - "0.5"
+caffeine: 0
+alco: 7
+availability: 4
 old_related: true
+tags:
+  - package/canpack
 ---
 **King’s bridge бордовий**. Офіційний смак - джин та вишня
 

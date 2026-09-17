@@ -1,34 +1,34 @@
 ---
-status: needs update
-tags:
-externalUrl: https://t.me/kallection/22905
-brand: solveza
-taste:
-  - mojito
-container:
-  - glass
-publishedAt: 2024-09-27
-cover: "[[IMG_8582.jpg]]"
-sweeteners:
-  - unknown
-availability: 2
-volume:
-  - "0.33"
-alco: 4.5
-primaryColors:
-  - green
-manufacturer: van pur
 aliases:
   - Solveza Mojito
+status: needs update
+externalUrl: https://t.me/kallection/22905
+publishedAt: 2024-09-27
+createdAt: 2024-09-27
+cover: "[[IMG_8582.jpg]]"
 types:
   - alco
   - radler
+brand: solveza
+taste:
+  - mojito
+sweeteners:
+  - unknown
+container:
+  - glass
+primaryColors:
+  - green
+manufacturer: van pur
+volume:
+  - "0.33"
+caffeine: 0
+alco: 4.5
+availability: 2
 related:
   - "[[Toosecco, сидр сухий]]"
   - "[[Johan Freitag gin&tonic]]"
   - "[[Shake red]]"
-createdAt: 2024-09-27
-caffeine: 0
+tags:
 ---
 Якийсь пивний напій **Solveza Mojito**. Офіційний смак - мохіто
 

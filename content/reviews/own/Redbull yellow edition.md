@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Redbull yellow edition
 status: published
-tags:
-  - package/ball
 externalUrl: https://t.me/kallection/27663
+publishedAt: 2025-04-12
+createdAt: 2025-04-12
+cover: "[[IMG_5045.jpg]]"
+types:
+  - energy
 brand: redbull/edition
 taste:
   - tropical
-container:
-  - can
-publishedAt: 2025-04-12
-cover: "[[IMG_5045.jpg]]"
 sweeteners:
   - sugar
   - glucose
-availability: 5
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - yellow
 manufacturer: redbull
-aliases:
-  - Redbull yellow edition
-types:
-  - energy
-createdAt: 2025-04-12
-old_related: true
+volume:
+  - "0.25"
+caffeine: 32
 alco: 0
+availability: 5
+old_related: true
+tags:
+  - package/ball
 ---
 **Redbull yellow edition**, тобто жовтий редбул. Офіційний смак - тропічний. В деяких країнах це його офіційна назва
 

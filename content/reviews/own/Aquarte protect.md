@@ -1,33 +1,33 @@
 ---
-status: published
 aliases:
   - Aquarte protect
+summary:
+status: published
 externalUrl: https://t.me/kallection/38651
-brand: aquarte
+publishedAt: 2026-09-05
+createdAt: 2026-08-06
+cover: "[[IMG_6137.jpeg]]"
 types:
   - water
+brand: aquarte
 taste:
   - acerola
   - orange
-publishedAt: 2026-09-05
-favorite:
-container:
-  - plastic
 sweeteners:
   - fructose
   - extract/acerola
-cover: "[[IMG_6137.jpeg]]"
-availability: 3.5
-summary:
+container:
+  - plastic
 primaryColors:
   - orange
   - white
 manufacturer: vitmark
-caffeine: 0
 volume:
   - "0.5"
+caffeine: 0
 alco: 0
-createdAt: 2026-08-06
+availability: 3.5
+favorite:
 ---
 **Aquarte protect**. Офіційний смак - ацерола та апельсин
 

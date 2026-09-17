@@ -1,31 +1,31 @@
 ---
+aliases:
+  - Aquarte energy
 status: published
-tags:
 externalUrl: https://t.me/kallection/24503
+publishedAt: 2024-11-29
+createdAt: 2024-11-07
+cover: "[[IMG_0289.jpg]]"
+types:
+  - water
 brand: aquarte
 taste:
   - pomegranate
   - hibiscus
   - guarana
-container:
-  - plastic
-publishedAt: 2024-11-29
-cover: "[[IMG_0289.jpg]]"
 sweeteners:
   - fructose
-availability: 3
-volume:
-  - "0.5"
+container:
+  - plastic
 primaryColors:
   - orange
 manufacturer: vitmark
-aliases:
-  - Aquarte energy
-types:
-  - water
-createdAt: 2024-11-07
-alco: 0
+volume:
+  - "0.5"
 caffeine: 0
+alco: 0
+availability: 3
+tags:
 ---
 Вода **Aquarte energy**. Офіційний смак - гуарана-гібіскус-гранат
 

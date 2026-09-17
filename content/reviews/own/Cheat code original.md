@@ -1,29 +1,29 @@
 ---
-status: prebuild
 aliases:
   - Cheat code original
+summary:
+status: prebuild
 externalUrl:
-brand: cheat code
+publishedAt:
+cover: "[[default.png]]"
 types:
   - energy
+brand: cheat code
 taste:
-publishedAt:
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[default.png]]"
-availability:
-summary:
 primaryColors:
   - white
   - silver
   - blue
 manufacturer:
-caffeine:
 volume:
   - "0.5"
+caffeine:
 alco: 0
+availability:
+favorite:
 ---
 **Cheat code original**. Офіційний смак - ==СМАК==
 

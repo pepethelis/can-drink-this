@@ -1,32 +1,31 @@
 ---
-
+aliases:
+  - Hell Chillin' Guanabana-mango
 status: published
-tags:
-  - package/quality
 externalUrl: https://t.me/kallection/30924
+publishedAt: 2025-08-16
+createdAt: 2025-08-16
+cover: "[[IMG_1230.jpg]]"
+types:
+  - energy
 brand: hell/summer
 taste:
   - guanabana
   - soursop
-container:
-  - can
-publishedAt: 2025-08-16
-cover: "[[IMG_1230.jpg]]"
 sweeteners:
   - sugar
   - inositol
-availability: 4
+container:
+  - can
+manufacturer: hell energy
 volume:
   - "0.25"
 caffeine: 32
 alco: 0
-manufacturer: hell energy
-aliases:
-  - Hell Chillin' Guanabana-mango
-types:
-  - energy
-createdAt: 2025-08-16
+availability: 4
 old_related: true
+tags:
+  - package/quality
 ---
 **Hell Chillin' Guanabana-mango**, більш блакитний з двох hell summer
 

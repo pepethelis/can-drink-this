@@ -1,25 +1,25 @@
 ---
-author: sanb_s
 aliases:
   - Cult bubble gum
-publishedAt: 2025-10-05
+summary: Загалом скажу, що це краще і збалансованіше ніж усі фруктові монстри. Є ще різні банки, сподіваюсь, вони такі ж кайфові будуть
 status: published
+externalUrl: https://t.me/ukr_satan/6641
+publishedAt: 2025-10-05
+cover:
+types:
+  - energy
 brand: cult
+taste:
+  - bubblegum
 container:
   - can
 volume:
   - "0.5"
-summary: Загалом скажу, що це краще і збалансованіше ніж усі фруктові монстри. Є ще різні банки, сподіваюсь, вони такі ж кайфові будуть
-taste:
-  - bubblegum
-types:
-  - energy
-cover:
-externalUrl: https://t.me/ukr_satan/6641
-contentTgPosts:
-  - https://t.me/ukr_satan/6641
 caffeine: 32
 alco: 0
+author: sanb_s
+contentTgPosts:
+  - https://t.me/ukr_satan/6641
 ---
 Литовське #енергохарчування CULT Buble gum energy  
   

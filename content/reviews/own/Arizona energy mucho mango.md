@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Arizona energy mucho mango
+summary:
 status: published
-tags:
-  - package/ball
 externalUrl: https://t.me/kallection/33537
+publishedAt: 2025-12-16
+updatedAt: 2026-06-02
+createdAt: 2025-11-22
+cover: "[[IMG_5059.jpeg]]"
+types:
+  - energy
+  - tea
 brand: arizona/energy
 taste:
   - mango
-publishedAt: 2025-12-16
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - juice/pear
   - juice/lemon
-cover: "[[IMG_5059.jpeg]]"
-availability: 3
-summary:
-sponsor:
-  - ritual_huitual
+container:
+  - can
+manufacturer: Arizona Europe Cooperatief
 volume:
   - "0.5"
 caffeine: 15
-manufacturer: Arizona Europe Cooperatief
-updatedAt: 2026-06-02
-aliases:
-  - Arizona energy mucho mango
-types:
-  - energy
-  - tea
-createdAt: 2025-11-22
-old_related: true
 alco: 0
+sponsor:
+  - ritual_huitual
+availability: 3
+favorite:
+old_related: true
+tags:
+  - package/ball
 ---
 Чай-енергос **Arizona energy mucho mango**. Офіційний смак - манго
 

@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Redbull classic
+  - Редбул класичний
 status: published
-tags:
-  - package/ball
 externalUrl: https://t.me/kallection/37186
+publishedAt: 2026-07-07
+createdAt: 2026-05-26
+cover: "[[IMG_9645.jpg]]"
+types:
+  - energy
 brand: redbull
 taste:
   - CLASSIC
-container:
-  - can
-publishedAt: 2026-07-07
-cover: "[[IMG_9645.jpg]]"
 sweeteners:
   - sugar
   - glucose
-availability: 5
-related:
-volume:
-  - "0.355"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - blue
   - silver
 manufacturer: redbull
-aliases:
-  - Redbull classic
-  - Редбул класичний
-types:
-  - energy
-telegram_format: html
-createdAt: 2026-05-26
+volume:
+  - "0.355"
+caffeine: 32
 alco: 0
+availability: 5
+related:
+tags:
+  - package/ball
+telegram_format: html
 ---
 **Redbull classic**. Офіційний смак не вказано, але ми розуміємо, що класичний
 

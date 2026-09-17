@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Hell classic
+  - Хелл червоний
 status: published
-tags:
-  - package/quality
 externalUrl: https://t.me/kallection/26789
+publishedAt: 2025-03-07
+createdAt: 2025-03-07
+cover: "[[IMG_3777.jpg]]"
+types:
+  - energy
 brand: hell
 taste:
   - CLASSIC
   - tutti-frutti
-container:
-  - can
-publishedAt: 2025-03-07
-cover: "[[IMG_3777.jpg]]"
 sweeteners:
   - sugar
-availability: 5
+container:
+  - can
+primaryColors:
+  - red
+  - black
+manufacturer: hell energy
 volume:
   - "0.5"
   - "0.25"
 caffeine: 30
 alco: 0
-primaryColors:
-  - red
-  - black
-manufacturer: hell energy
-aliases:
-  - Hell classic
-  - Хелл червоний
-types:
-  - energy
-createdAt: 2025-03-07
+availability: 5
 old_related: true
+tags:
+  - package/quality
 ---
 **Hell classic**, тобто дефолтний хелл
 

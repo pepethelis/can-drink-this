@@ -1,22 +1,22 @@
 ---
-author: sanb_s
 aliases:
   - Geyser forest drop
-publishedAt: 2025-03-22
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4963
+publishedAt: 2025-03-22
+cover: "[[photo_2025-03-22_19-51-34.jpg]]"
+types:
+  - energy
 brand: gayser
+taste:
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-03-22_19-51-34.jpg]]"
-externalUrl: https://t.me/ukr_satan/4963
 caffeine: 32
 alco: 0
+author: sanb_s
 ---
 Раптовий огляд на #енергохарчування GAYser forest drop🌲  
 

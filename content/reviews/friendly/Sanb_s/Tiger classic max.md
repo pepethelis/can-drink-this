@@ -1,23 +1,23 @@
 ---
-author: sanb_s
 aliases:
   - Tiger classic max
-publishedAt: 2025-03-17
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4894
+publishedAt: 2025-03-17
+cover: "[[photo_2025-03-17_20-36-04.jpg]]"
+types:
+  - energy
 brand: tiger
+taste:
+  - CLASSIC
 container:
   - can
 volume:
   - "0.25"
-summary:
-taste:
-  - CLASSIC
-types:
-  - energy
-cover: "[[photo_2025-03-17_20-36-04.jpg]]"
-externalUrl: https://t.me/ukr_satan/4894
 caffeine: 48
 alco: 0
+author: sanb_s
 ---
 Зацініть які в Польщі тигри водяться. Думали їх там немає, а вони є  
 

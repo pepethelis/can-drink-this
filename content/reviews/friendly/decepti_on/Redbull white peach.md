@@ -1,23 +1,23 @@
 ---
-author: decepti_on
 aliases:
   - Redbull white peach
-publishedAt: 2026-03-07
+summary: Огляд на пікмі редбулл білий персик 🥺
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33921
+publishedAt: 2026-03-07
+cover:
+types:
+  - energy
 brand: redbull/edition
+taste:
 container:
   - can
 volume:
   - "0.25"
-summary: Огляд на пікмі редбулл білий персик 🥺
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33921
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33919
   - https://t.me/sonechkin_rzekich/33920
-alco: 0
 ---
 Огляд на пікмі редбулл білий персик 🥺

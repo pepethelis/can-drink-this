@@ -1,37 +1,36 @@
 ---
-alco: 0
-
+aliases:
+  - Pitbull silver
+  - Пітбуль сірий
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/32249
+publishedAt: 2025-02-19
+createdAt: 2025-02-19
+cover: "[[IMG_3428.jpg]]"
+types:
+  - energy
 brand: pitbull
 taste:
   - ORIGINAL
+sweeteners:
+  - sugar
 container:
   - can
   - plastic
-publishedAt: 2025-02-19
-cover: "[[IMG_3428.jpg]]"
-sweeteners:
-  - sugar
-availability: 4
+primaryColors:
+  - silver
+  - black
+manufacturer: new products
 volume:
   - "0.25"
   - "0.5"
   - "1"
 caffeine: 32
-primaryColors:
-  - silver
-  - black
-manufacturer: new products
-aliases:
-  - Pitbull silver
-  - Пітбуль сірий
-types:
-  - energy
-createdAt: 2025-02-19
+alco: 0
+availability: 4
 old_related: true
+tags:
+  - package/canpack
 ---
 **Pitbull silver**. Офіційний смак не вказано
 

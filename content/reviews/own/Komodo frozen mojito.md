@@ -1,40 +1,40 @@
 ---
+aliases:
+  - Komodo frozen mojito
+summary:
 status: published
-tags:
-  - country/poland
-  - package/amp
 externalUrl: https://t.me/kallection/36909
+publishedAt: 2026-06-25
+createdAt: 2026-06-12
+cover: "[[IMG_3248.jpeg]]"
+types:
+  - energy
 brand: komodo
 taste:
   - mojito/frozen
-publishedAt: 2026-06-25
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - extract/ginseng root
   - inositol
-cover: "[[IMG_3248.jpeg]]"
-availability: 3
-summary:
-volume:
-  - "0.25"
-caffeine: 32
-sponsor:
-  - ritual_huitual
-manufacturer: KED Krasnodębski Sp. K
+container:
+  - can
 primaryColors:
   - blue
   - white
+manufacturer: KED Krasnodębski Sp. K
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+sponsor:
+  - ritual_huitual
+availability: 3
+favorite:
 related:
   - "[[content/reviews/own/Hell Spritz Lime|Hell Spritz Lime]]"
-aliases:
-  - Komodo frozen mojito
-types:
-  - energy
-createdAt: 2026-06-12
-alco: 0
+tags:
+  - country/poland
+  - package/amp
 ---
 **Komodo frozen mojito**. Офіційний смак - мохіто
 

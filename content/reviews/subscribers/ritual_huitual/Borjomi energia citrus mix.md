@@ -1,33 +1,33 @@
 ---
 author: ritual_huitual
-types:
-  - energy
 aliases:
   - Borjomi energia citrus mix
-container:
-  - can
-volume:
-  - "0.24"
 status: published
+externalUrl: https://t.me/kallection/38271
 publishedAt: 2026-08-22
+createdAt: 2026-08-19
+cover: "[[photo_2026-08-19_18-55-01.jpg]]"
+types:
+  - energy
 brand: borjomi/energia
 taste:
   - citrus
-cover: "[[photo_2026-08-19_18-55-01.jpg]]"
+container:
+  - can
+primaryColors:
+  - orange
+  - blue
+  - white
+volume:
+  - "0.24"
+caffeine: 30
+alco: 0
 related:
   - "[[Воля червона]]"
   - "[[content/reviews/own/Воля жовта|Воля жовта]]"
   - "[[Воля зелена|Воля зелена]]"
   - "[[Воля рожева|Воля рожева]]"
   - "[[content/reviews/own/Воля синя|Воля синя]]"
-primaryColors:
-  - orange
-  - blue
-  - white
-createdAt: 2026-08-19
-caffeine: 30
-externalUrl: https://t.me/kallection/38271
-alco: 0
 ---
 Citrus Mix Energia by Borjomi
 

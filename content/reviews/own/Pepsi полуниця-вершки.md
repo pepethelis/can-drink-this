@@ -1,35 +1,35 @@
 ---
-status: to create
 aliases:
   - Pepsi полуниця-вершки
+summary:
+status: to create
 externalUrl:
-brand: pepsi
+publishedAt:
+createdAt:
+cover: "[[default.png]]"
 types:
   - fizzy
+brand: pepsi
 taste:
   - strawberry
   - cream
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - aspartame
   - acesulfame
   - sucralose
-cover: "[[default.png]]"
-availability: 4
-summary:
+container:
+  - can
 primaryColors:
   - red
   - pink
   - creme
 manufacturer: Quadrant amroq baverages SRL
-caffeine: 0
 volume:
   - "0.33"
+caffeine: 0
 alco: 0
-createdAt:
+availability: 4
+favorite:
 ---
 **Pepsi полуниця-вершки**. Офіційний смак - власне полуниця-вершки
 

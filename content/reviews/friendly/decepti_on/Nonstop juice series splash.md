@@ -1,23 +1,23 @@
 ---
-author: decepti_on
 aliases:
   - Nonstop juice series splash
-publishedAt: 2026-03-02
+summary: Огляд на енергетик нонстоп мультифруктовий сік
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33912
+publishedAt: 2026-03-02
+cover:
+types:
+  - energy
 brand: nonstop/juice
+taste:
 container:
   - can
 volume:
-summary: Огляд на енергетик нонстоп мультифруктовий сік
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33912
+caffeine: 32
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33910
   - https://t.me/sonechkin_rzekich/33911
-caffeine: 32
-alco: 0
 ---
 Огляд на енергетик нонстоп мультифруктовий сік

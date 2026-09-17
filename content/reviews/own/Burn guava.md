@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Burn guava
+  - Бьорн гуава
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/27096
+publishedAt: 2025-03-19
+createdAt: 2025-03-19
+cover: "[[IMG_9094.jpg]]"
+types:
+  - energy
 brand: burn
 taste:
   - guava
-container:
-  - can
-publishedAt: 2025-03-19
-cover: "[[IMG_9094.jpg]]"
 sweeteners:
   - sugar
   - inositol
-availability: 4
-volume:
-  - "0.25"
-caffeine: 31
-alco: 0
+container:
+  - can
 primaryColors:
   - yellow
   - black
 manufacturer: energy beverages
-aliases:
-  - Burn guava
-  - Бьорн гуава
-types:
-  - energy
-createdAt: 2025-03-19
+volume:
+  - "0.25"
+caffeine: 31
+alco: 0
+availability: 4
 old_related: true
+tags:
+  - package/canpack
 ---
 **Burn guava**, або ж ще один бьорн жовтий
 

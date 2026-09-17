@@ -1,39 +1,39 @@
 ---
+aliases:
+  - Redbull winter edition
+summary:
 status: to create
-tags:
-  - package/ball
-  - country/germany
 externalUrl:
+publishedAt:
+cover: "[[default.png]]"
+types:
+  - energy
 brand: redbull/edition
 taste:
   - apple/fuji
   - ginger
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - glucose
-cover: "[[default.png]]"
-availability: 2
-summary:
-related:
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - red
   - yellow
 manufacturer: redbull
-aliases:
-  - Redbull winter edition
-types:
-  - energy
-old_related: true
+volume:
+  - "0.25"
+caffeine: 32
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+related:
+old_related: true
+tags:
+  - package/ball
+  - country/germany
 ---
 **Redbull winter edition**. Офіційний смак - яблуко фуджі і імбир
 

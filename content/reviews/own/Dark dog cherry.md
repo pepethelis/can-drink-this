@@ -1,40 +1,40 @@
 ---
+aliases:
+  - Dark dog cherry
+summary:
 status: published
-tags:
-  - package/canpack
-  - country/france
 externalUrl: https://t.me/kallection/35105
+publishedAt: 2026-03-14
+updatedAt: 2026-06-02
+createdAt: 2026-02-16
+cover: "[[IMG_9448.jpeg]]"
+types:
+  - energy
 brand: dark dog
 taste:
   - cherry
-publishedAt: 2026-03-14
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - sugar syrup
   - extract/guarana
-cover: "[[IMG_9448.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - red
   - golden
 manufacturer: Brasserie Licorne
-updatedAt: 2026-06-02
-aliases:
-  - Dark dog cherry
-types:
-  - energy
-createdAt: 2026-02-16
-old_related: true
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+old_related: true
+tags:
+  - package/canpack
+  - country/france
 ---
 **Dark dog cherry**. Офіційний смак - вишня
 

@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Hell multi+
 status: published
-tags:
-  - package/quality
 externalUrl: https://t.me/kallection/29091
+publishedAt: 2025-06-05
+createdAt: 2025-06-05
+cover: "[[IMG_7183.jpg]]"
+types:
+  - energy
 brand: hell/plus
 taste:
   - tropical
   - juice
-container:
-  - can
-publishedAt: 2025-06-05
-cover: "[[IMG_7183.jpg]]"
 sweeteners:
   - sugar
-availability: 4
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - orange
   - gray
 manufacturer: hell energy
-aliases:
-  - Hell multi+
-types:
-  - energy
-createdAt: 2025-06-05
+volume:
+  - "0.25"
+caffeine: 32
 alco: 0
+availability: 4
+tags:
+  - package/quality
 ---
 **Hell multi+**. Офіційний смак - фруктове асорті
 

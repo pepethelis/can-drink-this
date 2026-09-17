@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Effect grape mint
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/30006
+publishedAt: 2025-07-06
+createdAt: 2025-07-06
+cover: "[[IMG_8587.jpg]]"
+types:
+  - energy
 brand: effect
 taste:
   - grape
   - mint
-container:
-  - can
-publishedAt: 2025-07-06
-cover: "[[IMG_8587.jpg]]"
 sweeteners:
   - sugar
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.33"
-caffeine: 32
-alco: 0
+container:
+  - can
 primaryColors:
   - violet
   - blue
 manufacturer: NGS beverages
-aliases:
-  - Effect grape mint
-types:
-  - energy
-createdAt: 2025-07-06
+volume:
+  - "0.33"
+caffeine: 32
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
 favorite: true
 old_related: true
+tags:
+  - package/bagpak
 ---
 **Effect блактитно-фіолетовий**, лімітка. Офіційний смак - виноград-мʼята
 

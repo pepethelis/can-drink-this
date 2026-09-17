@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Redbull lilac edition zero
+summary:
 status: prebuild
-tags:
-  - package/ball
 externalUrl:
+publishedAt:
+cover: "[[default.png]]"
+types:
+  - energy
 brand: redbull/edition
 taste:
-publishedAt:
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[default.png]]"
-availability:
-summary:
 primaryColors:
   - violet
 manufacturer: redbull
-caffeine: 32
-sponsor:
-  - makmed1337
 volume:
   - "0.25"
-aliases:
-  - Redbull lilac edition zero
-types:
-  - energy
-old_related: true
+caffeine: 32
 alco: 0
+sponsor:
+  - makmed1337
+availability:
+favorite:
+old_related: true
+tags:
+  - package/ball
 ---
 **Redbull lilac edition zero**. Офіційний смак - ==СМАК==
 

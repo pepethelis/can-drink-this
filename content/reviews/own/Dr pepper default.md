@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Dr pepper default
 status: published
-tags:
-  - package/amp
 externalUrl: https://t.me/kallection/30575
+publishedAt: 2025-08-02
+createdAt: 2025-06-20
+cover: "[[IMG_8191.jpg]]"
+types:
+  - fizzy
 brand: dr pepper
 taste:
   - ORIGINAL
-container:
-  - can
-publishedAt: 2025-08-02
-cover: "[[IMG_8191.jpg]]"
 sweeteners:
   - sugar
   - sucralose
   - acesulfame
-availability: 4
-sponsor:
-volume:
-  - "0.33"
+container:
+  - can
 primaryColors:
   - red
 manufacturer: coca cola
-aliases:
-  - Dr pepper default
-types:
-  - fizzy
-createdAt: 2025-06-20
-old_related: true
+volume:
+  - "0.33"
 caffeine: 0
 alco: 0
+sponsor:
+availability: 4
+old_related: true
+tags:
+  - package/amp
 ---
 **Dr pepper дефолтний**. Офіційний смак не вказано
 

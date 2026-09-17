@@ -1,38 +1,38 @@
 ---
+aliases:
+  - Monster ultra violet
+summary:
 status: published
-tags:
-  - package/canpack
-  - country/poland
 externalUrl: https://t.me/kallection/37954
+publishedAt: 2026-08-08
+createdAt: 2026-07-09
+cover: "[[IMG_1127.jpeg]]"
+types:
+  - energy
 brand: monster/ultra
 taste:
   - citrus
   - grape
-publishedAt: 2026-08-08
-favorite: true
-container:
-  - can
 sweeteners:
   - erythritol
   - sucralose
   - acesulfame
   - inositol
   - juice
-cover: "[[IMG_1127.jpeg]]"
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - violet
 manufacturer: monster energy limited
-caffeine: 30
 volume:
   - "0.5"
-aliases:
-  - Monster ultra violet
-types:
-  - energy
-createdAt: 2026-07-09
+caffeine: 30
 alco: 0
+availability: 3
+favorite: true
+tags:
+  - package/canpack
+  - country/poland
 ---
 **Monster ultra violet**. Офіційний смак на банці не вказано, але на сайті - "Light Citrus and Grape". Так черговий цитрусовий монстр
 

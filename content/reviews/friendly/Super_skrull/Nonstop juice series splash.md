@@ -1,21 +1,21 @@
 ---
-author: super_skrull
 aliases:
   - Nonstop juice series splash
-publishedAt: 2026-02-26
+summary:
 status: published
+publishedAt: 2026-02-26
+cover: "[[photo_2026-02-26_14-57-35.jpg]]"
+types:
+  - energy
 brand: nonstop/juice
+taste:
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2026-02-26_14-57-35.jpg]]"
 caffeine: 32
 alco: 0
+author: super_skrull
 ---
 **NON STOP SPLASH JUICE SERIES**   
 

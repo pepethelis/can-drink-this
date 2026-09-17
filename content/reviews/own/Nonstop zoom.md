@@ -1,37 +1,36 @@
 ---
-alco: 0
-
-status: published
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/30452
-brand: nonstop
-taste:
-  - watermelon
-favorite: true
-container:
-  - can
-publishedAt: 2025-07-26
-cover: "[[IMG_1154.jpg]]"
-sweeteners:
-  - sugar
-availability: 5
-volume:
-  - "0.5"
-  - "0.25"
-caffeine: 32
-primaryColors:
-  - green
-  - pink
-manufacturer: new products
 aliases:
   - Nonstop zoom
   - Нонстоп зум
   - Нонстоп кавунячий
+status: published
+externalUrl: https://t.me/kallection/30452
+publishedAt: 2025-07-26
+createdAt: 2025-07-22
+cover: "[[IMG_1154.jpg]]"
 types:
   - energy
-createdAt: 2025-07-22
+brand: nonstop
+taste:
+  - watermelon
+sweeteners:
+  - sugar
+container:
+  - can
+primaryColors:
+  - green
+  - pink
+manufacturer: new products
+volume:
+  - "0.5"
+  - "0.25"
+caffeine: 32
+alco: 0
+availability: 5
+favorite: true
 old_related: true
+tags:
+  - package/canpack
 ---
 **Nonstop zoom**, тобто типу кавунячий нонстоп, тобто [[content/reviews/own/Nonstop stalker orange|перший сталкер]], той що ніби кавунячний, але у новій ємності. Смак на банці не вказаний, але у всіх промо сказано, що це саме кавун
 

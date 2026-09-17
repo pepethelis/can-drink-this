@@ -1,22 +1,22 @@
 ---
-author: super_skrull
 aliases:
   - Monster ultra rosa
-publishedAt: 2025-03-09
+summary: "Flavour Profile: Bright and Sweet"
 status: published
+externalUrl: https://t.me/super_skrulling/808
+publishedAt: 2025-03-09
+cover: "[[photo_2025-03-09_09-11-55.jpg]]"
+types:
+  - energy
 brand: monster/ultra
+taste:
+  - ORIGINAL
 container:
   - can
 volume:
   - "0.5"
-summary: "Flavour Profile: Bright and Sweet"
-taste:
-  - ORIGINAL
-types:
-  - energy
-cover: "[[photo_2025-03-09_09-11-55.jpg]]"
-externalUrl: https://t.me/super_skrulling/808
 alco: 0
+author: super_skrull
 ---
 **M∅NSTER ENERGY ULTRA ROSÁ**
 

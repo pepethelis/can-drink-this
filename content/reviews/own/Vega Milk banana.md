@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Vega Milk banana
 status: published
-tags:
 externalUrl: https://t.me/kallection/32373
+publishedAt: 2025-10-21
+updatedAt: 2026-06-02
+createdAt: 2025-10-12
+cover: "[[IMG_3457.jpg]]"
+types:
+  - plant-based
 brand: vega milk
 taste:
   - banana
   - oat
-publishedAt: 2025-10-21
-favorite:
-container:
-  - tetrapak
 sweeteners:
   - extract/stevia
-availability: 4
-cover: "[[IMG_3457.jpg]]"
-volume:
-  - "0.25"
+container:
+  - tetrapak
 primaryColors:
   - pink
   - white
 manufacturer: vitmark
-updatedAt: 2026-06-02
-aliases:
-  - Vega Milk banana
-types:
-  - plant-based
-createdAt: 2025-10-12
-alco: 0
+volume:
+  - "0.25"
 caffeine: 0
+alco: 0
+availability: 4
+favorite:
+tags:
 ---
 Плент-бейзд дрінк **Vega Milk banana with oat**. Офіційний смак - банан
 

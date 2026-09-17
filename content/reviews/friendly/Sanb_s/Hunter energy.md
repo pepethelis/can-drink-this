@@ -1,20 +1,20 @@
 ---
-author: sanb_s
 aliases:
   - Hunter energy
-publishedAt: 2025-10-30
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4364
+publishedAt: 2025-10-30
+cover: "[[photo_2025-10-30_14-13-24.jpg]]"
+types:
+  - energy
 brand:
+taste:
 container:
   - plastic
 volume:
   - "0.5"
-summary:
-taste:
-cover: "[[photo_2025-10-30_14-13-24.jpg]]"
-types:
-  - energy
-externalUrl: https://t.me/ukr_satan/4364
+author: sanb_s
 ---
 Так, ну що я можу сказати про HUNTER ENERGY  
 

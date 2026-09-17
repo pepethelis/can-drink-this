@@ -1,16 +1,17 @@
 ---
+aliases:
+  - Monster ultra peachy keen
+summary:
 status: published
-tags:
-  - country/poland
-  - package/canpack
 externalUrl: https://t.me/kallection/37510
+publishedAt: 2026-07-19
+createdAt: 2026-05-30
+cover: "[[IMG_2714.jpeg]]"
+types:
+  - energy
 brand: monster/ultra
 taste:
   - peach
-publishedAt: 2026-07-19
-favorite:
-container:
-  - can
 sweeteners:
   - maltodextrin
   - extract/ginseng root
@@ -18,22 +19,21 @@ sweeteners:
   - acesulfame
   - extract/guarana
   - inositol
-cover: "[[IMG_2714.jpeg]]"
-availability: 3
-summary:
-related:
-caffeine: 30
-volume:
-  - "0.5"
+container:
+  - can
 primaryColors:
   - peach
 manufacturer: monster energy limited
-aliases:
-  - Monster ultra peachy keen
-types:
-  - energy
-createdAt: 2026-05-30
+volume:
+  - "0.5"
+caffeine: 30
 alco: 0
+availability: 3
+favorite:
+related:
+tags:
+  - country/poland
+  - package/canpack
 ---
 **Monster ultra peachy keen**. Офіційний смак - персиковий, а згідно з сайтом - Refreshing Peach
 

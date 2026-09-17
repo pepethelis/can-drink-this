@@ -1,40 +1,39 @@
 ---
-
-status: to create
-tags:
-externalUrl:
-brand: revo
-taste:
-  - coconut
-publishedAt:
-favorite:
-container:
-  - can
-sweeteners:
-  - sugar
-  - coconut water
-  - extract/guarana
-  - extract/damiana
-cover: "[[IMG_5011.jpeg]]"
-availability: 4
-summary:
-primaryColors:
-  - blue
-  - black
-manufacturer: new products
-caffeine: 30
-volume:
-  - "0.5"
-alco: 8.5
 aliases:
   - Revo kokos
   - Revo blue
   - Рево синє
   - Рево блакитне
+summary:
+status: to create
+externalUrl:
+publishedAt:
+createdAt: 2026-07-12
+cover: "[[IMG_5011.jpeg]]"
 types:
   - alco
   - energy
-createdAt: 2026-07-12
+brand: revo
+taste:
+  - coconut
+sweeteners:
+  - sugar
+  - coconut water
+  - extract/guarana
+  - extract/damiana
+container:
+  - can
+primaryColors:
+  - blue
+  - black
+manufacturer: new products
+volume:
+  - "0.5"
+caffeine: 30
+alco: 8.5
+availability: 4
+favorite:
+tags:
 ---
 **Revo kokos**, блакитне. Офіційний смак - кокос
 

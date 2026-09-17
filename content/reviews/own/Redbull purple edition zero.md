@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Redbull purple edition zero
+summary:
 status: prebuild
-tags:
-  - package/ball
 externalUrl:
+publishedAt:
+cover: "[[default.png]]"
+types:
+  - energy
 brand: redbull/edition
 taste:
-publishedAt:
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[default.png]]"
-availability:
-summary:
 primaryColors:
   - purple
 manufacturer: redbull
+volume:
+  - "0.25"
 caffeine: 32
 alco: 0
 sponsor:
   - makmed1337
-volume:
-  - "0.25"
-aliases:
-  - Redbull purple edition zero
-types:
-  - energy
+availability:
+favorite:
 old_related: true
+tags:
+  - package/ball
 ---
 **Redbull purple edition zero**. Офіційний смак - ==СМАК==
 

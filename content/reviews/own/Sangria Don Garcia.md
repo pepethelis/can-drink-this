@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Sangria Don Garcia
+  - Don Garcia Сангрія
 status: published
-tags:
 externalUrl: https://t.me/kallection/22579
+publishedAt: 2024-09-14
+createdAt: 2024-09-04
+cover: "[[IMG_7882.jpg]]"
+types:
+  - alco
 brand: sangria
 taste:
   - wine
-container:
-  - plastic
-publishedAt: 2024-09-14
-cover: "[[IMG_7882.jpg]]"
 sweeteners:
   - sugar
   - extract
-availability: 3
-volume:
-  - "1.5"
-alco: 7
-caffeine: 0
+container:
+  - plastic
 primaryColors:
   - red
   - black
 manufacturer:
-aliases:
-  - Sangria Don Garcia
-  - Don Garcia Сангрія
-types:
-  - alco
-createdAt: 2024-09-04
+volume:
+  - "1.5"
+caffeine: 0
+alco: 7
+availability: 3
+tags:
 ---
 **Напій на основі вина 1,5 л Don Garcia Сангрія червоний ароматизований 7% об ПЕТ Іспанія**
 

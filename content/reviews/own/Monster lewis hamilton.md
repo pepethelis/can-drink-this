@@ -1,42 +1,42 @@
 ---
-status: published
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/37826
 aliases:
   - Monster lewis hamilton
   - Monster full throttle
   - Monster top speed
+status: published
+externalUrl: https://t.me/kallection/37826
+publishedAt: 2026-08-01
+createdAt: 2026-07-04
+cover: "[[IMG_9830.jpg]]"
+types:
+  - energy
 brand: monster/racing
 taste:
   - peach
   - nectarine
-container:
-  - can
-publishedAt: 2026-08-01
-cover: "[[IMG_9830.jpg]]"
 sweeteners:
   - sugar
   - glucose syrup
   - sucralose
   - erythritol
-availability: 3
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - blue
   - yellow
   - green
 manufacturer: monster energy limited
+volume:
+  - "0.5"
+caffeine: 32
+alco: 0
 sponsor:
   - gdgood
   - verfolomei
+availability: 3
 favorite: false
-types:
-  - energy
-createdAt: 2026-07-04
-alco: 0
+tags:
+  - package/canpack
 ---
 **Monster Lewis Hamilton**, пізніше став відомим як **Monster full throttle** або **Monster top speed**. Офіційний смак на банці не вказано, але на сайті "Peach and Nectarine"
 

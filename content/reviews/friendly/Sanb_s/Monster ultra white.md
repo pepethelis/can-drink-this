@@ -1,24 +1,24 @@
 ---
-author: sanb_s
 aliases:
   - Monster ultra white
-publishedAt: 2025-01-23
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4172
+publishedAt: 2025-01-23
+types:
+  - energy
 brand: monster/ultra
+taste:
+  - ORIGINAL
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - ORIGINAL
-contentTgPosts:
-  - https://t.me/ukr_satan/4172
-types:
-  - energy
-externalUrl: https://t.me/ukr_satan/4172
 caffeine: 30
 alco: 0
+author: sanb_s
+contentTgPosts:
+  - https://t.me/ukr_satan/4172
 ---
 Огляд на Мфnstr ultra zero sugar  
 

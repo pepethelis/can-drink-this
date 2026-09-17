@@ -1,30 +1,30 @@
 ---
+aliases:
+  - Buvette ice coffee апельсин
 status: needs update
-tags:
 externalUrl: https://t.me/kallection/28434
+publishedAt: 2025-05-13
+createdAt: 2025-05-13
+cover: "[[IMG_6355.jpg]]"
+types:
+  - water
 brand: buevette
 taste:
   - orange
   - coffee
-container:
-  - plastic
-publishedAt: 2025-05-13
 sweeteners:
   - sugar
   - juice
-availability: 3
-cover: "[[IMG_6355.jpg]]"
+container:
+  - plastic
+manufacturer: buvette
 volume:
   - "0.5"
-manufacturer: buvette
-aliases:
-  - Buvette ice coffee апельсин
-types:
-  - water
-createdAt: 2025-05-13
-old_related: true
 caffeine: 0
 alco: 0
+availability: 3
+old_related: true
+tags:
 ---
 **Buvette ice coffee**. Офіційний смак - **кава з соком апельсина**
 

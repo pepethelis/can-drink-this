@@ -1,40 +1,40 @@
 ---
+aliases:
+  - Bronx zero berries
+summary:
 status: published
-tags:
 externalUrl: https://t.me/kallection/37102
-brand: bronx/zero
+publishedAt: 2026-07-04
+createdAt: 2026-07-02
+cover: "[[IMG_4198.jpeg]]"
 types:
   - energy
+brand: bronx/zero
 taste:
   - berries
-publishedAt: 2026-07-04
-favorite:
-container:
-  - can
 sweeteners:
   - glucose-fructose syrup
   - sugar
   - extract/guarana
   - extract/damiana
-cover: "[[IMG_4198.jpeg]]"
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - acid green
   - red
 manufacturer: оболонь
-caffeine: 32
 volume:
   - "0.33"
-aliases:
-  - Bronx zero berries
+caffeine: 32
+alco: 0
+availability: 3
+favorite:
 related:
   - "[[Revo energy original|Revo energy original]]"
   - "[[Revo energy cherry|Revo energy cherry]]"
   - "[[content/reviews/own/Revo energy grape|Revo energy grape]]"
+tags:
 telegram_format: html
-createdAt: 2026-07-02
-alco: 0
 ---
 **Bronx zero berries**. Офіційний смак - ягоди. Так, просто ягоди
 

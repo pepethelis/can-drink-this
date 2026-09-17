@@ -1,25 +1,25 @@
 ---
-author: decepti_on
 aliases:
   - Hell goji berry
-publishedAt: 2025-02-12
+summary: "Огляд на енергетик хелл з ягодами годжі:"
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33073
+publishedAt: 2025-02-12
+cover:
+types:
+  - energy
 brand: hell
+taste:
+  - goji berry
 container:
   - can
 volume:
   - "0.5"
-summary: "Огляд на енергетик хелл з ягодами годжі:"
-taste:
-  - goji berry
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33073
+caffeine: 30
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33071
   - https://t.me/sonechkin_rzekich/33072
-caffeine: 30
-alco: 0
 ---
 Огляд на енергетик хелл з ягодами годжі:

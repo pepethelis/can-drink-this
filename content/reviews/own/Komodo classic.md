@@ -1,36 +1,35 @@
 ---
-alco: 0
-
+aliases:
+  - Komodo classic
+summary:
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/36544
+publishedAt: 2026-06-06
+createdAt: 2026-05-26
+cover: "[[IMG_2546.jpeg]]"
+types:
+  - energy
 brand: komodo
 taste:
   - CLASSIC
-publishedAt: 2026-06-06
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_2546.jpeg]]"
-availability: 3
-summary:
-volume:
-  - "0.25"
-caffeine: 32
-sponsor:
-  - ritual_huitual
-manufacturer: KED Krasnodębski Sp. K
+container:
+  - can
 primaryColors:
   - white
   - red
-aliases:
-  - Komodo classic
-types:
-  - energy
-createdAt: 2026-05-26
+manufacturer: KED Krasnodębski Sp. K
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+sponsor:
+  - ritual_huitual
+availability: 3
+favorite:
+tags:
+  - package/bagpak
 ---
 **Komodo classic**. Офіційний смак - класичний
 

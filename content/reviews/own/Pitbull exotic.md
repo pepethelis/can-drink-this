@@ -1,36 +1,35 @@
 ---
-alco: 0
-
+aliases:
+  - Pitbull exotic
+  - Пітбуль екзотік
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/22614
+publishedAt: 2024-09-15
+createdAt: 2024-09-15
+cover: "[[IMG_8186.jpg]]"
+types:
+  - energy
 brand: pitbull
 taste:
   - tropical
   - exotic
   - apple
-container:
-  - can
-publishedAt: 2024-09-15
-cover: "[[IMG_8186.jpg]]"
 sweeteners:
   - sugar
   - juice/apple
-availability: 4
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - acid green
 manufacturer: new products
-aliases:
-  - Pitbull exotic
-  - Пітбуль екзотік
-types:
-  - energy
-createdAt: 2024-09-15
+volume:
+  - "0.5"
+caffeine: 32
+alco: 0
+availability: 4
 old_related: true
+tags:
+  - package/bagpak
 ---
 **Pitbull exotic**. Офіційний смак на банці не вказано, але на сайті "виражений смак екзотичних фруктів з нотами яблука"
 

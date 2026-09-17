@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Revo energy original
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/34428
+publishedAt: 2026-02-01
+updatedAt: 2026-06-02
+createdAt: 2025-12-13
+cover: "[[IMG_6923.jpeg]]"
+types:
+  - energy
 brand: revo/energy
 taste:
   - ORIGINAL
-publishedAt: 2026-02-01
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - extract/damiana
   - extract/guarana
-cover: "[[IMG_6923.jpeg]]"
-availability: 3
-alco: 0
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - blue
   - silver
 manufacturer: new products
-updatedAt: 2026-06-02
-aliases:
-  - Revo energy original
-types:
-  - energy
-createdAt: 2025-12-13
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+availability: 3
+favorite:
+tags:
+  - package/canpack
 ---
 **Revo energy original**. Офіційний смак на банці не вказано, але ми знаємо що там буде смак рева
 

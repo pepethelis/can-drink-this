@@ -1,25 +1,25 @@
 ---
-author: sanb_s
 aliases:
   - WOGонь
-publishedAt: 2025-02-02
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4327
+publishedAt: 2025-02-02
+cover:
+types:
+  - energy
 brand: wogонь
+taste:
+  - CLASSIC
 container:
   - can
 volume:
   - "0.33"
-summary:
-taste:
-  - CLASSIC
-types:
-  - energy
-cover:
-externalUrl: https://t.me/ukr_satan/4327
-contentTgPosts:
-  - https://t.me/ukr_satan/4327
 caffeine: 32
 alco: 0
+author: sanb_s
+contentTgPosts:
+  - https://t.me/ukr_satan/4327
 ---
 #енергохарчування WOGонь 0,33🔥  
 

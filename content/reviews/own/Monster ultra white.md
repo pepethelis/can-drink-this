@@ -1,34 +1,33 @@
 ---
-alco: 0
-
-status: published
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/32120
-brand: monster/ultra
-taste:
-  - ORIGINAL
-container:
-  - can
-publishedAt: 2025-10-12
-cover: "[[IMG_2624.jpg]]"
-sweeteners:
-  - sucralose
-  - acesulfame
-availability: 5
-volume:
-  - "0.5"
-caffeine: 30
-primaryColors:
-  - white
-manufacturer: monster energy limited
 aliases:
   - Monster ultra white
   - Білий монстр
+status: published
+externalUrl: https://t.me/kallection/32120
+publishedAt: 2025-10-12
+createdAt: 2025-09-23
+cover: "[[IMG_2624.jpg]]"
 types:
   - energy
-createdAt: 2025-09-23
+brand: monster/ultra
+taste:
+  - ORIGINAL
+sweeteners:
+  - sucralose
+  - acesulfame
+container:
+  - can
+primaryColors:
+  - white
+manufacturer: monster energy limited
+volume:
+  - "0.5"
+caffeine: 30
+alco: 0
+availability: 5
 old_related: true
+tags:
+  - package/canpack
 ---
 **Monster Energy Ultra білий**. Офіційний смак не вказано, але на сайті "Легкий, освіжаючий, цитрусовий"
 

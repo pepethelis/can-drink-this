@@ -1,36 +1,35 @@
 ---
-alco: 0
-
+aliases:
+  - Effect habibi berry
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/30010
+publishedAt: 2025-07-06
+createdAt: 2025-07-06
+cover: "[[IMG_8591.jpg]]"
+types:
+  - energy
 brand: effect
 taste:
   - berries
   - ORIGINAL
-container:
-  - can
-publishedAt: 2025-07-06
-cover: "[[IMG_8591.jpg]]"
 sweeteners:
   - sugar
   - inositol
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.33"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - pink
 manufacturer: NGS beverages
-aliases:
-  - Effect habibi berry
-types:
-  - energy
-createdAt: 2025-07-06
+volume:
+  - "0.33"
+caffeine: 32
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
 old_related: true
+tags:
+  - package/bagpak
 ---
 **Effect рожевий**, лімітка. Офіційний смак - habibi berry лол. Скоріше за все тут малина, виноград та чорна смородина
 

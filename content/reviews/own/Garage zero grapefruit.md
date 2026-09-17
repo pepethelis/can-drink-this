@@ -1,31 +1,31 @@
 ---
+aliases:
+  - Garage zero grapefruit
 status: published
-tags:
 externalUrl: https://t.me/kallection/22611
+publishedAt: 2024-09-15
+createdAt: 2024-09-15
+cover: "[[IMG_8177.jpg]]"
+types:
+  - fizzy
 brand: garage/zero
 taste:
   - grapefruit
-container:
-  - can
-publishedAt: 2024-09-15
-cover: "[[IMG_8177.jpg]]"
 sweeteners:
   - glucose-fructose syrup
   - extract/acacia
-availability: 4
-volume:
-  - "0.5"
+container:
+  - can
 primaryColors:
   - pink
 manufacturer: carlsberg
-aliases:
-  - Garage zero grapefruit
-types:
-  - fizzy
-createdAt: 2024-09-15
-old_related: true
-alco: 0
+volume:
+  - "0.5"
 caffeine: 0
+alco: 0
+availability: 4
+old_related: true
+tags:
 ---
 **Garage fun zero**. Офіційний смак - **grapefruit**
 

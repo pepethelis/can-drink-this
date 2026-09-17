@@ -1,34 +1,33 @@
 ---
-alco: 0
-
-status: needs update
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/26139
-brand: nonstop
-taste:
-  - pineapple
-container:
-  - can
-publishedAt: 2025-02-08
-cover: "[[IMG_3053.jpg]]"
-sweeteners:
-  - sugar
-availability: 5
-volume:
-  - "0.5"
-  - "0.25"
-caffeine: 32
-primaryColors:
-  - violet
-manufacturer: new products
 aliases:
   - Nonstop boost
   - Нонстоп буст
   - Нонстоп фіолетовий
+status: needs update
+externalUrl: https://t.me/kallection/26139
+publishedAt: 2025-02-08
+createdAt: 2025-02-08
+cover: "[[IMG_3053.jpg]]"
 types:
   - energy
-createdAt: 2025-02-08
+brand: nonstop
+taste:
+  - pineapple
+sweeteners:
+  - sugar
+container:
+  - can
+primaryColors:
+  - violet
+manufacturer: new products
+volume:
+  - "0.5"
+  - "0.25"
+caffeine: 32
+alco: 0
+availability: 5
+tags:
+  - package/canpack
 ---
 **Nonstop boost**, більш відомий як фіолетовий нонстоп. Офіційний смак не вказано, але неофіційно він ананас-м'ята
 

@@ -1,21 +1,21 @@
 ---
-author: sanb_s
 aliases:
   - Monster juiced monarch
-publishedAt: 2025-10-10
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/6727
+publishedAt: 2025-10-10
+cover: "[[photo_2025-10-10_19-20-16.jpg]]"
+types:
+  - energy
 brand: monster/juiced
+taste:
 container:
 volume:
   - "0.5"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-10-10_19-20-16.jpg]]"
-externalUrl: https://t.me/ukr_satan/6727
 caffeine: 32
 alco: 0
+author: sanb_s
 ---
 #енергохарчування Monster Monarch  
 

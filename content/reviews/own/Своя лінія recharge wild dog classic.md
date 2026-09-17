@@ -1,30 +1,30 @@
 ---
+aliases:
+  - Своя лінія recharge wild dog classic
 status: published
-tags:
 externalUrl: https://t.me/kallection/29857
+publishedAt: 2025-06-30
+createdAt: 2025-05-20
+cover: "[[IMG_6654.jpg]]"
+types:
+  - energy
 brand: своя лінія
 taste:
   - CLASSIC
-container:
-  - plastic
-publishedAt: 2025-06-30
-cover: "[[IMG_6654.jpg]]"
 sweeteners:
   - sugar
-availability: 4
-volume:
-  - "1"
-caffeine: 32
+container:
+  - plastic
 primaryColors:
   - orange
 manufacturer: ОРЛАН
-aliases:
-  - Своя лінія recharge wild dog classic
-types:
-  - energy
-createdAt: 2025-05-20
-old_related: true
+volume:
+  - "1"
+caffeine: 32
 alco: 0
+availability: 4
+old_related: true
+tags:
 ---
 **Wild dog classic**. Офіційний смак - не вказано
 

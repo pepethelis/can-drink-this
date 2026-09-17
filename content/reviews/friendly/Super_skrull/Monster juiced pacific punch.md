@@ -1,21 +1,21 @@
 ---
-author: super_skrull
 aliases:
   - Monster juiced pacific punch
-publishedAt: 2024-09-14
+summary:
 status: published
+publishedAt: 2024-09-14
+cover: "[[photo_2024-09-14_17-44-50.jpg]]"
+types:
+  - energy
 brand: monster/juiced
+taste:
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-cover: "[[photo_2024-09-14_17-44-50.jpg]]"
-types:
-  - energy
 caffeine: 32
 alco: 0
+author: super_skrull
 ---
 **MONSTER ENERGY PACIFIC PUNCH**  
 Смак: апельсин, яблука, малина, вишня, гуава, ананас, маракуя.  

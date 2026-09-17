@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Cheat code ultra
+  - Чіт-код ультра
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/32518
+publishedAt: 2025-10-29
+createdAt: 2025-10-22
+cover: "[[IMG_3894.jpeg]]"
+types:
+  - energy
 brand: cheat code
 taste:
   - elderflower
   - lemon
-publishedAt: 2025-10-29
-favorite: true
-container:
-  - can
 sweeteners:
   - sugar
   - glucose-fructose syrup
@@ -20,24 +22,22 @@ sweeteners:
   - acesulfame
   - sucralose
   - extract/ginseng root
-availability: 3
-cover: "[[IMG_3894.jpeg]]"
-volume:
-  - "0.33"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - violet
   - yellow
   - silver
 manufacturer: оболонь
-aliases:
-  - Cheat code ultra
-  - Чіт-код ультра
-types:
-  - energy
-createdAt: 2025-10-22
-old_related: true
+volume:
+  - "0.33"
+caffeine: 32
 alco: 0
+availability: 3
+favorite: true
+old_related: true
+tags:
+  - package/bagpak
 ---
 **Cheat code ultra**. Офіційний смак - бузина-лимон
 

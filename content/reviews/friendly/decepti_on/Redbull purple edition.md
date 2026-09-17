@@ -1,23 +1,23 @@
 ---
-author: decepti_on
 aliases:
   - Redbull purple edition
-publishedAt: 2026-03-16
+summary: Огляд на редбулл асай
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33951
+publishedAt: 2026-03-16
+cover:
+types:
+  - energy
 brand: redbull/edition
+taste:
 container:
   - can
 volume:
   - "0.25"
-summary: Огляд на редбулл асай
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33951
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33949
   - https://t.me/sonechkin_rzekich/33950
-alco: 0
 ---
 Огляд на редбулл асай

@@ -1,38 +1,38 @@
 ---
+aliases:
+  - Battery unicorn
+  - Батарейка юнікорн
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/38842
+publishedAt: 2026-09-13
+createdAt: 2026-08-20
+cover: "[[IMG_7209.jpeg]]"
+types:
+  - energy
 brand: battery
 taste:
   - cotton candy
-favorite: true
-container:
-  - can
-publishedAt: 2026-09-13
-cover: "[[IMG_7209.jpeg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
-availability: 4
-volume:
-  - "0.33"
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - blue
   - pink
 manufacturer: carlsberg
-aliases:
-  - Battery unicorn
-  - Батарейка юнікорн
-types:
-  - energy
+volume:
+  - "0.33"
+  - "0.5"
+caffeine: 32
+alco: 0
+availability: 4
+favorite: true
 related:
   - "[[content/reviews/own/Burn white gummy bear|Burn white gummy bear]]"
   - "[[content/reviews/own/Hell carnival cotton candy|Hell carnival cotton candy]]"
-createdAt: 2026-08-20
-alco: 0
+tags:
+  - package/canpack
 ---
 **Battery unicorn**, енергосік від карсберг. Офіційний смак - цукрова вата, неофіційний - каєфний
 

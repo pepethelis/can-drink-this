@@ -1,41 +1,41 @@
 ---
+aliases:
+  - Monster nitro
+  - Monster nitro green
+  - Monster nitro dry
 status: published
-tags:
-  - package/ag
-  - country/poland
 externalUrl: https://t.me/kallection/37892
+publishedAt: 2026-08-05
+updatedAt: 2026-08-05
+createdAt: 2026-06-13
+cover: "[[IMG_6710.jpg]]"
+types:
+  - energy
 brand: monster/nitro
 taste:
   - citrus
-container:
-  - can
-publishedAt: 2026-08-05
-cover: "[[IMG_6710.jpg]]"
 sweeteners:
   - sugar
   - glucose syrup
   - maltodextrin
   - sucralose
   - inositol
-availability: 3
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - green
   - black
 manufacturer: monster energy limited
+volume:
+  - "0.5"
+caffeine: 32
+alco: 0
 sponsor:
   - makmed1337
-aliases:
-  - Monster nitro
-  - Monster nitro green
-  - Monster nitro dry
-types:
-  - energy
-createdAt: 2026-06-13
-updatedAt: 2026-08-05
-alco: 0
+availability: 3
+tags:
+  - package/ag
+  - country/poland
 ---
 **Monster nitro green**, банка, огляд на яку я мав замутити ще давно, але деякий гівнюк випив в соло і натомість підігнав мені рева. Офіційний смак - хуй зна, написано super dry. На сайті - "Refreshing Citrus"
 

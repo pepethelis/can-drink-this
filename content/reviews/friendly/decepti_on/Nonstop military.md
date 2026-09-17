@@ -1,24 +1,24 @@
 ---
-author: decepti_on
 aliases:
   - Nonstop military
-publishedAt: 2025-08-24
+summary: Огляд нонстоп мілітарі ✨
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33587
+publishedAt: 2025-08-24
+cover:
+types:
+  - energy
 brand: nonstop
+taste:
+  - CLASSIC
 container:
   - can
 volume:
-summary: Огляд нонстоп мілітарі ✨
-taste:
-  - CLASSIC
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33587
+caffeine: 32
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33585
   - https://t.me/sonechkin_rzekich/33586
-caffeine: 32
-alco: 0
 ---
 Огляд нонстоп мілітарі ✨

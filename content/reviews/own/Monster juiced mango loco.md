@@ -1,15 +1,16 @@
 ---
+aliases:
+  - Monster juiced mango loco
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/35223
+publishedAt: 2026-03-21
+createdAt: 2026-02-25
+cover: "[[IMG_0420.jpg]]"
+types:
+  - energy
 brand: monster/juiced
 taste:
   - mango
-container:
-  - can
-publishedAt: 2026-03-21
-cover: "[[IMG_0420.jpg]]"
 sweeteners:
   - sugar
   - glucose
@@ -25,21 +26,20 @@ sweeteners:
   - juice/apple
   - juice/pineapple
   - juice/orange
-availability: 4
-related:
+container:
+  - can
+primaryColors:
+  - blue
+manufacturer: monster energy limited
 volume:
   - "0.5"
 caffeine: 32
 alco: 0
-primaryColors:
-  - blue
-manufacturer: monster energy limited
-aliases:
-  - Monster juiced mango loco
-types:
-  - energy
-createdAt: 2026-02-25
+availability: 4
+related:
 old_related: true
+tags:
+  - package/bagpak
 ---
 **Monster Energy Juiced Mango Loco**, він же синій зі скелетами. Офіційний смак - манго
 

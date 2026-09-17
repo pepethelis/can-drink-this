@@ -1,40 +1,40 @@
 ---
-status: published
 aliases:
   - Mike’s hard drink pineapple
+summary:
+status: published
 externalUrl: https://t.me/kallection/38287
-brand: mike’s
+publishedAt: 2026-08-22
+createdAt: 2026-07-21
+cover: "[[IMG_5301.jpeg]]"
 types:
   - alco
+brand: mike’s
 taste:
   - pineapple
-publishedAt: 2026-08-22
-favorite:
-container:
-  - glass
 sweeteners:
   - barley malt
   - glucose-fructose syrup
   - sugar
   - juice/lemon
-cover: "[[IMG_5301.jpeg]]"
-availability: 3.5
-summary:
+container:
+  - glass
 primaryColors:
   - blue
   - yellow
 manufacturer: ПРАТ "Абінбев Ефес Україна"
-caffeine: 0
 volume:
   - "0.43"
+caffeine: 0
 alco: 4.4
+availability: 3.5
+favorite:
 related:
   - "[[Garage mandarin|Garage mandarin]]"
   - "[[Garage hardcore]]"
   - "[[Garage pineberry&mint]]"
   - "[[Garage hardcore exotic kiss]]"
   - "[[Garage hardcore pomegranate fizz]]"
-createdAt: 2026-07-21
 ---
 **Mike’s hard drink pineapple**. Офіційний смак - ананас
 

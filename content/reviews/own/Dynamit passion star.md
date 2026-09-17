@@ -1,36 +1,36 @@
 ---
-status: to create
 aliases:
   - Dynami:t passion star
+summary:
+status: to create
 externalUrl:
-brand: dynamit
+publishedAt:
+createdAt:
+cover: "[[default.png]]"
 types:
   - energy
+brand: dynamit
 taste:
   - passion fruit
   - pineapple
   - vanilla
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[default.png]]"
-availability: 2
-summary:
+container:
+  - can
 primaryColors:
   - orange
   - yellow
   - black
 manufacturer: лидскае пиво
-caffeine:
 volume:
   - "0.45"
+caffeine:
 alco:
-createdAt:
 sponsor:
   - dggdyh
+availability: 2
+favorite:
 ---
 **Dynamit passion star**. Офіційний смак - маракуйа, ананас, ваніль
 

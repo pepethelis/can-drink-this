@@ -1,36 +1,35 @@
 ---
-alco: 0
-
+aliases:
+  - Nonstop military
+  - Нонстоп мілітарі
 status: published
-tags:
 externalUrl: https://t.me/kallection/24611
+publishedAt: 2024-12-03
+createdAt: 2024-12-03
+cover: "[[IMG_1105.jpg]]"
+types:
+  - energy
 brand: nonstop
 taste:
   - CLASSIC
   - ORIGINAL
-container:
-  - can
-publishedAt: 2024-12-03
-cover: "[[IMG_1105.jpg]]"
 sweeteners:
   - sugar
-availability: 1
-sponsor:
-  - ukrainian_simple_guy
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - camo
   - green
 manufacturer: new products
-aliases:
-  - Nonstop military
-  - Нонстоп мілітарі
-types:
-  - energy
-createdAt: 2024-12-03
+volume:
+  - "0.5"
+caffeine: 32
+alco: 0
+sponsor:
+  - ukrainian_simple_guy
+availability: 1
 old_related: true
+tags:
 ---
 
 Легендарний огляд, на який ніхто крім мене не чекав. Усілякі там рідкісні монстри по 300+ за банку це звісно клас, але є речі, які на розетці не купиш

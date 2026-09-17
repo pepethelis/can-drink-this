@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Battery frsh
+  - Батарейка фреш
 status: published
-tags:
+externalUrl: https://t.me/kallection/36375
+publishedAt: 2026-05-30
+createdAt: 2026-05-05
+cover: "[[IMG_8601.jpg]]"
+types:
+  - energy
 brand: battery
 taste:
   - tropical
   - ORIGINAL
-container:
-  - can
-publishedAt: 2026-05-30
-cover: "[[IMG_8601.jpg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
-availability: 4
-externalUrl: https://t.me/kallection/36375
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - yellow
   - red
 manufacturer: carlsberg
-aliases:
-  - Battery frsh
-  - Батарейка фреш
-types:
-  - energy
-createdAt: 2026-05-05
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+availability: 4
+tags:
 ---
 **Battery Frsh**, тобто жовто-червона батарейка
 

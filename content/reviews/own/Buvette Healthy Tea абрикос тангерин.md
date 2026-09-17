@@ -1,30 +1,30 @@
 ---
+aliases:
+  - Buvette Healthy Tea абрикос тангерин
 status: needs update
-tags:
 externalUrl: https://t.me/kallection/27453
+publishedAt: 2025-04-04
+createdAt: 2025-03-23
+cover: "[[IMG_4309.jpg]]"
+types:
+  - tea
 brand: buevette
 taste:
   - tangerine
   - apricot
-container:
-  - plastic
-publishedAt: 2025-04-04
-cover: "[[IMG_4309.jpg]]"
 sweeteners:
   - sugar
   - juice/apple
-availability: 3
+container:
+  - plastic
+manufacturer: buvette
 volume:
   - "0.5"
-manufacturer: buvette
-aliases:
-  - Buvette Healthy Tea абрикос тангерин
-types:
-  - tea
-createdAt: 2025-03-23
-old_related: true
-alco: 0
 caffeine: 0
+alco: 0
+availability: 3
+old_related: true
+tags:
 ---
 **Buvette Healthy Tea**. Офіційний смак - **білий чай, абрикос, танжерин**
 

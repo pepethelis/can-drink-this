@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Frugo wild cherry
+  - Frugo black
 status: published
-tags:
 externalUrl: https://t.me/kallection/25694
+publishedAt: 2025-01-20
+createdAt: 2025-01-20
+cover: "[[IMG_2656.jpg]]"
+types:
+  - energy
 brand: frugo
 taste:
   - cherry
-container:
-  - can
-publishedAt: 2025-01-20
-cover: "[[IMG_2656.jpg]]"
 sweeteners:
   - juice/apple
   - juice/black carrot
   - sucralose
-availability: 3
-volume:
-  - "0.5"
-caffeine: 14
-alco: 0
+container:
+  - can
 primaryColors:
   - black
   - pink
 manufacturer: foodcare
-aliases:
-  - Frugo wild cherry
-  - Frugo black
-types:
-  - energy
-createdAt: 2025-01-20
+volume:
+  - "0.5"
+caffeine: 14
+alco: 0
+availability: 3
 old_related: true
+tags:
 ---
 **Frugo Wild Cherry**. Офіційний смак - дика вишня
 

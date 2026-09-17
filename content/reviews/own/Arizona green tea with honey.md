@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Arizona green tea with honey
 status: to update
-tags:
-  - package/amp
 externalUrl: https://t.me/kallection/24118
+publishedAt: 2024-11-13
+createdAt: 2024-11-13
+cover: "[[IMG_0383.jpg]]"
+types:
+  - tea
 brand: arizona
 taste:
   - tea
   - honey
-container:
-  - can
-publishedAt: 2024-11-13
-cover: "[[IMG_0383.jpg]]"
 sweeteners:
   - sugar
   - juice/peach
   - honey
   - juice/pear
   - extract/stevia
-availability: 3
-volume:
-  - "0.33"
-  - "0.45"
+container:
+  - can
 primaryColors:
   - blue
 manufacturer: Arizona Europe Cooperatief
-aliases:
-  - Arizona green tea with honey
-types:
-  - tea
-createdAt: 2024-11-13
-alco: 0
+volume:
+  - "0.33"
+  - "0.45"
 caffeine: 0
+alco: 0
+availability: 3
+tags:
+  - package/amp
 ---
 Чай **AriZona original green tea**. На лінійці не знаюся, але думаю що офіційний смак саме original green tea
 

@@ -1,40 +1,40 @@
 ---
+aliases:
+  - Pulls заряд помсти
+  - Окко пульс
+summary:
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/37466
+publishedAt: 2026-07-18
+createdAt: 2026-06-03
+cover: "[[IMG_2899.jpeg]]"
+types:
+  - energy
 brand: pulls
 taste:
   - barberry
   - guarana
   - tutti-frutti
-publishedAt: 2026-07-18
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_2899.jpeg]]"
-availability: 3
-summary:
-related:
-  - "[[Monster black|Monster black]]"
-  - "[[Nonstop original|Nonstop original]]"
-  - "[[content/reviews/friendly/Sanb_s/Pulls заряд помсти|Pulls заряд помсти]]"
-caffeine: 35
-volume:
-  - "0.25"
-  - "0.5"
+container:
+  - can
 primaryColors:
   - green
   - black
 manufacturer: new products
-aliases:
-  - Pulls заряд помсти
-  - Окко пульс
-types:
-  - energy
-createdAt: 2026-06-03
+volume:
+  - "0.25"
+  - "0.5"
+caffeine: 35
+availability: 3
+favorite:
+related:
+  - "[[Monster black|Monster black]]"
+  - "[[Nonstop original|Nonstop original]]"
+  - "[[content/reviews/friendly/Sanb_s/Pulls заряд помсти|Pulls заряд помсти]]"
+tags:
+  - package/canpack
 ---
 **Pulls заряд помсти**. Офіційний смак - барбарис, гуарани та фрутміксу (єбуче тутті-фрутті😭)
 

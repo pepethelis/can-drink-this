@@ -1,40 +1,40 @@
 ---
-status: published
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/22760
-brand: burn
-taste:
-  - apple
-  - kivi
-container:
-  - can
-publishedAt: 2024-09-21
-cover: "[[IMG_8392.jpg]]"
-sweeteners:
-  - sugar
-  - extract/carrot
-  - extract/blackcurrant
-  - extract/guarana
-availability: 5
-volume:
-  - "0.25"
-  - "0.5"
-caffeine: 32
-primaryColors:
-  - green
-  - black
-manufacturer: energy beverages
 aliases:
   - Burn apple-kiwi
   - Burn green
   - Бьорн яблуко-ківі
   - Бьорн зелений
+status: published
+externalUrl: https://t.me/kallection/22760
+publishedAt: 2024-09-21
+createdAt: 2024-09-21
+cover: "[[IMG_8392.jpg]]"
 types:
   - energy
-createdAt: 2024-09-21
-old_related: true
+brand: burn
+taste:
+  - apple
+  - kivi
+sweeteners:
+  - sugar
+  - extract/carrot
+  - extract/blackcurrant
+  - extract/guarana
+container:
+  - can
+primaryColors:
+  - green
+  - black
+manufacturer: energy beverages
+volume:
+  - "0.25"
+  - "0.5"
+caffeine: 32
 alco: 0
+availability: 5
+old_related: true
+tags:
+  - package/canpack
 ---
 **Burn Apple-kiwi**, або ж зелений бьорн. Офіційний смак - яблуко-ківі
 

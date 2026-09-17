@@ -1,41 +1,40 @@
 ---
-alco: 0
-
+aliases:
+  - Dark dog
+summary:
 status: published
-tags:
-  - package/canpack
-  - country/france
 externalUrl: https://t.me/kallection/34956
+publishedAt: 2026-03-05
+updatedAt: 2026-06-02
+createdAt: 2026-01-23
+cover: "[[IMG_9079.jpeg]]"
+types:
+  - energy
 brand: dark dog
 taste:
   - ORIGINAL
   - CLASSIC
-publishedAt: 2026-03-05
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - extract/guarana
   - caramel
-cover: "[[IMG_9079.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - golden
 manufacturer: Brasserie Licorne
-updatedAt: 2026-06-02
-aliases:
-  - Dark dog
-types:
-  - energy
-createdAt: 2026-01-23
+volume:
+  - "0.5"
+caffeine: 32
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
 old_related: true
+tags:
+  - package/canpack
+  - country/france
 ---
 **Dark dog**. Офіційний смак не зазначено
 

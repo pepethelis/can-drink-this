@@ -1,42 +1,42 @@
 ---
+aliases:
+  - Rockstar berries
+  - Рокстар ягоди
 status: published
-tags:
-  - package/amp
-  - country/germany
 externalUrl: https://t.me/kallection/28985
+publishedAt: 2025-06-03
+createdAt: 2025-05-25
+cover: "[[IMG_6859.jpg]]"
+types:
+  - energy
 brand: rockstar
 taste:
   - berries
-container:
-  - can
-publishedAt: 2025-06-03
-cover: "[[IMG_6859.jpg]]"
 sweeteners:
   - sugar
   - juice
   - inositol
   - sucralose
   - acesulfame
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.5"
-caffeine: 31
+container:
+  - can
 primaryColors:
   - blue
 manufacturer: pepsi
-aliases:
-  - Rockstar berries
-  - Рокстар ягоди
-types:
-  - energy
+volume:
+  - "0.5"
+caffeine: 31
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
 related:
   - "[[content/reviews/own/Воля синя|Воля синя]]"
   - "[[content/reviews/own/Hell goji berry|Hell goji berry]]"
   - "[[Monster ultra blue|Monster ultra blue]]"
-createdAt: 2025-05-25
-alco: 0
+tags:
+  - package/amp
+  - country/germany
 ---
 **Rockstar energy, синій**. Офіційний смак - blueberry, pomegranate, acai
 

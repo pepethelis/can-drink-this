@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Battery electric
+  - Батарейка електрік
+  - Батарейка синя
+summary:
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/34950
 publishedAt: 2026-03-05
+createdAt: 2026-03-05
+cover: "[[IMG_9726.jpeg]]"
+types:
+  - energy
 brand: battery
 taste:
   - raspberry/blue
-favorite:
-container:
-  - can
 sweeteners:
   - glucose-fructose syrup
   - sugar
   - maltodextrin
   - extract/guarana
-cover: "[[IMG_9726.jpeg]]"
-availability: 4
-summary:
-volume:
-  - "0.48"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - blue
 manufacturer: carlsberg
-aliases:
-  - Battery electric
-  - Батарейка електрік
-  - Батарейка синя
-types:
-  - energy
-createdAt: 2026-03-05
+volume:
+  - "0.48"
+caffeine: 32
 alco: 0
+availability: 4
+favorite:
+tags:
+  - package/canpack
 ---
 **Battery electric**. Офіційний смак - "синя" малина
 

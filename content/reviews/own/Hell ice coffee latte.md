@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Hell ice coffee latte
 status: published
-tags:
-  - package/quality
 externalUrl: https://t.me/kallection/21871
+publishedAt: 2024-08-17
+createdAt: 2024-08-16
+cover: "[[IMG_7101.jpg]]"
+types:
+  - coffee
+  - energy
 brand: hell/coffee
 taste:
   - coffee
-container:
-  - can
-publishedAt: 2024-08-17
-cover: "[[IMG_7101.jpg]]"
 sweeteners:
   - sugar
-availability: 3
+container:
+  - can
+primaryColors:
+  - orange
+manufacturer: hell energy
 volume:
   - "0.25"
 caffeine: 40
 alco: 0
-primaryColors:
-  - orange
-manufacturer: hell energy
-aliases:
-  - Hell ice coffee latte
-types:
-  - coffee
-  - energy
-createdAt: 2024-08-16
+availability: 3
 old_related: true
+tags:
+  - package/quality
 ---
 **Hell ice coffee latte**, тобто кофік від хелл
 

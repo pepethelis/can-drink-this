@@ -1,17 +1,19 @@
 ---
+aliases:
+  - Monster juiced rio punch
+summary: Згадував ще кілька днів потому цей смак
 status: published
-tags:
-  - package/ag
 externalUrl: https://t.me/kallection/32812
+publishedAt: 2025-11-13
+createdAt: 2025-10-16
+cover: "[[IMG_3686.jpg]]"
+types:
+  - energy
 brand: monster/juiced
 taste:
   - papaya
   - blackcurrant
   - vanilla icecream
-publishedAt: 2025-11-13
-favorite: true
-container:
-  - can
 sweeteners:
   - sugar
   - juice/apple
@@ -22,24 +24,22 @@ sweeteners:
   - juice/grape
   - juice/mango
   - juice/papaya
-cover: "[[IMG_3686.jpg]]"
-availability: 4
-summary: Згадував ще кілька днів потому цей смак
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - green
   - yellow
 manufacturer: monster energy limited
-aliases:
-  - Monster juiced rio punch
+volume:
+  - "0.5"
+caffeine: 32
+alco: 0
 sponsor:
   - gdgood
-types:
-  - energy
-createdAt: 2025-10-16
-alco: 0
+availability: 4
+favorite: true
+tags:
+  - package/ag
 ---
 **Monster juiced rio punch**. Офіційний смак на банці не вказано, але на сайті - "Солодка папайя, ванільне морозиво, нотка чорної смородини"
 

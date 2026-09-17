@@ -1,42 +1,41 @@
 ---
-alco: 0
-
+aliases:
+  - Power taurine energy regular
+summary:
 status: published
-tags:
-  - package/crown
-  - country/france
 externalUrl: https://t.me/kallection/35736
+publishedAt: 2026-04-21
+updatedAt: 2026-06-02
+createdAt: 2026-03-17
+cover: "[[IMG_0078.jpeg]]"
+types:
+  - energy
 brand: power taurine
 taste:
   - CLASSIC
   - ORIGINAL
-publishedAt: 2026-04-21
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - sucralose
   - inositol
   - acesulfame
-cover: "[[IMG_0078.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
-volume:
-  - "0.5"
-caffeine: 21
+container:
+  - can
 primaryColors:
   - blue
 manufacturer: OGEU
-updatedAt: 2026-06-02
-aliases:
-  - Power taurine energy regular
-types:
-  - energy
-createdAt: 2026-03-17
+volume:
+  - "0.5"
+caffeine: 21
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
 old_related: true
+tags:
+  - package/crown
+  - country/france
 ---
 **Power taurine energy regular**. Офіційний смак - regular, тому очікуємо класичний
 

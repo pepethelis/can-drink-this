@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Hike vibe mojito
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/33807
+publishedAt: 2025-12-28
+createdAt: 2025-09-16
+cover: "[[IMG_2330.jpg]]"
+types:
+  - alco
 brand: hike/vibe
 taste:
   - mojito
-cover: "[[IMG_2330.jpg]]"
-publishedAt: 2025-12-28
 sweeteners:
   - glucose-fructose syrup
   - sugar
-availability: 4
-volume:
-  - "0.5"
-alco: 4.3
-primaryColors:
-  - blue
-manufacturer: оболонь
 container:
   - can
   - plastic
-aliases:
-  - Hike vibe mojito
-types:
-  - alco
+primaryColors:
+  - blue
+manufacturer: оболонь
+volume:
+  - "0.5"
+caffeine: 0
+alco: 4.3
+availability: 4
 related:
   - "[[Garage mandarin]]"
   - "[[Garage hardcore]]"
   - "[[Garage pineberry&mint]]"
-createdAt: 2025-09-16
-caffeine: 0
+tags:
+  - package/canpack
 ---
 Типу гараж **Hike vibe mojito**. Офіційний смак - мохіто
 

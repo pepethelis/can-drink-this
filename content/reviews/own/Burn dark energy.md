@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Burn dark energy
+  - Бьорн дарк енерджи
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/32244
+publishedAt: 2025-10-16
+createdAt: 2025-09-27
+cover: "[[IMG_2859.jpg]]"
+types:
+  - energy
 brand: burn
 taste:
   - ORIGINAL
   - citrus
-container:
-  - can
-publishedAt: 2025-10-16
 sweeteners:
   - sugar
   - inositol
-availability: 4
-cover: "[[IMG_2859.jpg]]"
-volume:
-  - "0.25"
-caffeine: 31
+container:
+  - can
 primaryColors:
   - golden
   - black
 manufacturer: energy beverages
-aliases:
-  - Burn dark energy
-  - Бьорн дарк енерджи
-types:
-  - energy
-createdAt: 2025-09-27
-old_related: true
+volume:
+  - "0.25"
+caffeine: 31
 alco: 0
+availability: 4
+old_related: true
+tags:
+  - package/canpack
 ---
 **Burn dark energy**, або ж жовтенький бьорн. Офіційний смак - не вказано
 

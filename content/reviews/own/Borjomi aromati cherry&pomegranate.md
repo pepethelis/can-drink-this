@@ -1,33 +1,33 @@
 ---
-status: published
 aliases:
   - Borjomi aromati cherry & pomegranate
+summary:
+status: published
 externalUrl: https://t.me/kallection/38043
-brand: borjomi/aromati
+publishedAt: 2026-08-12
+createdAt: 2026-07-16
+cover: "[[IMG_5092.jpeg]]"
 types:
   - water
+brand: borjomi/aromati
 taste:
   - cherry
   - pomegranate
-publishedAt: 2026-08-12
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[IMG_5092.jpeg]]"
-availability: 3.5
-summary:
 primaryColors:
   - blue
   - pink
   - white
   - red
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine: 0
 volume:
   - "0.33"
-createdAt: 2026-07-16
+caffeine: 0
 alco: 0
+availability: 3.5
+favorite:
 ---
 **Borjomi aromati cherry & pomegranate**. Офіційний смак - вишня і гранат
 

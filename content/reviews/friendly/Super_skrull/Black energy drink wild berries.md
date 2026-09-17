@@ -1,21 +1,21 @@
 ---
-author: super_skrull
 aliases:
   - Black energy drink wild berries
-publishedAt:
+summary:
 status: published
+publishedAt:
+cover: "[[photo_2025-06-10_08-58-21.jpg]]"
+types:
+  - energy
 brand: black
+taste:
+  - berries
 container:
   - plastic
 volume:
   - "0.5"
-summary:
-taste:
-  - berries
-types:
-  - energy
-cover: "[[photo_2025-06-10_08-58-21.jpg]]"
 alco: 0
+author: super_skrull
 ---
 **BLACK ENERGY "ДИКІ ЯГОДИ"**
 

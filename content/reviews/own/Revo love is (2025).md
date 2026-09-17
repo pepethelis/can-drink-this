@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Revo love is (2025)
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/31601
+publishedAt: 2025-09-14
+createdAt: 2025-09-13
+cover: "[[IMG_2219.jpg]]"
+types:
+  - alco
+  - energy
 brand: revo/love_is
 taste:
   - ORIGINAL
-container:
-  - can
-cover: "[[IMG_2219.jpg]]"
-publishedAt: 2025-09-14
 sweeteners:
   - sugar
-availability: 4
-alco: 8.5
-volume:
-  - "0.5"
-caffeine: 30
+container:
+  - can
 primaryColors:
   - gray
   - silver
 manufacturer: new products
-aliases:
-  - Revo love is (2025)
-types:
-  - alco
-  - energy
+volume:
+  - "0.5"
+caffeine: 30
+alco: 8.5
+availability: 4
 related:
   - "[[content/reviews/own/Bronx zero|Bronx zero]]"
-createdAt: 2025-09-13
+tags:
+  - package/canpack
 ---
 **Revo love is (2025)**, чергова лімітка рева у лінійці love is. Застав лише рожевий варік, але і до того теж були кілька. Офіційний смак ніде не вказано. В інсті написали "смачний"/“зі смаком твого першого кохання”
 

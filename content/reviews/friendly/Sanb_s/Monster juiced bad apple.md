@@ -1,22 +1,22 @@
 ---
-author: sanb_s
 aliases:
   - Monster juiced bad apple
-publishedAt: 2024-11-18
+summary:
 status: published
+publishedAt: 2024-11-18
+cover: "[[photo_2024-11-18_09-35-15.jpg]]"
+types:
+  - energy
 brand: monster/juiced
+taste:
+  - apple
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - apple
-cover: "[[photo_2024-11-18_09-35-15.jpg]]"
-types:
-  - energy
 caffeine: 32
 alco: 0
+author: sanb_s
 ---
 MФNSTER ПОДВІЙНЕ ЯБЛУЧКО😈🍎🍏🤙💨
 

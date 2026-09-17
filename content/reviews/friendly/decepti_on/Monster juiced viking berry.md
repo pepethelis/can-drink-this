@@ -1,23 +1,23 @@
 ---
-author: decepti_on
 aliases:
   - Monster juiced viking berry
-publishedAt: 2026-03-24
+summary: Огляд монстер вікінг беррі
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33955
+publishedAt: 2026-03-24
+cover:
+types:
+  - energy
 brand: monster
+taste:
 container:
   - can
 volume:
-summary: Огляд монстер вікінг беррі
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33955
+caffeine: 32
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33953
   - https://t.me/sonechkin_rzekich/33954
-caffeine: 32
-alco: 0
 ---
 Огляд монстер вікінг беррі

@@ -1,22 +1,22 @@
 ---
-author: sanb_s
 aliases:
   - Maradona
-publishedAt: 2025-03-17
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4895
+publishedAt: 2025-03-17
+cover: "[[photo_2025-03-17_20-47-00.jpg]]"
+types:
+  - energy
 brand: maradona
+taste:
+  - CLASSIC
 container:
   - can
 volume:
   - "0.25"
-summary:
-taste:
-  - CLASSIC
-types:
-  - energy
-cover: "[[photo_2025-03-17_20-47-00.jpg]]"
-externalUrl: https://t.me/ukr_satan/4895
 alco: 0
+author: sanb_s
 ---
 ОЛЄ-ОЛЄ-ОЛЄ ⚽️⚽️⚽️⚽️  
 

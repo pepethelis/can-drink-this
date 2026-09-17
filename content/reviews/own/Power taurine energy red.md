@@ -1,39 +1,39 @@
 ---
+aliases:
+  - Power taurine energy red
+summary:
 status: published
-tags:
-  - package/amp
-  - country/france
 externalUrl: https://t.me/kallection/35742
+publishedAt: 2026-04-21
+updatedAt: 2026-06-02
+createdAt: 2026-04-04
+cover: "[[IMG_0554.jpeg]]"
+types:
+  - energy
 brand: power taurine
 taste:
   - ORIGINAL
-publishedAt: 2026-04-21
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - inositol
   - juice/black carrot
-cover: "[[IMG_0554.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
-volume:
-  - "0.5"
-caffeine: 21
+container:
+  - can
 primaryColors:
   - red
 manufacturer: OGEU
-updatedAt: 2026-06-02
-aliases:
-  - Power taurine energy red
-types:
-  - energy
-createdAt: 2026-04-04
-old_related: true
+volume:
+  - "0.5"
+caffeine: 21
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+old_related: true
+tags:
+  - package/amp
+  - country/france
 ---
 **Power taurine energy red**. Офіційний смак не вказано, також не гуглиться. Нагадує по вайбу китайську(повстяну) вишню
 

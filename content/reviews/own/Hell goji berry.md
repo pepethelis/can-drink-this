@@ -1,37 +1,36 @@
 ---
-
-status: published
-tags:
-  - package/quality
-externalUrl: https://t.me/kallection/32160
-brand: hell
-taste:
-  - goji berry
-container:
-  - can
-publishedAt: 2025-10-12
-cover: "[[IMG_2289.jpg]]"
-sweeteners:
-  - sugar
-  - inositol
-availability: 4
-volume:
-  - "0.5"
-caffeine: 30
-alco: 0
-primaryColors:
-  - blue
-  - black
-manufacturer: hell energy
 aliases:
   - Hell goji berry
   - Hell blue
   - Хелл ягоди годжі
   - Хелл синій
+status: published
+externalUrl: https://t.me/kallection/32160
+publishedAt: 2025-10-12
+createdAt: 2025-09-14
+cover: "[[IMG_2289.jpg]]"
 types:
   - energy
-createdAt: 2025-09-14
+brand: hell
+taste:
+  - goji berry
+sweeteners:
+  - sugar
+  - inositol
+container:
+  - can
+primaryColors:
+  - blue
+  - black
+manufacturer: hell energy
+volume:
+  - "0.5"
+caffeine: 30
+alco: 0
+availability: 4
 old_related: true
+tags:
+  - package/quality
 ---
 **Hell goji berry**, тобто синій хелл. Офіційний смак - ягоди годжі
 

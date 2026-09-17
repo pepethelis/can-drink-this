@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Monster ultra watermelon
 status: published
-tags:
-  - package/ball
-  - country/romania
 externalUrl: https://t.me/kallection/36113
+publishedAt: 2026-05-16
+createdAt: 2026-03-05
+cover: "[[IMG_9739.jpeg]]"
+types:
+  - energy
 brand: monster/ultra
 taste:
   - watermelon
-container:
-  - can
-publishedAt: 2026-05-16
-cover: "[[IMG_9739.jpeg]]"
 sweeteners:
   - erythritol
   - sucralose
   - acesulfame
-availability: 3
-related:
-caffeine: 30
-volume:
-  - "0.5"
+container:
+  - can
 primaryColors:
   - red
 manufacturer: monster energy limited
-aliases:
-  - Monster ultra watermelon
-types:
-  - energy
-createdAt: 2026-03-05
+volume:
+  - "0.5"
+caffeine: 30
 alco: 0
+availability: 3
+related:
+tags:
+  - package/ball
+  - country/romania
 ---
 **Monster ultra watermelon**. Офіційний смак кавун мб))
 Запах легкий солодкий, ніби хімозно-желейнний. [[content/reviews/own/Nonstop zoom|Nonstop zoom]] більш базовано кавунячий, більш приземлений і не такий карамельний. Монстр не для щоденного вжитку, а чисто цукерочка. Тут кому що подобається. Особисто мені обидва ці запахи норм, але вони різні між собою й загалом не автентичні

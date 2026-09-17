@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Exstase bubble gum
+summary:
 status: published
-tags:
-  - package/quality
 externalUrl: https://t.me/kallection/38198
+publishedAt: 2026-08-19
+createdAt: 2026-08-14
+cover: "[[IMG_6444.jpeg]]"
+types:
+  - energy
 brand: exstase
 taste:
   - bubblegum
   - ORIGINAL
-publishedAt: 2026-08-19
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_6444.jpeg]]"
-availability: 2
-summary:
-related:
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - green
   - pink
 manufacturer: Exstase Großhandel GmbH
-aliases:
-  - Exstase bubble gum
-types:
-  - energy
-createdAt: 2026-08-14
+volume:
+  - "0.25"
+caffeine: 32
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+related:
+tags:
+  - package/quality
 ---
 **Exstase bubble gum**. Офіційний смак - бубблегум
 

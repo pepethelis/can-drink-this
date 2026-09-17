@@ -1,22 +1,22 @@
 ---
-author: sanb_s
 aliases:
   - Cult original
-publishedAt: 2025-11-04
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/6926
+publishedAt: 2025-11-04
+cover: "[[photo_2025-11-04_22-37-04.jpg]]"
+types:
+  - energy
 brand: cult
+taste:
+  - ORIGINAL
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - ORIGINAL
-cover: "[[photo_2025-11-04_22-37-04.jpg]]"
-types:
-  - energy
-externalUrl: https://t.me/ukr_satan/6926
 alco: 0
+author: sanb_s
 ---
 CULT energy activator Original  
 

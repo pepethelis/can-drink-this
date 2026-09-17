@@ -1,39 +1,38 @@
 ---
-alco: 0
-
+aliases:
+  - Monster ultra fantasy ruby red
 status: published
-tags:
-  - package/canpack
-  - country/poland
 externalUrl: https://t.me/kallection/32366
+publishedAt: 2025-10-21
+updatedAt: 2026-06-02
+createdAt: 2025-10-04
+cover: "[[IMG_3088.jpg]]"
+types:
+  - energy
 brand: monster/ultra
 taste:
   - citrus
   - grapefruit
-container:
-  - can
-cover: "[[IMG_3088.jpg]]"
-publishedAt: 2025-10-21
 sweeteners:
   - sucralose
   - erythritol
   - inositol
-availability: 3
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - pink
   - red
   - blue
 manufacturer: monster energy limited
-updatedAt: 2026-06-02
-aliases:
-  - Monster ultra fantasy ruby red
-types:
-  - energy
-createdAt: 2025-10-04
+volume:
+  - "0.5"
+caffeine: 32
+alco: 0
+availability: 3
 old_related: true
+tags:
+  - package/canpack
+  - country/poland
 ---
 **Monster ultra fantasy ruby red**. Офіційний смак на банці не вказано, але на сайті - "Fresh Pink Pamplemousse", тобто помело або грейпфрут, тобто черговий цитрус
 

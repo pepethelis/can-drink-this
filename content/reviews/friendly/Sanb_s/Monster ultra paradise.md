@@ -1,22 +1,22 @@
 ---
-author: sanb_s
 aliases:
   - Monster ultra paradise
-publishedAt: 2025-03-05
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4768
+publishedAt: 2025-03-05
+cover: "[[photo_2025-03-05_12-01-24.jpg]]"
+types:
+  - energy
 brand: monster/ultra
+taste:
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-03-05_12-01-24.jpg]]"
-externalUrl: https://t.me/ukr_satan/4768
 caffeine: 32
 alco: 0
+author: sanb_s
 ---
 Мфnster ultra Paradise🌴  
 

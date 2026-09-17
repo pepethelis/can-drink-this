@@ -1,21 +1,21 @@
 ---
-author: sanb_s
 aliases:
   - Brainer
-publishedAt: 2025-01-10
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/3896
+publishedAt: 2025-01-10
+cover: "[[photo_2025-01-10_11-07-02.jpg]]"
+types:
+  - energy
 brand: brainer
+taste:
 container:
   - can
 volume:
   - "0.25"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-01-10_11-07-02.jpg]]"
-externalUrl: https://t.me/ukr_satan/3896
 alco: 0
+author: sanb_s
 ---
 Надибав 👁ось таку хрінь. Brainer - крінжова назва, але напій обіцяє підвищення концентрації, покращення пам'яті, підвищення ефективності мислення, має купу вітамінів та без гуарани і кофеїну.  
   

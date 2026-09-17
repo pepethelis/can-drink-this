@@ -1,31 +1,31 @@
 ---
+aliases:
+  - Buvette Vitamin Water чорна смородина+мʼята
 status: needs update
-tags:
 externalUrl: https://t.me/kallection/25455
+publishedAt: 2025-01-09
+createdAt: 2025-01-09
+cover: "[[IMG_2211.jpg]]"
+types:
+  - water
 brand: buevette
 taste:
   - blackcurrant
   - mint
-container:
-  - plastic
-publishedAt: 2025-01-09
-cover: "[[IMG_2211.jpg]]"
 sweeteners:
   - sugar
   - juice
   - extract
-availability: 3
+container:
+  - plastic
+manufacturer: buvette
 volume:
   - "0.5"
-manufacturer: buvette
-aliases:
-  - Buvette Vitamin Water чорна смородина+мʼята
-types:
-  - water
-createdAt: 2025-01-09
-old_related: true
-alco: 0
 caffeine: 0
+alco: 0
+availability: 3
+old_related: true
+tags:
 ---
 **Buvette Vitamin Water**. Офіційний смак - **чорна смородина, мʼята**
 

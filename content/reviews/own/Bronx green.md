@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Bronx green
+  - Бронкс зелений
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/31371
+publishedAt: 2025-09-06
+createdAt: 2025-08-24
+cover: "[[IMG_1350.jpg]]"
+types:
+  - alco
+  - energy
 brand: bronx
 taste:
   - apple
   - kivi
-container:
-  - can
-publishedAt: 2025-09-06
-cover: "[[IMG_1350.jpg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
   - juice
-availability: 4
-volume:
-  - "0.5"
-alco: 8
-caffeine: 30
+container:
+  - can
 primaryColors:
   - green
   - black
   - silver
 manufacturer: оболонь
-aliases:
-  - Bronx green
-  - Бронкс зелений
-types:
-  - alco
-  - energy
-createdAt: 2025-08-24
+volume:
+  - "0.5"
+caffeine: 30
+alco: 8
+availability: 4
+tags:
+  - package/canpack
 ---
 **Bronx зелений**. Офіційний смак - ківі-яблуко
 

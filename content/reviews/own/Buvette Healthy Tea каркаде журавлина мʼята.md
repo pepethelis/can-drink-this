@@ -1,31 +1,31 @@
 ---
+aliases:
+  - Buvette Healthy Tea каркаде журавлина мʼята
 status: needs update
-tags:
 externalUrl: https://t.me/kallection/28021
+publishedAt: 2025-04-27
+createdAt: 2025-04-25
+cover: "[[IMG_5566.jpg]]"
+types:
+  - tea
 brand: buevette
 taste:
   - mint
   - cranberry
   - hibiscus
-container:
-  - plastic
-publishedAt: 2025-04-27
-cover: "[[IMG_5566.jpg]]"
 sweeteners:
   - sugar
   - extract
-availability: 3
+container:
+  - plastic
+manufacturer: buvette
 volume:
   - "0.5"
-manufacturer: buvette
-aliases:
-  - Buvette Healthy Tea каркаде журавлина мʼята
-types:
-  - tea
-createdAt: 2025-04-25
-old_related: true
-alco: 0
 caffeine: 0
+alco: 0
+availability: 3
+old_related: true
+tags:
 ---
 **Buvette Healthy Tea**. Офіційний смак - **каркаде, журавлина, мʼята**
 

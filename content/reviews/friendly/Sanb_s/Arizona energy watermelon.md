@@ -1,23 +1,23 @@
 ---
-author: sanb_s
 aliases:
   - Arizona energy watermelon
-publishedAt: 2024-11-29
-status: published
-brand: arizona/energy
-container:
-  - can
-volume:
-  - "0.5"
 summary:
-taste:
-  - watermelon
+status: published
+externalUrl: https://t.me/ukr_satan/3034
+publishedAt: 2024-11-29
 cover: "[[photo_2024-11-29_16-27-44.jpg]]"
 types:
   - tea
   - energy
-externalUrl: https://t.me/ukr_satan/3034
+brand: arizona/energy
+taste:
+  - watermelon
+container:
+  - can
+volume:
+  - "0.5"
 alco: 0
+author: sanb_s
 ---
 Крч, купив я ось це на огляд тиждень тому, думав така хайпова банка, вип'ю кайфону і зроблю пОтУжНиЙ огляд, але...
 

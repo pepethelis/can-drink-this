@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Garage hardcore exotic kiss
+summary:
 status: published
-tags:
 externalUrl: https://t.me/kallection/37190
+publishedAt: 2026-07-07
+createdAt: 2026-06-08
+cover: "[[IMG_3145.jpeg]]"
+types:
+  - alco
 brand: garage/hardcore
 taste:
   - exotic
-publishedAt: 2026-07-07
-favorite:
+sweeteners:
 container:
   - glass
-sweeteners:
-cover: "[[IMG_3145.jpeg]]"
-availability: 3
-summary:
 primaryColors:
   - orange
   - black
 manufacturer: carlsberg
-caffeine: 0
-aliases:
-  - Garage hardcore exotic kiss
 volume:
   - "0.44"
-types:
-  - alco
-telegram_format: html
-createdAt: 2026-06-08
+caffeine: 0
 alco: 8
+availability: 3
+favorite:
+tags:
+telegram_format: html
 ---
 **Garage hardcore exotic kiss**. Офіційний смак не вказано
 

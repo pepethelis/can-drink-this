@@ -1,16 +1,16 @@
 ---
+aliases:
+  - Monster juiced bad apple
 status: published
-tags:
-  - package/ag
 externalUrl: https://t.me/kallection/27294
+publishedAt: 2025-03-26
+createdAt: 2025-03-26
+cover: "[[IMG_4417.jpg]]"
+types:
+  - energy
 brand: monster/juiced
 taste:
   - apple
-favorite: true
-container:
-  - can
-publishedAt: 2025-03-26
-cover: "[[IMG_4417.jpg]]"
 sweeteners:
   - sugar
   - juice/apple
@@ -20,20 +20,20 @@ sweeteners:
   - glucose
   - inositol
   - juice/pear
-availability: 3
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - red
   - black
 manufacturer: monster energy limited
-aliases:
-  - Monster juiced bad apple
-types:
-  - energy
-createdAt: 2025-03-26
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+availability: 3
+favorite: true
+tags:
+  - package/ag
 ---
 **Monster Juiced Bad Apple**, офіційний смак - "Crisp, Dry apple flavour that ’s not too sweet and goes down smooth."
 

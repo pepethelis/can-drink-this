@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Квас тарас flower power
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/21928
+publishedAt: 2024-08-18
+createdAt: 2024-08-18
+cover: "[[IMG_7190.jpg]]"
+types:
+  - kvass
 brand: квас тарас
 taste:
   - lemongrass
   - elderflower
-container:
-  - can
-  - plastic
-publishedAt: 2024-08-18
-cover: "[[IMG_7190.jpg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
   - extract/malt
-availability: 4
+container:
+  - can
+  - plastic
+manufacturer: carlsberg
 volume:
   - "0.5"
-manufacturer: carlsberg
-aliases:
-  - Квас тарас flower power
-types:
-  - kvass
+caffeine: 0
+alco: 0
+availability: 4
 related:
   - "[[Fanta Shokata Zero Sugar|Fanta Shokata Zero Sugar]]"
   - "[[Садочок яблуко-виноград|Садочок яблуко-виноград]]"
-createdAt: 2024-08-18
-alco: 0
-caffeine: 0
+tags:
+  - package/canpack
 ---
 **Квас тарас flower power** зі смаком квітів бузини та лемонграсу. По смаку мене попереджали, що воно максимально незвичне/прокляте
 

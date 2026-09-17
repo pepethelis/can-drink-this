@@ -1,33 +1,33 @@
 ---
-status: published
 aliases:
   - Borjomi aromati citrus & ginger root
+summary:
+status: published
 externalUrl: https://t.me/kallection/37965
-brand: borjomi/aromati
+publishedAt: 2026-08-08
+createdAt: 2026-07-16
+cover: "[[IMG_5048.jpeg]]"
 types:
   - water
+brand: borjomi/aromati
 taste:
   - citrus
   - ginger
-publishedAt: 2026-08-08
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[IMG_5048.jpeg]]"
-availability: 4
-summary:
 primaryColors:
   - blue
   - yellow
   - white
   - red
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine: 0
 volume:
   - "0.33"
-createdAt: 2026-07-16
+caffeine: 0
 alco: 0
+availability: 4
+favorite:
 ---
 **Borjomi aromati citrus & ginger root**. Офіційний смак - цитрус і корень імбиря
 

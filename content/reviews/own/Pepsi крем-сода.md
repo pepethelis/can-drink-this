@@ -1,33 +1,34 @@
 ---
+aliases:
+  - Pepsi крем-сода
+  - Пепсі крем-сода
+summary:
 status: published
-tags:
 externalUrl: https://t.me/kallection/37035
+publishedAt: 2026-06-30
+createdAt: 2026-06-13
+cover: "[[IMG_3529.jpeg]]"
+types:
+  - fizzy
 brand: pepsi
 taste:
   - cream soda
-publishedAt: 2026-06-30
-favorite:
-container:
-  - can
 sweeteners:
   - aspartame
   - acesulfame
   - sucralose
-cover: "[[IMG_3529.jpeg]]"
-availability: 4
-summary:
+container:
+  - can
 primaryColors:
   - brown
   - creme
 manufacturer: Quadrant amroq baverages SRL
-caffeine: 0
 volume:
   - "0.33"
-aliases:
-  - Pepsi крем-сода
-  - Пепсі крем-сода
-types:
-  - fizzy
+caffeine: 0
+alco: 0
+availability: 4
+favorite:
 related:
   - "[[Cola default|Coca cola]]"
   - "[[Cola default]]"
@@ -36,8 +37,7 @@ related:
   - "[[Cola zero 0.15]]"
   - "[[Dr pepper default]]"
   - "[[Dr pepper cherry]]"
-createdAt: 2026-06-13
-alco: 0
+tags:
 ---
 **Pepsi крем-сода**. Офіційний смак - власне крем-сода
 

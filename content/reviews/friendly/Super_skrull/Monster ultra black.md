@@ -1,22 +1,22 @@
 ---
-author: super_skrull
 aliases:
   - Monster ultra black
-publishedAt: 2026-09-04
+summary:
 status: published
+externalUrl: https://t.me/super_skrulling/4189
+publishedAt: 2026-09-04
+cover: "[[photo_2026-09-04_08-30-57.jpg]]"
+types:
+  - energy
 brand: monster/ultra
+taste:
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2026-09-04_08-30-57.jpg]]"
-externalUrl: https://t.me/super_skrulling/4189
 caffeine: 30
 alco: 0
+author: super_skrull
 ---
 **M∅NSTER ENERGY ULTRA BLACK**  
 

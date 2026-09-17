@@ -1,22 +1,22 @@
 ---
-author: super_skrull
 aliases:
   - Nonstop spark
-publishedAt:
+summary:
 status: published
+publishedAt:
+cover: "[[photo_2025-11-02_12-40-31.jpg]]"
+types:
+  - energy
 brand: nonstop
+taste:
+  - pineapple
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - pineapple
-types:
-  - energy
-cover: "[[photo_2025-11-02_12-40-31.jpg]]"
 caffeine: 32
 alco: 0
+author: super_skrull
 ---
 **NON STOP SPARK ZERO SUGAR**  
 

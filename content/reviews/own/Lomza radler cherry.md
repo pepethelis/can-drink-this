@@ -1,33 +1,33 @@
 ---
-status: needs update
-tags:
-  - country/poland
-externalUrl: https://t.me/kallection/22352
-brand: lomza
-taste:
-  - cherry
-container:
-  - can
-publishedAt: 2024-09-03
-cover: "[[IMG_7851.jpg]]"
-sweeteners:
-  - juice
-  - sugar
-availability: 2
-volume:
-  - "0.5"
-alco: 0
-caffeine: 0
-primaryColors:
-  - red
-manufacturer: van pur
 aliases:
   - Lomza radler cherry
+status: needs update
+externalUrl: https://t.me/kallection/22352
+publishedAt: 2024-09-03
+createdAt: 2024-09-03
+cover: "[[IMG_7851.jpg]]"
 types:
   - alco
   - radler
-createdAt: 2024-09-03
+brand: lomza
+taste:
+  - cherry
+sweeteners:
+  - juice
+  - sugar
+container:
+  - can
+primaryColors:
+  - red
+manufacturer: van pur
+volume:
+  - "0.5"
+caffeine: 0
+alco: 0
+availability: 2
 old_related: true
+tags:
+  - country/poland
 ---
 **LOMZA Radler зі смаком яблука та вишні**
 

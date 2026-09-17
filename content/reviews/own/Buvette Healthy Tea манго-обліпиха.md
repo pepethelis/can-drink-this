@@ -1,25 +1,25 @@
 ---
-status: prebuild
 aliases:
   - Buvette Healthy Tea манго-обліпиха
+summary:
+status: prebuild
 externalUrl:
-brand:
+publishedAt:
+cover: "[[default.png]]"
 types:
   - tea
+brand:
 taste:
-publishedAt:
-favorite:
+sweeteners:
 container:
   - plastic
-sweeteners:
-cover: "[[default.png]]"
-availability:
-summary:
 primaryColors:
 manufacturer:
-caffeine: 0
 volume:
+caffeine: 0
 alco: 0
+availability:
+favorite:
 ---
 **Buvette Healthy Tea манго-обліпиха**. Офіційний смак - ==СМАК==
 

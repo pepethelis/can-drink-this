@@ -1,21 +1,21 @@
 ---
-author: decepti_on
 aliases:
   - Jett orange
-publishedAt: 2025-10-08
-status: published
-brand: jett
-container:
-  - can
-volume:
 summary: Огляд на джетт манго апельсин
+status: published
+externalUrl: https://t.me/sonechkin_rzekich/33702
+publishedAt: 2025-10-08
+cover:
+types:
+  - energy
+brand: jett
 taste:
   - mango
   - orange
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33702
+container:
+  - can
+volume:
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33701
   - https://t.me/sonechkin_rzekich/33702

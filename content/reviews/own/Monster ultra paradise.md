@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Monster ultra paradise
 status: published
-tags:
-  - package/canpack
-  - country/poland
 externalUrl: https://t.me/kallection/32398
+publishedAt: 2025-10-22
+createdAt: 2025-10-08
+cover: "[[IMG_3292.jpg]]"
+types:
+  - energy
 brand: monster/ultra
 taste:
   - kivi
   - lime
-container:
-  - can
-publishedAt: 2025-10-22
-favorite: true
-cover: "[[IMG_3292.jpg]]"
 sweeteners:
   - maltodextrin
   - acesulfame
   - sucralose
-availability: 3
-caffeine: 30
-volume:
-  - "0.5"
+container:
+  - can
 primaryColors:
   - green
 manufacturer: monster energy limited
-aliases:
-  - Monster ultra paradise
-types:
-  - energy
-createdAt: 2025-10-08
-old_related: true
+volume:
+  - "0.5"
+caffeine: 30
 alco: 0
+availability: 3
+favorite: true
+old_related: true
+tags:
+  - package/canpack
+  - country/poland
 ---
 **Monster ultra paradise**. Офіційний смак на банці не вказано, але на сайті - "Kiwi Lime with a hint of Cucumber"
 

@@ -1,22 +1,22 @@
 ---
-author: sanb_s
 aliases:
   - Monster juiced khaotic
-publishedAt: 2025-02-13
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4454
+publishedAt: 2025-02-13
+cover: "[[photo_2025-02-13_11-25-19.jpg]]"
+types:
+  - energy
 brand: monster/juiced
+taste:
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-02-13_11-25-19.jpg]]"
-externalUrl: https://t.me/ukr_satan/4454
 caffeine: 32
 alco: 0
+author: sanb_s
 ---
 Ще одине #енергохарчування з серії Juised Mфnster - KHAOTIC  
 

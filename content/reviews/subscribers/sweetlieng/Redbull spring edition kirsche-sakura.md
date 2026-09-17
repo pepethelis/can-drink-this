@@ -1,20 +1,20 @@
 ---
 author: sweetlieng
-container:
-  - can
-taste:
-  - cherry
+aliases:
+  - Redbull spring edition kirsche-sakura
+status: published
+externalUrl: https://t.me/kallection/34765
+publishedAt: 2026-02-22
+cover: "[[photo_2026-02-22_17-00-01.jpg]]"
 types:
   - energy
 brand: redbull/edition
-publishedAt: 2026-02-22
+taste:
+  - cherry
+container:
+  - can
 volume:
   - "0.33"
-status: published
-externalUrl: https://t.me/kallection/34765
-aliases:
-  - Redbull spring edition kirsche-sakura
-cover: "[[photo_2026-02-22_17-00-01.jpg]]"
 alco: 0
 ---
 Redbull spring edition kirsche-sakura

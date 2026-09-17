@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Borjomi limonati mandarin
+summary:
 status: published
-tags:
 externalUrl: https://t.me/kallection/38369
+publishedAt: 2026-08-26
+createdAt: 2026-07-31
+cover: "[[IMG_5959.jpeg]]"
+types:
+  - fizzy
 brand: borjomi/limonati
 taste:
   - mandarin
-publishedAt: 2026-08-26
-favorite:
-container:
-  - can
-  - glass
 sweeteners:
   - sugar
   - juice/apple
   - juice/mandarin
   - juice/black carrot
-cover: "[[IMG_5959.jpeg]]"
-availability: 5
-summary:
+container:
+  - can
+  - glass
 primaryColors:
   - orange
   - white
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine: 0
 volume:
   - "0.33"
   - "0.5"
-aliases:
-  - Borjomi limonati mandarin
-types:
-  - fizzy
-createdAt: 2026-07-31
+caffeine: 0
 alco: 0
+availability: 5
+favorite:
+tags:
 ---
 **Borjomi limonati mandarin**. Офіційний смак - мандарин
 

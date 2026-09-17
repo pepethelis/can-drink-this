@@ -1,23 +1,23 @@
 ---
-author: decepti_on
 aliases:
   - Burn orange fire
-publishedAt:
+summary: Огляд на Берн з апельсином
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33303
+publishedAt:
+cover:
+types:
+  - energy
 brand: burn
+taste:
+  - orange
 container:
   - can
 volume:
   - "0.25"
-summary: Огляд на Берн з апельсином
-taste:
-  - orange
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33303
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33302
-alco: 0
 ---
 Огляд на Берн з апельсином

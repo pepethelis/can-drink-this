@@ -1,35 +1,35 @@
 ---
-status: published
 aliases:
   - NS bubblegum
+summary:
+status: published
 externalUrl: https://t.me/kallection/38764
-brand: ns
+publishedAt: 2026-09-11
+createdAt: 2026-09-11
+cover: "[[IMG_7877.jpeg]]"
 types:
   - energy
+brand: ns
 taste:
   - bubblegum
-publishedAt: 2026-09-11
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - acesulfame
   - sucralose
-cover: "[[IMG_7877.jpeg]]"
-availability: 2
-summary:
+container:
+  - can
 primaryColors:
   - pink
   - silver
 manufacturer: ООО "здоровьіе продуктьі"
-caffeine: 33
 volume:
   - "0.45"
+caffeine: 33
 alco: 0
-createdAt: 2026-09-11
 sponsor:
   - dggdyh
+availability: 2
+favorite:
 ---
 **NS bubblegum**. Офіційний смак - баблгам
 

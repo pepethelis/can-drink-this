@@ -1,34 +1,34 @@
 ---
-status: to create
 aliases:
   - Tiger mango max
+summary:
+status: to create
 externalUrl:
-brand: tiger
+publishedAt:
+createdAt:
+cover: "[[default.png]]"
 types:
   - energy
+brand: tiger
 taste:
   - mango
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - acesulfame
   - sucralose
   - inositol
-cover: "[[default.png]]"
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - yellow
   - black
 manufacturer: maspex
-caffeine: 48
 volume:
   - "0.25"
+caffeine: 48
 alco: 0
-createdAt:
+availability: 3
+favorite:
 ---
 **Tiger mango max**. Офіційний смак - манго
 

@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Candy Can bubble gum
+summary:
 status: published
-tags:
-  - package/amp
 externalUrl: https://t.me/kallection/38205
+publishedAt: 2026-08-19
+createdAt: 2026-08-15
+cover: "[[IMG_6507.jpeg]]"
+types:
+  - fizzy
 brand: candy can
 taste:
   - bubblegum
-publishedAt: 2026-08-19
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - acesulfame
   - sucralose
-cover: "[[IMG_6507.jpeg]]"
-availability: 2
-summary:
-related:
-sponsor:
-  - gdgood
-volume:
-  - "0.33"
+container:
+  - can
 primaryColors:
   - pink
 manufacturer: Candy Can
-aliases:
-  - Candy Can bubble gum
-types:
-  - fizzy
-createdAt: 2026-08-15
+volume:
+  - "0.33"
 caffeine: 0
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+related:
+tags:
+  - package/amp
 ---
 **Candy Can bubble gum**. Офіційний смак - бубблегум
 

@@ -1,24 +1,24 @@
 ---
-author: decepti_on
 aliases:
   - Battery juiced peach lemonade
-publishedAt: 2025-09-12
+summary: Огляд на енергетик баттері лимон персик та сирочок лимонний
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33640
+publishedAt: 2025-09-12
+cover:
+types:
+  - energy
 brand: battery/juiced
+taste:
+  - peach
 container:
   - can
 volume:
-summary: Огляд на енергетик баттері лимон персик та сирочок лимонний
-taste:
-  - peach
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33640
+caffeine: 32
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33638
   - https://t.me/sonechkin_rzekich/33639
-alco: 0
-caffeine: 32
 ---
 Огляд на енергетик баттері лимон персик та сирочок лимонний

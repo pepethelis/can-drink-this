@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Hike vibe income tax
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/33812
+publishedAt: 2025-12-28
+createdAt: 2025-12-11
+cover: "[[IMG_6770.jpeg]]"
+types:
+  - alco
 brand: hike/vibe
 taste:
   - cocktail/income tax
-cover: "[[IMG_6770.jpeg]]"
-publishedAt: 2025-12-28
 sweeteners:
   - glucose-fructose syrup
   - sugar
-availability: 4
-volume:
-  - "0.5"
-alco: 4.3
-primaryColors:
-  - yellow
-manufacturer: оболонь
 container:
   - can
   - plastic
-aliases:
-  - Hike vibe income tax
-types:
-  - alco
+primaryColors:
+  - yellow
+manufacturer: оболонь
+volume:
+  - "0.5"
+caffeine: 0
+alco: 4.3
+availability: 4
 related:
   - "[[Garage mandarin]]"
   - "[[Garage hardcore]]"
   - "[[Garage pineberry&mint]]"
-createdAt: 2025-12-11
-caffeine: 0
+tags:
+  - package/canpack
 ---
 Типу гараж **Hike vibe income tax**. Офіційний смак - коктейль "income tax"
 

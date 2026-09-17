@@ -1,22 +1,22 @@
 ---
-author: super_skrull
 aliases:
   - Monster nitro cosmic peach
-publishedAt: 2025-09-28
+summary:
 status: published
+publishedAt: 2025-09-28
+cover: "[[photo_2025-09-28_11-45-15.jpg]]"
+types:
+  - energy
 brand: monster/nitro
+taste:
+  - peach
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - peach
-types:
-  - energy
-cover: "[[photo_2025-09-28_11-45-15.jpg]]"
 caffeine: 32
 alco: 0
+author: super_skrull
 ---
 **M∅NSTER ENERGY "COSMIC PEACH"**  
 

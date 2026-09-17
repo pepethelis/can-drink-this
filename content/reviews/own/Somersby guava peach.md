@@ -1,40 +1,40 @@
 ---
-status: published
 aliases:
   - Somersby персик-гуава
+summary:
+status: published
 externalUrl: https://t.me/kallection/37515
-brand: somersby
+publishedAt: 2026-07-19
+createdAt: 2026-07-03
+cover: "[[IMG_4251.jpeg]]"
 types:
   - alco
   - cider
+brand: somersby
 taste:
   - peach
   - guava
-publishedAt: 2026-07-19
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - glucose-fructose syrup
-cover: "[[IMG_4251.jpeg]]"
-availability: 4
-summary:
+container:
+  - can
 primaryColors:
   - peach
   - green
   - creme
 manufacturer: carlsberg
-caffeine: 0
 volume:
   - "0.5"
+caffeine: 0
+alco: 5.7
+availability: 4
+favorite:
 related:
   - "[[Gosser natur radler|Gosser natur radler]]"
   - "[[Pinkel cider melon|Pinkel cider melon]]"
   - "[[Toosecco, сидр сухий|Toosecco, сидр сухий]]"
   - "[[Happy Joe dry apple cider|Happy Joe dry apple cider]]"
-createdAt: 2026-07-03
-alco: 5.7
 ---
 **Somersby**. Офіційний смак - персик-гуава
 

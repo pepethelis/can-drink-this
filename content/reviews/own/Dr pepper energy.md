@@ -1,36 +1,35 @@
 ---
-alco: 0
-
+aliases:
+  - Dr pepper energy
 status: published
-tags:
-  - package/amp
 externalUrl: https://t.me/kallection/30585
+publishedAt: 2025-08-02
+createdAt: 2025-08-02
+cover: "[[IMG_0857.jpg]]"
+types:
+  - energy
 brand: dr pepper
 taste:
   - CLASSIC
   - ORIGINAL
-container:
-  - can
-publishedAt: 2025-08-02
-cover: "[[IMG_0857.jpg]]"
 sweeteners:
   - sugar
   - inositol
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - gray
 manufacturer: coca cola
-aliases:
-  - Dr pepper energy
-types:
-  - energy
-createdAt: 2025-08-02
+volume:
+  - "0.5"
+caffeine: 32
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
 old_related: true
+tags:
+  - package/amp
 ---
 **Dr Pepper energy**. Офіційний смак - доктор пеппер
 

@@ -1,16 +1,17 @@
 ---
+aliases:
+  - Komodo cactus
+summary:
 status: published
-tags:
-  - country/poland
-  - package/bagpak
 externalUrl: https://t.me/kallection/38434
+publishedAt: 2026-08-29
+createdAt: 2026-08-01
+cover: "[[IMG_5982.jpeg]]"
+types:
+  - energy
 brand: komodo
 taste:
   - cactus
-publishedAt: 2026-08-29
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - juice/pear
@@ -18,27 +19,26 @@ sweeteners:
   - extract/guarana
   - extract/ginseng root
   - inositol
-cover: "[[IMG_5982.jpeg]]"
-availability: 3
-summary:
-volume:
-  - "0.25"
-caffeine: 32
-sponsor:
-  - ritual_huitual
-manufacturer: KED Krasnodębski Sp. K
+container:
+  - can
 primaryColors:
   - gray
   - white
+manufacturer: KED Krasnodębski Sp. K
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+sponsor:
+  - ritual_huitual
+availability: 3
+favorite:
 related:
   - "[[Crazy wolf blue kaktus-feigen|Crazy wolf blue kaktus-feigen]]"
   - "[[content/reviews/own/Redbull green edition|Redbull green edition]]"
-aliases:
-  - Komodo cactus
-types:
-  - energy
-createdAt: 2026-08-01
-alco: 0
+tags:
+  - country/poland
+  - package/bagpak
 ---
 **Komodo cactus**. Офіційний смак - кактус
 

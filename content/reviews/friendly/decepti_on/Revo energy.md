@@ -1,22 +1,22 @@
 ---
-author: decepti_on
 aliases:
   - Revo energy
-publishedAt: 2025-11-22
+summary: Огляд на рево БЕЗАЛКОГОЛЬНЕ
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33761
+publishedAt: 2025-11-22
+cover:
+types:
+  - energy
 brand: revo/energy
+taste:
 container:
   - can
 volume:
   - "0.25"
-summary: Огляд на рево БЕЗАЛКОГОЛЬНЕ
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33761
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33760
-alco: 0
 ---
 Огляд на рево БЕЗАЛКОГОЛЬНЕ

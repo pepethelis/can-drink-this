@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Чернігівське біле fruter капуоранж
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/36689
+publishedAt: 2026-06-13
+createdAt: 2026-05-22
+cover: "[[IMG_2428.jpeg]]"
+types:
+  - alco
+  - radler
 brand: чернігівське
 taste:
   - coffee
   - orange
-container:
-  - can
-publishedAt: 2026-06-13
-cover: "[[IMG_2428.jpeg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
-availability: 4
-volume:
-  - "0.5"
-alco: 4
+container:
+  - can
 primaryColors:
   - brown
   - orange
   - white
 manufacturer: чернігівське
-aliases:
-  - Чернігівське біле fruter капуоранж
-types:
-  - alco
-  - radler
+volume:
+  - "0.5"
+caffeine: 0
+alco: 4
+availability: 4
 related:
   - "[[Gardenz cola]]"
   - "[[Львівське радлер яблуко]]"
@@ -35,8 +35,8 @@ related:
   - "[[Gosser natur radler]]"
   - "[[Lomza radler cherry]]"
   - "[[Lomza radler watermelon]]"
-createdAt: 2026-05-22
-caffeine: 0
+tags:
+  - package/canpack
 ---
 Радлер **Чернігівське біле fruter**. Офіційний смак - капуоранж/кава-апельсин/джміль
 

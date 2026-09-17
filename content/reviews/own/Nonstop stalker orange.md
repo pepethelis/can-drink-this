@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Nonstop stalker orange
+  - Нонстоп сталкер помаранчевий
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/21821
+publishedAt: 2024-08-14
+createdAt: 2024-08-14
+cover: "[[IMG_7038.jpg]]"
+types:
+  - energy
 brand: nonstop/stalker
 taste:
   - watermelon
-container:
-  - can
-publishedAt: 2024-08-14
-cover: "[[IMG_7038.jpg]]"
-favorite: true
 sweeteners:
   - sugar
-availability: 1
-volume:
-  - "0.5"
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - orange
   - black
 manufacturer: new products
-aliases:
-  - Nonstop stalker orange
-  - Нонстоп сталкер помаранчевий
-types:
-  - energy
-createdAt: 2024-08-14
-old_related: true
+volume:
+  - "0.5"
+  - "0.25"
+caffeine: 32
 alco: 0
+availability: 1
+favorite: true
+old_related: true
+tags:
+  - package/canpack
 ---
 **Nonstop stalker**, він же кавунячий сталкер
 

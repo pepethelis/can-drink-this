@@ -1,38 +1,38 @@
 ---
-status: published
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/36242
-brand: mojo
-taste:
-  - chinotto
-publishedAt: 2026-05-22
-favorite:
-container:
-  - can
-sweeteners:
-  - sugar
-  - extract
-cover: "[[IMG_0903.jpeg]]"
-availability: 5
-summary:
-volume:
-  - "0.33"
-  - "1"
-  - "0.5"
-primaryColors:
-  - orange
-manufacturer: new products
-updatedAt: 2026-06-02
 aliases:
   - Mojo chinotto
   - Моджо чінотто
   - Моджо помаранчеве
+summary:
+status: published
+externalUrl: https://t.me/kallection/36242
+publishedAt: 2026-05-22
+updatedAt: 2026-06-02
+createdAt: 2026-04-17
+cover: "[[IMG_0903.jpeg]]"
 types:
   - fizzy
-createdAt: 2026-04-17
+brand: mojo
+taste:
+  - chinotto
+sweeteners:
+  - sugar
+  - extract
+container:
+  - can
+primaryColors:
+  - orange
+manufacturer: new products
+volume:
+  - "0.33"
+  - "1"
+  - "0.5"
 caffeine: 0
 alco: 0
+availability: 5
+favorite:
+tags:
+  - package/canpack
 ---
 **Mojo chinotto**. Офіційний смак - чінотто (така собі апельсинова альтернативна кола)
 

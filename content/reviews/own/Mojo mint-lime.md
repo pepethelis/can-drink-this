@@ -1,40 +1,40 @@
 ---
-status: published
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/36156
-brand: mojo
-taste:
-  - mint
-  - lime
-publishedAt: 2026-05-17
-favorite:
-container:
-  - can
-sweeteners:
-  - sugar
-  - juice/apple
-  - juice/lime
-cover: "[[IMG_0898.jpeg]]"
-availability: 5
-summary:
-volume:
-  - "0.33"
-  - "1"
-  - "0.5"
-primaryColors:
-  - green
-manufacturer: new products
-updatedAt: 2026-06-02
 aliases:
   - Mojo mint-lime
   - Моджо м'ята-лайм
   - Моджо зелене
+summary:
+status: published
+externalUrl: https://t.me/kallection/36156
+publishedAt: 2026-05-17
+updatedAt: 2026-06-02
+createdAt: 2026-04-17
+cover: "[[IMG_0898.jpeg]]"
 types:
   - fizzy
-createdAt: 2026-04-17
+brand: mojo
+taste:
+  - mint
+  - lime
+sweeteners:
+  - sugar
+  - juice/apple
+  - juice/lime
+container:
+  - can
+primaryColors:
+  - green
+manufacturer: new products
+volume:
+  - "0.33"
+  - "1"
+  - "0.5"
 caffeine: 0
 alco: 0
+availability: 5
+favorite:
+tags:
+  - package/canpack
 ---
 **Mojo mint-lime**. Офіційний смак - м'ята та лайм
 

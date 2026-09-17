@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Maison perrier energize peche
+summary:
 status: published
-tags:
-  - package/amp
-  - country/france
 externalUrl: https://t.me/kallection/36674
+publishedAt: 2026-06-13
+createdAt: 2026-05-29
+cover: "[[IMG_2629.jpeg]]"
+types:
+  - energy
 brand: maison perrier/energize
 taste:
   - peach
-publishedAt: 2026-06-13
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - extract/green tea
-cover: "[[IMG_2629.jpeg]]"
-availability: 2
-summary:
-related:
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - orange
 manufacturer: Nestlé Waters
-aliases:
-  - Maison perrier energize peche
-types:
-  - energy
-createdAt: 2026-05-29
+volume:
+  - "0.25"
+caffeine: 32
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+related:
+tags:
+  - package/amp
+  - country/france
 ---
 **Maison perrier energize peche**. Офіційний смак - peche/персик
 

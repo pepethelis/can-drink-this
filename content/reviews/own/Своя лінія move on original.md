@@ -1,39 +1,39 @@
 ---
+aliases:
+  - Своя лінія move on original
+summary:
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/35551
+publishedAt: 2026-04-09
+updatedAt: 2026-06-02
+createdAt: 2026-04-03
+cover: "[[IMG_0477.jpeg]]"
+types:
+  - energy
 brand: своя лінія
 taste:
   - CLASSIC
-publishedAt: 2026-04-09
-favorite:
-container:
-  - can
 sweeteners:
   - glucose-fructose syrup
   - sugar
   - extract/guarana
   - extract/damiana
-cover: "[[IMG_0477.jpeg]]"
-availability: 4
-summary:
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - red
   - black
   - gray
 manufacturer: оболонь
-updatedAt: 2026-06-02
-aliases:
-  - Своя лінія move on original
-types:
-  - energy
-createdAt: 2026-04-03
-old_related: true
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+availability: 4
+favorite:
+old_related: true
+tags:
+  - package/canpack
 ---
 **Своя лінія move on original**. Офіційний смак - класичний
 

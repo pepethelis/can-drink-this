@@ -1,31 +1,31 @@
 ---
+aliases:
+  - Garage zero lime
 status: published
-tags:
 externalUrl: https://t.me/kallection/23517
+publishedAt: 2024-10-21
+createdAt: 2024-10-21
+cover: "[[IMG_9633.jpg]]"
+types:
+  - fizzy
 brand: garage/zero
 taste:
   - lime
-container:
-  - can
-publishedAt: 2024-10-21
-cover: "[[IMG_9633.jpg]]"
 sweeteners:
   - glucose-fructose syrup
   - extract/acacia
-availability: 4
-volume:
-  - "0.5"
+container:
+  - can
 primaryColors:
   - green
 manufacturer: carlsberg
-aliases:
-  - Garage zero lime
-types:
-  - fizzy
-createdAt: 2024-10-21
-old_related: true
-alco: 0
+volume:
+  - "0.5"
 caffeine: 0
+alco: 0
+availability: 4
+old_related: true
+tags:
 ---
 **Garage fun zero**, зелений. Офіційний смак - **lime**
 

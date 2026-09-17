@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Borjomi limonati citrus
+summary:
 status: to create
-tags:
 externalUrl:
+publishedAt:
+cover: "[[default.png]]"
+types:
+  - fizzy
 brand: borjomi/limonati
 taste:
   - citrus
-publishedAt:
-favorite:
-container:
-  - can
-  - glass
 sweeteners:
   - sugar
   - juice/lemon
   - juice/lime
   - juice/tangerine
-cover: "[[default.png]]"
-availability:
-summary:
+container:
+  - can
+  - glass
 primaryColors:
   - blue
   - white
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine: 0
 volume:
   - "0.33"
   - "0.5"
-aliases:
-  - Borjomi limonati citrus
-types:
-  - fizzy
-old_related: true
+caffeine: 0
 alco: 0
+availability:
+favorite:
+old_related: true
+tags:
 ---
 **Borjomi limonati citrus**. Офіційний смак - цитрус (або лимонний судячи з дизайну)
 

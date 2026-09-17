@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Bummer espresso
+  - Буммер еспресо
+summary:
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/36248
+publishedAt: 2026-05-22
+createdAt: 2026-04-27
+cover: "[[IMG_1509.jpeg]]"
+types:
+  - alco
+  - energy
 brand: bummer
 taste:
   - espresso
-publishedAt: 2026-05-22
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[IMG_1509.jpeg]]"
-availability: 4
-summary:
-volume:
-  - "0.33"
-caffeine: 15
-alco: 7
 primaryColors:
   - brown
   - yellow
 manufacturer: tairovo
-aliases:
-  - Bummer espresso
-  - Буммер еспресо
-types:
-  - alco
-  - energy
-createdAt: 2026-04-27
+volume:
+  - "0.33"
+caffeine: 15
+alco: 7
+availability: 4
+favorite:
+tags:
+  - package/canpack
 ---
 Кавовий алко-енержи **Bummer espresso**. Офіційний смак - еспресо
 

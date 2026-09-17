@@ -1,36 +1,36 @@
 ---
-status: published
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/30454
 aliases:
   - Nonstop stalker violet
   - Nonstop stalker moonlight
   - Нонстоп манго фіолетовий
+status: published
+externalUrl: https://t.me/kallection/30454
+publishedAt: 2025-07-27
+createdAt: 2025-06-08
+cover: "[[IMG_7591.jpg]]"
+types:
+  - energy
 brand: nonstop/stalker
 taste:
   - mango
   - pear
-container:
-  - can
-publishedAt: 2025-07-27
-cover: "[[IMG_7591.jpg]]"
 sweeteners:
   - sugar
-availability: 1
-volume:
-  - "0.5"
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - violet
   - black
 manufacturer: new products
-types:
-  - energy
-createdAt: 2025-06-08
-old_related: true
+volume:
+  - "0.5"
+  - "0.25"
+caffeine: 32
 alco: 0
+availability: 1
+old_related: true
+tags:
+  - package/canpack
 ---
 **Nonstop stalker moonlight**, він же фіолетовий нонстоп сталкер. Офіційний смак - манго-груша
 

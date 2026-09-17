@@ -1,20 +1,20 @@
 ---
-author: sanb_s
 aliases:
   - Monster rehab tea + wild berry
-publishedAt: 2026-07-05
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/7927
+publishedAt: 2026-07-05
+cover: "[[photo_2026-07-05_19-37-48.jpg]]"
+types:
+  - energy
 brand: monster/rehab
+taste:
 container:
   - can
 volume:
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2026-07-05_19-37-48.jpg]]"
-externalUrl: https://t.me/ukr_satan/7927
 alco: 0
+author: sanb_s
 ---
 Mфnster Rehab чай + лісові ягоди  
 

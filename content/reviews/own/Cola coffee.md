@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Cola coffee
+  - Кола кава
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/27459
+publishedAt: 2025-04-04
+createdAt: 2025-04-04
+cover: "[[IMG_4785.jpg]]"
+types:
+  - fizzy
 brand: cola
 taste:
   - cola
   - coffee
-container:
-  - can
-publishedAt: 2025-04-04
-cover: "[[IMG_4785.jpg]]"
 sweeteners:
   - acesulfame
   - cyclamate
   - aspartame
-availability: 5
+container:
+  - can
+primaryColors:
+  - red
+manufacturer: coca cola
 volume:
   - "0.25"
 caffeine: 16
 alco: 0
-primaryColors:
-  - red
-manufacturer: coca cola
-aliases:
-  - Cola coffee
-  - Кола кава
-types:
-  - fizzy
-createdAt: 2025-04-04
+availability: 5
 old_related: true
+tags:
+  - package/canpack
 ---
 **Cola coffee**, срібна. Офіційний смак - кола+кава
 

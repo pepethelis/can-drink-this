@@ -1,22 +1,22 @@
 ---
-author: sanb_s
 aliases:
   - Своя лінія reCharge
-publishedAt: 2025-04-08
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/5178
+publishedAt: 2025-04-08
+cover: "[[photo_2025-04-08_10-30-48.jpg]]"
+types:
+  - energy
 brand: своя лінія
+taste:
 container:
   - plastic
 volume:
   - "1"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-04-08_10-30-48.jpg]]"
-externalUrl: https://t.me/ukr_satan/5178
-alco: 0
 caffeine: 32
+alco: 0
+author: sanb_s
 ---
 Я до речі вже тиждень ніяк не напишу огляд на це #енергохарчування ⚡️⚡️⚡️
 

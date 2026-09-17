@@ -1,30 +1,31 @@
 ---
+aliases:
+  - Zibert grapefruit
 status: published
-tags:
 externalUrl: https://t.me/kallection/32133
+publishedAt: 2025-10-12
+createdAt: 2025-09-26
+cover: "[[IMG_2815.jpg]]"
+types:
+  - alco
+  - radler
 brand: zibert
 taste:
   - grapefruit
-container:
-  - can
-publishedAt: 2025-10-12
-cover: "[[IMG_2815.jpg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
-availability: 4
-volume:
-  - "0.5"
-alco: 0
+container:
+  - can
 primaryColors:
   - orange
   - white
 manufacturer: оболонь
-aliases:
-  - Zibert grapefruit
-types:
-  - alco
-  - radler
+volume:
+  - "0.5"
+caffeine: 0
+alco: 0
+availability: 4
 related:
   - "[[Львівське радлер лимон]]"
   - "[[Львівське радлер яблуко]]"
@@ -32,8 +33,7 @@ related:
   - "[[Lomza radler cherry]]"
   - "[[Lomza radler watermelon]]"
   - "[[Schöfferhofer wild cherry]]"
-createdAt: 2025-09-26
-caffeine: 0
+tags:
 ---
 Радлер **Zibert grapefruit**. Офіційний смак - грейпфрут
 

@@ -1,21 +1,21 @@
 ---
-author: sanb_s
 aliases:
   - C4 twisted limeade
-publishedAt: 2025-10-24
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/6823
+publishedAt: 2025-10-24
+cover: "[[photo_2025-10-24_13-02-33.jpg]]"
+types:
+  - energy
 brand: c4
+taste:
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-10-24_13-02-33.jpg]]"
-externalUrl: https://t.me/ukr_satan/6823
 alco: 0
+author: sanb_s
 ---
 Огляд на ще один [С4](https://t.me/ukr_satan/6745) тепер Twisted Limeade  
 

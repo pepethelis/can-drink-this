@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Redbull wisnia sakura
+summary:
 status: prebuild
-tags:
 externalUrl:
+publishedAt:
+cover: "[[default.png]]"
+types:
+  - energy
 brand: redbull/edition
 taste:
   - cherry/sakura
-publishedAt:
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[default.png]]"
-availability: 3
-summary:
 primaryColors:
   - white
   - pink
 manufacturer: redbull
-caffeine: 32
-sponsor:
-  - makmed1337
 volume:
   - "0.25"
-aliases:
-  - Redbull wisnia sakura
-types:
-  - energy
+caffeine: 32
 alco: 0
+sponsor:
+  - makmed1337
+availability: 3
+favorite:
+tags:
 ---
 **Redbull wisnia sakura**. Офіційний смак - плоди сакури
 

@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Borjomi limonati pear
+summary:
 status: published
 externalUrl: https://t.me/kallection/38448
+publishedAt: 2026-08-29
+createdAt: 2026-08-03
+cover: "[[IMG_6064.jpeg]]"
+types:
+  - fizzy
 brand: borjomi/limonati
 taste:
   - pear
-publishedAt: 2026-08-29
-favorite:
-container:
-  - can
-  - glass
 sweeteners:
   - sugar
   - juice/apple
   - juice/pear
   - juice/lemon
-cover: "[[IMG_6064.jpeg]]"
-availability: 4
-summary:
+container:
+  - can
+  - glass
 primaryColors:
   - yellow
   - white
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine: 0
 volume:
   - "0.33"
-aliases:
-  - Borjomi limonati pear
-types:
-  - fizzy
-createdAt: 2026-08-03
+caffeine: 0
 alco: 0
+availability: 4
+favorite:
 ---
 **Borjomi limonati pear**. Офіційний смак - груша
 

@@ -1,34 +1,34 @@
 ---
-status: published
 aliases:
   - Jacobs ice presso classic
+summary:
+status: published
 externalUrl: https://t.me/kallection/38911
-brand: jacobs
+publishedAt: 2026-09-16
+createdAt: 2026-08-26
+cover: "[[IMG_7368.jpeg]]"
 types:
   - coffee
+brand: jacobs
 taste:
   - coffee
-publishedAt: 2026-09-16
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_7368.jpeg]]"
-availability: 4
-summary:
+container:
+  - can
 primaryColors:
   - brown
   - golden
   - green
 manufacturer: Hochwald Foods GmbH
-caffeine: 0
 volume:
   - "0.25"
+caffeine: 0
 alco: 0
+availability: 4
+favorite:
 related:
   - "[[Jacobs ice presso latte|Jacobs ice presso latte]]"
-createdAt: 2026-08-26
 ---
 **Jacobs ice presso classic**. Офіційний смак - класичний, тобто просто кавовий
 

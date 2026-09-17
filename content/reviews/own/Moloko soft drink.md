@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Moloko soft drink
 status: published
-tags:
-  - package/amp
 externalUrl: https://t.me/kallection/27983
+publishedAt: 2025-04-25
+createdAt: 2025-02-20
+cover: "[[IMG_5402.jpg]]"
+types:
+  - fizzy
 brand: moloko
 taste:
   - citrus
   - ginger
   - elderflower
-container:
-  - can
-publishedAt: 2025-04-25
-cover: "[[IMG_5402.jpg]]"
 sweeteners:
   - sugar
   - juice
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
+container:
+  - can
 primaryColors:
   - green
 manufacturer: Moloko Beverage GmbH
-aliases:
-  - Moloko soft drink
-types:
-  - fizzy
-createdAt: 2025-02-20
-old_related: true
-alco: 0
+volume:
+  - "0.25"
 caffeine: 0
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
+old_related: true
+tags:
+  - package/amp
 ---
 **Moloko**. Офіційний смак - **soft drink**
 

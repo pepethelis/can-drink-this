@@ -1,37 +1,36 @@
 ---
-alco: 0
-
+aliases:
+  - Nonstop stalker red
+  - Нонстоп сталкер червоний
+summary:
 status: published
-tags:
 externalUrl: https://t.me/kallection/36919
+publishedAt: 2026-06-25
+createdAt: 2026-06-17
+cover: "[[IMG_3528.jpeg]]"
+types:
+  - energy
 brand: nonstop/stalker
 taste:
   - cherry
   - rum
   - pineapple
-publishedAt: 2026-06-25
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_3528.jpeg]]"
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - pink
   - gray
 manufacturer: new products
-caffeine: 32
 volume:
   - "0.5"
   - "0.25"
-aliases:
-  - Nonstop stalker red
-  - Нонстоп сталкер червоний
-types:
-  - energy
-createdAt: 2026-06-17
+caffeine: 32
+alco: 0
+availability: 3
+favorite:
+tags:
 ---
 **Nonstop stalker red**. Офіційний смак не вказано, але згідно сайту це вишня-ром з нотками ананасу
 

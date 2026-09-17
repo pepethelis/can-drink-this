@@ -1,32 +1,31 @@
 ---
-
+aliases:
+  - Garage mandarin
 status: published
-tags:
 externalUrl: https://t.me/kallection/22005
+publishedAt: 2024-08-11
+createdAt: 2024-08-21
+cover: "[[IMG_7294.jpg]]"
+types:
+  - alco
 brand: garage
 taste:
   - mandarin
-container:
-  - plastic
-publishedAt: 2024-08-11
-cover: "[[IMG_7294.jpg]]"
 sweeteners:
   - glucose-fructose syrup
   - extract/malt
-availability: 5
-alco: 6
-caffeine: 0
-volume:
-  - "0.9"
+container:
+  - plastic
 primaryColors:
   - orange
 manufacturer: carlsberg
-aliases:
-  - Garage mandarin
-types:
-  - alco
-createdAt: 2024-08-21
+volume:
+  - "0.9"
+caffeine: 0
+alco: 6
+availability: 5
 old_related: true
+tags:
 ---
 **Garage Mandarin**🍊
 

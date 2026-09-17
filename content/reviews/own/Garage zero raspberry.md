@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Garage zero raspberry
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/23285
+publishedAt: 2024-10-11
+createdAt: 2024-10-11
+cover: "[[IMG_9455.jpg]]"
+types:
+  - fizzy
 brand: garage/zero
 taste:
   - raspberry
-container:
-  - can
-publishedAt: 2024-10-11
-cover: "[[IMG_9455.jpg]]"
 sweeteners:
   - glucose-fructose syrup
   - juice/black carrot
-availability: 4
-volume:
-  - "0.5"
+container:
+  - can
 primaryColors:
   - pink
 manufacturer: carlsberg
-aliases:
-  - Garage zero raspberry
-types:
-  - fizzy
-createdAt: 2024-10-11
-old_related: true
-alco: 0
+volume:
+  - "0.5"
 caffeine: 0
+alco: 0
+availability: 4
+old_related: true
+tags:
+  - package/canpack
 ---
 **Garage fun zero**, рожевий. Офіційний смак - **raspberry**
 

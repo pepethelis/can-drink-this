@@ -1,23 +1,23 @@
 ---
-author: sanb_s
 aliases:
   - Redbull red edition
-publishedAt: 2025-02-10
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4415
+publishedAt: 2025-02-10
+cover: "[[photo_2025-02-10_10-56-55.jpg]]"
+types:
+  - energy
 brand: redbull/edition
+taste:
+  - watermelon
 container:
   - can
 volume:
   - "0.25"
-summary:
-taste:
-  - watermelon
-cover: "[[photo_2025-02-10_10-56-55.jpg]]"
-types:
-  - energy
-externalUrl: https://t.me/ukr_satan/4415
 caffeine: 32
 alco: 0
+author: sanb_s
 ---
 Раптовий огляд на редбулівське кавуняче #енергохарчування 
 

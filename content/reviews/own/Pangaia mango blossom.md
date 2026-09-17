@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Pangaia mango blossom
+summary:
 status: published
-tags:
 externalUrl: https://t.me/kallection/37622
+publishedAt: 2026-07-22
+createdAt: 2026-06-25
+cover: "[[IMG_3878.jpeg]]"
+types:
+  - alco
 brand: pangaia
 taste:
   - mango
-publishedAt: 2026-07-22
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_3878.jpeg]]"
-availability: 4
-summary:
+container:
+  - can
 primaryColors:
   - orange
   - pink
   - white
 manufacturer: ТОВ "ЛВН Лімітед"
-caffeine: 0
-alco: 5
 volume:
   - "0.33"
-aliases:
-  - Pangaia mango blossom
-types:
-  - alco
-createdAt: 2026-06-25
+caffeine: 0
+alco: 5
+availability: 4
+favorite:
+tags:
 ---
 **Pangaia mango blossom**. Офіційний смак - манго
 

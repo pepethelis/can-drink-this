@@ -1,35 +1,35 @@
 ---
-status: needs update
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/22255
-brand: nonstop
-taste:
-  - orange
-  - tropical
-container:
-  - can
-publishedAt: 2024-08-30
-cover: "[[IMG_2404.jpg]]"
-sweeteners:
-  - sugar
-  - juice/black carrot
-availability: 1
-volume:
-  - "0.5"
-caffeine: 32
-primaryColors:
-  - orange
-manufacturer: new products
 aliases:
   - Nonstop ultra
   - Нонстоп ультра
   - Нонстоп помаранчевий
+status: needs update
+externalUrl: https://t.me/kallection/22255
+publishedAt: 2024-08-30
+createdAt: 2024-05-20
+cover: "[[IMG_2404.jpg]]"
 types:
   - energy
-createdAt: 2024-05-20
-old_related: true
+brand: nonstop
+taste:
+  - orange
+  - tropical
+sweeteners:
+  - sugar
+  - juice/black carrot
+container:
+  - can
+primaryColors:
+  - orange
+manufacturer: new products
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+availability: 1
+old_related: true
+tags:
+  - package/canpack
 ---
 **Nonstop ultra**, більш відомий як помаранчевий нонстоп
 

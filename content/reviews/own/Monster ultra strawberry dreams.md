@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Monster ultra strawberry dreams
+summary: Я рожевий єдиногір серед цукрових хмар
 status: published
-tags:
 externalUrl: https://t.me/kallection/38901
+publishedAt: 2026-09-16
+createdAt: 2026-08-28
+cover: "[[IMG_7513.jpeg]]"
+types:
+  - energy
 brand: monster/ultra
 taste:
   - strawberry
-publishedAt: 2026-09-16
-favorite:
-container:
-  - can
 sweeteners:
   - sucralose
   - acesulfame
   - erythritol
   - extract/ginseng root
-cover: "[[IMG_7513.jpeg]]"
-availability: 3
-summary: Я рожевий єдиногір серед цукрових хмар
+container:
+  - can
 primaryColors:
   - pink
 manufacturer: monster energy limited
-caffeine: 30
-sponsor:
-  - verfolomei
 volume:
   - "0.5"
-aliases:
-  - Monster ultra strawberry dreams
-types:
-  - energy
-createdAt: 2026-08-28
+caffeine: 30
 alco: 0
+sponsor:
+  - verfolomei
+availability: 3
+favorite:
+tags:
 ---
 **Monster ultra strawberry dreams**. Офіційний смак - полуниця
 

@@ -1,33 +1,33 @@
 ---
-status: published
 aliases:
   - Чайка чорноморська lemon-lime
+summary:
+status: published
 externalUrl: https://t.me/kallection/37958
-brand: чайка чорноморська
+publishedAt: 2026-08-08
+createdAt: 2026-07-09
+cover: "[[IMG_4682.jpeg]]"
 types:
   - alco
+brand: чайка чорноморська
 taste:
   - lemon
   - lime
-publishedAt: 2026-08-08
-favorite:
-container:
-  - can
 sweeteners:
   - barley malt
   - glucose-fructose syrup
-cover: "[[IMG_4682.jpeg]]"
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - green
   - black
 manufacturer:
-caffeine: 0
 volume:
   - "0.5"
+caffeine: 0
 alco: 4.6
-createdAt: 2026-07-09
+availability: 3
+favorite:
 ---
 **Чайка чорноморська lemon-lime**. Офіційний смак - лимон та лайм
 

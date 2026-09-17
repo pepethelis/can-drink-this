@@ -1,36 +1,35 @@
 ---
-
+aliases:
+  - Hell Spritz Lime
+summary: ватахеел, хелл мохіто
 status: published
-tags:
-  - package/quality
 externalUrl: https://t.me/kallection/33657
+publishedAt: 2025-12-21
+createdAt: 2025-11-15
+cover: "[[IMG_4800.jpeg]]"
+types:
+  - energy
 brand: hell/spritz
 taste:
   - lime
-publishedAt: 2025-12-21
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - caramel
   - inositol
-cover: "[[IMG_4800.jpeg]]"
-availability: 4
-summary: ватахеел, хелл мохіто
+container:
+  - can
+primaryColors:
+  - green
+manufacturer: hell energy
 volume:
   - "0.25"
 caffeine: 32
 alco: 0
-primaryColors:
-  - green
-manufacturer: hell energy
-aliases:
-  - Hell Spritz Lime
-types:
-  - energy
-createdAt: 2025-11-15
+availability: 4
+favorite:
 old_related: true
+tags:
+  - package/quality
 ---
 **Hell Lime Spritz**. Офіційний смак - лайм та мʼята
 

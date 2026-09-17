@@ -1,35 +1,36 @@
 ---
+aliases:
+  - Nonstop original
+  - Нонстоп оригінальний
+  - Нонстоп синій
 status: published
-tags:
-  - package/bagpak
-  - package/crown
 externalUrl: https://t.me/kallection/31717
+publishedAt: 2025-09-20
+updatedAt: 2026-09-06
+createdAt: 2025-09-20
+cover: "[[IMG_2444.jpg]]"
+types:
+  - energy
 brand: nonstop
 taste:
   - CLASSIC
-favorite: true
+sweeteners:
+  - sugar
 container:
   - can
   - plastic
-publishedAt: 2025-09-20
-cover: "[[IMG_2444.jpg]]"
-sweeteners:
-  - sugar
-availability: 5
+primaryColors:
+  - blue
+  - silver
+manufacturer: new products
 volume:
   - "0.5"
   - "0.25"
   - "0.75"
 caffeine: 32
-primaryColors:
-  - blue
-  - silver
-manufacturer: new products
-updatedAt: 2026-09-06
-aliases:
-  - Nonstop original
-  - Нонстоп оригінальний
-  - Нонстоп синій
+alco: 0
+availability: 5
+favorite: true
 related:
   - "[[Burn red]]"
   - "[[Redbull classic]]"
@@ -37,10 +38,9 @@ related:
   - "[[Battery black]]"
   - "[[Воля червона]]"
   - "[[content/reviews/own/NS original]]"
-types:
-  - energy
-createdAt: 2025-09-20
-alco: 0
+tags:
+  - package/bagpak
+  - package/crown
 ---
 **Nonstop original**, він же синій класик оріджинал синій нонстоп да
 

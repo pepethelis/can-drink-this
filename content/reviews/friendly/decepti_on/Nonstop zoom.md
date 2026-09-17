@@ -1,25 +1,25 @@
 ---
-author: decepti_on
 aliases:
   - Nonstop zoom
-publishedAt: 2024-08-22
+summary: Огляд на нонстоп зум
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/32861
+publishedAt: 2024-08-22
+cover:
+types:
+  - energy
 brand: nonstop
+taste:
+  - watermelon
 container:
   - can
 volume:
   - "0.25"
-summary: Огляд на нонстоп зум
-taste:
-  - watermelon
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/32861
+caffeine: 32
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32859
   - https://t.me/sonechkin_rzekich/32860
-caffeine: 32
-alco: 0
 ---
 Огляд на нонстоп зум

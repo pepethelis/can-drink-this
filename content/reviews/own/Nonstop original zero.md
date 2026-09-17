@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Nonstop original zero
+  - Нонстоп оригінальний без цукру
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/31725
+publishedAt: 2025-09-20
+createdAt: 2025-09-20
+cover: "[[IMG_2437.jpg]]"
+types:
+  - energy
 brand: nonstop
 taste:
   - CLASSIC
-container:
-  - can
-cover: "[[IMG_2437.jpg]]"
-publishedAt: 2025-09-20
 sweeteners:
   - acesulfame
   - sucralose
-availability: 4
+container:
+  - can
+primaryColors:
+  - blue
+manufacturer: new products
 volume:
   - "0.5"
   - "0.25"
 caffeine: 32
-primaryColors:
-  - blue
-manufacturer: new products
-aliases:
-  - Nonstop original zero
-  - Нонстоп оригінальний без цукру
-types:
-  - energy
-createdAt: 2025-09-20
-old_related: true
 alco: 0
+availability: 4
+old_related: true
+tags:
+  - package/canpack
 ---
 **Nonstop original zero**, перший нонстоп без цукру. Офіційний смак не вказано, але ми розуміємо, що має бути класичний
 

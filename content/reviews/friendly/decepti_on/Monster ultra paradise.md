@@ -1,22 +1,22 @@
 ---
-author: decepti_on
 aliases:
   - Monster ultra paradise
-publishedAt:
+summary: Перший огляд в 2024 році я допиваю це диво природи і йду єбашити в кіберпанк ви от думаєте шо я така зайнята шо не пощу а я просто єбашу в ігри мені кайфа 🥸
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/31995
+publishedAt:
+cover:
+types:
+  - energy
 brand: monster/ultra
+taste:
 container:
   - can
 volume:
-summary: Перший огляд в 2024 році я допиваю це диво природи і йду єбашити в кіберпанк ви от думаєте шо я така зайнята шо не пощу а я просто єбашу в ігри мені кайфа 🥸
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/31995
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/31993
   - https://t.me/sonechkin_rzekich/31994
-alco: 0
 ---
 Перший огляд в 2024 році я допиваю це диво природи і йду єбашити в кіберпанк ви от думаєте шо я така зайнята шо не пощу а я просто єбашу в ігри мені кайфа 🥸

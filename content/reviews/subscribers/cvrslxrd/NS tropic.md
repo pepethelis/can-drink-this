@@ -1,24 +1,24 @@
 ---
 author: cvrslxrd
-types:
-  - energy
 aliases:
   - NS TROPIC
+status: published
+externalUrl: https://t.me/kallection/38274
+publishedAt: 2026-08-22
+cover: "[[photo_2026-08-18_23-16-50.jpg]]"
+types:
+  - energy
+brand: ns
+taste:
+  - tropical
 container:
   - can
 volume:
   - "0.45"
-status: published
-publishedAt: 2026-08-22
-brand: ns
-taste:
-  - tropical
-cover: "[[photo_2026-08-18_23-16-50.jpg]]"
-related:
-  - "[[Nonstop boost|Nonstop boost]]"
-externalUrl: https://t.me/kallection/38274
 caffeine: 33
 alco: 0
+related:
+  - "[[Nonstop boost|Nonstop boost]]"
 ---
 “NS TROPIC” закос на класичний “NON-STOP” від російського бренду “World’s best drinks”
 

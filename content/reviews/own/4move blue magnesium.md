@@ -1,36 +1,36 @@
 ---
-Status: published
-tags:
-  - country/poland
+aliases:
+  - 4move blue magnesium
 externalUrl: https://t.me/kallection/24296
+publishedAt: 2024-11-19
+createdAt: 2024-11-19
+cover: "[[IMG_0666.jpg]]"
+types:
+  - water
 brand: 4move
 taste:
   - citrus
-container:
-  - can
-publishedAt: 2024-11-19
-cover: "[[IMG_0666.jpg]]"
 sweeteners:
   - juice/apple
   - aspartame
   - acesulfame
-availability: 4
-volume:
-  - "0.33"
+container:
+  - can
 primaryColors:
   - blue
 manufacturer: foodcare
-aliases:
-  - 4move blue magnesium
-types:
-  - water
+volume:
+  - "0.33"
+caffeine: 0
+alco: 0
+availability: 4
 related:
   - "[[Aquarte relax]]"
   - "[[Aquarte focus]]"
   - "[[Aquarte energy]]"
-createdAt: 2024-11-19
-caffeine: 0
-alco: 0
+tags:
+  - country/poland
+Status: published
 ---
 **4move Focus Activevitamin magnesium**. Офіційний смак - цитрус
 

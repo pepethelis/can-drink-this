@@ -1,21 +1,21 @@
 ---
 author: dggdyh
-container:
-  - can
-taste:
-  - ORIGINAL
+aliases:
+  - Burn zero citrus
+status: published
+externalUrl: https://t.me/kallection/37092
+publishedAt: 2026-07-04
+cover: "[[photo_2026-07-04_10-15-22.jpg]]"
 types:
   - energy
 brand: burn
-publishedAt: 2026-07-04
+taste:
+  - ORIGINAL
+container:
+  - can
 volume:
   - "0.5"
-status: published
-externalUrl: https://t.me/kallection/37092
-aliases:
-  - Burn zero citrus
 caffeine: 30
-cover: "[[photo_2026-07-04_10-15-22.jpg]]"
 alco: 0
 ---
 BURN ZERO SUGAR 

@@ -1,21 +1,21 @@
 ---
 author: dggdyh
-container:
-  - can
-taste:
-  - tonic
-  - lemon
+aliases:
+  - NS tonic-lemon
+status: published
+externalUrl: https://t.me/kallection/37069
+publishedAt: 2026-07-02
+cover: "[[photo_2026-07-02_17-47-00.jpg]]"
 types:
   - energy
 brand: ns
-publishedAt: 2026-07-02
+taste:
+  - tonic
+  - lemon
+container:
+  - can
 volume:
   - "0.5"
-status: published
-externalUrl: https://t.me/kallection/37069
-aliases:
-  - NS tonic-lemon
-cover: "[[photo_2026-07-02_17-47-00.jpg]]"
 caffeine: 35
 alco: 0
 ---

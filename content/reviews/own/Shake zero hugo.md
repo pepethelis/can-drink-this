@@ -1,19 +1,16 @@
 ---
-alco: 0
-caffeine: 0
-
+aliases:
+  - Shake zero hugo
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/26793
+publishedAt: 2025-03-07
+createdAt: 2025-03-07
+cover: "[[IMG_8649.jpg]]"
+types:
+  - fizzy
 brand: shake/zero
 taste:
   - ORIGINAL
-container:
-  - can
-  - plastic
-publishedAt: 2025-03-07
-cover: "[[IMG_8649.jpg]]"
 sweeteners:
   - sugar
   - juice/multifruit
@@ -21,22 +18,24 @@ sweeteners:
   - extract/mint
   - extract/blackcurrant
   - extract/elderflowers
-availability: 4
-volume:
-  - "0.33"
-  - "1"
-  - "0.5"
+container:
+  - can
+  - plastic
 primaryColors:
   - green
   - blue
   - white
 manufacturer: new products
-aliases:
-  - Shake zero hugo
-types:
-  - fizzy
-createdAt: 2025-03-07
+volume:
+  - "0.33"
+  - "1"
+  - "0.5"
+caffeine: 0
+alco: 0
+availability: 4
 old_related: true
+tags:
+  - package/canpack
 ---
 **Shake zero hugo**. Офіційний смак не вказано(не впевнений що ото маленьким шрифтом рахується)
 

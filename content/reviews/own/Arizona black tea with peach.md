@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Arizona black tea with peach
+summary:
 status: published
-tags:
-  - package/amp
 externalUrl: https://t.me/kallection/37021
+publishedAt: 2026-06-30
+createdAt: 2026-05-29
+cover: "[[IMG_2659.jpeg]]"
+types:
+  - tea
 brand: arizona
 taste:
   - peach
-publishedAt: 2026-06-30
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[IMG_2659.jpeg]]"
-availability: 4
-summary:
 manufacturer: Arizona Europe Cooperatief
 volume:
   - "0.33"
-aliases:
-  - Arizona black tea with peach
-types:
-  - tea
+caffeine: 0
+alco: 0
+availability: 4
+favorite:
 related:
   - "[[Monster rehab tea + lemonade|Monster rehab tea + lemonade]]"
   - "[[Моршинська чай чорний - лимон-лемонграс|Моршинська чай чорний - лимон-лемонграс]]"
   - "[[Моршинська чай зелений - виноград-м'ята|Моршинська чай зелений - виноград-м'ята]]"
-createdAt: 2026-05-29
-caffeine: 0
-alco: 0
+tags:
+  - package/amp
 ---
 **Arizona black tea with peach**. Офіційний смак - персиковий чорний чай
 

@@ -1,30 +1,30 @@
 ---
+aliases:
+  - Aquarte relax
 status: published
-tags:
 externalUrl: https://t.me/kallection/24303
+publishedAt: 2024-11-19
+createdAt: 2024-11-19
+cover: "[[IMG_0680.jpg]]"
+types:
+  - water
 brand: aquarte
 taste:
   - chamomile
   - passion fruit
-container:
-  - plastic
-publishedAt: 2024-11-19
-cover: "[[IMG_0680.jpg]]"
 sweeteners:
   - fructose
-availability: 3
-volume:
-  - "0.5"
+container:
+  - plastic
 primaryColors:
   - violet
 manufacturer: vitmark
-aliases:
-  - Aquarte relax
-types:
-  - water
-createdAt: 2024-11-19
-alco: 0
+volume:
+  - "0.5"
 caffeine: 0
+alco: 0
+availability: 3
+tags:
 ---
 Вода **Aquarte relax**. Офіційний смак - ромашка та маракуйя
 

@@ -1,20 +1,20 @@
 ---
 author: ritual_huitual
-container:
-  - can
-taste:
-  - berries
+aliases:
+  - Monster juiced viking berry
+status: published
+externalUrl: https://t.me/kallection/37044
+publishedAt: 2026-06-30
+cover: "[[photo_2026-06-30_23-48-15.jpg]]"
 types:
   - energy
 brand: monster/juiced
-publishedAt: 2026-06-30
+taste:
+  - berries
+container:
+  - can
 volume:
   - "0.5"
-status: published
-externalUrl: https://t.me/kallection/37044
-aliases:
-  - Monster juiced viking berry
-cover: "[[photo_2026-06-30_23-48-15.jpg]]"
 caffeine: 32
 alco: 0
 ---

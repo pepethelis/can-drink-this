@@ -1,18 +1,19 @@
 ---
+aliases:
+  - Monster juiced pipeline punch
+summary:
 status: published
-tags:
-  - package/ag
-  - country/france
 externalUrl: https://t.me/kallection/36126
+publishedAt: 2026-05-16
+createdAt: 2026-04-19
+cover: "[[IMG_1077.jpeg]]"
+types:
+  - energy
 brand: monster/juiced
 taste:
   - orange
   - passion fruit
   - guava
-publishedAt: 2026-05-16
-favorite: true
-container:
-  - can
 sweeteners:
   - juice/orange
   - juice/apple
@@ -24,24 +25,23 @@ sweeteners:
   - maltodextrin
   - sucralose
   - inositol
-cover: "[[IMG_1077.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - pink
 manufacturer: monster energy limited
-aliases:
-  - Monster juiced pipeline punch
-types:
-  - energy
-createdAt: 2026-04-19
-old_related: true
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite: true
+old_related: true
+tags:
+  - package/ag
+  - country/france
 ---
 **Monster juiced pipeline punch**. Офіційний смак - апельсин, маракуя, гуава
 

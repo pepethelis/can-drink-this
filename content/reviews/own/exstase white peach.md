@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Exstase white peach
+summary: Пийте охолдженим
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/37613
+publishedAt: 2026-07-22
+createdAt: 2026-06-27
+cover: "[[IMG_3995.jpeg]]"
+types:
+  - energy
 brand: exstase
 taste:
   - peach
-publishedAt: 2026-07-22
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_3995.jpeg]]"
-availability: 2
-summary: Пийте охолдженим
-related:
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - pink
 manufacturer: Exstase Großhandel GmbH
-aliases:
-  - Exstase white peach
-types:
-  - energy
-createdAt: 2026-06-27
+volume:
+  - "0.25"
+caffeine: 32
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+related:
+tags:
+  - package/bagpak
 ---
 **Exstase white peach**. Офіційний смак - білий персик
 

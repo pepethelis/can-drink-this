@@ -1,37 +1,37 @@
 ---
+aliases:
+  - 4move green vitamins
 status: needs update
-tags:
-  - country/poland
 externalUrl: https://t.me/kallection/24217
+publishedAt: 2024-11-16
+createdAt: 2024-11-16
+cover: "[[IMG_0488.jpg]]"
+types:
+  - water
 brand: 4move
 taste:
   - lemon
   - lime
-container:
-  - can
-publishedAt: 2024-11-16
-cover: "[[IMG_0488.jpg]]"
 sweeteners:
   - juice/apple
   - aspartame
   - acesulfame
-availability: 4
-volume:
-  - "0.33"
+container:
+  - can
 primaryColors:
   - green
 manufacturer: foodcare
-aliases:
-  - 4move green vitamins
-types:
-  - water
+volume:
+  - "0.33"
+caffeine: 0
+alco: 0
+availability: 4
 related:
   - "[[Aquarte relax]]"
   - "[[Aquarte focus]]"
   - "[[Aquarte energy]]"
-createdAt: 2024-11-16
-caffeine: 0
-alco: 0
+tags:
+  - country/poland
 ---
 **4move vitality vitamins**, тобто зелений. Офіційний смак - лайм&лимон
 

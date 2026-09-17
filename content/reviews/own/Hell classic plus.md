@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Hell classic+
+  - Хелл класік+
+summary:
 status: published
-tags:
-  - package/quality
 externalUrl: https://t.me/kallection/35558
+publishedAt: 2026-04-09
+createdAt: 2026-04-03
+cover: "[[IMG_0482.jpeg]]"
+types:
+  - energy
 brand: hell
 taste:
   - CLASSIC
   - tutti-frutti
-publishedAt: 2026-04-09
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_0482.jpeg]]"
-availability: 4
-summary:
-volume:
-  - "0.25"
-caffeine: 32
-alco: 0
+container:
+  - can
 primaryColors:
   - red
   - silver
 manufacturer: hell energy
-aliases:
-  - Hell classic+
-  - Хелл класік+
-types:
-  - energy
-createdAt: 2026-04-03
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+availability: 4
+favorite:
 old_related: true
+tags:
+  - package/quality
 ---
 **Hell classic+**. Офіційний смак - тутті-фрутті, яке також відоме як фруктове асорті, яке також заєбало вже
 

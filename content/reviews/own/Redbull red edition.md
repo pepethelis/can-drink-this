@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Redbull red edition
 status: published
-tags:
-  - package/ball
-  - country/germany
 externalUrl: https://t.me/kallection/27710
+publishedAt: 2025-04-14
+createdAt: 2025-04-14
+cover: "[[IMG_5184.jpg]]"
+types:
+  - energy
 brand: redbull/edition
 taste:
   - watermelon
-container:
-  - can
-publishedAt: 2025-04-14
-cover: "[[IMG_5184.jpg]]"
 sweeteners:
   - sugar
   - glucose
-availability: 5
-sponsor:
-  - gdgood
+container:
+  - can
+primaryColors:
+  - red
+manufacturer: redbull
 volume:
   - "0.25"
 caffeine: 32
-primaryColors:
-  - red
 alco: 0
-manufacturer: redbull
-aliases:
-  - Redbull red edition
-types:
-  - energy
-createdAt: 2025-04-14
+sponsor:
+  - gdgood
+availability: 5
 old_related: true
+tags:
+  - package/ball
+  - country/germany
 ---
 **Redbull red edition**, тобто червоний редбул. Офіційний смак - кавун
 

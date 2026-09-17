@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Komodo banana
+summary:
 status: published
-tags:
-  - country/poland
-  - package/amp
 externalUrl: https://t.me/kallection/37628
+publishedAt: 2026-07-22
+createdAt: 2026-06-27
+cover: "[[IMG_3937.jpeg]]"
+types:
+  - energy
 brand: komodo
 taste:
   - banana
-publishedAt: 2026-07-22
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - juice/banana
-cover: "[[IMG_3937.jpeg]]"
-availability: 3
-summary:
+container:
+  - can
+primaryColors:
+  - yellow
+  - green
+manufacturer: KED Krasnodębski Sp. K
 volume:
   - "0.25"
 caffeine: 32
 alco: 0
 sponsor:
   - ritual_huitual
-manufacturer: KED Krasnodębski Sp. K
-primaryColors:
-  - yellow
-  - green
-aliases:
-  - Komodo banana
-types:
-  - energy
-createdAt: 2026-06-27
+availability: 3
+favorite:
+tags:
+  - country/poland
+  - package/amp
 ---
 **Komodo banana**. Офіційний смак - банан
 

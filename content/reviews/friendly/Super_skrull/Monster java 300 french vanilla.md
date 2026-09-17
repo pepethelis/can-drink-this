@@ -1,23 +1,23 @@
 ---
-author: super_skrull
 aliases:
   - Monster java 300 french vanilla
-publishedAt: 2024-09-07
+summary:
 status: published
+externalUrl: https://t.me/super_skrulling/169
+publishedAt: 2024-09-07
+cover: "[[photo_2024-09-07_08-30-33.jpg]]"
+types:
+  - energy
+  - coffee
 brand: monster/java/300
+taste:
+  - coffee
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - coffee
-types:
-  - energy
-  - coffee
-cover: "[[photo_2024-09-07_08-30-33.jpg]]"
-externalUrl: https://t.me/super_skrulling/169
 alco: 0
+author: super_skrull
 ---
 **JAVA MONSTER FRENCH VANILLA TRIPLE SHOT**  
 Смак: френч ванілла  

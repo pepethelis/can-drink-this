@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Redbull organics easy lemon
 status: published
-tags:
-  - package/ball
-  - country/germany
 externalUrl: https://t.me/kallection/30761
+publishedAt: 2025-08-10
+createdAt: 2025-08-10
+cover: "[[IMG_1092.jpg]]"
+types:
+  - fizzy
 brand: redbull/organics
 taste:
   - lemon
-container:
-  - can
-publishedAt: 2025-08-10
-cover: "[[IMG_1092.jpg]]"
 sweeteners:
   - sugar
   - juice/lemon
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
-caffeine: 0
+container:
+  - can
 primaryColors:
   - yellow
   - green
 manufacturer: redbull
-aliases:
-  - Redbull organics easy lemon
-types:
-  - fizzy
-createdAt: 2025-08-10
-old_related: true
+volume:
+  - "0.25"
+caffeine: 0
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+old_related: true
+tags:
+  - package/ball
+  - country/germany
 ---
 **Organics by redbull - easy lemon**
 

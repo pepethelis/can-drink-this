@@ -1,40 +1,39 @@
 ---
-alco: 0
-caffeine: 0
-
+aliases:
+  - Shake zero sparkling rose strawberry
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/35609
+publishedAt: 2026-04-12
+updatedAt: 2026-06-02
+createdAt: 2026-04-01
+cover: "[[IMG_0442.jpeg]]"
+types:
+  - fizzy
 brand: shake/zero
 taste:
   - strawberry
-container:
-  - can
-  - plastic
-publishedAt: 2026-04-12
-cover: "[[IMG_0442.jpeg]]"
 sweeteners:
   - sugar
   - juice/multifruit
   - juice/black carrot
-availability: 4
-volume:
-  - "0.33"
-  - "1"
-  - "0.5"
+container:
+  - can
+  - plastic
 primaryColors:
   - bronze
   - red
   - white
 manufacturer: new products
-updatedAt: 2026-06-02
-aliases:
-  - Shake zero sparkling rose strawberry
-types:
-  - fizzy
-createdAt: 2026-04-01
+volume:
+  - "0.33"
+  - "1"
+  - "0.5"
+caffeine: 0
+alco: 0
+availability: 4
 old_related: true
+tags:
+  - package/canpack
 ---
 **Shake zero sparkling rose strawberry**. Офіційний смак - ігриста полуниця
 

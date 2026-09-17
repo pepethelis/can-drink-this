@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Vega Milk coconut
 status: published
-tags:
 externalUrl: https://t.me/kallection/33465
+publishedAt: 2025-12-13
+updatedAt: 2026-06-02
+createdAt: 2025-11-10
+cover: "[[IMG_4447.jpeg]]"
+types:
+  - plant-based
 brand: vega milk
 taste:
   - coconut
   - rice
-publishedAt: 2025-12-13
-favorite:
-container:
-  - tetrapak
 sweeteners:
   - coconut creme
-availability: 4
-cover: "[[IMG_4447.jpeg]]"
-volume:
-  - "0.25"
+container:
+  - tetrapak
 primaryColors:
   - blue
   - white
 manufacturer: vitmark
-updatedAt: 2026-06-02
-aliases:
-  - Vega Milk coconut
-types:
-  - plant-based
-createdAt: 2025-11-10
+volume:
+  - "0.25"
 caffeine: 0
 alco: 0
+availability: 4
+favorite:
+tags:
 ---
 Плент-бейзд дрінк **Vega Milk coconut with rice**. Офіційний смак - кокос
 

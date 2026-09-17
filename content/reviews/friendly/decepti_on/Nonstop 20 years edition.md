@@ -1,23 +1,23 @@
 ---
-author: decepti_on
 aliases:
   - Nonstop 20 years edition
-publishedAt: 2025-11-21
+summary: Огляд на нонстоп лімітований з вишнею
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33759
+publishedAt: 2025-11-21
+cover:
+types:
+  - energy
 brand: nonstop
+taste:
 container:
   - can
 volume:
   - "0.5"
-summary: Огляд на нонстоп лімітований з вишнею
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33759
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33757
   - https://t.me/sonechkin_rzekich/33758
-alco: 0
 ---
 Огляд на нонстоп лімітований з вишнею

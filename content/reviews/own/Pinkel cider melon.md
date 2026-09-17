@@ -1,34 +1,34 @@
 ---
-status: published
 aliases:
   - Pinkel cider melon
+summary:
+status: published
 externalUrl: https://t.me/kallection/37834
-brand: pinkel
+publishedAt: 2026-08-01
+createdAt: 2026-07-09
+cover: "[[IMG_4664.jpeg]]"
 types:
   - alco
   - cider
+brand: pinkel
 taste:
   - melon
-publishedAt: 2026-08-01
-favorite:
-container:
-  - can
 sweeteners:
   - juice/apple
   - sugar
   - extract/melon
-cover: "[[IMG_4664.jpeg]]"
-availability: 4
-summary:
+container:
+  - can
 primaryColors:
   - yellow
   - white
 manufacturer: Роял Фрут Гарден
-caffeine: 0
 volume:
   - "0.5"
+caffeine: 0
 alco: 5
-createdAt: 2026-07-09
+availability: 4
+favorite:
 ---
 **Pinkel cider melon**. Офіційний смак - “диня-яблуко”
 

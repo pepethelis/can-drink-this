@@ -1,40 +1,40 @@
 ---
+aliases:
+  - Чернігівське біле fruter кавун
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/29298
+publishedAt: 2025-06-11
+createdAt: 2025-06-11
+cover: "[[IMG_7349.jpg]]"
+types:
+  - alco
+  - radler
 brand: чернігівське
 taste:
   - watermelon
   - mint
-container:
-  - can
-publishedAt: 2025-06-11
-cover: "[[IMG_7349.jpg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
-availability: 4
-volume:
-  - "0.5"
-alco: 4
+container:
+  - can
 primaryColors:
   - green
   - red
 manufacturer: чернігівське
-aliases:
-  - Чернігівське біле fruter кавун
-types:
-  - alco
-  - radler
+volume:
+  - "0.5"
+caffeine: 0
+alco: 4
+availability: 4
 related:
   - "[[Львівське радлер яблуко]]"
   - "[[Львівське радлер лимон]]"
   - "[[Gosser natur radler]]"
   - "[[Lomza radler cherry]]"
   - "[[Lomza radler watermelon]]"
-createdAt: 2025-06-11
-caffeine: 0
+tags:
+  - package/canpack
 ---
 Радлер **Чернігівське біле fruter**. Офіційний смак - кавун та м'ята
 

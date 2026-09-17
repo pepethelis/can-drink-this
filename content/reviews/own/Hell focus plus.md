@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Hell focus+
+  - Хелл фокус+
 status: published
-tags:
-  - package/quality
 externalUrl: https://t.me/kallection/29073
+publishedAt: 2025-06-05
+createdAt: 2025-06-05
+cover: "[[IMG_7165.jpg]]"
+types:
+  - energy
 brand: hell/plus
 taste:
   - mango
   - orange
   - tutti-frutti
-container:
-  - can
-publishedAt: 2025-06-05
-cover: "[[IMG_7165.jpg]]"
 sweeteners:
   - sugar
   - juice
-availability: 4
-caffeine: 38.4
-alco: 0
-volume:
-  - "0.25"
+container:
+  - can
 primaryColors:
   - green
   - gray
 manufacturer: hell energy
-aliases:
-  - Hell focus+
-  - Хелл фокус+
-types:
-  - energy
-createdAt: 2025-06-05
+volume:
+  - "0.25"
+caffeine: 38.4
+alco: 0
+availability: 4
+tags:
+  - package/quality
 ---
 **Hell focus+**. Офіційний смак - манго, апельсин та фруктове асорті
 

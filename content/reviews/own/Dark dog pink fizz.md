@@ -1,40 +1,40 @@
 ---
+aliases:
+  - Dark dog pink fizz
+summary:
 status: published
-tags:
-  - package/canpack
-  - country/france
 externalUrl: https://t.me/kallection/35099
+publishedAt: 2026-03-14
+updatedAt: 2026-06-02
+createdAt: 2026-01-30
+cover: "[[IMG_9104.jpeg]]"
+types:
+  - energy
 brand: dark dog
 taste:
   - strawberry
   - watermelon
-publishedAt: 2026-03-14
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - extract/guarana
-cover: "[[IMG_9104.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - pink
   - golden
 manufacturer: Brasserie Licorne
-updatedAt: 2026-06-02
-aliases:
-  - Dark dog pink fizz
-types:
-  - energy
-createdAt: 2026-01-30
-old_related: true
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+old_related: true
+tags:
+  - package/canpack
+  - country/france
 ---
 **Dark dog pink fizz**. Офіційний смак - полуниця-кавун
 

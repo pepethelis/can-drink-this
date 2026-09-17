@@ -1,33 +1,33 @@
 ---
-status: needs update
-tags:
-  - country/poland
-externalUrl: https://t.me/kallection/22186
-brand: lomza
-taste:
-  - watermelon
-container:
-  - can
-publishedAt: 2024-08-27
-cover: "[[IMG_7556.jpg]]"
-sweeteners:
-  - juice
-  - sugar
-availability: 2
-volume:
-  - "0.5"
-alco: 0
-caffeine: 0
-primaryColors:
-  - red
-manufacturer: van pur
 aliases:
   - Lomza radler watermelon
+status: needs update
+externalUrl: https://t.me/kallection/22186
+publishedAt: 2024-08-27
+createdAt: 2024-08-27
+cover: "[[IMG_7556.jpg]]"
 types:
   - alco
   - radler
-createdAt: 2024-08-27
+brand: lomza
+taste:
+  - watermelon
+sweeteners:
+  - juice
+  - sugar
+container:
+  - can
+primaryColors:
+  - red
+manufacturer: van pur
+volume:
+  - "0.5"
+caffeine: 0
+alco: 0
+availability: 2
 old_related: true
+tags:
+  - country/poland
 ---
 **LOMZA Radler зі смаком кавуна та полуниці**
 

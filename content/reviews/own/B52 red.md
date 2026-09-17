@@ -1,34 +1,34 @@
 ---
+aliases:
+  - B52 red
 status: published
-tags:
-  - package/canpack
-  - country/netherlands
 externalUrl: https://t.me/kallection/28282
+publishedAt: 2025-05-08
+createdAt: 2025-05-08
+cover: "[[IMG_6064.jpg]]"
+types:
+  - energy
 brand: b52
 taste:
   - CLASSIC
-container:
-  - can
-publishedAt: 2025-05-08
-cover: "[[IMG_6064.jpg]]"
 sweeteners:
   - sugar
   - juice
   - inositol
-availability: 3
-volume:
-  - "0.25"
-caffeine: 31
-alco: 0
+container:
+  - can
 primaryColors:
   - red
   - silver
 manufacturer: royal swinkels
-aliases:
-  - B52 red
-types:
-  - energy
-createdAt: 2025-05-08
+volume:
+  - "0.25"
+caffeine: 31
+alco: 0
+availability: 3
+tags:
+  - package/canpack
+  - country/netherlands
 ---
 **B52**, несподівана енергуйка імені легендарного бомбера. Офіційний смак - не вказано
 

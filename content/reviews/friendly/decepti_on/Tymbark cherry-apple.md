@@ -1,24 +1,24 @@
 ---
-author: decepti_on
 aliases:
   - Tymbark cherry-apple
-publishedAt: 2023-07-01
-status: published
-brand: tymbark
-container:
-  - glass
-volume:
 summary: Огляд соку
+status: published
+externalUrl: https://t.me/sonechkin_rzekich/30969
+publishedAt: 2023-07-01
+cover:
+types:
+  - fizzy
+brand: tymbark
 taste:
   - cherry
   - apple
-types:
-  - fizzy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/30969
-contentTgPosts:
-  - https://t.me/sonechkin_rzekich/30968
+container:
+  - glass
+volume:
 caffeine: 0
 alco: 0
+author: decepti_on
+contentTgPosts:
+  - https://t.me/sonechkin_rzekich/30968
 ---
 Огляд соку

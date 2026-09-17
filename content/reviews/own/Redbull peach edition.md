@@ -1,21 +1,21 @@
 ---
+aliases:
+  - Redbull peach edition
+summary:
 status: prebuild
-tags:
-  - package/ball
 externalUrl:
+publishedAt:
+cover:
+types:
+  - energy
 brand: redbull/edition
 taste:
   - peach
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - glucose
-cover:
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - pink
 manufacturer: redbull
@@ -23,12 +23,12 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
+availability: 3
+favorite:
 related:
-aliases:
-  - Redbull peach edition
-types:
-  - energy
 old_related: true
+tags:
+  - package/ball
 ---
 **Redbull peach edition**. Офіційний смак - білий персик
 Пахне в принципі я і очікується - персиком. Такий собі конвенційний персик, нічого особливого. В принципі все як у [[Exstase white peach]]

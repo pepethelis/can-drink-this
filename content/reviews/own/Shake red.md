@@ -1,38 +1,38 @@
 ---
-status: published
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/28512
-cover: "[[IMG_5972.jpeg]]"
-brand: shake
-taste:
-  - ORIGINAL
-container:
-  - can
-publishedAt: 2025-05-16
-sweeteners:
-  - sugar
-  - juice/lime
-  - extract/grape
-availability: 4
-volume:
-  - "0.5"
-  - "0.33"
-alco: 7
-primaryColors:
-  - red
-manufacturer: new products
 aliases:
   - Shake red
   - Шейк червоний
   - Shake pornstar
+status: published
+externalUrl: https://t.me/kallection/28512
+publishedAt: 2025-05-16
+createdAt: 2025-05-04
+cover: "[[IMG_5972.jpeg]]"
 types:
   - alco
+brand: shake
+taste:
+  - ORIGINAL
+sweeteners:
+  - sugar
+  - juice/lime
+  - extract/grape
+container:
+  - can
+primaryColors:
+  - red
+manufacturer: new products
+volume:
+  - "0.5"
+  - "0.33"
+caffeine: 0
+alco: 7
+availability: 4
 related:
   - "[[Nonstop ultra|Nonstop ultra]]"
   - "[[Johan Freitag gin&tonic|Johan Freitag gin&tonic]]"
-createdAt: 2025-05-04
-caffeine: 0
+tags:
+  - package/canpack
 ---
 **Shake pornstar червоний**. Офіційний смак - має бути якийсь відомий коктейль, але ми знаємо що там зазвичай хімозна параша
 

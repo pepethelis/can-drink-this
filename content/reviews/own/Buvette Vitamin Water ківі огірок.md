@@ -1,31 +1,31 @@
 ---
+aliases:
+  - Buvette Vitamin Water ківі огірок
 status: needs update
-tags:
 externalUrl: https://t.me/kallection/26106
+publishedAt: 2025-02-07
+createdAt: 2025-02-07
+cover: "[[IMG_3034.jpg]]"
+types:
+  - water
 brand: buevette
 taste:
   - kivi
   - cucumber
-container:
-  - plastic
-publishedAt: 2025-02-07
-cover: "[[IMG_3034.jpg]]"
 sweeteners:
   - sugar
   - juice
   - extract
-availability: 3
+container:
+  - plastic
+manufacturer: buvette
 volume:
   - "0.5"
-manufacturer: buvette
-aliases:
-  - Buvette Vitamin Water ківі огірок
-types:
-  - water
-createdAt: 2025-02-07
-old_related: true
-alco: 0
 caffeine: 0
+alco: 0
+availability: 3
+old_related: true
+tags:
 ---
 **Buvette Vitamin Water**. Офіційний смак - **ківі-огірок**
 

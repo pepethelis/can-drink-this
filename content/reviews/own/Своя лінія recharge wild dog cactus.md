@@ -1,32 +1,31 @@
 ---
-alco: 0
-
+aliases:
+  - Своя лінія recharge wild dog cactus
 status: published
-tags:
 externalUrl: https://t.me/kallection/30001
+publishedAt: 2025-07-06
+createdAt: 2025-05-22
+cover: "[[IMG_6696.jpg]]"
+types:
+  - energy
 brand: своя лінія
 taste:
   - cactus fruit
-favorite: true
-container:
-  - plastic
-publishedAt: 2025-07-06
-cover: "[[IMG_6696.jpg]]"
 sweeteners:
   - sugar
-availability: 4
-volume:
-  - "1"
-caffeine: 30
+container:
+  - plastic
 primaryColors:
   - green
 manufacturer: ОРЛАН
-aliases:
-  - Своя лінія recharge wild dog cactus
-types:
-  - energy
-createdAt: 2025-05-22
+volume:
+  - "1"
+caffeine: 30
+alco: 0
+availability: 4
+favorite: true
 old_related: true
+tags:
 ---
 **Wild dog cactus**. Офіційний смак - кактус
 

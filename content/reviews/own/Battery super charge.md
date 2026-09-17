@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Battery super charge
+  - Батарейка супер чардж
+summary:
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/35749
+publishedAt: 2026-04-21
+createdAt: 2026-04-15
+cover: "[[IMG_0834.jpeg]]"
+types:
+  - energy
 brand: battery
 taste:
   - ORIGINAL
-publishedAt: 2026-04-21
-favorite:
-container:
-  - can
 sweeteners:
   - glucose-fructose syrup
   - maltodextrin
-cover: "[[IMG_0834.jpeg]]"
-availability: 3
-summary:
-caffeine: 40
-volume:
-  - "0.48"
+container:
+  - can
 primaryColors:
   - golden
   - brown
 manufacturer: carlsberg
-aliases:
-  - Battery super charge
-  - Батарейка супер чардж
-types:
-  - energy
-createdAt: 2026-04-15
-old_related: true
+volume:
+  - "0.48"
+caffeine: 40
 alco: 0
+availability: 3
+favorite:
+old_related: true
+tags:
+  - package/canpack
 ---
 **Battery super charge**. Офіційний смак не зазначено
 

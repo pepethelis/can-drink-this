@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Battery cola
+  - Батарейка кола
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/32128
+publishedAt: 2025-10-12
+createdAt: 2025-09-26
+cover: "[[IMG_2812.jpg]]"
+types:
+  - energy
 brand: battery
 taste:
   - cola
-container:
-  - can
-publishedAt: 2025-10-12
-cover: "[[IMG_2812.jpg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
   - maltodextrin
-availability: 3
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - red
   - black
   - golden
 manufacturer: carlsberg
-aliases:
-  - Battery cola
-  - Батарейка кола
-types:
-  - energy
-createdAt: 2025-09-26
-old_related: true
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+availability: 3
+old_related: true
+tags:
+  - package/canpack
 ---
 **Battery cola**. Офіційний смак - кола
 

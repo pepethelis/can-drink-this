@@ -1,34 +1,35 @@
 ---
+aliases:
+  - Beer mix coconut
+  - Бірмікс кокос
+summary:
 status: published
-tags:
 externalUrl: https://t.me/kallection/37473
+publishedAt: 2026-07-18
+createdAt: 2026-06-19
+cover: "[[IMG_3672.jpeg]]"
+types:
+  - alco
 brand: beer mix
 taste:
   - coconut
-publishedAt: 2026-07-18
-favorite:
-container:
-  - can
 sweeteners:
   - glucose-fructose syrup
   - sugar
   - barley malt
-cover: "[[IMG_3672.jpeg]]"
-availability: 4
-summary:
+container:
+  - can
 primaryColors:
   - white
   - blue
   - brown
 manufacturer: оболонь
-caffeine: 0
-aliases:
-  - Beer mix coconut
-  - Бірмікс кокос
 volume:
   - "0.5"
-types:
-  - alco
+caffeine: 0
+alco: 2.5
+availability: 4
+favorite:
 related:
   - "[[Shake red]]"
   - "[[Senor cartel lemon]]"
@@ -37,8 +38,7 @@ related:
   - "[[Gosser natur radler]]"
   - "[[Львівське радлер лимон]]"
   - "[[Львівське радлер яблуко]]"
-createdAt: 2026-06-19
-alco: 2.5
+tags:
 ---
 **Beer mix coconut**. Офіційний смак - кокос
 

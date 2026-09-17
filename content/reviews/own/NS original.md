@@ -1,35 +1,35 @@
 ---
-status: published
 aliases:
   - NS original
+summary:
+status: published
 externalUrl: https://t.me/kallection/38690
-brand: ns
+publishedAt: 2026-09-06
+createdAt: 2026-09-06
+cover: "[[IMG_7681.jpeg]]"
 types:
   - energy
+brand: ns
 taste:
   - CLASSIC
-publishedAt: 2026-09-06
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - sucralose
   - acesulfame
-cover: "[[IMG_7681.jpeg]]"
-availability: 2
-summary:
+container:
+  - can
 primaryColors:
   - blue
   - silver
 manufacturer: ООО "здоровьіе продуктьі"
-caffeine: 33
 volume:
   - "0.45"
+caffeine: 33
 alco: 0
-createdAt: 2026-09-06
 sponsor:
   - dggdyh
+availability: 2
+favorite:
 ---
 **NS original**. Офіційний смак - класичний
 

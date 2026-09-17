@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Bummer
+  - Буммер
+summary:
 status: published
-tags:
 externalUrl: https://t.me/kallection/34576
+publishedAt: 2026-02-11
+createdAt: 2025-12-24
+cover: "[[IMG_7799.jpeg]]"
+types:
+  - alco
+  - energy
 brand: bummer
 taste:
   - ORIGINAL
-publishedAt: 2026-02-11
-favorite:
-container:
-  - can
 sweeteners:
   - glucose-fructose syrup
   - extract/grape skin
   - extract/damiana
-cover: "[[IMG_7799.jpeg]]"
-availability: 4
-summary:
+container:
+  - can
+primaryColors:
+  - bronze
+manufacturer: tairovo
 volume:
   - "0.5"
 caffeine: 30
 alco: 8.5
-primaryColors:
-  - bronze
-manufacturer: tairovo
-aliases:
-  - Bummer
-  - Буммер
-types:
-  - alco
-  - energy
+availability: 4
+favorite:
 related:
   - "[[Revo gray]]"
   - "[[Revo yellow]]"
@@ -37,7 +37,7 @@ related:
   - "[[Bronx red]]"
   - "[[Bronx green]]"
   - "[[Bronx orange]]"
-createdAt: 2025-12-24
+tags:
 ---
 Алко-енержи **Bummer**. Офіційний смак не вказано, але ми знаємо, що там типу рево має бути
 

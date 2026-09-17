@@ -1,40 +1,40 @@
 ---
-status: published
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/36150
-brand: happy joe
-taste:
-  - cider
-publishedAt: 2026-05-17
-favorite:
-container:
-  - can
-sweeteners:
-  - sugar
-  - juice/apple
-cover: "[[IMG_0782.jpeg]]"
-availability: 3
-summary:
-volume:
-  - "0.33"
-alco: 4.7
-primaryColors:
-  - black
-manufacturer: Oy Hartwall
 aliases:
   - Happy Joe dry apple cider
+summary:
+status: published
+externalUrl: https://t.me/kallection/36150
+publishedAt: 2026-05-17
+createdAt: 2026-04-12
+cover: "[[IMG_0782.jpeg]]"
 types:
   - alco
   - cider
+brand: happy joe
+taste:
+  - cider
+sweeteners:
+  - sugar
+  - juice/apple
+container:
+  - can
+primaryColors:
+  - black
+manufacturer: Oy Hartwall
+volume:
+  - "0.33"
+caffeine: 0
+alco: 4.7
+availability: 3
+favorite:
 related:
   - "[[Чернігівське біле fruter кавун]]"
   - "[[Lomza radler cherry]]"
   - "[[Lomza radler watermelon]]"
   - "[[Gosser natur radler]]"
   - "[[Toosecco, сидр сухий]]"
-createdAt: 2026-04-12
-caffeine: 0
+tags:
+  - package/canpack
 ---
 **Happy Joe dry apple cider**. Офіційний смак - сухий сидр
 

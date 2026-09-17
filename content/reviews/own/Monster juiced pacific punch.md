@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Monster juiced pacific punch
 status: published
-tags:
-  - package/ag
-  - country/poland
 externalUrl: https://t.me/kallection/24228
+publishedAt: 2024-11-16
+createdAt: 2024-11-16
+cover: "[[IMG_0514.jpg]]"
+types:
+  - energy
 brand: monster/juiced
 taste:
   - fruit punch
-container:
-  - can
-publishedAt: 2024-11-16
-cover: "[[IMG_0514.jpg]]"
 sweeteners:
   - sugar
   - juice
   - glucose syrup
   - maltodextrin
   - sucralose
-availability: 3
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - peach
 manufacturer: monster energy limited
-aliases:
-  - Monster juiced pacific punch
-types:
-  - energy
-createdAt: 2024-11-16
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+availability: 3
+tags:
+  - package/ag
+  - country/poland
 ---
 **Monster Energy Pacific Punch**, він же монстр кремовий морський з русалкою
 

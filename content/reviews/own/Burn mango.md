@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Burn mango
+  - Бьорн манго
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/26571
+publishedAt: 2025-02-27
+createdAt: 2025-02-27
+cover: "[[IMG_3616.jpg]]"
+types:
+  - energy
 brand: burn
 taste:
   - mango
-container:
-  - can
-publishedAt: 2025-02-27
-cover: "[[IMG_3616.jpg]]"
 sweeteners:
   - sugar
   - maltodextrin
   - inositol
-availability: 4
-volume:
-  - "0.25"
-caffeine: 30
+container:
+  - can
 primaryColors:
   - blue
   - black
 manufacturer: energy beverages
-aliases:
-  - Burn mango
-  - Бьорн манго
-types:
-  - energy
-createdAt: 2025-02-27
-old_related: true
+volume:
+  - "0.25"
+caffeine: 30
 alco: 0
+availability: 4
+old_related: true
+tags:
+  - package/canpack
 ---
 **Burn mango**, або ж бьорн синій манго
 

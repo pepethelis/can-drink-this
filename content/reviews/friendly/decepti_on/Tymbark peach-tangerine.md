@@ -1,23 +1,23 @@
 ---
-author: decepti_on
 aliases:
   - Tymbark peach-tangerine
-publishedAt: 2023-08-09
-status: published
-brand: tymbark
-container:
-  - glass
-volume:
 summary: Огляд на водичку солодку персик мандарин залупа хуйня треш 4/10💀💀💀💀
+status: published
+externalUrl: https://t.me/sonechkin_rzekich/31170
+publishedAt: 2023-08-09
+cover:
+types:
+  - energy
+brand: tymbark
 taste:
   - peach
   - tangerine
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/31170
+container:
+  - glass
+volume:
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/31169
-alco: 0
 ---
 Огляд на водичку солодку персик мандарин залупа хуйня треш 4/10💀💀💀💀

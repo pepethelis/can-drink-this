@@ -1,24 +1,24 @@
 ---
-author: decepti_on
 aliases:
   - Nonstop stalker green
-publishedAt: 2025-07-05
+summary: Огляд на нон стоп сталкер зелений
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33378
+publishedAt: 2025-07-05
+cover:
+types:
+  - energy
 brand: nonstop/stalker
+taste:
 container:
   - can
 volume:
   - "0.25"
-summary: Огляд на нон стоп сталкер зелений
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33378
+caffeine: 32
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33376
   - https://t.me/sonechkin_rzekich/33377
-caffeine: 32
-alco: 0
 ---
 Огляд на нон стоп сталкер зелений

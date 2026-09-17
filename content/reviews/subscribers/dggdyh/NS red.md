@@ -1,23 +1,23 @@
 ---
 author: dggdyh
-container:
-  - can
-taste:
+aliases:
+  - NS red
+status: published
+externalUrl: https://t.me/kallection/36732
+publishedAt: 2026-06-15
+cover: "[[photo_2026-06-15_17-49-56.jpg]]"
 types:
   - energy
 brand: ns
-publishedAt: 2026-06-15
+taste:
+container:
+  - can
 volume:
   - "0.5"
-status: published
-externalUrl: https://t.me/kallection/36732
-aliases:
-  - NS red
-cover: "[[photo_2026-06-15_17-49-56.jpg]]"
 caffeine: 33
+alco: 0
 related:
   - "[[Nonstop ultra]]"
-alco: 0
 ---
 "NS RED" закос на помаранчевий "NON-STOP", від російського бренду "World's best drinks"
 

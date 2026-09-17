@@ -1,24 +1,24 @@
 ---
-author: sanb_s
 aliases:
   - Venom black cherry kiwi
-publishedAt: 2025-02-12
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4445
+publishedAt: 2025-02-12
+cover: "[[photo_2025-02-12_23-02-16.jpg]]"
+types:
+  - energy
 brand: venom
+taste:
+  - kiwi
+  - black cherry
 container:
   - can
 volume:
   - "0.473"
-summary:
-taste:
-  - kiwi
-  - black cherry
-types:
-  - energy
-cover: "[[photo_2025-02-12_23-02-16.jpg]]"
-externalUrl: https://t.me/ukr_satan/4445
 caffeine: 33
 alco: 0
+author: sanb_s
 ---
 Унікальне комбо #енергохарчування - черешня + ківі  
 

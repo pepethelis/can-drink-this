@@ -1,38 +1,38 @@
 ---
+aliases:
+  - Redbull green edition
 status: published
-tags:
-  - package/ball
 externalUrl: https://t.me/kallection/38442
+publishedAt: 2026-08-29
+createdAt: 2026-08-01
+cover: "[[IMG_5908.jpg]]"
+types:
+  - energy
 brand: redbull/edition
 taste:
   - cactus fruit
-container:
-  - can
-publishedAt: 2026-08-29
-cover: "[[IMG_5908.jpg]]"
 sweeteners:
   - sugar
   - glucose
-availability: 2
-sponsor:
-  - gdgood
-  - makmed1337
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - green
 manufacturer: redbull
-aliases:
-  - Redbull green edition
-types:
-  - energy
-createdAt: 2026-08-01
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+sponsor:
+  - gdgood
+  - makmed1337
+availability: 2
 related:
   - "[[content/reviews/own/Komodo cactus|Komodo cactus]]"
   - "[[content/reviews/own/Своя лінія recharge wild dog cactus|Своя лінія recharge wild dog cactus]]"
   - "[[Crazy wolf blue kaktus-feigen|Crazy wolf blue kaktus-feigen]]"
-alco: 0
+tags:
+  - package/ball
 ---
 **Redbull green edition**, тобто зелений редбул. Офіційний смак - kaktusfrucht/owoc kaktusa, а саме опунція(prickly pear) чи фрукт дракона(пітахая). Є думки, що мова саме про опунцію
 

@@ -1,19 +1,19 @@
 ---
-author: sanb_s
-container:
-  - can
-publishedAt: 2025-11-06
-status: published
 aliases:
   - Cult supreme
-brand: cult
-volume:
-  - "0.5"
+status: published
+externalUrl: https://t.me/ukr_satan/6954
+publishedAt: 2025-11-06
 cover: "[[photo_2025-11-06_11-43-44.jpg]]"
 types:
   - energy
-externalUrl: https://t.me/ukr_satan/6954
+brand: cult
+container:
+  - can
+volume:
+  - "0.5"
 alco: 0
+author: sanb_s
 ---
 CULT supreme  
 

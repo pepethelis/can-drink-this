@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Battery mix
+  - Батарейка мікс
 status: published
-tags:
-  - огляди
 externalUrl: https://t.me/kallection/22803
+publishedAt: 2024-09-22
+createdAt: 2024-09-22
+cover: "[[IMG_8487.jpg]]"
+types:
+  - energy
 brand: battery
 taste:
   - strawberry
   - lime
-container:
-  - can
-publishedAt: 2024-09-22
-cover: "[[IMG_8487.jpg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
   - juice/black carrot
-availability: 4
-volume:
-  - "0.48"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - violet
   - green
 manufacturer: carlsberg
-aliases:
-  - Battery mix
-  - Батарейка мікс
-types:
-  - energy
-createdAt: 2024-09-22
-old_related: true
+volume:
+  - "0.48"
+caffeine: 32
 alco: 0
+availability: 4
+old_related: true
+tags:
+  - огляди
 ---
 **Battery Mix**, тобто фіолетово-зелена батарейка
 

@@ -1,41 +1,41 @@
 ---
+aliases:
+  - Celsius live fit cosmic vibe
+summary:
 status: published
-tags:
-  - package/ball
-  - country/france
 externalUrl: https://t.me/kallection/34878
+publishedAt: 2026-03-02
+createdAt: 2026-01-05
+cover: "[[IMG_8454.jpeg]]"
+types:
+  - energy
 brand: celsius
 taste:
   - fruit punch
-publishedAt: 2026-03-02
-favorite:
-container:
-  - can
 sweeteners:
   - extract/green tea
   - extract/guarana
   - juice/carrot
   - sucralose
   - acesulfame
-cover: "[[IMG_8454.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
-volume:
-  - "0.355"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - red
   - white
 manufacturer: Celsius live fit international dac
-aliases:
-  - Celsius live fit cosmic vibe
-types:
-  - energy
-createdAt: 2026-01-05
-old_related: true
+volume:
+  - "0.355"
+caffeine: 32
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+old_related: true
+tags:
+  - package/ball
+  - country/france
 ---
 Енергос **Celsius live fit cosmic vibe**. Офіційний смак - космік вайб, або, як сказано на сайті, "juicy fruit punch"
 

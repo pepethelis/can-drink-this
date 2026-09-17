@@ -1,40 +1,40 @@
 ---
+aliases:
+  - Cola zero 0.15
+summary: Можливо це найрідкісніша банка, що я мав у своїй колекції, але мені якось похуй
 status: published
-tags:
 externalUrl: https://t.me/kallection/33363
+publishedAt: 2025-12-09
+createdAt: 2025-11-04
+cover: "[[IMG_4319.jpeg]]"
+types:
+  - fizzy
 brand: cola
 taste:
   - cola
-container:
-  - can
-  - plastic
-  - glass
-publishedAt: 2025-12-09
-cover: "[[IMG_4319.jpeg]]"
 sweeteners:
   - cyclamate
   - acesulfame
   - aspartame
-availability: 0
-summary: Можливо це найрідкісніша банка, що я мав у своїй колекції, але мені якось похуй
-volume:
-  - "0.15"
+container:
+  - can
+  - plastic
+  - glass
 primaryColors:
   - red
 manufacturer: coca cola
-aliases:
-  - Cola zero 0.15
-types:
-  - fizzy
+volume:
+  - "0.15"
+caffeine: 0
+alco: 0
+availability: 0
 related:
   - "[[Cola default]]"
   - "[[Cola coffee]]"
   - "[[Cola coffee caramel]]"
   - "[[Monster assault]]"
   - "[[Redbull organics simply cola]]"
-createdAt: 2025-11-04
-alco: 0
-caffeine: 0
+tags:
 ---
 **Coca cola zero**, тобто звичайна кола, але без цукру. Офіційний смак - кола лол
 

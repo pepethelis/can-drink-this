@@ -1,31 +1,31 @@
 ---
+aliases:
+  - Borjomi
+summary:
 status: published
 externalUrl: https://t.me/kallection/37901
-brand: borjomi
+publishedAt: 2026-08-05
+createdAt: 2026-07-05
+cover: "[[IMG_5365.jpeg]]"
 types:
   - water
+brand: borjomi
 taste:
   - clear
-publishedAt: 2026-08-05
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[IMG_5365.jpeg]]"
-availability: 4
-summary:
 primaryColors:
   - blue
   - white
   - silver
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine: 0
 volume:
   - "0.33"
-aliases:
-  - Borjomi
-createdAt: 2026-07-05
+caffeine: 0
 alco: 0
+availability: 4
+favorite:
 ---
 Вода природна мінеральна донасичена газом, біокарбонатна натрівєва **Borjomi**. Офіційний смак - мінералка лол
 

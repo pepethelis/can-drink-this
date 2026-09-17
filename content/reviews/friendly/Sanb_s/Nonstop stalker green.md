@@ -1,23 +1,23 @@
 ---
-author: sanb_s
 aliases:
   - Nonstop stalker green
-publishedAt: 2025-05-29
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/5528
+publishedAt: 2025-05-29
+cover: "[[photo_2025-05-29_18-49-50.jpg]]"
+types:
+  - energy
 brand: nonstop/stalker
+taste:
 container:
   - can
 volume:
   - "0.5"
   - "0.25"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-05-29_18-49-50.jpg]]"
-externalUrl: https://t.me/ukr_satan/5528
 caffeine: 32
 alco: 0
+author: sanb_s
 ---
 Ну шо, легендарне #енергохарчування NON STOP STALKER GREEN  
 

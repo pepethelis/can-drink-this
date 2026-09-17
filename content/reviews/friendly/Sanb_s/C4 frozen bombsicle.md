@@ -1,21 +1,21 @@
 ---
-author: sanb_s
 aliases:
   - С4 frozen bombsicle
-publishedAt: 2025-10-15
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/6745
+publishedAt: 2025-10-15
+cover: "[[photo_2025-10-15_21-21-02.jpg]]"
+types:
+  - energy
 brand: c4
+taste:
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-10-15_21-21-02.jpg]]"
-externalUrl: https://t.me/ukr_satan/6745
 alco: 0
+author: sanb_s
 ---
 🔥Ту-дух банка С4 frozen bombsicle  
 

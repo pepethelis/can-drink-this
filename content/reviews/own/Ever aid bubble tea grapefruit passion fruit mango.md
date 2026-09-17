@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Ever aid bubble tea grapefruit passion fruit mango
+summary:
 status: published
-tags:
 externalUrl: https://t.me/kallection/35215
+publishedAt: 2026-03-21
+createdAt: 2026-02-25
+cover: "[[IMG_9631.jpeg]]"
+types:
+  - tea
 brand: ever aid/bubble tea
 taste:
   - grapefruit
   - passion fruit
   - mango
-publishedAt: 2026-03-21
-favorite:
-container:
-  - can
 sweeteners:
   - juice/mango
   - juice/grapefruit
   - juice/passion fruit
   - sugar
   - extract/green tea
-cover: "[[IMG_9631.jpeg]]"
-availability: 3
-summary:
-volume:
-  - "0.33"
+container:
+  - can
 primaryColors:
   - red
 manufacturer: волинський бровар
-aliases:
-  - Ever aid bubble tea grapefruit passion fruit mango
-types:
-  - tea
-createdAt: 2026-02-25
-alco: 0
+volume:
+  - "0.33"
 caffeine: 0
+alco: 0
+availability: 3
+favorite:
+tags:
 ---
 **Ever aid bubble tea grapefruit passion fruit mango**. Офіційний смак - грейпфрут, маракуя, манго
 

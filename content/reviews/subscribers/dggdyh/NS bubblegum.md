@@ -1,20 +1,20 @@
 ---
 author: dggdyh
-types:
-  - energy
-taste:
-  - bubblegum
-cover: "[[photo_2026-08-16_14-30-30.jpg]]"
 aliases:
   - NS bubblegum
+status: published
+externalUrl: https://t.me/kallection/38209
+publishedAt: 2026-08-19
+cover: "[[photo_2026-08-16_14-30-30.jpg]]"
+types:
+  - energy
+brand: ns
+taste:
+  - bubblegum
 container:
   - can
-externalUrl: https://t.me/kallection/38209
-brand: ns
 volume:
   - "0.45"
-publishedAt: 2026-08-19
-status: published
 caffeine: 33
 alco: 0
 ---

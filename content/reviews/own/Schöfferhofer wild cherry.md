@@ -1,30 +1,30 @@
 ---
-status: published
-tags:
-  - package/ball
-externalUrl: https://t.me/kallection/22789
-brand: schofferhofer
-taste:
-  - cherry
-container:
-  - can
-publishedAt: 2024-09-22
-cover: "[[IMG_8449.jpg]]"
-sweeteners:
-  - sugar
-  - juice
-availability: 2
-volume:
-  - "0.33"
-alco: 2.5
-primaryColors:
-  - red
-manufacturer: radeberger gruppe
 aliases:
   - Schöfferhofer wild cherry
+status: published
+externalUrl: https://t.me/kallection/22789
+publishedAt: 2024-09-22
+createdAt: 2024-09-22
+cover: "[[IMG_8449.jpg]]"
 types:
   - alco
   - radler
+brand: schofferhofer
+taste:
+  - cherry
+sweeteners:
+  - sugar
+  - juice
+container:
+  - can
+primaryColors:
+  - red
+manufacturer: radeberger gruppe
+volume:
+  - "0.33"
+caffeine: 0
+alco: 2.5
+availability: 2
 related:
   - "[[Львівське радлер лимон|Львівське радлер лимон]]"
   - "[[Львівське радлер яблуко|Львівське радлер яблуко]]"
@@ -32,8 +32,8 @@ related:
   - "[[Lomza radler watermelon|Lomza radler watermelon]]"
   - "[[Zibert grapefruit|Zibert grapefruit]]"
   - "[[Gosser natur radler|Gosser natur radler]]"
-createdAt: 2024-09-22
-caffeine: 0
+tags:
+  - package/ball
 ---
 Радлер **Schofferhofer Wild Cherry**
 

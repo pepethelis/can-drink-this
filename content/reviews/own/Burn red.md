@@ -1,37 +1,37 @@
 ---
-status: published
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/31756
-brand: burn
-taste:
-  - CLASSIC
-favorite: true
-container:
-  - can
-publishedAt: 2025-09-21
-cover: "[[IMG_9516.jpg]]"
-sweeteners:
-  - sugar
-  - extract/guarana
-availability: 5
-volume:
-  - "0.5"
-caffeine: 31
-alco: 0
-primaryColors:
-  - red
-  - black
-manufacturer: energy beverages
 aliases:
   - Burn original
   - Burn red
   - Бьорн класичний
   - Бьорн червоний
+status: published
+externalUrl: https://t.me/kallection/31756
+publishedAt: 2025-09-21
+createdAt: 2025-09-21
+cover: "[[IMG_9516.jpg]]"
 types:
   - energy
-createdAt: 2025-09-21
+brand: burn
+taste:
+  - CLASSIC
+sweeteners:
+  - sugar
+  - extract/guarana
+container:
+  - can
+primaryColors:
+  - red
+  - black
+manufacturer: energy beverages
+volume:
+  - "0.5"
+caffeine: 31
+alco: 0
+availability: 5
+favorite: true
 old_related: true
+tags:
+  - package/canpack
 ---
 **Burn original**, також відомий як червоний бьорн. Офіційний смак не вказано, але зрозуміло, що класік
 

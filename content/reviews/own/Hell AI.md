@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Hell A.I.
+  - Hell AI
 status: prebuild
-tags:
-  - package/quality
 externalUrl:
+publishedAt:
+cover: "[[2023-10-21_14-49-08.jpg]]"
+types:
+  - energy
 brand: hell
 taste:
   - tutti-frutti
-publishedAt:
-favorite:
-container:
-  - can
-cover: "[[2023-10-21_14-49-08.jpg]]"
 sweeteners:
   - sugar
   - inositol
-availability: 4
+container:
+  - can
+primaryColors:
+  - red
+manufacturer: hell energy
 volume:
   - "0.25"
 caffeine: 32
 alco: 0
-manufacturer: hell energy
-primaryColors:
-  - red
-aliases:
-  - Hell A.I.
-  - Hell AI
-types:
-  - energy
+availability: 4
+favorite:
+tags:
+  - package/quality
 ---
 **Hell A.I.** Офіційний смак - фруктове асорті та ягоди
 

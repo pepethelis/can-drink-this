@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Exstase blueberry coconut
+summary:
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/38152
+publishedAt: 2026-08-17
+createdAt: 2026-07-19
+cover: "[[IMG_5198.jpeg]]"
+types:
+  - energy
 brand: exstase
 taste:
   - blueberry
   - coconut
-publishedAt: 2026-08-17
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_5198.jpeg]]"
-availability: 2
-summary:
-related:
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - white
 manufacturer: Exstase Großhandel GmbH
-aliases:
-  - Exstase blueberry coconut
-types:
-  - energy
-createdAt: 2026-07-19
+volume:
+  - "0.25"
+caffeine: 32
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+related:
+tags:
+  - package/bagpak
 ---
 **Exstase blueberry coconut**. Офіційний смак - чорниця та кокос
 

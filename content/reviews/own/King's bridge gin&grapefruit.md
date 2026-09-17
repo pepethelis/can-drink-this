@@ -1,34 +1,33 @@
 ---
-
+aliases:
+  - King's bridge gin&grapefruit
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/27729
+publishedAt: 2025-04-14
+createdAt: 2025-04-11
+cover: "[[IMG_4997.jpg]]"
+types:
+  - alco
 brand: king's bridge
 taste:
   - gin
   - grapefruit
-container:
-  - can
-publishedAt: 2025-04-14
-cover: "[[IMG_4997.jpg]]"
 sweeteners:
   - sugar
   - juice
-availability: 5
-volume:
-  - "0.5"
-alco: 7
-caffeine: 0
+container:
+  - can
 primaryColors:
   - pink
 manufacturer: new products
-aliases:
-  - King's bridge gin&grapefruit
-types:
-  - alco
-createdAt: 2025-04-11
+volume:
+  - "0.5"
+caffeine: 0
+alco: 7
+availability: 5
 old_related: true
+tags:
+  - package/canpack
 ---
 **King’s bridge рожевий**. Офіційний смак - джин та грейпфрут
 

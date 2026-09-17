@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Crazy wolf blue kaktus-feigen
 status: published
-tags:
-  - package/ball
 externalUrl: https://t.me/kallection/28162
+publishedAt: 2025-05-03
+createdAt: 2025-05-03
+cover: "[[IMG_5905.jpg]]"
+types:
+  - energy
 brand: crazy wolf
 taste:
   - cactus fruit
-container:
-  - can
-publishedAt: 2025-05-03
 sweeteners:
   - sugar
   - inositol
-availability: 2
-cover: "[[IMG_5905.jpg]]"
-sponsor:
-  - gdgood
-volume:
-  - "0.33"
-caffeine: 30
-alco: 0
+container:
+  - can
 primaryColors:
   - blue
   - black
 manufacturer: kaufland dienstleistung
-aliases:
-  - Crazy wolf blue kaktus-feigen
-types:
-  - energy
-createdAt: 2025-05-03
+volume:
+  - "0.33"
+caffeine: 30
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
 old_related: true
+tags:
+  - package/ball
 ---
 **Crazy wolf блакитний**. Офіційний смак - kaktusfeigen, це щось типу драконячого фрукту
 

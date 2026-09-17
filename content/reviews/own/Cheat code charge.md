@@ -1,14 +1,18 @@
 ---
+aliases:
+  - Cheat code charge
+  - Чіт-код чардж
 status: published
-tags:
 externalUrl: https://t.me/kallection/33917
+publishedAt: 2025-12-31
+updatedAt: 2026-06-02
+createdAt: 2025-12-10
+cover: "[[IMG_6684.jpeg]]"
+types:
+  - energy
 brand: cheat code
 taste:
   - cherry
-publishedAt: 2025-12-31
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - glucose-fructose syrup
@@ -16,25 +20,21 @@ sweeteners:
   - extract/guarana
   - extract/ashwagandha
   - extract/ginkgo leaves
-availability: 3
-cover: "[[IMG_6684.jpeg]]"
-volume:
-  - "0.33"
-caffeine: 32
-alco: 0
+container:
+  - can
 primaryColors:
   - pink
   - green
   - silver
 manufacturer: оболонь
-updatedAt: 2026-06-02
-aliases:
-  - Cheat code charge
-  - Чіт-код чардж
-types:
-  - energy
-createdAt: 2025-12-10
+volume:
+  - "0.33"
+caffeine: 32
+alco: 0
+availability: 3
+favorite:
 old_related: true
+tags:
 ---
 **Cheat code charge**. Офіційний смак - вишня
 

@@ -1,38 +1,38 @@
 ---
+aliases:
+  - Komodo cannabis limited
+summary:
 status: published
-tags:
-  - country/poland
-  - package/bagpak
 externalUrl: https://t.me/kallection/38658
+publishedAt: 2026-09-05
+createdAt: 2026-08-19
+cover: "[[IMG_7178.jpeg]]"
+types:
+  - energy
 brand: komodo
 taste:
   - cannabis
-publishedAt: 2026-09-05
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_7178.jpeg]]"
-availability: 3
-summary:
-volume:
-  - "0.25"
-caffeine: 32
-sponsor:
-  - ritual_huitual
-manufacturer: KED Krasnodębski Sp. K
+container:
+  - can
 primaryColors:
   - white
   - green
-aliases:
-  - Komodo cannabis limited
-types:
-  - energy
-createdAt: 2026-08-19
+manufacturer: KED Krasnodębski Sp. K
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+sponsor:
+  - ritual_huitual
+availability: 3
+favorite:
 related:
   - "[[Energy drink mit Hanf-Kräuter Extrakt|Energy drink mit Hanf-Kräuter Extrakt]]"
-alco: 0
+tags:
+  - country/poland
+  - package/bagpak
 ---
 **Komodo cannabis limited**. Офіційний смак - трава
 

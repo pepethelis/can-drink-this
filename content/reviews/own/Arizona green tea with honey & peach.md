@@ -1,41 +1,41 @@
 ---
+aliases:
+  - Arizona green tea with honey & peach
+summary:
 status: published
-tags:
-  - package/amp
 externalUrl: https://t.me/kallection/38905
+publishedAt: 2026-09-16
+createdAt: 2026-08-22
+cover: "[[IMG_7286.jpeg]]"
+types:
+  - tea
 brand: arizona
 taste:
   - tea
   - honey
   - peach
-publishedAt: 2026-09-16
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - juice/peach
   - honey
   - extract/stevia
-cover: "[[IMG_7286.jpeg]]"
-availability: 3
-summary:
-volume:
-  - "0.33"
-sponsor:
-  - nastya
-related:
+container:
+  - can
 primaryColors:
   - blue
   - pink
 manufacturer: Arizona Europe Cooperatief
-aliases:
-  - Arizona green tea with honey & peach
-types:
-  - tea
-createdAt: 2026-08-22
+volume:
+  - "0.33"
 caffeine: 0
 alco: 0
+sponsor:
+  - nastya
+availability: 3
+favorite:
+related:
+tags:
+  - package/amp
 ---
 **Arizona green tea with honey & peach**. Офіційний смак - зелений чай з медом і зі смаком персика
 

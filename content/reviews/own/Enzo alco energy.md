@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Enzo alco energy
+summary:
 status: published
-tags:
 externalUrl: https://t.me/kallection/37124
+publishedAt: 2026-07-04
+createdAt: 2026-06-06
+cover: "[[IMG_2993.jpeg]]"
+types:
+  - alco
+  - energy
 brand: enzo
 taste:
   - ORIGINAL
-publishedAt: 2026-07-04
-favorite:
-container:
-  - can
 sweeteners:
   - glucose-fructose syrup
   - extract/grape skin
   - extract/damiana
-cover: "[[IMG_2993.jpeg]]"
-availability: 4
-summary:
-volume:
-  - "0.5"
-caffeine: 30
-alco: 8.5
+container:
+  - can
 primaryColors:
   - black
   - red
   - white
 manufacturer: tairovo
-aliases:
-  - Enzo alco energy
-types:
-  - alco
-  - energy
+volume:
+  - "0.5"
+caffeine: 30
+alco: 8.5
+availability: 4
+favorite:
 related:
   - "[[Bummer]]"
   - "[[Bummer espresso]]"
@@ -40,8 +40,8 @@ related:
   - "[[Bronx red]]"
   - "[[Bronx green]]"
   - "[[Bronx orange]]"
+tags:
 telegram_format: html
-createdAt: 2026-06-06
 ---
 Алко-енержи **Enzo**, фактично близнюк [[Bummer]]. Офіційний смак не вказано, але ми знаємо що там типу рево має бути. В складі є ароматизатори апельсина, малини і тутті-фрутті
 

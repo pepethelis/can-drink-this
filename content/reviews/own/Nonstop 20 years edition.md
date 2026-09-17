@@ -1,35 +1,35 @@
 ---
-status: published
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/32526
-brand: nonstop
-taste:
-  - cherry
-publishedAt: 2025-10-29
-favorite: true
-container:
-  - can
-sweeteners:
-  - sugar
-  - juice/cherry
-cover: "[[IMG_4184.jpeg]]"
-availability: 4
-volume:
-  - "0.5"
-caffeine: 32
-primaryColors:
-  - silver
-manufacturer: new products
 aliases:
   - Nonstop 20 years edition
   - Нонстоп лімітка до двадцятиріччя
   - лімітка нонстопа до двадцятиріччя
+status: published
+externalUrl: https://t.me/kallection/32526
+publishedAt: 2025-10-29
+createdAt: 2025-10-29
+cover: "[[IMG_4184.jpeg]]"
 types:
   - energy
-createdAt: 2025-10-29
-old_related: true
+brand: nonstop
+taste:
+  - cherry
+sweeteners:
+  - sugar
+  - juice/cherry
+container:
+  - can
+primaryColors:
+  - silver
+manufacturer: new products
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+availability: 4
+favorite: true
+old_related: true
+tags:
+  - package/canpack
 ---
 **Nonstop 20 years edition**. Офіційний смак на банці не вказано, але судячи зі складу це вишня, а чутки перед релізом кажуть про вишневий брауні
 

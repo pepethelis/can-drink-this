@@ -1,29 +1,29 @@
 ---
-status: to create
 aliases:
   - Cola vanilla
+summary:
+status: to create
 externalUrl:
-brand: cola
+publishedAt:
+createdAt:
+cover: "[[default.png]]"
 types:
   - fizzy
+brand: cola
 taste:
   - vanilla
-publishedAt:
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[default.png]]"
-availability:
-summary:
 primaryColors:
   - creme
 manufacturer:
-caffeine: 0
 volume:
   - "0.33"
+caffeine: 0
 alco: 0
-createdAt:
+availability:
+favorite:
 ---
 **Cola vanilla**. Офіційний смак - ваніль
 

@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Battery juiced peach lemonade
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/28018
+publishedAt: 2025-04-27
+createdAt: 2025-04-27
+cover: "[[IMG_5645.jpg]]"
+types:
+  - energy
 brand: battery/juiced
 taste:
   - peach
-container:
-  - can
-publishedAt: 2025-04-27
-cover: "[[IMG_5645.jpg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
   - juice/apple
   - juice/lime
   - juice/black carrot
-availability: 5
-volume:
-  - "0.5"
-caffeine: 32
-alco: 0
+container:
+  - can
 primaryColors:
   - yellow
   - white
 manufacturer: carlsberg
-aliases:
-  - Battery juiced peach lemonade
-types:
-  - energy
-createdAt: 2025-04-27
+volume:
+  - "0.5"
+caffeine: 32
+alco: 0
+availability: 5
 old_related: true
+tags:
+  - package/canpack
 ---
 **Battery juiced peach lemonade**. Офіційний смак - персиковий лимонад🍑
 

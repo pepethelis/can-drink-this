@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Booster cola
 status: published
-tags:
-  - package/amp
-  - country/germany
 externalUrl: https://t.me/kallection/27181
+publishedAt: 2025-03-22
+createdAt: 2025-03-22
+cover: "[[IMG_4202.jpg]]"
+types:
+  - energy
 brand: booster
 taste:
   - cola
-container:
-  - can
-publishedAt: 2025-03-22
-cover: "[[IMG_4202.jpg]]"
 sweeteners:
   - sugar
-availability: 2
-sponsor:
-  - gdgood
-caffeine: 23
-alco: 0
-volume:
-  - "0.33"
-manufacturer: Veritas Vertriebsges mbH
+container:
+  - can
 primaryColors:
   - red
   - black
   - white
-aliases:
-  - Booster cola
-types:
-  - energy
-createdAt: 2025-03-22
+manufacturer: Veritas Vertriebsges mbH
+volume:
+  - "0.33"
+caffeine: 23
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
 old_related: true
+tags:
+  - package/amp
+  - country/germany
 ---
 **The Real Cola by BOOSTER**. Офіційний смак - кола
 

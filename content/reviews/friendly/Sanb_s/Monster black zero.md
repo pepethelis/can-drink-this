@@ -1,23 +1,23 @@
 ---
-author: sanb_s
 aliases:
   - Monster black zero
-publishedAt: 2025-05-22
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/5488
+publishedAt: 2025-05-22
+cover: "[[photo_2025-05-22_10-02-07.jpg]]"
+types:
+  - energy
 brand: monster
+taste:
+  - CLASSIC
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - CLASSIC
-types:
-  - energy
-cover: "[[photo_2025-05-22_10-02-07.jpg]]"
-externalUrl: https://t.me/ukr_satan/5488
 caffeine: 32
 alco: 0
+author: sanb_s
 ---
 Огляд на новий для нашого ринку Mфnster zero sugar  
 

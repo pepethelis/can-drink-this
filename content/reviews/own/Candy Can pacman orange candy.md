@@ -1,38 +1,38 @@
 ---
+aliases:
+  - Candy Can pacman orange candy
+summary:
 status: published
-tags:
-  - package/amp
 externalUrl: https://t.me/kallection/36683
+publishedAt: 2026-06-13
+createdAt: 2026-05-12
+cover: "[[IMG_1866.jpeg]]"
+types:
+  - fizzy
 brand: candy can/pacman
 taste:
   - orange candy
-publishedAt: 2026-06-13
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - acesulfame
   - sucralose
-cover: "[[IMG_1866.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
-related:
-  - "[[Shake zero orange crush]]"
-volume:
-  - "0.33"
+container:
+  - can
 primaryColors:
   - orange
 manufacturer: Candy Can
-aliases:
-  - Candy Can pacman orange candy
-types:
-  - fizzy
-createdAt: 2026-05-12
+volume:
+  - "0.33"
 caffeine: 0
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+related:
+  - "[[Shake zero orange crush]]"
+tags:
+  - package/amp
 ---
 **Candy Can pacman orange candy**. Офіційний смак - апельсин, малина, ананас
 

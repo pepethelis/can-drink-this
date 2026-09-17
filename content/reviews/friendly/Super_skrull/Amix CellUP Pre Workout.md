@@ -1,25 +1,25 @@
 ---
-author: super_skrull
 aliases:
   - Amix CellUP Pre Workout
-publishedAt: 2025-03-18
+summary:
 status: published
+externalUrl: https://t.me/super_skrulling/929
+publishedAt: 2025-03-18
+cover: "[[photo_2025-03-18_08-18-11.jpg]]"
+types:
+  - energy
+  - pre-workout
 brand: CellUP
+taste:
+  - cherry
+  - berries
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - cherry
-  - berries
-types:
-  - energy
-  - pre-workout
-cover: "[[photo_2025-03-18_08-18-11.jpg]]"
-alco: 0
 caffeine: 40
-externalUrl: https://t.me/super_skrulling/929
+alco: 0
+author: super_skrull
 ---
 **Передтрен Amix CellUP Pre Workout**, `500 мл`., Вишня  
 

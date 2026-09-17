@@ -1,42 +1,42 @@
 ---
+aliases:
+  - Monster black mega 0,553
+summary:
 status: to create
-tags:
-  - package/ag
-  - country/france
 externalUrl:
+publishedAt:
+cover: "[[default.png]]"
+types:
+  - energy
 brand: monster
 taste:
   - CLASSIC
   - ORIGINAL
   - ginseng
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - glucose syrup
   - sucralose
   - maltodextrin
   - inositol
-cover: "[[default.png]]"
-availability: 2
-summary:
-related:
-sponsor:
-  - gdgood
-volume:
-  - "0.553"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - black
 manufacturer: monster energy limited
-aliases:
-  - Monster black mega 0,553
-types:
-  - energy
-old_related: true
+volume:
+  - "0.553"
+caffeine: 32
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+related:
+old_related: true
+tags:
+  - package/ag
+  - country/france
 ---
 **Monster black mega 0,553**. Офіційний смак згідно із сайтом - "Sweet and Salty - It tastes like Monster!"
 

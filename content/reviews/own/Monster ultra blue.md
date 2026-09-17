@@ -1,35 +1,34 @@
 ---
-alco: 0
-
+aliases:
+  - Monster ultra blue
 status: published
-tags:
-  - package/crown
 externalUrl: https://t.me/kallection/32459
+publishedAt: 2025-10-25
+createdAt: 2025-08-27
+cover: "[[IMG_1467.jpg]]"
+types:
+  - energy
 brand: monster/ultra
 taste:
   - citrus
   - berries
-container:
-  - can
-cover: "[[IMG_1467.jpg]]"
-publishedAt: 2025-10-25
 sweeteners:
   - sucralose
   - acesulfame
   - inositol
-availability: 3
-caffeine: 30
-volume:
-  - "0.5"
+container:
+  - can
 primaryColors:
   - blue
 manufacturer: monster energy limited
-aliases:
-  - Monster ultra blue
-types:
-  - energy
-createdAt: 2025-08-27
+volume:
+  - "0.5"
+caffeine: 30
+alco: 0
+availability: 3
 old_related: true
+tags:
+  - package/crown
 ---
 **Monster ultra blue**. Офіційний смак - на банці не вказано, але на сайті говорять про "Light Citrus and Berry"
 

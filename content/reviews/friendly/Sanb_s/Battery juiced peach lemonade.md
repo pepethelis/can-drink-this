@@ -1,23 +1,23 @@
 ---
-author: sanb_s
 aliases:
   - Battery juiced peach lemonade
-publishedAt: 2025-04-27
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/5360
+publishedAt: 2025-04-27
+cover: "[[photo_2025-04-27_16-21-27.jpg]]"
+types:
+  - energy
 brand: battery/juiced
+taste:
+  - peach
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - peach
-types:
-  - energy
-cover: "[[photo_2025-04-27_16-21-27.jpg]]"
-externalUrl: https://t.me/ukr_satan/5360
-alco: 0
 caffeine: 32
+alco: 0
+author: sanb_s
 ---
 Новинка від Батарейки  
 

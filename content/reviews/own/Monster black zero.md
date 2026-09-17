@@ -1,38 +1,38 @@
 ---
+aliases:
+  - Monster black zero
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/36145
+publishedAt: 2026-05-17
+createdAt: 2026-05-02
+cover: "[[IMG_1627.jpeg]]"
+types:
+  - energy
 brand: monster
 taste:
   - ginseng
   - CLASSIC
   - ORIGINAL
-container:
-  - can
-publishedAt: 2026-05-17
-cover: "[[IMG_1627.jpeg]]"
 sweeteners:
   - erythritol
   - sucralose
   - acesulfame
   - extract/guarana
   - inositol
-availability: 4
-related:
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - black
 manufacturer: monster energy limited
-aliases:
-  - Monster black zero
-types:
-  - energy
-createdAt: 2026-05-02
-old_related: true
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+availability: 4
+related:
+old_related: true
+tags:
+  - package/canpack
 ---
 **Monster Energy black zero**, він же монстр чорний без цукру
 

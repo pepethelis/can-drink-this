@@ -1,22 +1,22 @@
 ---
-author: sanb_s
 aliases:
   - Cheat code charge
-publishedAt: 2025-09-26
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/6521
+publishedAt: 2025-09-26
+cover: "[[photo_2025-09-26_09-54-37.jpg]]"
+types:
+  - energy
 brand: cheat code
+taste:
+  - cherry
 container:
   - can
 volume:
   - "0.33"
-summary:
-taste:
-  - cherry
-types:
-  - energy
-cover: "[[photo_2025-09-26_09-54-37.jpg]]"
-externalUrl: https://t.me/ukr_satan/6521
 alco: 0
+author: sanb_s
 ---
 Відразу хочу чирконути про cheat_code з вишневим смаком:  
 

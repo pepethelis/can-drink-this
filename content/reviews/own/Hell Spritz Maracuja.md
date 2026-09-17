@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Hell spritz maracuja
 status: published
-tags:
-  - package/quality
 externalUrl: https://t.me/kallection/31362
+publishedAt: 2025-09-06
+createdAt: 2025-08-24
+cover: "[[IMG_1379.jpg]]"
+types:
+  - energy
 brand: hell/spritz
 taste:
   - passion fruit
   - tutti-frutti
-container:
-  - can
-publishedAt: 2025-09-06
-cover: "[[IMG_1379.jpg]]"
 sweeteners:
   - sugar
   - inositol
-availability: 4
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - violet
 manufacturer: hell energy
-aliases:
-  - Hell spritz maracuja
-types:
-  - energy
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+availability: 4
 related:
   - "[[Hell multi plus|Hell multi+]]"
   - "[[Hell focus plus|Hell focus+]]"
   - "[[Hell Summer Groovy Grapefruit|Hell Groovy Grapefruit]]"
   - "[[content/reviews/own/Hell Summer Chillin’ Guanabana|Hell Chillin' Guanabana-mango]]"
-createdAt: 2025-08-24
-alco: 0
+tags:
+  - package/quality
 ---
 **Hell Maracuja Spritz**, фіолетовий hell із лінійки spritz. Офіційний смак - персик, маракуйя та тутті-фрутті йобаний
 

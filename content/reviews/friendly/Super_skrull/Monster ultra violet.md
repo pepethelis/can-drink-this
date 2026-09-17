@@ -1,21 +1,21 @@
 ---
-author: super_skrull
 aliases:
   - Monster ultra violet
-publishedAt: 2024-09-06
+summary:
 status: published
+publishedAt: 2024-09-06
+cover: "[[photo_2024-09-06_20-01-27.jpg]]"
+types:
+  - energy
 brand: monster/ultra
+taste:
+  - grape
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - grape
-cover: "[[photo_2024-09-06_20-01-27.jpg]]"
-types:
-  - energy
 alco: 0
+author: super_skrull
 ---
 **MONSTER ENERGY ULTRA VIOLET**  
 Смак: виноград  

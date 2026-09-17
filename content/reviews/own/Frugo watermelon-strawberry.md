@@ -1,37 +1,36 @@
 ---
-alco: 0
-
+aliases:
+  - Frugo watermelon-strawberry
+  - Frugo pink
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/29421
+publishedAt: 2025-06-16
+createdAt: 2025-06-15
+cover: "[[IMG_7979.jpg]]"
+types:
+  - energy
 brand: frugo
 taste:
   - watermelon
   - strawberry
-container:
-  - can
-publishedAt: 2025-06-16
-cover: "[[IMG_7979.jpg]]"
 sweeteners:
   - juice
   - acesulfame
   - aspartame
-availability: 4
+container:
+  - can
+primaryColors:
+  - pink
+manufacturer: foodcare
 volume:
   - "0.5"
   - "0.33"
 caffeine: 15
-primaryColors:
-  - pink
-manufacturer: foodcare
-aliases:
-  - Frugo watermelon-strawberry
-  - Frugo pink
-types:
-  - energy
-createdAt: 2025-06-15
+alco: 0
+availability: 4
 old_related: true
+tags:
+  - package/canpack
 ---
 **Frugo watermelon strawberry**. Офіційний смак - кавун та полуниця
 

@@ -1,35 +1,34 @@
 ---
-alco: 0
-caffeine: 0
-
+aliases:
+  - Shake zero orange crush
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/23730
+publishedAt: 2024-10-30
+createdAt: 2024-10-30
+cover: "[[IMG_9923.jpg]]"
+types:
+  - fizzy
 brand: shake/zero
 taste:
   - orange
-container:
-  - can
-publishedAt: 2024-10-30
-cover: "[[IMG_9923.jpg]]"
 sweeteners:
   - sugar
   - juice/multifruit
-availability: 3
-volume:
-  - "0.33"
+container:
+  - can
 primaryColors:
   - orange
   - yellow
   - white
 manufacturer: new products
-aliases:
-  - Shake zero orange crush
-types:
-  - fizzy
-createdAt: 2024-10-30
+volume:
+  - "0.33"
+caffeine: 0
+alco: 0
+availability: 3
 old_related: true
+tags:
+  - package/canpack
 ---
 **Shake zero orange crush**, або як я його зву - апельсин. Офіційний смак - мб апельсин(або ото, що маленьким шрифтом)
 

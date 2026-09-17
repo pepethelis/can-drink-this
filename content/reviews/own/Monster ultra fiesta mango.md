@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Monster ultra fiesta mango
+summary: Чесно кажучи манго вже заєбав
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/32717
+publishedAt: 2025-11-09
+createdAt: 2025-10-16
+cover: "[[IMG_3669.jpg]]"
+types:
+  - energy
 brand: monster/ultra
 taste:
   - mango
-publishedAt: 2025-11-09
-favorite:
-container:
-  - can
-cover: "[[IMG_3669.jpg]]"
 sweeteners:
   - erythritol
-availability: 3
-summary: Чесно кажучи манго вже заєбав
-volume:
-  - "0.5"
-caffeine: 30
+container:
+  - can
 primaryColors:
   - blue
 manufacturer: monster energy limited
-aliases:
-  - Monster ultra fiesta mango
-types:
-  - energy
-createdAt: 2025-10-16
-old_related: true
+volume:
+  - "0.5"
+caffeine: 30
 alco: 0
+availability: 3
+favorite:
+old_related: true
+tags:
+  - package/bagpak
 ---
 **Monster ultra fiesta mango**. Офіційний смак - манго. Про смак зазначено і на банці, і на сайті
 

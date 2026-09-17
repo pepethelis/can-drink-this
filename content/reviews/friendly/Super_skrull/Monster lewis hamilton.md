@@ -1,21 +1,21 @@
 ---
-author: super_skrull
 aliases:
   - Monster lewis hamilton
-publishedAt: 2024-09-14
+summary:
 status: published
+publishedAt: 2024-09-14
+cover: "[[photo_2024-09-14_18-47-56.jpg]]"
+types:
+  - energy
 brand: monster/racing
+taste:
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-cover: "[[photo_2024-09-14_18-47-56.jpg]]"
-types:
-  - energy
 caffeine: 32
 alco: 0
+author: super_skrull
 ---
 **MONSTER ENERGY LEWIS HAMILTON ZERO SUGAR**  
 Смак: точно не вказано, я визначив як тропічний мультифрукт.  

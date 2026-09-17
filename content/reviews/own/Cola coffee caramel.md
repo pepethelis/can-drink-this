@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Cola coffee caramel
+  - Кола кава-карамель
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/27463
+publishedAt: 2025-04-04
+createdAt: 2025-04-04
+cover: "[[IMG_4782.jpg]]"
+types:
+  - fizzy
 brand: cola
 taste:
   - cola
   - coffee
   - caramel
-container:
-  - can
-publishedAt: 2025-04-04
-cover: "[[IMG_4782.jpg]]"
 sweeteners:
   - acesulfame
   - aspartame
-availability: 5
-caffeine: 16
-alco: 0
-volume:
-  - "0.25"
+container:
+  - can
 primaryColors:
   - red
 manufacturer: coca cola
-aliases:
-  - Cola coffee caramel
-  - Кола кава-карамель
-types:
-  - fizzy
-createdAt: 2025-04-04
+volume:
+  - "0.25"
+caffeine: 16
+alco: 0
+availability: 5
 old_related: true
+tags:
+  - package/canpack
 ---
 **Cola coffee caramel**, золотисята. Офіційний смак - кола+кава+карамель
 

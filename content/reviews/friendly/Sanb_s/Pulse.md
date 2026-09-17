@@ -1,22 +1,22 @@
 ---
-author: sanb_s
 aliases:
   - Pulse
-publishedAt: 2025-02-05
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4364
+publishedAt: 2025-02-05
+cover: "[[photo_2025-02-05_12-25-47.jpg]]"
+types:
+  - energy
 brand: pulse
+taste:
+  - CLASSIC
 container:
   - can
 volume:
   - "0.25"
-summary:
-taste:
-  - CLASSIC
-cover: "[[photo_2025-02-05_12-25-47.jpg]]"
-types:
-  - energy
-externalUrl: https://t.me/ukr_satan/4364
 caffeine: 20
+author: sanb_s
 ---
 Виготовлене в Польщі для Литви і нарешті імпортоване в Україну #енергохарчування  
 

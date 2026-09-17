@@ -1,38 +1,38 @@
 ---
+aliases:
+  - Power taurine energy mangue
+summary:
 status: published
-tags:
-  - package/crown
-  - country/france
 externalUrl: https://t.me/kallection/36403
+publishedAt: 2026-05-30
+createdAt: 2026-05-21
+cover: "[[IMG_2371.jpeg]]"
+types:
+  - energy
 brand: power taurine
 taste:
   - mango
-publishedAt: 2026-05-30
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - sucralose
   - inositol
-cover: "[[IMG_2371.jpeg]]"
-availability: 2
-summary:
-related:
-sponsor:
-  - gdgood
-volume:
-  - "0.5"
-caffeine: 21
+container:
+  - can
 primaryColors:
   - orange
 manufacturer: Nestlé Waters
-aliases:
-  - Power taurine energy mangue
-types:
-  - energy
-createdAt: 2026-05-21
+volume:
+  - "0.5"
+caffeine: 21
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+related:
+tags:
+  - package/crown
+  - country/france
 ---
 **Power taurine energy mangue**. Офіційний смак - mangue, тобто манго
 

@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Candy Can birthday cake
+summary:
 status: published
-tags:
-  - package/amp
 externalUrl: https://t.me/kallection/36390
+publishedAt: 2026-05-30
+createdAt: 2026-04-21
+cover: "[[IMG_1310.jpeg]]"
+types:
+  - fizzy
 brand: candy can
 taste:
   - strawberry
   - vanilla
-publishedAt: 2026-05-30
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - acesulfame
   - sucralose
-cover: "[[IMG_1310.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
-related:
+container:
+  - can
+manufacturer: Candy Can
 volume:
   - "0.33"
-manufacturer: Candy Can
-aliases:
-  - Candy Can birthday cake
-types:
-  - fizzy
-createdAt: 2026-04-21
 caffeine: 0
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+related:
+tags:
+  - package/amp
 ---
 **Candy Can birthday cake**. Офіційний смак - полуниця-ваніль
 

@@ -1,23 +1,23 @@
 ---
-author: super_skrull
 aliases:
   - Monster juiced rio punch
-publishedAt: 2025-10-03
+summary:
 status: published
+publishedAt: 2025-10-03
+cover: "[[photo_2025-10-03_19-14-09.jpg]]"
+types:
+  - energy
 brand: monster/juiced
+taste:
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-10-03_19-14-09.jpg]]"
-contentTgPosts:
-  - https://t.me/super_skrulling/2303
 caffeine: 32
 alco: 0
+author: super_skrull
+contentTgPosts:
+  - https://t.me/super_skrulling/2303
 ---
 **PUNCH M∅NSTER RIO PUNCH**  
 

@@ -1,24 +1,24 @@
 ---
-author: decepti_on
 aliases:
   - Battery juiced sour apple
-publishedAt: 2025-09-24
+summary: Огляд на баттері з яблуком
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33673
+publishedAt: 2025-09-24
+cover:
+types:
+  - energy
 brand: battery/juiced
+taste:
 container:
   - can
 volume:
-summary: Огляд на баттері з яблуком
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33673
+caffeine: 32
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33670
   - https://t.me/sonechkin_rzekich/33671
   - https://t.me/sonechkin_rzekich/33672
-alco: 0
-caffeine: 32
 ---
 Огляд на баттері з яблуком

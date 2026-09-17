@@ -1,41 +1,41 @@
 ---
+aliases:
+  - Monster ultra vice guava
+summary:
 status: to create
-tags:
-  - package/canpack
-  - country/poland
 externalUrl:
+publishedAt:
+cover: "[[default.png]]"
+types:
+  - energy
 brand: monster/ultra
 taste:
   - guava
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - erythritol
   - sucralose
   - acesulfame
   - inositol
-cover: "[[default.png]]"
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - green
   - blue
   - pink
 manufacturer: monster energy limited
-caffeine: 32
-sponsor:
-  - makmed1337
 volume:
   - "0.5"
-related:
-aliases:
-  - Monster ultra vice guava
-types:
-  - energy
-old_related: true
+caffeine: 32
 alco: 0
+sponsor:
+  - makmed1337
+availability: 3
+favorite:
+related:
+old_related: true
+tags:
+  - package/canpack
+  - country/poland
 ---
 **Monster ultra vice guava**. Офіційний смак - гуава
 

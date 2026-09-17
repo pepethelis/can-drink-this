@@ -1,21 +1,21 @@
 ---
 author: makmed1337
-container:
-  - can
-taste:
-  - berries
+aliases:
+  - Monster juiced viking berry
+status: published
+externalUrl: https://t.me/kallection/34751
+publishedAt: 2026-02-21
+cover: "[[photo_2026-02-21_21-28-57.jpg]]"
 types:
   - energy
 brand: monster/juiced
-publishedAt: 2026-02-21
-caffeine: 32
+taste:
+  - berries
+container:
+  - can
 volume:
   - "0.5"
-status: published
-externalUrl: https://t.me/kallection/34751
-aliases:
-  - Monster juiced viking berry
-cover: "[[photo_2026-02-21_21-28-57.jpg]]"
+caffeine: 32
 alco: 0
 ---
 Monster Viking Berry

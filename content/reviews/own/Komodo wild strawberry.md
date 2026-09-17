@@ -1,41 +1,41 @@
 ---
+aliases:
+  - Komodo wild strawberry
+summary:
 status: published
-tags:
-  - country/poland
-  - package/amp
 externalUrl: https://t.me/kallection/38360
+publishedAt: 2026-08-26
+createdAt: 2026-07-29
+cover: "[[IMG_5900.jpeg]]"
+types:
+  - energy
 brand: komodo
 taste:
   - strawberry/wild
-publishedAt: 2026-08-26
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - inositol
-cover: "[[IMG_5900.jpeg]]"
-availability: 3
-summary:
-volume:
-  - "0.25"
-caffeine: 32
-sponsor:
-  - ritual_huitual
-manufacturer: KED Krasnodębski Sp. K
+container:
+  - can
 primaryColors:
   - violet
   - white
-aliases:
-  - Komodo wild strawberry
-types:
-  - energy
-createdAt: 2026-07-29
+manufacturer: KED Krasnodębski Sp. K
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+sponsor:
+  - ritual_huitual
+availability: 3
+favorite:
 related:
   - "[[content/reviews/own/Hell strawberry-banana|Hell strawberry-banana]]"
   - "[[Effect strawberry apricot|Effect strawberry apricot]]"
   - "[[Frugo watermelon-strawberry|Frugo watermelon-strawberry]]"
-alco: 0
+tags:
+  - country/poland
+  - package/amp
 ---
 **Komodo wild strawberry**. Офіційний смак - суниця
 

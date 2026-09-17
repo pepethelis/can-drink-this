@@ -1,26 +1,26 @@
 ---
-author: decepti_on
 aliases:
   - Nonstop stalker violet
-publishedAt: 2024-08-11
+summary: Огляд на сталкер фіолетовий моя оцінка 7/10 (я не люблю манго)
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/32820
+publishedAt: 2024-08-11
+cover:
+types:
+  - energy
 brand: nonstop/stalker
+taste:
+  - mango
+  - pear
 container:
   - can
 volume:
   - "0.25"
-summary: Огляд на сталкер фіолетовий моя оцінка 7/10 (я не люблю манго)
-taste:
-  - mango
-  - pear
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/32820
+caffeine: 32
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32818
   - https://t.me/sonechkin_rzekich/32819
-caffeine: 32
-alco: 0
 ---
 Огляд на сталкер фіолетовий моя оцінка 7/10 (я не люблю манго)

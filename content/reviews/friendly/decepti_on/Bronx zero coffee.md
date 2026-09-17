@@ -1,21 +1,21 @@
 ---
-author: decepti_on
 aliases:
   - Bronx zero coffee
-publishedAt: 2026-02-07
+summary: Огляд на Бронкс кола кофє
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33858
+publishedAt: 2026-02-07
+cover:
+types:
+  - energy
 brand: bronx/zero
+taste:
 container:
   - can
 volume:
-summary: Огляд на Бронкс кола кофє
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33858
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33858
-alco: 0
 ---
 Огляд на Бронкс кола кофє

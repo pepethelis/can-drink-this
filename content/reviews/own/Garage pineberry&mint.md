@@ -1,32 +1,32 @@
 ---
+aliases:
+  - Garage pineberry&mint
 status: published
-tags:
 externalUrl: https://t.me/kallection/29270
+publishedAt: 2025-06-10
+createdAt: 2025-06-10
+cover: "[[IMG_7694.jpg]]"
+types:
+  - alco
 brand: garage
 taste:
   - mint
   - pineberry
-container:
-  - can
-  - glass
-publishedAt: 2025-06-10
-cover: "[[IMG_7694.jpg]]"
 sweeteners:
   - glucose-fructose syrup
   - extract/grape
-availability: 5
-alco: 4.4
-caffeine: 0
-volume:
-  - "0.44"
+container:
+  - can
+  - glass
 primaryColors:
   - pink
 manufacturer: carlsberg
-aliases:
-  - Garage pineberry&mint
-types:
-  - alco
-createdAt: 2025-06-10
+volume:
+  - "0.44"
+caffeine: 0
+alco: 4.4
+availability: 5
+tags:
 ---
 **Garage pineberry&mint**. Офіційний смак - біла полуниця та м'ята
 

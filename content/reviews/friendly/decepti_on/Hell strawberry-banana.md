@@ -1,26 +1,26 @@
 ---
-author: decepti_on
 aliases:
   - Hell strawberry-banana
-publishedAt: 2025-07-31
+summary: Огляд на хелл полуниця банан
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33484
+publishedAt: 2025-07-31
+cover:
+types:
+  - energy
 brand: hell
+taste:
+  - strawberry
+  - banana
 container:
   - can
 volume:
   - "0.5"
-summary: Огляд на хелл полуниця банан
-taste:
-  - strawberry
-  - banana
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33484
+caffeine: 30
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33482
   - https://t.me/sonechkin_rzekich/33483
-caffeine: 30
-alco: 0
 ---
 Огляд на хелл полуниця банан

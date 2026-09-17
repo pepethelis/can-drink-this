@@ -1,20 +1,20 @@
 ---
-author: super_skrull
 aliases:
   - Nonstop 20 years edition
-publishedAt: 2025-10-31
+summary:
 status: published
+publishedAt: 2025-10-31
+cover: "[[photo_2025-10-31_09-04-15.jpg]]"
+types:
+  - energy
 brand: nonstop
+taste:
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-10-31_09-04-15.jpg]]"
 alco: 0
+author: super_skrull
 ---
 **NON STOP 20 YEARS EDITION LIMITED**  
 

@@ -1,35 +1,34 @@
 ---
-alco: 0
-caffeine: 0
-
+aliases:
+  - Shake zero bitter lemon
 status: published
-tags:
 externalUrl: https://t.me/kallection/23732
+publishedAt: 2024-10-30
+createdAt: 2024-10-30
+cover: "[[IMG_9920.jpg]]"
+types:
+  - fizzy
 brand: shake/zero
 taste:
   - lemon
-container:
-  - can
-publishedAt: 2024-10-30
-cover: "[[IMG_9920.jpg]]"
 sweeteners:
   - sugar
   - juice/lemon
   - extract
-availability: 3
-volume:
-  - "0.33"
+container:
+  - can
 primaryColors:
   - orange
   - violet
   - white
 manufacturer: new products
-aliases:
-  - Shake zero bitter lemon
-types:
-  - fizzy
-createdAt: 2024-10-30
+volume:
+  - "0.33"
+caffeine: 0
+alco: 0
+availability: 3
 old_related: true
+tags:
 ---
 **Shake zero bitter lemon**. Офіційний смак - мб лимонний (або ото, що маленьким шрифтом)
 

@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Redbull organics simply cola
 status: published
-tags:
-  - package/ball
-  - country/germany
 externalUrl: https://t.me/kallection/27185
+publishedAt: 2025-03-22
+createdAt: 2025-03-22
+cover: "[[IMG_4200.jpg]]"
+types:
+  - fizzy
 brand: redbull/organics
 taste:
   - cola
-container:
-  - can
-publishedAt: 2025-03-22
-cover: "[[IMG_4200.jpg]]"
 sweeteners:
   - sugar
   - juice/lemon
   - sugar syrup
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
-caffeine: 0
+container:
+  - can
 primaryColors:
   - red
   - blue
 manufacturer: redbull
-aliases:
-  - Redbull organics simply cola
-types:
-  - fizzy
-createdAt: 2025-03-22
-old_related: true
+volume:
+  - "0.25"
+caffeine: 0
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+old_related: true
+tags:
+  - package/ball
+  - country/germany
 ---
 **Organics by redbull - simply cola**
 

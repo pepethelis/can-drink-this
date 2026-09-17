@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Hell watermelon
+  - Хелл кавун
 status: published
-tags:
-  - package/quality
 externalUrl: https://t.me/kallection/27099
+publishedAt: 2025-03-19
+createdAt: 2025-03-19
+cover: "[[IMG_4001.jpg]]"
+types:
+  - energy
 brand: hell
 taste:
   - watermelon
   - tutti-frutti
-container:
-  - can
-publishedAt: 2025-03-19
-cover: "[[IMG_4001.jpg]]"
 sweeteners:
   - sugar
   - inositol
-availability: 4
-volume:
-  - "0.5"
-caffeine: 30
-alco: 0
+container:
+  - can
 primaryColors:
   - red
   - green
 manufacturer: hell energy
-aliases:
-  - Hell watermelon
-  - Хелл кавун
-types:
-  - energy
-createdAt: 2025-03-19
+volume:
+  - "0.5"
+caffeine: 30
+alco: 0
+availability: 4
+tags:
+  - package/quality
 ---
 **Hell watermelon**. Офіційний смак - кавун та тутті-фрутті
 

@@ -1,21 +1,21 @@
 ---
-author: sanb_s
 aliases:
   - Power up
-publishedAt:
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/4534
+publishedAt:
+cover: "[[photo_2025-02-20_11-36-57.jpg]]"
+types:
+  - energy
 brand: power up
+taste:
 container:
   - plastic
 volume:
   - "1"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2025-02-20_11-36-57.jpg]]"
-externalUrl: https://t.me/ukr_satan/4534
 caffeine: 32
+author: sanb_s
 ---
 А таке #енергохарчування ви куштували???  
 

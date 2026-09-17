@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Jaffa ice coffee cappuccino
+summary:
 status: published
-tags:
 externalUrl: https://t.me/kallection/36253
+publishedAt: 2026-05-22
+createdAt: 2026-04-22
+cover: "[[IMG_1360.jpeg]]"
+types:
+  - coffee
 brand: jaffa
 taste:
   - coffee
-publishedAt: 2026-05-22
-favorite:
-container:
-  - tetrapak
 sweeteners:
   - sugar
-cover: "[[IMG_1360.jpeg]]"
-availability: 3.5
-summary:
-volume:
-  - "0.25"
+container:
+  - tetrapak
 primaryColors:
   - brown
 manufacturer: vitmark
-aliases:
-  - Jaffa ice coffee cappuccino
-types:
-  - coffee
+volume:
+  - "0.25"
+caffeine: 0
+alco: 0
+availability: 3.5
+favorite:
 related:
   - "[[Jacobs ice presso latte]]"
   - "[[Hell ice coffee latte]]"
   - "[[content/reviews/own/Hell ice coffee strawberry latte]]"
   - "[[Vega Milk banana]]"
   - "[[Vega Milk coconut]]"
-createdAt: 2026-04-22
-caffeine: 0
-alco: 0
+tags:
 ---
 **Jaffa ice coffee cappuccino**. Офіційний смак - капучіно
 

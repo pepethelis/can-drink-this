@@ -1,35 +1,35 @@
 ---
+aliases:
+  - FRATELLI Naturali Limonata Frizzante
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/32138
+publishedAt: 2025-10-12
+createdAt: 2025-09-28
+cover: "[[IMG_2919.jpg]]"
+types:
+  - fizzy
 brand: fratelli
 taste:
   - lemon
-publishedAt: 2025-10-12
-cover: "[[IMG_2919.jpg]]"
 sweeteners:
   - glucose-fructose syrup
-availability: 3
-volume:
-  - "0.33"
-manufacturer: tairovo
+container:
+  - can
 primaryColors:
   - green
   - yellow
   - white
-container:
-  - can
-aliases:
-  - FRATELLI Naturali Limonata Frizzante
-types:
-  - fizzy
+manufacturer: tairovo
+volume:
+  - "0.33"
+caffeine: 0
+alco: 0
+availability: 3
 related:
   - "[[Arizona green tea with honey]]"
   - "[[Моршинська лимонад апельсин та персик]]"
-createdAt: 2025-09-28
-caffeine: 0
-alco: 0
+tags:
+  - package/canpack
 ---
 **FRATELLI Naturali Limonata Frizzante**. Офіційний смак - "напій зі смаком лимону"
 

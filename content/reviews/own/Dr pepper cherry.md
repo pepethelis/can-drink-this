@@ -1,36 +1,36 @@
 ---
-alco: 0
+aliases:
+  - Dr pepper cherry
 status: published
-tags:
-  - package/amp
 externalUrl: https://t.me/kallection/30579
+publishedAt: 2025-08-02
+createdAt: 2025-08-02
+cover: "[[IMG_0852.jpg]]"
+types:
+  - fizzy
 brand: dr pepper
 taste:
   - ORIGINAL
   - cherry
-container:
-  - can
-publishedAt: 2025-08-02
-cover: "[[IMG_0852.jpg]]"
 sweeteners:
   - sugar
   - sucralose
   - acesulfame
-availability: 4
-volume:
-  - "0.33"
-manufacturer: coca cola
+container:
+  - can
 primaryColors:
   - gray
   - red
   - green
-aliases:
-  - Dr pepper cherry
-types:
-  - fizzy
-createdAt: 2025-08-02
-old_related: true
+manufacturer: coca cola
+volume:
+  - "0.33"
 caffeine: 0
+alco: 0
+availability: 4
+old_related: true
+tags:
+  - package/amp
 ---
 **Dr pepper cherry**. Офіційний смак - вишня
 

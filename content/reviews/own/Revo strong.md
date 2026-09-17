@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Revo strong
+  - Revo 10%
+  - Рево стронг
+summary:
 status: prebuild
-tags:
 externalUrl:
+publishedAt:
+cover: "[[default.png]]"
+types:
+  - alco
+  - energy
 brand: revo
 taste:
   - ORIGINAL
-publishedAt:
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[default.png]]"
-availability:
-summary:
-alco: 10
-caffeine: 30
 primaryColors:
   - gray
   - black
 manufacturer: new products
 volume:
   - "0.5"
-aliases:
-  - Revo strong
-  - Revo 10%
-  - Рево стронг
-types:
-  - alco
-  - energy
-listexUrls: 
+caffeine: 30
+alco: 10
+availability:
+favorite:
+tags:
+listexUrls:
   - https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-revo-strong-05-l-10-ua-4820252126527
 ---
 **Revo strong**. Офіційний смак - ==СМАК==

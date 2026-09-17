@@ -1,36 +1,35 @@
 ---
-
+aliases:
+  - Monster juiced aussie style lemonade
 status: published
-tags:
-  - package/bagpak
-  - package/ag
 externalUrl: https://t.me/kallection/24292
+publishedAt: 2024-11-19
+createdAt: 2024-11-19
+cover: "[[IMG_0648.jpg]]"
+types:
+  - energy
 brand: monster/juiced
 taste:
   - lemonade
-container:
-  - can
-publishedAt: 2024-11-19
-cover: "[[IMG_0648.jpg]]"
 sweeteners:
   - sugar
   - juice/lemon
   - glucose syrup
   - sucralose
-availability: 4
+container:
+  - can
+primaryColors:
+  - blue
+manufacturer: monster energy limited
 volume:
   - "0.5"
 caffeine: 32
 alco: 0
-primaryColors:
-  - blue
-manufacturer: monster energy limited
-aliases:
-  - Monster juiced aussie style lemonade
-types:
-  - energy
-createdAt: 2024-11-19
+availability: 4
 old_related: true
+tags:
+  - package/bagpak
+  - package/ag
 ---
 **Monster juiced aussie style lemonade**, він же монстер з рибами
 

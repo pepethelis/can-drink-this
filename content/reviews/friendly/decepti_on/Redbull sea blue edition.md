@@ -1,22 +1,22 @@
 ---
-author: decepti_on
 aliases:
   - Redbull sea blue edition
-publishedAt: 2026-03-13
+summary:
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33945
+publishedAt: 2026-03-13
+cover:
+types:
+  - energy
 brand: redbull/edition
+taste:
 container:
   - can
 volume:
   - "0.25"
-summary:
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33945
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33943
   - https://t.me/sonechkin_rzekich/33944
-alco: 0
 ---

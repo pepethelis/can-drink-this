@@ -1,24 +1,24 @@
 ---
-author: decepti_on
 aliases:
   - Monster java 300 mocha
-publishedAt: 2025-02-13
+summary: Огляд на монстр з кавою ціна 150 грн в Сільпо по знижці. Оцінка 4/10
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33079
+publishedAt: 2025-02-13
+cover:
+types:
+  - energy
 brand: monster/java/300
+taste:
+  - coffee
 container:
   - can
 volume:
-summary: Огляд на монстр з кавою ціна 150 грн в Сільпо по знижці. Оцінка 4/10
-taste:
-  - coffee
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33079
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33077
   - https://t.me/sonechkin_rzekich/33078
-alco: 0
 ---
 Огляд на монстр з кавою ціна 150 грн в Сільпо по знижці. Оцінка 4/10
 

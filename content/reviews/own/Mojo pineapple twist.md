@@ -1,15 +1,19 @@
 ---
+aliases:
+  - Mojo pineapple twist
+  - Моджо ананасовий твіст
+  - Моджо жовте
+summary:
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/36381
+publishedAt: 2026-05-30
+createdAt: 2026-04-19
+cover: "[[IMG_1157.jpeg]]"
+types:
+  - fizzy
 brand: mojo
 taste:
   - pineapple
-publishedAt: 2026-05-30
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - glucose-fructose syrup
@@ -17,23 +21,19 @@ sweeteners:
   - juice/apple
   - juice/strawberry
   - juice/multifruit
-cover: "[[IMG_1157.jpeg]]"
-availability: 4
-summary:
-volume:
-  - "0.33"
+container:
+  - can
 primaryColors:
   - yellow
 manufacturer: new products
-aliases:
-  - Mojo pineapple twist
-  - Моджо ананасовий твіст
-  - Моджо жовте
-types:
-  - fizzy
-createdAt: 2026-04-19
-alco: 0
+volume:
+  - "0.33"
 caffeine: 0
+alco: 0
+availability: 4
+favorite:
+tags:
+  - package/canpack
 ---
 **Mojo pineapple twist**. Офіційний смак - ананас/полуниця/лемонграс
 

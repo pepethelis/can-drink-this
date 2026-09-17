@@ -1,19 +1,19 @@
 ---
-author: decepti_on
 aliases:
   - Hunter original
-publishedAt: 2025-08-28
+summary: Огляд на енергетик хантер оригінальний
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33595
+publishedAt: 2025-08-28
+cover:
+types:
+  - energy
 brand: hunter
+taste:
 container:
   - can
 volume:
-summary: Огляд на енергетик хантер оригінальний
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33595
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33594
 ---

@@ -1,38 +1,37 @@
 ---
-alco: 0
-
+aliases:
+  - Nonstop stalker green
+  - Нонстоп сталкер зелений
 status: published
-tags:
+externalUrl: https://t.me/kallection/31592
+publishedAt: 2025-09-14
+updatedAt: 2026-06-02
+createdAt: 2025-09-06
+cover: "[[IMG_1923.jpg]]"
+types:
+  - energy
 brand: nonstop/stalker
 taste:
   - lime
   - mint
   - blackberry
-container:
-  - can
-cover: "[[IMG_1923.jpg]]"
-externalUrl: https://t.me/kallection/31592
-publishedAt: 2025-09-14
 sweeteners:
   - sugar
   - juice/lime
-availability: 5
-volume:
-  - "0.5"
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - green
   - black
 manufacturer: new products
-updatedAt: 2026-06-02
-aliases:
-  - Nonstop stalker green
-  - Нонстоп сталкер зелений
-types:
-  - energy
-createdAt: 2025-09-06
+volume:
+  - "0.5"
+  - "0.25"
+caffeine: 32
+alco: 0
+availability: 5
 old_related: true
+tags:
 ---
 **Nonstop stalker green**. Офіційний смак на банці не вказано, але на сайті згадували лайм🍋‍🟩, м'яту🌿 та ожину🫐
 

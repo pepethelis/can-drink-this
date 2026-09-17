@@ -1,34 +1,34 @@
 ---
+aliases:
+  - Burn fruit punch
+  - Бьорн фрут пунш
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/26901
+publishedAt: 2025-03-11
+createdAt: 2025-03-11
+cover: "[[IMG_3840.jpg]]"
+types:
+  - energy
 brand: burn
 taste:
   - fruit punch
-container:
-  - can
-publishedAt: 2025-03-11
-cover: "[[IMG_3840.jpg]]"
 sweeteners:
   - sugar
   - inositol
-availability: 4
-caffeine: 31
-alco: 0
-volume:
-  - "0.25"
+container:
+  - can
 primaryColors:
   - blue
   - black
 manufacturer: energy beverages
-aliases:
-  - Burn fruit punch
-  - Бьорн фрут пунш
-types:
-  - energy
-createdAt: 2025-03-11
+volume:
+  - "0.25"
+caffeine: 31
+alco: 0
+availability: 4
 old_related: true
+tags:
+  - package/canpack
 ---
 **Burn fruit punch**, або ж синій бьорн. Офіційний смак - фруктовий пунш
 

@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Battery exotic
+  - Батарейка екзотік
 status: published
-tags:
 externalUrl: https://t.me/kallection/22846
+publishedAt: 2024-09-24
+createdAt: 2024-09-24
+cover: "[[IMG_8523.jpg]]"
+types:
+  - energy
 brand: battery
 taste:
   - passion fruit
   - guava
-container:
-  - can
-publishedAt: 2024-09-24
-cover: "[[IMG_8523.jpg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
   - extract/acacia
-availability: 4
-volume:
-  - "0.5"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - yellow
   - violet
 manufacturer: carlsberg
-aliases:
-  - Battery exotic
-  - Батарейка екзотік
-types:
-  - energy
-createdAt: 2024-09-24
-old_related: true
+volume:
+  - "0.5"
+caffeine: 32
 alco: 0
+availability: 4
+old_related: true
+tags:
 ---
 **Battery Exotic**, вона ж жовто-фіолетова батарейка. Офіційний смак - маракуйя+гуава. Дропаю огляд або зараз, або не дропаю взагалі
 

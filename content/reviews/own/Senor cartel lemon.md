@@ -1,40 +1,40 @@
 ---
+aliases:
+  - Senor cartel lemon
+summary: Типу гараж, але від їболоня. Тут би оновити огляд
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/32725
+publishedAt: 2025-11-09
+updatedAt: 2026-06-02
+createdAt: 2025-10-24
+cover: "[[IMG_4005.jpeg]]"
+types:
+  - alco
 brand: senor cartel
 taste:
   - lemon
-publishedAt: 2025-11-09
-favorite:
-container:
-  - glass
 sweeteners:
   - glucose-fructose syrup
   - sugar
-cover: "[[IMG_4005.jpeg]]"
-availability: 4
-summary: Типу гараж, але від їболоня. Тут би оновити огляд
-volume:
-  - "0.33"
-alco: 4.6
+container:
+  - glass
 primaryColors:
   - yellow
 manufacturer: оболонь
-updatedAt: 2026-06-02
-aliases:
-  - Senor cartel lemon
-types:
-  - alco
+volume:
+  - "0.33"
+caffeine: 0
+alco: 4.6
+availability: 4
+favorite:
 related:
   - "[[Garage mandarin|Garage mandarin]]"
   - "[[Garage hardcore|Garage hardcore cherry + Garage hardcore starfruit]]"
   - "[[Garage pineberry&mint|Garage pineberry&mint]]"
   - "[[Hike vibe mojito|Hike vibe mojito]]"
   - "[[Hike vibe income tax|Hike vibe income tax]]"
-createdAt: 2025-10-24
-caffeine: 0
+tags:
+  - package/canpack
 ---
 Типу гараж **Senor cartel lemon**. Офіційний смак - лимон
 

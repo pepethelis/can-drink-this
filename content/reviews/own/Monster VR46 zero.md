@@ -1,37 +1,36 @@
 ---
-alco: 0
-
+aliases:
+  - Monster VR46 zero
+summary: Імпостер без цукру
 status: published
-tags:
-  - package/canpack
-  - country/poland
 externalUrl: https://t.me/kallection/38051
+publishedAt: 2026-08-12
+createdAt: 2026-07-18
+cover: "[[IMG_5126.jpeg]]"
+types:
+  - energy
 brand: monster/racing
 taste:
   - citrus
-publishedAt: 2026-08-12
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[IMG_5126.jpeg]]"
-availability: 3
-summary: Імпостер без цукру
 primaryColors:
   - blue
   - yellow
 manufacturer: monster energy limited
-sponsor:
-  - makmed1337
-  - verfolomei
 volume:
   - "0.5"
 caffeine: 32
-aliases:
-  - Monster VR46 zero
-types:
-  - energy
-createdAt: 2026-07-18
+alco: 0
+sponsor:
+  - makmed1337
+  - verfolomei
+availability: 3
+favorite:
+tags:
+  - package/canpack
+  - country/poland
 ---
 **Monster VR46 zero**. Офіційний смак на банці не вказано, але на сайті - "Light, crisp, refreshing citrus"
 

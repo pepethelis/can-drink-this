@@ -1,36 +1,36 @@
 ---
+aliases:
+  - Redbull organics viva mate
 status: published
-tags:
-  - package/ball
-  - country/germany
 externalUrl: https://t.me/kallection/29693
+publishedAt: 2025-06-26
+createdAt: 2025-06-25
+cover: "[[IMG_1488.jpg]]"
+types:
+  - fizzy
 brand: redbull/organics
 taste:
   - mate
-container:
-  - can
-publishedAt: 2025-06-26
-cover: "[[IMG_1488.jpg]]"
 sweeteners:
   - sugar
   - juice/lemon
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
-caffeine: 0
+container:
+  - can
 primaryColors:
   - yellow
   - green
 manufacturer: redbull
-aliases:
-  - Redbull organics viva mate
-types:
-  - fizzy
-createdAt: 2025-06-25
-old_related: true
+volume:
+  - "0.25"
+caffeine: 0
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+old_related: true
+tags:
+  - package/ball
+  - country/germany
 ---
 **Organics by redbull - viva mate**. Найнеочікуваніший із усієї лінійки
 

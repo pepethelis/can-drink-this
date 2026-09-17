@@ -1,21 +1,21 @@
 ---
-author: sanb_s
 aliases:
   - Redbull summer edition zero
-publishedAt: 2026-06-23
+summary:
 status: published
+externalUrl: https://t.me/ukr_satan/7892
+publishedAt: 2026-06-23
+cover: "[[photo_2026-06-23_19-19-48.jpg]]"
+types:
+  - energy
 brand: redbull/edition
+taste:
 container:
   - can
 volume:
   - "0.25"
-summary:
-taste:
-types:
-  - energy
-cover: "[[photo_2026-06-23_19-19-48.jpg]]"
-externalUrl: https://t.me/ukr_satan/7892
 alco: 0
+author: sanb_s
 ---
 Новеньке #енергохарчування  
 

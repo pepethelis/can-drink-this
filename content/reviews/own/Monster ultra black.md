@@ -1,35 +1,34 @@
 ---
-alco: 0
-
+aliases:
+  - Monster ultra black
 status: published
-tags:
-  - package/canpack
-  - country/poland
 externalUrl: https://t.me/kallection/29168
+publishedAt: 2025-06-08
+createdAt: 2025-06-08
+cover: "[[IMG_7397.jpg]]"
+types:
+  - energy
 brand: monster/ultra
 taste:
   - cherry
-container:
-  - can
-publishedAt: 2025-06-08
-cover: "[[IMG_7397.jpg]]"
 sweeteners:
   - erythritol
   - sucralose
   - acesulfame
-availability: 3
-caffeine: 30
-volume:
-  - "0.5"
+container:
+  - can
 primaryColors:
   - black
 manufacturer: monster energy limited
-aliases:
-  - Monster ultra black
-types:
-  - energy
-createdAt: 2025-06-08
+volume:
+  - "0.5"
+caffeine: 30
+alco: 0
+availability: 3
 old_related: true
+tags:
+  - package/canpack
+  - country/poland
 ---
 **Monster ultra black**. Офіційний смак згідно сайту - "Crisp and Refreshing Black Cherry"
 

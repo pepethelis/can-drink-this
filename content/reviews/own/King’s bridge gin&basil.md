@@ -1,33 +1,33 @@
 ---
+aliases:
+  - King’s bridge gin&basil
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/27827
+publishedAt: 2025-04-19
+createdAt: 2025-04-19
+cover: "[[IMG_5377.jpg]]"
+types:
+  - alco
 brand: king's bridge
 taste:
   - gin
   - basil
-container:
-  - can
-publishedAt: 2025-04-19
-cover: "[[IMG_5377.jpg]]"
 sweeteners:
   - sugar
   - juice
-availability: 4
-volume:
-  - "0.5"
-alco: 7
-caffeine: 0
+container:
+  - can
 primaryColors:
   - green
 manufacturer: new products
-aliases:
-  - King’s bridge gin&basil
-types:
-  - alco
-createdAt: 2025-04-19
+volume:
+  - "0.5"
+caffeine: 0
+alco: 7
+availability: 4
 old_related: true
+tags:
+  - package/canpack
 ---
 **King’s bridge зелений**. Офіційний смак - джин та базилік
 

@@ -1,33 +1,33 @@
 ---
-status: published
 aliases:
   - Hell carnival cotton candy
+summary:
+status: published
 externalUrl: https://t.me/kallection/38849
-brand: hell/carnival
+publishedAt: 2026-09-13
+createdAt: 2026-08-20
+cover: "[[IMG_7216.jpeg]]"
 types:
   - energy
+brand: hell/carnival
 taste:
   - cotton candy
-publishedAt: 2026-09-13
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_7216.jpeg]]"
-availability: 3.5
-summary:
+container:
+  - can
 primaryColors:
   - pink
   - creme
   - golden
 manufacturer: hell energy
-caffeine: 32
 volume:
   - "0.25"
+caffeine: 32
 alco: 0
+availability: 3.5
+favorite:
 related:
-createdAt: 2026-08-20
 ---
 **Hell carnival cotton candy**. Офіційний смак - цукрова вата
 

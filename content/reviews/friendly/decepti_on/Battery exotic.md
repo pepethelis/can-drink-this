@@ -1,23 +1,23 @@
 ---
-author: decepti_on
 aliases:
   - Battery exotic
-publishedAt: 2025-09-10
+summary: Огляд на баттері екзотік
 status: published
+externalUrl: https://t.me/sonechkin_rzekich/33631
+publishedAt: 2025-09-10
+cover:
+types:
+  - energy
 brand: battery
+taste:
 container:
   - can
 volume:
-summary: Огляд на баттері екзотік
-taste:
-types:
-  - energy
-cover:
-externalUrl: https://t.me/sonechkin_rzekich/33631
+caffeine: 32
+alco: 0
+author: decepti_on
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33629
   - https://t.me/sonechkin_rzekich/33630
-alco: 0
-caffeine: 32
 ---
 Огляд на баттері екзотік

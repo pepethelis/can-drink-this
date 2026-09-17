@@ -1,31 +1,31 @@
 ---
+aliases:
+  - Borjomi energia blue
+summary:
 status: prebuild
-tags:
 externalUrl:
+publishedAt:
+cover: "[[default.png]]"
+types:
+  - energy
 brand: borjomi/energia
 taste:
   - tutti-frutti
-publishedAt:
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[default.png]]"
-availability:
-summary:
 primaryColors:
   - blue
   - white
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine: 30
-alco: 0
 volume:
   - "0.24"
-aliases:
-  - Borjomi energia blue
-types:
-  - energy
+caffeine: 30
+alco: 0
+availability:
+favorite:
 old_related: true
+tags:
 ---
 **Borjomi energia blue**. Офіційний смак - ==СМАК==
 

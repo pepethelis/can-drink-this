@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Buvette Healthy Tea троянда лимон імбир
 status: needs update
-tags:
 externalUrl: https://t.me/kallection/27671
+publishedAt: 2025-04-12
+createdAt: 2025-02-12
+cover: "[[IMG_5030.jpg]]"
+types:
+  - tea
 brand: buevette
 taste:
   - rose
   - lemon
   - ginger
-container:
-  - plastic
-publishedAt: 2025-04-12
-cover: "[[IMG_5030.jpg]]"
 sweeteners:
   - sugar
   - extract
-availability: 3
-volume:
-  - "0.5"
+container:
+  - plastic
 primaryColors:
   - pink
 manufacturer: buvette
-aliases:
-  - Buvette Healthy Tea троянда лимон імбир
-types:
-  - tea
-createdAt: 2025-02-12
-old_related: true
-alco: 0
+volume:
+  - "0.5"
 caffeine: 0
+alco: 0
+availability: 3
+old_related: true
+tags:
 ---
 **Buvette Healthy Tea**. Офіційний смак - **троянда, лимон, імбир**
 

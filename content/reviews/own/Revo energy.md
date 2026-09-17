@@ -1,32 +1,32 @@
 ---
-status: published
 aliases:
   - Revo energy
+summary:
+status: published
 externalUrl: https://t.me/kallection/38644
-brand: revo/energy
+publishedAt: 2026-09-05
+createdAt: 2026-08-18
+cover: "[[IMG_6991.jpeg]]"
 types:
   - energy
+brand: revo/energy
 taste:
   - revo
-publishedAt: 2026-09-05
-container:
-  - can
 sweeteners:
   - sugar
   - juice/multifruit
-availability: 3.5
-cover: "[[IMG_6991.jpeg]]"
-summary:
+container:
+  - can
 primaryColors:
   - yellow
   - blue
   - gray
 manufacturer: new products
-caffeine: 32
 volume:
   - "0.25"
+caffeine: 32
 alco: 0
-createdAt: 2026-08-18
+availability: 3.5
 ---
 **Revo energy**. Офіційний смак - «смак рева»😳
 

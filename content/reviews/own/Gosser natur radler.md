@@ -1,40 +1,40 @@
 ---
+aliases:
+  - Gosser natur radler
 status: published
-tags:
-  - package/crown
 externalUrl: https://t.me/kallection/29542
+publishedAt: 2025-06-20
+createdAt: 2025-06-15
+cover: "[[IMG_8005.jpg]]"
+types:
+  - alco
+  - radler
 brand: gosser
 taste:
   - lemon
-container:
-  - can
-publishedAt: 2025-06-20
-cover: "[[IMG_8005.jpg]]"
 sweeteners:
   - fructose
   - juice/lemon
   - juice/orange
   - juice/apple
-availability: 3
-volume:
-  - "0.5"
-alco: 2
+container:
+  - can
 primaryColors:
   - green
 manufacturer: Brau Union Österreich AG
-aliases:
-  - Gosser natur radler
-types:
-  - alco
-  - radler
+volume:
+  - "0.5"
+caffeine: 0
+alco: 2
+availability: 3
 related:
   - "[[Львівське радлер лимон]]"
   - "[[Львівське радлер яблуко]]"
   - "[[Чернігівське біле fruter кавун]]"
   - "[[Lomza radler cherry]]"
   - "[[Lomza radler watermelon]]"
-createdAt: 2025-06-15
-caffeine: 0
+tags:
+  - package/crown
 ---
 Радлер **Gösser natur radler**. Офіційний смак наче і не вказано
 

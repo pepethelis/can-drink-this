@@ -1,39 +1,39 @@
 ---
+aliases:
+  - Nonstop jungle
+  - Нонстоп джангл
+  - Нонстоп зелений
 status: published
-tags:
-  - package/canpack
-  - package/bagpak
 externalUrl: https://t.me/kallection/32255
+publishedAt: 2025-10-16
+updatedAt: 2026-09-13
+createdAt: 2025-09-28
+cover: "[[IMG_2909.jpg]]"
+types:
+  - energy
 brand: nonstop
 taste:
   - mint
   - strawberry
-favorite: true
+sweeteners:
+  - sugar
 container:
   - can
   - plastic
-publishedAt: 2025-10-16
-cover: "[[IMG_2909.jpg]]"
-sweeteners:
-  - sugar
-availability: 5
+primaryColors:
+  - green
+manufacturer: new products
 volume:
   - "0.5"
   - "0.25"
   - "0.75"
 caffeine: 32
-primaryColors:
-  - green
-manufacturer: new products
-aliases:
-  - Nonstop jungle
-  - Нонстоп джангл
-  - Нонстоп зелений
-types:
-  - energy
-createdAt: 2025-09-28
-updatedAt: 2026-09-13
 alco: 0
+availability: 5
+favorite: true
+tags:
+  - package/canpack
+  - package/bagpak
 ---
 **Nonstop jungle**, він же зелений нонстоп. Офіційний смак - не вказано 
 

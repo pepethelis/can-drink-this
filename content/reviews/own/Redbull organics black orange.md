@@ -1,37 +1,37 @@
 ---
+aliases:
+  - Redbull organics black orange
 status: published
-tags:
-  - package/ball
-  - country/germany
 externalUrl: https://t.me/kallection/28346
+publishedAt: 2025-05-10
+createdAt: 2025-05-10
+cover: "[[IMG_6214.jpg]]"
+types:
+  - fizzy
 brand: redbull/organics
 taste:
   - orange
-container:
-  - can
-publishedAt: 2025-05-10
-cover: "[[IMG_6214.jpg]]"
 sweeteners:
   - sugar
   - sugar syrup
   - juice/lemon
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
-caffeine: 0
+container:
+  - can
 primaryColors:
   - orange
   - black
 manufacturer: redbull
-aliases:
-  - Redbull organics black orange
-types:
-  - fizzy
-createdAt: 2025-05-10
-old_related: true
+volume:
+  - "0.25"
+caffeine: 0
 alco: 0
+sponsor:
+  - gdgood
+availability: 2
+old_related: true
+tags:
+  - package/ball
+  - country/germany
 ---
 **Organics by redbull - black orange**
 

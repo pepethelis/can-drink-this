@@ -1,33 +1,33 @@
 ---
+aliases:
+  - Battery black
+  - Батарейка чорна
 status: published
-tags:
 externalUrl: https://t.me/kallection/22699
+publishedAt: 2024-09-19
+createdAt: 2024-09-19
+cover: "[[IMG_8301.jpg]]"
+types:
+  - energy
 brand: battery
 taste:
   - CLASSIC
-container:
-  - can
-publishedAt: 2024-09-19
-cover: "[[IMG_8301.jpg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
-availability: 5
-volume:
-  - "0.5"
-caffeine: 30
+container:
+  - can
 primaryColors:
   - black
   - golden
 manufacturer: carlsberg
-aliases:
-  - Battery black
-  - Батарейка чорна
-types:
-  - energy
-createdAt: 2024-09-19
-old_related: true
+volume:
+  - "0.5"
+caffeine: 30
 alco: 0
+availability: 5
+old_related: true
+tags:
 ---
 **Battery Energy Drink**, тобто дефолтна чорна батарейка
 

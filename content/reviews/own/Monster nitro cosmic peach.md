@@ -1,35 +1,34 @@
 ---
-alco: 0
-
+aliases:
+  - Monster nitro cosmic peach
 status: published
-tags:
-  - package/ag
-  - country/usa
 externalUrl: https://t.me/kallection/28724
+publishedAt: 2025-05-25
+createdAt: 2025-05-24
+cover: "[[IMG_6837.jpg]]"
+types:
+  - energy
 brand: monster/nitro
 taste:
   - peach
-container:
-  - can
-publishedAt: 2025-05-25
-cover: "[[IMG_6837.jpg]]"
 sweeteners:
   - sugar
   - glucose
-availability: 3
-volume:
-  - "0.473"
-caffeine: 33
+container:
+  - can
 primaryColors:
   - orange
   - black
 manufacturer: monster energy limited
-aliases:
-  - Monster nitro cosmic peach
-types:
-  - energy
-createdAt: 2025-05-24
+volume:
+  - "0.473"
+caffeine: 33
+alco: 0
+availability: 3
 old_related: true
+tags:
+  - package/ag
+  - country/usa
 ---
 **Monster nitro cosmic peach**, він же помаранчевий нітро. Офіційний смак - персик
 

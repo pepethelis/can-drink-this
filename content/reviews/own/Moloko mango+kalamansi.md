@@ -1,35 +1,35 @@
 ---
+aliases:
+  - Moloko mango+kalamansi
 status: published
-tags:
-  - package/amp
 externalUrl: https://t.me/kallection/28274
+publishedAt: 2025-05-08
+createdAt: 2025-05-07
+cover: "[[IMG_6037.jpg]]"
+types:
+  - fizzy
 brand: moloko
 taste:
   - mango
   - kalamansi
-container:
-  - can
-publishedAt: 2025-05-08
-cover: "[[IMG_6037.jpg]]"
 sweeteners:
   - sugar
   - juice
-availability: 2
-sponsor:
-  - gdgood
-volume:
-  - "0.25"
+container:
+  - can
 primaryColors:
   - yellow
 manufacturer: Moloko Beverage GmbH
-aliases:
-  - Moloko mango+kalamansi
-types:
-  - fizzy
-createdAt: 2025-05-07
-old_related: true
-alco: 0
+volume:
+  - "0.25"
 caffeine: 0
+alco: 0
+sponsor:
+  - gdgood
+availability: 2
+old_related: true
+tags:
+  - package/amp
 ---
 **Moloko**. Офіційний смак - **mango + kalamansi**. Не питайте, я хз що то таке
 

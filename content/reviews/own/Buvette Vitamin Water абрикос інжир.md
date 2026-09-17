@@ -1,31 +1,31 @@
 ---
+aliases:
+  - Buvette Vitamin Water абрикос інжир
 status: needs update
-tags:
 externalUrl: https://t.me/kallection/25328
+publishedAt: 2025-01-02
+createdAt: 2025-01-02
+cover: "[[IMG_1943.jpg]]"
+types:
+  - water
 brand: buevette
 taste:
   - apricot
   - fig
-container:
-  - plastic
-publishedAt: 2025-01-02
-cover: "[[IMG_1943.jpg]]"
 sweeteners:
   - sugar
   - juice
   - extract
-availability: 3
+container:
+  - plastic
+manufacturer: buvette
 volume:
   - "0.5"
-manufacturer: buvette
-aliases:
-  - Buvette Vitamin Water абрикос інжир
-types:
-  - water
-createdAt: 2025-01-02
-old_related: true
-alco: 0
 caffeine: 0
+alco: 0
+availability: 3
+old_related: true
+tags:
 ---
 **Buvette Vitamin Water**. Офіційний смак - **абрикос, алое, інжир**
 
