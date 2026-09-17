@@ -1,5 +1,4 @@
 ---
-alco: 0
 
 status: published
 tags:
@@ -20,6 +19,7 @@ availability: 4
 volume:
   - "0.25"
 caffeine: 32
+alco: 0
 manufacturer: hell energy
 aliases:
   - Hell Chillin' Guanabana-mango

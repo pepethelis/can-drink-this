@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
 externalUrl: https://t.me/kallection/33917
@@ -23,6 +21,7 @@ cover: "[[IMG_6684.jpeg]]"
 volume:
   - "0.33"
 caffeine: 32
+alco: 0
 primaryColors:
   - pink
   - green

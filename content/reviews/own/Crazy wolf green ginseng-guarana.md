@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
   - package/ball
@@ -22,6 +20,7 @@ sponsor:
 volume:
   - "0.5"
 caffeine: 30
+alco: 0
 primaryColors:
   - green
   - black

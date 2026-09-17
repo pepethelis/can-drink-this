@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
   - package/quality
@@ -16,6 +14,7 @@ sweeteners:
   - sugar
 availability: 4
 caffeine: 30
+alco: 0
 volume:
   - "0.5"
   - "0.25"

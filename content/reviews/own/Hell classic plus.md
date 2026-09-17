@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
   - package/quality
@@ -21,6 +19,7 @@ summary:
 volume:
   - "0.25"
 caffeine: 32
+alco: 0
 primaryColors:
   - red
   - silver

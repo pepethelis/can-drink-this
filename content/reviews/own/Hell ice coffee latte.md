@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
   - package/quality
@@ -18,6 +16,7 @@ availability: 3
 volume:
   - "0.25"
 caffeine: 40
+alco: 0
 primaryColors:
   - orange
 manufacturer: hell energy

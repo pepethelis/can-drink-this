@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
   - package/ball
@@ -26,6 +24,7 @@ sponsor:
 volume:
   - "0.5"
 caffeine: 20
+alco: 0
 primaryColors:
   - black
 manufacturer: royal unibrew

@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
   - package/canpack
@@ -19,6 +17,7 @@ sweeteners:
   - aspartame
 availability: 5
 caffeine: 16
+alco: 0
 volume:
   - "0.25"
 primaryColors:

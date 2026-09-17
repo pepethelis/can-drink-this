@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: prebuild
 tags:
   - package/quality
@@ -20,6 +18,7 @@ availability: 4
 volume:
   - "0.25"
 caffeine: 32
+alco: 0
 manufacturer: hell energy
 primaryColors:
   - red

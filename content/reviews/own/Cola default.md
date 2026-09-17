@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
 externalUrl: https://t.me/kallection/33368
@@ -16,6 +14,7 @@ cover: "[[IMG_4251.jpg]]"
 sweeteners:
   - sugar
 availability: 5
+alco: 0
 volume:
   - "0.5"
 primaryColors:

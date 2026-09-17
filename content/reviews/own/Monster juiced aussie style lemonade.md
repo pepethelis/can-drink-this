@@ -1,5 +1,4 @@
 ---
-alco: 0
 
 status: published
 tags:
@@ -22,6 +21,7 @@ availability: 4
 volume:
   - "0.5"
 caffeine: 32
+alco: 0
 primaryColors:
   - blue
 manufacturer: monster energy limited

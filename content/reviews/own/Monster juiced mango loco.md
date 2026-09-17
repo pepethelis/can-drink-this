@@ -1,6 +1,4 @@
 ---
-alco: 0
-
 status: published
 tags:
   - package/bagpak
@@ -32,6 +30,7 @@ related:
 volume:
   - "0.5"
 caffeine: 32
+alco: 0
 primaryColors:
   - blue
 manufacturer: monster energy limited

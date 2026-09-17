@@ -1,6 +1,4 @@
 ---
-alco: 2
-
 status: prebuild
 aliases:
   - Cheat code original
@@ -25,7 +23,7 @@ manufacturer:
 caffeine:
 volume:
   - "0.5"
-alco:
+alco: 0
 ---
 **Cheat code original**. Офіційний смак - ==СМАК==
 
