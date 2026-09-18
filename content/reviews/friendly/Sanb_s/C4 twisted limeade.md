@@ -19,7 +19,7 @@ caffeine: 32
 alco: 0
 externalUrl: https://t.me/ukr_satan/6823
 ---
-Огляд на ще один [С4](https://t.me/ukr_satan/6745) тепер Twisted Limeade  
+Огляд на ще один [[C4 frozen bombsicle|С4]] тепер Twisted Limeade  
 
 
 Технічка #енергохарчування така: 0,5л, кофеїну 32мг на 100 мг, без цукру.  

@@ -17,6 +17,7 @@ volume:
 caffeine: 32
 alco: 0
 externalUrl: https://t.me/ukr_satan/5558
+needs update: true
 ---
 Two є cbd 😆 (типу твоє, назва піздець їбана)  
 
