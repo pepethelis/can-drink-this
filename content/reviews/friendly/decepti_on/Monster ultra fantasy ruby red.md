@@ -10,6 +10,8 @@ types:
   - energy
 brand: monster/ultra
 taste:
+  - citrus
+  - grapefruit
 container:
   - can
 volume:

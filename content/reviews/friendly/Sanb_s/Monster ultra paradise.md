@@ -10,6 +10,9 @@ types:
   - energy
 brand: monster/ultra
 taste:
+  - kivi
+  - lime
+  - cucumber
 container:
   - can
 volume:

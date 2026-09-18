@@ -10,6 +10,7 @@ types:
   - energy
 brand: monster/juiced
 taste:
+  - lemonade
 container:
   - can
 volume:

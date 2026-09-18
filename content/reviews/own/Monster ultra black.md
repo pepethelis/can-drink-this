@@ -10,7 +10,7 @@ types:
   - energy
 brand: monster/ultra
 taste:
-  - cherry
+  - black cherry
 sweeteners:
   - erythritol
   - sucralose

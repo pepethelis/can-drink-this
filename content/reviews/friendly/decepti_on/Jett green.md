@@ -24,4 +24,4 @@ contentTgPosts:
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-jett-zi-smakom-kivi-ta-yabluka-08l-pet-ua-4820002713991
 ---
-Ранковий огляд на ноунейм енергетик з та�
+Ранковий огляд на ноунейм енергетик з тайстри

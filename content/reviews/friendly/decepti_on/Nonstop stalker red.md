@@ -10,6 +10,9 @@ types:
   - energy
 brand: nonstop/stalker
 taste:
+  - cherry
+  - rum
+  - pineapple
 container:
   - can
 volume:

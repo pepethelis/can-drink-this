@@ -10,6 +10,8 @@ types:
   - energy
 brand: monster/racing
 taste:
+  - peach
+  - nectarine
 container:
   - can
 volume:

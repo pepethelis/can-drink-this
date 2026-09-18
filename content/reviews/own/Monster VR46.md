@@ -11,7 +11,7 @@ types:
   - energy
 brand: monster/racing
 taste:
-  - orange
+  - citrus
 sweeteners:
   - sugar
   - glucose

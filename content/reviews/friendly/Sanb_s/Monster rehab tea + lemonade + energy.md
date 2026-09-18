@@ -10,6 +10,7 @@ types:
   - energy
 brand: monster/rehab
 taste:
+  - tea
 container:
   - can
 volume:

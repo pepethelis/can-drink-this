@@ -10,6 +10,7 @@ types:
   - energy
 brand: monster/juiced
 taste:
+  - fruit punch
 container:
   - can
 volume:

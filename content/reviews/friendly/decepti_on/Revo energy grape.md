@@ -10,6 +10,7 @@ types:
   - energy
 brand: revo/energy
 taste:
+  - grape
 container:
   - can
 volume:

@@ -10,6 +10,7 @@ types:
   - energy
 brand: monster/ultra
 taste:
+  - grape
 container:
   - can
 volume:

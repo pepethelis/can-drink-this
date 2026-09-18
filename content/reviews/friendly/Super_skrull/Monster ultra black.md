@@ -10,6 +10,7 @@ types:
   - energy
 brand: monster/ultra
 taste:
+  - black cherry
 container:
   - can
 volume:

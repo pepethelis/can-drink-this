@@ -11,6 +11,7 @@ types:
   - energy
 brand: ns
 taste:
+  - ORIGINAL
 sweeteners:
   - sugar
   - acesulfame

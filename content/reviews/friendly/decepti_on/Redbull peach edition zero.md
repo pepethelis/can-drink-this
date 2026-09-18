@@ -1,7 +1,7 @@
 ---
 author: decepti_on
 aliases:
-  - Redbull white peach
+  - Redbull peach edition zero
 summary: Огляд на пікмі редбулл білий персик 🥺
 status: published
 publishedAt: 2026-03-07
@@ -10,6 +10,7 @@ types:
   - energy
 brand: redbull/edition
 taste:
+  - peach/white
 container:
   - can
 volume:

@@ -9,6 +9,9 @@ types:
   - energy
 brand: monster/juiced
 taste:
+  - orange
+  - passion fruit
+  - guava
 container:
   - can
 volume:

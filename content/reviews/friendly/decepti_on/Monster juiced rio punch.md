@@ -10,6 +10,9 @@ types:
   - energy
 brand: monster/juiced
 taste:
+  - papaya
+  - blackcurrant
+  - vanilla icecream
 container:
   - can
 volume:

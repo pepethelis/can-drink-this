@@ -10,6 +10,8 @@ types:
   - energy
 brand: monster/racing
 taste:
+  - melon
+  - citrus
 container:
   - can
 volume:

@@ -10,6 +10,7 @@ types:
   - energy
 brand: nonstop
 taste:
+  - pineapple
 container:
   - can
 volume:

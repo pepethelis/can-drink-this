@@ -10,6 +10,7 @@ types:
   - energy
 brand: monster
 taste:
+  - berries
 container:
   - can
 volume:

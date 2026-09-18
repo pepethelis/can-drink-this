@@ -12,6 +12,7 @@ brand: monster/ultra
 taste:
   - kivi
   - lime
+  - cucumber
 sweeteners:
   - maltodextrin
   - acesulfame
