@@ -20,6 +20,8 @@ volume:
 caffeine: 40
 alco: 0
 externalUrl: https://t.me/super_skrulling/929
+listexUrls:
+  - https://listex.info/uk/product/amix-amixpro-cellup-pre-workout-112-500-ml-vishnya-yagodi-ua-8594046796284
 ---
 **Передтрен Amix CellUP Pre Workout**, `500 мл`., Вишня  
 

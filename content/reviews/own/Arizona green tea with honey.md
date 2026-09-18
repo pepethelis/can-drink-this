@@ -31,6 +31,9 @@ alco: 0
 availability: 3
 tags:
   - package/amp
+listexUrls:
+  - https://listex.info/uk/product/chay-holzelarizona-med-033l-zb-ua-613008776589
+  - https://listex.info/uk/product/chay-hol-zeleniy-arizona-med-045l-pet-ua-613008776640
 ---
 Чай **AriZona original green tea**. На лінійці не знаюся, але думаю що офіційний смак саме original green tea
 

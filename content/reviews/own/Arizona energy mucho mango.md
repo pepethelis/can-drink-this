@@ -32,6 +32,8 @@ favorite:
 old_related: true
 tags:
   - package/ball
+listexUrls:
+  - https://listex.info/uk/product/napiy-energetich-arizona-energy-mucho-mango-gaz-zb-ua-613008768812
 ---
 Чай-енергос **Arizona energy mucho mango**. Офіційний смак - манго
 

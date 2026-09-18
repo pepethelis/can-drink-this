@@ -19,6 +19,8 @@ volume:
 alco: 0
 externalUrl: https://t.me/ukr_satan/3034
 caffeine: 32
+listexUrls:
+  - https://listex.info/uk/product/napiy-energetich-arizona-energy-watermelon-gaz-zb-ua-613008768843
 ---
 Крч, купив я ось це на огляд тиждень тому, думав така хайпова банка, вип'ю кайфону і зроблю пОтУжНиЙ огляд, але...
 

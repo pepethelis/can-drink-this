@@ -28,6 +28,8 @@ caffeine: 0
 alco: 0
 availability: 3.5
 favorite:
+listexUrls:
+  - https://listex.info/uk/product/voda-aquarte-protect-acerolaapelsin-negaz-pet-05l
 ---
 **Aquarte protect**. Офіційний смак - ацерола та апельсин
 

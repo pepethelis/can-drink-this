@@ -18,6 +18,8 @@ volume:
 caffeine: 48
 alco: 0
 externalUrl: https://t.me/ukr_satan/4894
+listexUrls:
+  - https://listex.info/uk/product/napiy-energetichniy-tiger-max-classic-balk-gazov-ua-5900334014870
 ---
 Зацініть які в Польщі тигри водяться. Думали їх там немає, а вони є  
 

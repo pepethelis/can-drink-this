@@ -34,6 +34,7 @@ old_related: true
 tags:
   - package/ball
   - country/france
+listexUrls:
 ---
 
 Енергос **Crazy tiger**. Офіційний смак не вказано, тому очікуємо класичний

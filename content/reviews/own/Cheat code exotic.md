@@ -32,6 +32,8 @@ caffeine: 32
 alco: 0
 availability: 3
 favorite:
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-na-aromatizatorah-bezkaloriyniy-silnogazovaniy-chit-kod-ekzotik-cheat-code-exotic-zi-smakom-mango-limon-myata-033l-zb-ua-4820193039931
 ---
 **Cheat code exotic**. Офіційний смак - манго, лимон, м'ята
 

@@ -32,6 +32,8 @@ old_related: true
 tags:
   - package/ball
   - country/germany
+listexUrls:
+  - https://listex.info/uk/product/napiy-organics-black-orange-balk-gaz-zb-ua-90446986
 ---
 **Organics by redbull - black orange**
 

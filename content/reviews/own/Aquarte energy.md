@@ -26,6 +26,8 @@ caffeine: 0
 alco: 0
 availability: 3
 tags:
+listexUrls:
+  - https://listex.info/uk/product/voda-aquarte-energi-gibiskusguaranagranat-negaz-pet-05l
 ---
 Вода **Aquarte energy**. Офіційний смак - гуарана-гібіскус-гранат
 

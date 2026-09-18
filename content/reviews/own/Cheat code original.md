@@ -20,10 +20,12 @@ primaryColors:
 manufacturer:
 volume:
   - "0.5"
-caffeine:
+caffeine: 32
 alco: 0
 availability:
 favorite:
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-na-aromatizatorah-bezkaloriyniy-silnogazovaniy-chit-kod-originalniy-cheat-code-original-05l-zb-ua-4820193039948
 ---
 **Cheat code original**. Офіційний смак - ==СМАК==
 

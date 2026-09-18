@@ -17,6 +17,8 @@ container:
 volume:
   - "0.5"
 alco: 0
+listexUrls:
+  - https://listex.info/product/napiy-energetichniy-bezalkogolniy-z-smakom-yabluko-sokovmisniy-silnogazovaniy-05l-pet-blek-ua-4820277911207
 ---
 **BLACK ENERGY DRINK Яблуко**
 

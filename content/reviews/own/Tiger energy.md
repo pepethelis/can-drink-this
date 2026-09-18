@@ -32,6 +32,8 @@ favorite:
 related:
 tags:
 telegram_format: md
+listexUrls:
+  - https://listex.info/uk/product/energetichniy-napiy-acm-tiger-250-ml-ua-8938538984955
 ---
 # Tiger energy
 Офіційний смак - класичний
