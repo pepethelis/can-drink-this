@@ -25,6 +25,8 @@ caffeine: 0
 alco: 0
 availability: 4
 tags:
+listexUrls:
+  - https://listex.info/uk/product/voda-aquarte-focus-zhenshenyabloko-negaz-pet-05l
 ---
 Вода **Aquarte Focus**. Офіційний смак - яблуко-женьшень, хоча від яблука там лише ароматизатор
 

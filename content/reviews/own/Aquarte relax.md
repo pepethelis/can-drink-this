@@ -25,6 +25,8 @@ caffeine: 0
 alco: 0
 availability: 3
 tags:
+listexUrls:
+  - https://listex.info/uk/product/voda-aquarte-relax-romashkamarakuyya-negaz-pet-05l
 ---
 Вода **Aquarte relax**. Офіційний смак - ромашка та маракуйя
 

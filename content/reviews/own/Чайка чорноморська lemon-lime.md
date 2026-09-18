@@ -21,13 +21,18 @@ container:
 primaryColors:
   - green
   - black
-manufacturer:
+manufacturer: ПБК «Радомишль»
 volume:
   - "0.5"
+  - "0.45"
+  - "0.9"
 caffeine: 0
 alco: 4.6
 availability: 3
 favorite:
+listexUrls:
+  - https://listex.info/uk/product/chayka-chornomorska-limon-laym-05-zhb-ua-4820022693266
+  - https://listex.info/uk/product/pivo-chayka-chornomorska-limon-laym-045l-sklo-ua-4820022693037
 ---
 **Чайка чорноморська lemon-lime**. Офіційний смак - лимон та лайм
 
