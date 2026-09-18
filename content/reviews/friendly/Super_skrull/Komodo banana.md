@@ -16,6 +16,7 @@ volume:
   - "0.25"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/super_skrulling/4146
 ---
 **KOMODO BANAN ENERGY DRINK**  
 Смак: банан 🍌  

@@ -18,6 +18,7 @@ volume:
 alco: 0
 listexUrls:
   - https://listex.info/product/napiy-energetichniy-sokovmisniy-black-diki-yagodi-1l-ua-4820277911931
+externalUrl: https://t.me/super_skrulling/1723
 ---
 **BLACK ENERGY "ДИКІ ЯГОДИ"**
 

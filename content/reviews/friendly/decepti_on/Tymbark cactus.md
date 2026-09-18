@@ -4,7 +4,7 @@ aliases:
   - Tymbark cactus
 summary: Огляд кактусової водички
 status: published
-publishedAt:
+publishedAt: 2023-06-26
 cover:
 types:
   - fizzy

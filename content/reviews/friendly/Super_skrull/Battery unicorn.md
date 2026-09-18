@@ -21,6 +21,7 @@ alco: 0
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-battery-unicorn-05-zb-ua-4820250943904
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-battery-unicorn-033-zb-ua-4820250943928
+externalUrl: https://t.me/super_skrulling/154
 ---
 **BATTERY UNICRON** від Карлсберг Україна  
   

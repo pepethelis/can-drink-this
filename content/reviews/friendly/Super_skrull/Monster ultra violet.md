@@ -18,6 +18,7 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/super_skrulling/165
 ---
 **MONSTER ENERGY ULTRA VIOLET**  
 Смак: виноград  

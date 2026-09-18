@@ -26,13 +26,11 @@ views:
     filters:
       and:
         - file.folder.startsWith("content/reviews")
-        - and:
-            - file.folder.startsWith("content/reviews/friendly")
-            - publishedAt.isEmpty()
+        - old_related == true
     order:
       - file.name
+      - author
       - externalUrl
-      - publishedAt
     sort:
       - property: alco
         direction: ASC

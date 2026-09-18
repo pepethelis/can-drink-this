@@ -17,6 +17,7 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/super_skrulling/194
 ---
 **MONSTER ENERGY PACIFIC PUNCH**  
 Смак: апельсин, яблука, малина, вишня, гуава, ананас, маракуя.  

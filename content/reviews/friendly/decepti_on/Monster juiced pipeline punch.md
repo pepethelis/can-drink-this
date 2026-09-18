@@ -21,5 +21,6 @@ alco: 0
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34105
   - https://t.me/sonechkin_rzekich/34106
+externalUrl: https://t.me/sonechkin_rzekich/34107
 ---
 Огляд на енергєтічєскій напіток монстер піпєлін пунш 😄

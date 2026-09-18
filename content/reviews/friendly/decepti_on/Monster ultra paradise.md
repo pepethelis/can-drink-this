@@ -4,7 +4,7 @@ aliases:
   - Monster ultra paradise
 summary: Перший огляд в 2024 році я допиваю це диво природи і йду єбашити в кіберпанк ви от думаєте шо я така зайнята шо не пощу а я просто єбашу в ігри мені кайфа 🥸
 status: published
-publishedAt:
+publishedAt: 2024-01-15
 cover:
 types:
   - energy

@@ -17,6 +17,7 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/super_skrulling/2250
 ---
 **M∅NSTER ENERGY "COSMIC PEACH"**  
 

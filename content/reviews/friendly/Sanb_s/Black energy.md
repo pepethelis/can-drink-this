@@ -20,6 +20,7 @@ volume:
 alco: 0
 listexUrls:
   - https://listex.info/product/napiy-energetichniy-black-energy-zero-sugar-gaz-zb-ua-5900552021865
+externalUrl: https://t.me/ukr_satan/3290
 ---
 Огляд на біле "Чорне" #енергохарчування 
 

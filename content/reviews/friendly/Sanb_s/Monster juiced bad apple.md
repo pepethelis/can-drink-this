@@ -19,6 +19,7 @@ caffeine: 32
 alco: 0
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-monster-energy-bad-apple-zb-ua-5061013944830
+externalUrl: https://t.me/ukr_satan/2775
 ---
 MФNSTER ПОДВІЙНЕ ЯБЛУЧКО😈🍎🍏🤙💨
 

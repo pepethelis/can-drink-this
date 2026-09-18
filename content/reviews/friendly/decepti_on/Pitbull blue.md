@@ -5,7 +5,7 @@ aliases:
   - Pitbull power
 summary: Огляд на синій пітбуль по знижці в атб
 status: published
-publishedAt:
+publishedAt: 2025-06-23
 cover:
 types:
   - energy

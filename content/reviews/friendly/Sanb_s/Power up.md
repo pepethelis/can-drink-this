@@ -4,7 +4,7 @@ aliases:
   - Power up
 summary:
 status: published
-publishedAt:
+publishedAt: 2025-02-20
 cover: "[[photo_2025-02-20_11-36-57.jpg]]"
 types:
   - energy

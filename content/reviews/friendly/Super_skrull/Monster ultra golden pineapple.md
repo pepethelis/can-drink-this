@@ -16,6 +16,7 @@ container:
 volume:
   - "0.5"
 alco: 0
+externalUrl: https://t.me/super_skrulling/800
 ---
 **M∅NSTER ENERGY ULTRA GOLDEN PINEAPPLE** 
 

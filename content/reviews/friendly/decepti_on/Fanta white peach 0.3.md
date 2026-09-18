@@ -4,7 +4,7 @@ aliases:
   - Fanta white peach 0.3
 summary: Огляд на водичку з персиком від фанти з магазину корейських приколів ціна 220 гривень оцінка 5/10
 status: published
-publishedAt:
+publishedAt: 2024-03-22
 cover:
 types:
   - fizzy
