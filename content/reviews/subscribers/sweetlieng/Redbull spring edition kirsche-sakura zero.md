@@ -1,7 +1,7 @@
 ---
 author: sweetlieng
 aliases:
-  - Redbull spring edition kirsche-sakura
+  - Redbull spring edition kirsche-sakura zero
 status: published
 externalUrl: https://t.me/kallection/34765
 publishedAt: 2026-02-22

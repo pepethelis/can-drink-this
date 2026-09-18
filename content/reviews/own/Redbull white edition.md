@@ -34,6 +34,8 @@ related:
 tags:
   - package/ball
   - country/france
+listexUrls:
+  - https://listex.info/uk/product/napitok-energeticheskiy-redbull-vkus-kokos-zhb-025l-ua-90435195
 ---
 **Redbull white edition**. Офіційний смак - кокос-асаї
 

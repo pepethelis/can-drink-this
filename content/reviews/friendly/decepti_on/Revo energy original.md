@@ -1,7 +1,7 @@
 ---
 author: decepti_on
 aliases:
-  - Revo energy
+  - Revo energy original
 summary: Огляд на рево БЕЗАЛКОГОЛЬНЕ
 status: published
 publishedAt: 2025-11-22

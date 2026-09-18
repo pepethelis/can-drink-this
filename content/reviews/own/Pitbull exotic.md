@@ -30,6 +30,8 @@ availability: 4
 old_related: true
 tags:
   - package/bagpak
+listexUrls:
+  - https://listex.info/uk/product/pit-bul-ekzotik-napiy-bezalkogolniy-energetichniy-silnogazovaniy-05-l-ua-4820252123717
 ---
 **Pitbull exotic**. Офіційний смак на банці не вказано, але на сайті "виражений смак екзотичних фруктів з нотами яблука"
 

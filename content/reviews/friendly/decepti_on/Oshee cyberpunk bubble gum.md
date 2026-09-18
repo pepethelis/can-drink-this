@@ -20,5 +20,7 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/32562
   - https://t.me/sonechkin_rzekich/32563
 alco: 0
+listexUrls:
+  - https://listex.info/uk/product/napiy-energetik-oshee-cyberpunk-guma-balon-05l-zhb-ua-5908260259822
 ---
 Огляд на енергетик кіберпанк з жуйкою! 8/10

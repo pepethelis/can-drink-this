@@ -126,7 +126,7 @@ Battery juiced:
 
 
 **Revo energy:** 
-- [[Revo energy original|original]]
+- [[content/reviews/own/Revo energy original|original]]
 - [[content/reviews/own/Revo energy grape|grape]]
 - [[Revo energy cherry|cherry]]
 - [[content/reviews/own/Revo energy|“revo taste”]]

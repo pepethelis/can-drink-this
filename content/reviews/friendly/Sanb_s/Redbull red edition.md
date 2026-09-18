@@ -18,6 +18,8 @@ volume:
 caffeine: 32
 alco: 0
 externalUrl: https://t.me/ukr_satan/4415
+listexUrls:
+  - https://listex.info/uk/product/red-bull-red-edition-so-vkusom-arbuza-ua-90448874
 ---
 Раптовий огляд на редбулівське кавуняче #енергохарчування 
 

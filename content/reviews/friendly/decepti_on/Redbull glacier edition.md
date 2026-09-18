@@ -20,5 +20,7 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33932
   - https://t.me/sonechkin_rzekich/33933
   - https://t.me/sonechkin_rzekich/33934
+listexUrls:
+  - https://listex.info/uk/product/napiy-energetichniy-redbull-zi-smakom-malini-zb-250-ml-ua-90446504
 ---
 Огляд на редбулл малина з льодом

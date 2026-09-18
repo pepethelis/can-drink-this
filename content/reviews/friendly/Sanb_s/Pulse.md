@@ -18,6 +18,8 @@ volume:
 caffeine: 20
 externalUrl: https://t.me/ukr_satan/4364
 alco: 0
+listexUrls:
+  - https://listex.info/uk/product/napitok-energeticheskiy-pulse-ua-4771632001227
 ---
 Виготовлене в Польщі для Литви і нарешті імпортоване в Україну #енергохарчування  
 

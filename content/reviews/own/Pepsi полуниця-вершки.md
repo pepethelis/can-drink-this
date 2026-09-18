@@ -30,6 +30,8 @@ caffeine: 0
 alco: 0
 availability: 4
 favorite:
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-silnogazovaniy-na-aromatizatorah-bezkaloriyniy-pepsi-polunicya-ta-vershki-z-pidsolodzhuvachami-seriya-treats-tm-pepsi-033-l-zbsleek-rumuniya-ua-4823063131360
 ---
 **Pepsi полуниця-вершки**. Офіційний смак - власне полуниця-вершки
 

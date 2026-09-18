@@ -17,5 +17,7 @@ alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/32416
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32416
+listexUrls:
+  - https://listex.info/uk/product/napitok-pit-bull-energeticheskiy-pet-025l-ua-4820097892304
 ---
 Огляд на пітбуль зелений. Написано має виражений смак апельсину спойлер апельсину там немає. Просто непоганий не солодкий енергетик. За 20 грн бомба 7/10

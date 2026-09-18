@@ -30,7 +30,7 @@ alco: 0
 availability: 3
 favorite:
 related:
-  - "[[Revo energy original|Revo energy original]]"
+  - "[[content/reviews/own/Revo energy original|Revo energy original]]"
   - "[[Revo energy cherry|Revo energy cherry]]"
   - "[[content/reviews/own/Revo energy grape|Revo energy grape]]"
 tags:

@@ -1,3 +1,7 @@
+---
+listexUrls:
+  - https://listex.info/uk/product/nap-slalk-revo-energeticheskiy-85-zhb-05l
+---
 ﻿---
 status: published
 tags:

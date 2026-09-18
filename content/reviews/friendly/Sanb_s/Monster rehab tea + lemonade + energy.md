@@ -16,6 +16,7 @@ volume:
   - "0.473"
 alco: 0
 externalUrl: https://t.me/ukr_satan/4925
+caffeine: 33
 ---
 Mфnster Rehab tea + lemonade + energy  
   

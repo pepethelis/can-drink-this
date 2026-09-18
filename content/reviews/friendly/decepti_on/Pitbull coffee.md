@@ -18,5 +18,7 @@ alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/32382
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32381
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-pit-bul-zi-smakom-kavi-025l-ua-4820252121775
 ---
 Огляд на пітбуль з кавою. Коштував 20 грн на смак ригота. 4/10
