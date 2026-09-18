@@ -31,6 +31,7 @@ availability: 2
 old_related: true
 tags:
   - package/amp
+updatedAt: 2026-09-18
 ---
 **Moloko**. Офіційний смак - **soft drink**
 
