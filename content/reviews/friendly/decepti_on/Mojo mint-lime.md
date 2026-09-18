@@ -16,6 +16,7 @@ container:
   - can
 volume:
   - "0.33"
+caffeine: 0
 alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/32224
 contentTgPosts:
@@ -23,6 +24,5 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/32223
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-sokovmisniy-silnogazovaniy-smak-myata-laym-tm-modzho-033-l-ua-4820252123199
-caffeine: 0
 ---
 Огляд на моджо!!!!!!!

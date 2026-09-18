@@ -25,7 +25,7 @@ primaryColors:
 manufacturer: coca cola
 volume:
   - "0.15"
-caffeine: 0
+caffeine:
 alco: 0
 availability: 0
 related:

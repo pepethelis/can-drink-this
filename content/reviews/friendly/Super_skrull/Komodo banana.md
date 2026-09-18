@@ -15,6 +15,7 @@ container:
 volume:
   - "0.25"
 alco: 0
+caffeine: 32
 ---
 **KOMODO BANAN ENERGY DRINK**  
 Смак: банан 🍌  

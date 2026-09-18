@@ -15,8 +15,8 @@ container:
 volume:
   - "0.25"
 caffeine: 32
-externalUrl: https://t.me/ukr_satan/4739
 alco: 0
+externalUrl: https://t.me/ukr_satan/4739
 ---
 Польське #енергохарчування NGINE  
 

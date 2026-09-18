@@ -24,13 +24,13 @@ manufacturer: Egger Getränke GmbH & Co OG
 volume:
   - "0.25"
 caffeine: 30
+alco: 0
 sponsor:
   - gdgood
 availability: 1
 favorite: true
 tags:
   - package/amp
-alco: 0
 ---
 **Energy drink mit Hanf-Kräuter Extrakt**. Офіційний смак - екстракт канабісу
 

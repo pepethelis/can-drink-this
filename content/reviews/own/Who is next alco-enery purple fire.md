@@ -1,30 +1,30 @@
 ---
-status: published
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/22438
-brand: next alco-energy
-taste:
-  - barberry
-container:
-  - can
-publishedAt: 2024-09-06
-cover: "[[IMG_7924.jpg]]"
-sweeteners:
-  - sugar
-  - juice/black carrot
-availability: 3
-alco: 8
-volume:
-  - "0.5"
-caffeine: 30
-manufacturer: new products
 aliases:
   - Who is next alco-enery purple fire
+status: published
+externalUrl: https://t.me/kallection/22438
+publishedAt: 2024-09-06
+createdAt: 2024-09-06
+cover: "[[IMG_7924.jpg]]"
 types:
   - alco
   - energy
-createdAt: 2024-09-06
+brand: next alco-energy
+taste:
+  - barberry
+sweeteners:
+  - sugar
+  - juice/black carrot
+container:
+  - can
+manufacturer: new products
+volume:
+  - "0.5"
+caffeine: 30
+alco: 8
+availability: 3
+tags:
+  - package/canpack
 ---
 **Who is next alco-enery purple fire**, смак - eccentric barberry
 

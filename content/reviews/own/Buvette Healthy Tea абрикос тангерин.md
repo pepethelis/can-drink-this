@@ -25,6 +25,8 @@ alco: 0
 availability: 3
 old_related: true
 tags:
+listexUrls:
+  - https://listex.info/product/napitok-buvette-healthy-tea-so-vkusom-belogo-chaya-abrikosa-i-tanzherina-pet-05l-ua-4820115402089
 ---
 **Buvette Healthy Tea**. Офіційний смак - **білий чай, абрикос, танжерин**
 

@@ -20,7 +20,7 @@ primaryColors:
 manufacturer:
 volume:
   - "0.33"
-caffeine: 0
+caffeine:
 alco: 0
 availability:
 favorite:

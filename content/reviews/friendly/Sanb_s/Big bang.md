@@ -8,15 +8,15 @@ publishedAt: 2025-02-14
 cover: "[[photo_2025-02-13_22-07-04.jpg]]"
 types:
   - energy
-brand:
+brand: big bang
 taste:
 container:
   - can
 volume:
   - "0.25"
 caffeine: 15
-externalUrl: https://t.me/ukr_satan/4468
 alco: 0
+externalUrl: https://t.me/ukr_satan/4468
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-big-bang-gazovaniy-zb-ua-8680746471320
 ---

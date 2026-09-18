@@ -15,8 +15,8 @@ container:
 volume:
   - "0.5"
 caffeine: 16
-externalUrl: https://t.me/ukr_satan/5564
 alco: 0
+externalUrl: https://t.me/ukr_satan/5564
 ---
 Огляд на #енергохарчування OOPS  
 

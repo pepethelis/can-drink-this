@@ -1,39 +1,37 @@
 ---
-listexUrls:
-  - https://listex.info/uk/product/nap-slalk-revo-energeticheskiy-85-zhb-05l
----
-﻿---
-status: published
-tags:
-  - package/bagpak
-externalUrl: https://t.me/kallection/22080
-brand: revo
-taste:
-  - ORIGINAL
-container:
-  - can
-publishedAt: 2024-08-23
-cover: "[[IMG_7354.jpg]]"
-sweeteners:
-  - sugar
-  - juice/multifruit
-availability: 5
-alco: 8.5
-volume:
-  - "0.5"
-caffeine: 30
-primaryColors:
-  - gray
-  - silver
-manufacturer: new products
 aliases:
   - Revo
   - Рево сіре
   - Рево класичне
+status: published
+externalUrl: https://t.me/kallection/22080
+publishedAt: 2024-08-23
+createdAt: 2024-08-23
+cover: "[[IMG_7354.jpg]]"
 types:
   - alco
   - energy
-createdAt: 2024-08-23
+brand: revo
+taste:
+  - ORIGINAL
+sweeteners:
+  - sugar
+  - juice/multifruit
+container:
+  - can
+primaryColors:
+  - gray
+  - silver
+manufacturer: new products
+volume:
+  - "0.5"
+caffeine: 30
+alco: 8.5
+availability: 5
+tags:
+  - package/bagpak
+listexUrls:
+  - https://listex.info/uk/product/nap-slalk-revo-energeticheskiy-85-zhb-05l
 ---
 **Revo, також відоме як рево сіре**
 

@@ -16,10 +16,10 @@ container:
   - can
 volume:
   - "0.33"
+alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33653
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33651
   - https://t.me/sonechkin_rzekich/33652
-alco: 0
 ---
 Огляд на якийсь дуже дивний дорогий енергос

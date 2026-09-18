@@ -16,6 +16,7 @@ volume:
   - "0.5"
 alco: 0
 externalUrl: https://t.me/ukr_satan/6823
+caffeine: 32
 ---
 Огляд на ще один [С4](https://t.me/ukr_satan/6745) тепер Twisted Limeade  
 

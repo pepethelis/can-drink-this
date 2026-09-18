@@ -13,13 +13,13 @@ taste:
 container:
   - can
 volume:
+caffeine: 32
 alco: 0
 externalUrl: https://t.me/ukr_satan/6682
 contentTgPosts:
   - https://t.me/ukr_satan/6682
 listexUrls:
   - https://listex.info/uk/product/energ-napiy-can-juicy-ocean-zhb-05l-cult-ua-4770477232421
-caffeine: 32
 ---
 CULT juicy ocean🌊  
   

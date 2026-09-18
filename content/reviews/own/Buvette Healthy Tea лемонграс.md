@@ -8,7 +8,7 @@ publishedAt:
 cover: "[[default.png]]"
 types:
   - tea
-brand:
+brand: buevette
 taste:
 sweeteners:
 container:

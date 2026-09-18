@@ -1,42 +1,40 @@
 ---
-listexUrls:
-  - https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-revo-mango-05-l-zb-ua-4820252124578
----
-﻿---
-status: published
-tags:
-  - package/canpack
-externalUrl: https://t.me/kallection/27456
-brand: revo
-taste:
-  - mango
-container:
-  - can
-publishedAt: 2025-04-04
-cover: "[[IMG_4789.jpg]]"
-sweeteners:
-  - sugar
-  - juice/multifruit
-  - extract/guarana
-  - extract/damiana
-availability: 4
-alco: 8.5
-volume:
-  - "0.5"
-caffeine: 30
-primaryColors:
-  - yellow
-manufacturer: new products
 aliases:
   - Revo mango
   - Revo yellow
   - Рево манго
   - Рево жовте
+summary: Хіба revoуть воли, коли бахнули рево? Вони ВЄДАЮТЬ
+status: published
+externalUrl: https://t.me/kallection/27456
+publishedAt: 2025-04-04
+createdAt: 2025-04-04
+cover: "[[IMG_4789.jpg]]"
 types:
   - alco
   - energy
-summary: Хіба revoуть воли, коли бахнули рево? Вони ВЄДАЮТЬ
-createdAt: 2025-04-04
+brand: revo
+taste:
+  - mango
+sweeteners:
+  - sugar
+  - juice/multifruit
+  - extract/guarana
+  - extract/damiana
+container:
+  - can
+primaryColors:
+  - yellow
+manufacturer: new products
+volume:
+  - "0.5"
+caffeine: 30
+alco: 8.5
+availability: 4
+tags:
+  - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-revo-mango-05-l-zb-ua-4820252124578
 ---
 **Revo mango**, тобто нове рево жовте. Офіційний смак - манго
 

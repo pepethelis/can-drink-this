@@ -14,12 +14,12 @@ container:
   - can
 volume:
   - "0.25"
+caffeine: 32
 alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33921
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33919
   - https://t.me/sonechkin_rzekich/33920
-caffeine: 32
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-bezalkogolniy-red-bull-white-peach-zb-250ml-ua-90493911
 ---

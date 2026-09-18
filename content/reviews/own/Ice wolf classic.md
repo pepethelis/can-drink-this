@@ -23,6 +23,7 @@ manufacturer: Роял Фрут Гарден
 volume:
   - "0.33"
 caffeine: 24
+alco: 0
 availability: 2
 favorite:
 related:
@@ -30,7 +31,6 @@ related:
   - "[[Nonstop original]]"
   - "[[Nonstop original zero]]"
 tags:
-alco: 0
 ---
 **Ice wolf classic/Крижаний вовк класичний**. Офіційний смак - класичний, хоча я не згоден
 

@@ -13,6 +13,7 @@ taste:
 container:
   - can
 volume:
+caffeine: 32
 alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33627
 contentTgPosts:
@@ -20,6 +21,5 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33626
 listexUrls:
   - https://listex.info/product/500-can-x12-monster-aussie-lemonade-ua-ua-5061013949767
-caffeine: 32
 ---
 Огляд на монстер оссі (пуссі) стайл лимонад

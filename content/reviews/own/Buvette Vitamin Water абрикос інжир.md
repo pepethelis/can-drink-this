@@ -26,6 +26,8 @@ alco: 0
 availability: 3
 old_related: true
 tags:
+listexUrls:
+  - https://listex.info/product/napiy-buvette-vitamin-water-abrikos-inzhir-aloe-vera-3h3-05l-ua-4820115401938
 ---
 **Buvette Vitamin Water**. Офіційний смак - **абрикос, алое, інжир**
 

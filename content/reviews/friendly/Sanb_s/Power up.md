@@ -15,8 +15,8 @@ container:
 volume:
   - "1"
 caffeine: 32
-externalUrl: https://t.me/ukr_satan/4534
 alco: 0
+externalUrl: https://t.me/ukr_satan/4534
 ---
 А таке #енергохарчування ви куштували???  
 

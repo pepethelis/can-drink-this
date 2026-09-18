@@ -27,7 +27,7 @@ views:
       and:
         - file.folder.startsWith("content/reviews")
     groupBy:
-      property: brand
+      property: alco
       direction: ASC
     order:
       - file.name

@@ -16,8 +16,8 @@ container:
 volume:
   - "0.5"
 caffeine: 40
-externalUrl: https://t.me/ukr_satan/7900
 alco: 0
+externalUrl: https://t.me/ukr_satan/7900
 ---
 DZIK energy orange🍊  
 

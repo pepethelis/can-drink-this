@@ -14,10 +14,10 @@ container:
   - can
 volume:
   - "0.5"
+caffeine: 32
 alco: 0
 listexUrls:
   - https://listex.info/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-20-rokiv-limitovana-seriya-05-ua-4820252125636
-caffeine: 32
 ---
 **NON STOP 20 YEARS EDITION LIMITED**  
 

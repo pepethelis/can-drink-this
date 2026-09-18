@@ -17,6 +17,7 @@ volume:
   - "0.473"
 alco: 0
 externalUrl: https://t.me/ukr_satan/4435
+caffeine: 33
 ---
 Огляд на отруйне #енергохарчування 👁  
 

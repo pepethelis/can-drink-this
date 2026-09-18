@@ -1,40 +1,39 @@
 ---
-listexUrls:
-  - https://listex.info/uk/product/bronks-bronx-05-zb-ua-4820193032390
-
+aliases:
+  - Bronx
+  - Bronx yellow
+  - Бронкс жовтий
 status: published
-tags:
-  - package/crown
 externalUrl: https://t.me/kallection/29762
+publishedAt: 2025-06-27
+createdAt: 2025-06-18
+cover: "[[IMG_8123.jpg]]"
+types:
+  - alco
+  - energy
 brand: bronx
 taste:
   - ORIGINAL
-container:
-  - can
-publishedAt: 2025-06-27
-cover: "[[IMG_8123.jpg]]"
 sweeteners:
   - sugar
   - glucose-fructose syrup
   - juice
-availability: 5
-volume:
-  - "0.5"
-alco: 8
-caffeine: 30
+container:
+  - can
 primaryColors:
   - yellow
   - black
   - silver
 manufacturer: оболонь
-aliases:
-  - Bronx
-  - Bronx yellow
-  - Бронкс жовтий
-types:
-  - alco
-  - energy
-createdAt: 2025-06-18
+volume:
+  - "0.5"
+caffeine: 30
+alco: 8
+availability: 5
+tags:
+  - package/crown
+listexUrls:
+  - https://listex.info/uk/product/bronks-bronx-05-zb-ua-4820193032390
 ---
 **Bronx жовтий**. Офіційний смак не вказано
 

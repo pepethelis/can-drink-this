@@ -18,8 +18,8 @@ container:
 volume:
   - "0.25"
 caffeine: 35
-externalUrl: https://t.me/ukr_satan/5537
 alco: 0
+externalUrl: https://t.me/ukr_satan/5537
 ---
 PULLS заряд помсти⚡️⚡️  
   

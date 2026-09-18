@@ -1,40 +1,40 @@
 ---
-listexUrls:
-  - https://listex.info/uk/product/napiy-salkenerg-bronx-chorniy-apelsin-805l-zb-ua-4820193036367
-status: published
-tags:
-  - package/crown
-externalUrl: https://t.me/kallection/30895
-brand: bronx
-taste:
-  - orange
-container:
-  - can
-publishedAt: 2025-08-15
-cover: "[[IMG_1173.jpg]]"
-sweeteners:
-  - sugar
-  - glucose-fructose syrup
-  - juice
-availability: 4
-alco: 8
-volume:
-  - "0.5"
-caffeine: 30
-primaryColors:
-  - orange
-  - black
-  - silver
-manufacturer: оболонь
 aliases:
   - Bronx black orange
   - Bronx orange
   - Бронкс чорний апельсин
   - Бронкс помаранчевий
+status: published
+externalUrl: https://t.me/kallection/30895
+publishedAt: 2025-08-15
+createdAt: 2025-08-15
+cover: "[[IMG_1173.jpg]]"
 types:
   - alco
   - energy
-createdAt: 2025-08-15
+brand: bronx
+taste:
+  - orange
+sweeteners:
+  - sugar
+  - glucose-fructose syrup
+  - juice
+container:
+  - can
+primaryColors:
+  - orange
+  - black
+  - silver
+manufacturer: оболонь
+volume:
+  - "0.5"
+caffeine: 30
+alco: 8
+availability: 4
+tags:
+  - package/crown
+listexUrls:
+  - https://listex.info/uk/product/napiy-salkenerg-bronx-chorniy-apelsin-805l-zb-ua-4820193036367
 ---
 **Bronx black orange**. Офіційний смак - чорний апельсин
 

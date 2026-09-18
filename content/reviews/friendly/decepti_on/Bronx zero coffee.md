@@ -13,10 +13,10 @@ taste:
 container:
   - can
 volume:
+caffeine: 32
 alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33858
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33858
-caffeine: 32
 ---
 Огляд на Бронкс кола кофє

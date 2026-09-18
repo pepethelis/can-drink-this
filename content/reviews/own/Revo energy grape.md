@@ -1,40 +1,38 @@
 ---
-listexUrls:
-  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-revo-enerdzhi-vinograd-025l-ua-4820252125407
----
-﻿---
+aliases:
+  - Revo energy grape
 status: published
-tags:
-  - package/canpack
 externalUrl: https://t.me/kallection/34436
+publishedAt: 2026-02-01
+updatedAt: 2026-06-02
+createdAt: 2025-12-17
+cover: "[[IMG_7430.jpeg]]"
+types:
+  - energy
 brand: revo/energy
 taste:
   - grape
-publishedAt: 2026-02-01
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - extract/damiana
   - extract/guarana
   - extract/mint
-cover: "[[IMG_7430.jpeg]]"
-availability: 3
-alco: 0
-volume:
-  - "0.25"
-caffeine: 32
+container:
+  - can
 primaryColors:
   - violet
   - silver
 manufacturer: new products
-updatedAt: 2026-06-02
-aliases:
-  - Revo energy grape
-types:
-  - energy
-createdAt: 2025-12-17
+volume:
+  - "0.25"
+caffeine: 32
+alco: 0
+availability: 3
+favorite:
+tags:
+  - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-revo-enerdzhi-vinograd-025l-ua-4820252125407
 ---
 **Revo energy grape**. Офіційний смак - виноград
 

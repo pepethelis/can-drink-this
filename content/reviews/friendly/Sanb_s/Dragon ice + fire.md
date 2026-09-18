@@ -16,8 +16,8 @@ container:
   - plastic
 volume:
 caffeine: 35
-externalUrl: https://t.me/ukr_satan/1871
 alco: 0
+externalUrl: https://t.me/ukr_satan/1871
 ---
 СаТаНа повертається😈  
 

@@ -13,6 +13,7 @@ taste:
 container:
   - can
 volume:
+caffeine: 32
 alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33832
 contentTgPosts:
@@ -20,6 +21,5 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33831
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-bronx-zero-alco-033l-zb-ua-4820002713625
-caffeine: 32
 ---
 Огляд на Бронкс блакитний написано що зі сливою насправді хуй його знає 👀

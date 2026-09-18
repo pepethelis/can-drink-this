@@ -1,41 +1,40 @@
 ---
-listexUrls:
-  - https://listex.info/uk/product/apiy-slaboalkogolniy-energetichniy-bronx-black-cherry-8-alk-ua-4820193034509
-
-status: published
-tags:
-  - package/crown
-externalUrl: https://t.me/kallection/30756
-brand: bronx
-taste:
-  - cherry
-container:
-  - can
-publishedAt: 2025-08-10
-cover: "[[IMG_8145.jpg]]"
-sweeteners:
-  - sugar
-  - glucose-fructose syrup
-  - juice
-availability: 4
-volume:
-  - "0.5"
-alco: 8
-caffeine: 30
-primaryColors:
-  - red
-  - black
-  - silver
-manufacturer: оболонь
 aliases:
   - Bronx black cherry
   - Bronx red
   - Бронкс чорна вишня
   - Бронкс червоний
+status: published
+externalUrl: https://t.me/kallection/30756
+publishedAt: 2025-08-10
+createdAt: 2025-06-20
+cover: "[[IMG_8145.jpg]]"
 types:
   - alco
   - energy
-createdAt: 2025-06-20
+brand: bronx
+taste:
+  - cherry
+sweeteners:
+  - sugar
+  - glucose-fructose syrup
+  - juice
+container:
+  - can
+primaryColors:
+  - red
+  - black
+  - silver
+manufacturer: оболонь
+volume:
+  - "0.5"
+caffeine: 30
+alco: 8
+availability: 4
+tags:
+  - package/crown
+listexUrls:
+  - https://listex.info/uk/product/apiy-slaboalkogolniy-energetichniy-bronx-black-cherry-8-alk-ua-4820193034509
 ---
 **Bronx black cherry**. Офіційний смак - вишня
 

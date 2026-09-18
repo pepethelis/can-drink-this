@@ -1,36 +1,36 @@
 ---
-listexUrls:
-  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-bronx-zero-alco-033l-zb-ua-4820002713625
+aliases:
+  - Bronx zero
+  - Брокс зіро
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/28462
+publishedAt: 2025-05-14
+createdAt: 2025-05-04
 cover: "[[IMG_5957.jpeg]]"
+types:
+  - energy
 brand: bronx/zero
 taste:
   - ORIGINAL
-container:
-  - can
-publishedAt: 2025-05-14
 sweeteners:
   - sugar
   - glucose-fructose syrup
-availability: 3
-caffeine: 32
-volume:
-  - "0.33"
-alco: 0
+container:
+  - can
 primaryColors:
   - blue
   - black
 manufacturer: оболонь
-aliases:
-  - Bronx zero
-  - Брокс зіро
-types:
-  - energy
-createdAt: 2025-05-04
+volume:
+  - "0.33"
+caffeine: 32
+alco: 0
+availability: 3
 old_related: true
+tags:
+  - package/bagpak
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-bronx-zero-alco-033l-zb-ua-4820002713625
 ---
 **Bronx zero**, він же безалкогольний. Офіційний смак - не вказано
 

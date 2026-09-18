@@ -14,12 +14,12 @@ container:
   - can
 volume:
   - "0.5"
+caffeine: 32
 alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33759
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33757
   - https://t.me/sonechkin_rzekich/33758
-caffeine: 32
 listexUrls:
   - https://listex.info/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-20-rokiv-limitovana-seriya-05-ua-4820252125636
 ---

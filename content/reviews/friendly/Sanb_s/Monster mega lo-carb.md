@@ -14,6 +14,7 @@ container:
   - can
 volume:
   - "0.71"
+caffeine: 29
 alco: 0
 externalUrl: https://t.me/ukr_satan/4964
 contentTgPosts:
@@ -21,7 +22,6 @@ contentTgPosts:
   - https://t.me/ukr_satan/4965
 listexUrls:
   - https://listex.info/product/napiy-energ-monster-energy-mega-lo-carb-slgaz-zb-ua-70847811213
-caffeine: 29
 ---
 Огляд на Mфnster lo-carb  
   

@@ -16,8 +16,8 @@ container:
 volume:
   - "0.25"
 caffeine: 20
-externalUrl: https://t.me/ukr_satan/4364
 alco: 0
+externalUrl: https://t.me/ukr_satan/4364
 listexUrls:
   - https://listex.info/uk/product/napitok-energeticheskiy-pulse-ua-4771632001227
 ---

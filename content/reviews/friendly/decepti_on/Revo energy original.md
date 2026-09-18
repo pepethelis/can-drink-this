@@ -14,11 +14,11 @@ container:
   - can
 volume:
   - "0.25"
+caffeine: 32
 alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33761
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33760
-caffeine: 32
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-revo-enerdzhi-original-025l-ua-4820252125445
 ---
