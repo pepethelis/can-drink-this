@@ -11,7 +11,7 @@ const postFilter = ({ data }: PostData) => {
   }
 
   if ("category" in data && data.category === "власні огляди") {
-    const isStatusAllowed = !["prebuild", "to create"].includes(data.status);
+    const isStatusAllowed = !["prebuild", "to create", "to enrich"].includes(data.status);
     if (!isStatusAllowed) {
       return false;
     }
