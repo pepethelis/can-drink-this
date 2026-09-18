@@ -31,7 +31,6 @@ caffeine: 32
 alco: 0
 availability: 4
 favorite:
-old_related: true
 tags:
   - package/canpack
 ---
@@ -72,4 +71,3 @@ tags:
 
 
 По висновку - кофеїн дешево у банці і з якимось смаком. Не раджу, не сподобалось. Це не отрута, але уваги все одно не вартує. Якщо треба не дорого і смачно, то краще вже [[content/reviews/own/Своя лінія recharge wild dog cactus|Своя лінія recharge wild dog cactus]], ото реально прикольне і не не дороге
-O
