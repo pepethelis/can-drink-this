@@ -345,8 +345,8 @@ Hell ice coffee:
 - [[Bronx green|зелений]]
 
 
-- [[Revo next blue|Who is next alco-enery pink fire]]
-- [[Revo next yellow|Who is next alco-enery purple fire]]
+- [[Who is next alco-enery pink fire|Who is next alco-enery pink fire]]
+- [[Who is next alco-enery purple fire|Who is next alco-enery purple fire]]
 - [[Bummer]]
 - [[Bummer espresso]]
 - [[Enzo alco energy|Enzo alco energy]]
@@ -400,14 +400,14 @@ Hell ice coffee:
 - [[Schöfferhofer passion fruit]]
 - [[Shake red]]
 - [[Solveza Mojito|Mezcla De Cerveza Solveza Beer Drink]]
-- [[Toosecco, сидр сухий]]
+- [[Toosecco виноград]]
 - [[Gosser natur radler]]
 - [[Senor cartel lemon]]
 - [[Gardenz cola]]
 - [[Happy Joe dry apple cider]]
 - [[Beer mix coconut]]
 - [[Чайка чорноморська lemon-lime]]
-- [[Somersby guava peach]]
+- [[Somersby peach peach]]
 - [[Pinkel cider melon|Pinkel cider melon]]
 - [[Mike’s hard drink pineapple|Mike’s hard drink pineapple]]
 

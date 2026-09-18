@@ -19,6 +19,8 @@ caffeine: 0
 alco: 0
 availability:
 favorite:
+listexUrls:
+  - https://listex.info/product/napiy-buvette-healthy-tea-zi-smakom-zelenchayu-ta-lemongr-3h3-05l-ua-4820115402102
 ---
 **Buvette Healthy Tea лемонграс**. Офіційний смак - ==СМАК==
 

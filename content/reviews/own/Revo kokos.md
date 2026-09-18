@@ -34,6 +34,8 @@ alco: 8.5
 availability: 4
 favorite:
 tags:
+listexUrls:
+  - https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-revo-kokos-05l-ua-4820252126251
 ---
 **Revo kokos**, блакитне. Офіційний смак - кокос
 

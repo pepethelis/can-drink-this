@@ -20,5 +20,7 @@ alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/30969
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/30968
+listexUrls:
+  - https://listex.info/product/tymbark-napiy-vishnya-yabluko-025l-sklo-15-ua-5900334000880
 ---
 Огляд соку

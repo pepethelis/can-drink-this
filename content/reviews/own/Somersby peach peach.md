@@ -33,8 +33,10 @@ favorite:
 related:
   - "[[Gosser natur radler|Gosser natur radler]]"
   - "[[Pinkel cider melon|Pinkel cider melon]]"
-  - "[[Toosecco, сидр сухий|Toosecco, сидр сухий]]"
+  - "[[Toosecco виноград|Toosecco, сидр сухий]]"
   - "[[Happy Joe dry apple cider|Happy Joe dry apple cider]]"
+listexUrls:
+  - https://listex.info/uk/product/somersby-sidr-z-grushevim-sokom-ban-05l-ua-4820250944840
 ---
 **Somersby**. Офіційний смак - персик-гуава
 

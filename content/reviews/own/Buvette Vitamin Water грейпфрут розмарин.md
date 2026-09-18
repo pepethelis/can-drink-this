@@ -25,6 +25,8 @@ alco: 0
 availability: 3
 old_related: true
 tags:
+listexUrls:
+  - https://listex.info/product/napitok-buvette-vitamin-water-greyfrut-i-rozmarin-pet-05l-ua-4820115401952
 ---
 **Buvette Vitamin Water**. Офіційний смак - **грейпфрут, розмарин**
 

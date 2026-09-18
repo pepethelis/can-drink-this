@@ -28,6 +28,8 @@ alco: 0
 availability: 4
 favorite:
 tags:
+listexUrls:
+  - https://listex.info/uk/product/napitok-ovsyanyy-s-bananom-tpa250sq-ua-4820192262163
 ---
 Плент-бейзд дрінк **Vega Milk banana with oat**. Офіційний смак - банан
 

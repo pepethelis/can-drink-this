@@ -26,6 +26,8 @@ alco: 0
 availability: 3
 old_related: true
 tags:
+listexUrls:
+  - https://listex.info/product/napitok-buvette-healthy-tea-so-vkusom-karkade-klyukvy-i-myaty-pet-05l-ua-4820115402126
 ---
 **Buvette Healthy Tea**. Офіційний смак - **каркаде, журавлина, мʼята**
 

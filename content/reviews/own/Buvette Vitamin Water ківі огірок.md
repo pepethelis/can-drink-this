@@ -26,6 +26,8 @@ alco: 0
 availability: 3
 old_related: true
 tags:
+listexUrls:
+  - https://listex.info/product/napiy-buvette-vitamin-water-ogirka-ta-kivi-3h3-05l-ua-4820115401976
 ---
 **Buvette Vitamin Water**. Офіційний смак - **ківі-огірок**
 

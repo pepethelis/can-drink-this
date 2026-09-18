@@ -30,6 +30,8 @@ availability: 3
 favorite:
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-revo-enerdzhi-vishnya-025l-ua-4820252125421
 ---
 **Revo energy cherry**. Офіційний смак - вишня
 

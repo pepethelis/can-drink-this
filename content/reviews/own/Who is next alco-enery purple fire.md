@@ -1,9 +1,9 @@
-﻿---
+---
 status: published
 tags:
   - package/canpack
 externalUrl: https://t.me/kallection/22438
-brand: revo/next
+brand: next alco-energy
 taste:
   - barberry
 container:

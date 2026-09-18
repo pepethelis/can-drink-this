@@ -1,3 +1,7 @@
+---
+listexUrls:
+  - https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-revo-mango-05-l-zb-ua-4820252124578
+---
 ﻿---
 status: published
 tags:

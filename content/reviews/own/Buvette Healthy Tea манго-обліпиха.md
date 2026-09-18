@@ -20,6 +20,8 @@ caffeine: 0
 alco: 0
 availability:
 favorite:
+listexUrls:
+  - https://listex.info/product/napiy-buvette-healthy-tea-zi-smakom-mango-ta-oblipihi-3h3-05l-ua-4820115402751
 ---
 **Buvette Healthy Tea манго-обліпиха**. Офіційний смак - ==СМАК==
 

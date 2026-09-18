@@ -32,6 +32,8 @@ related:
   - "[[Johan Freitag gin&tonic]]"
   - "[[Gardenz cola]]"
 tags:
+listexUrls:
+  - https://listex.info/uk/product/sidr-zvichayniy-gazovaniy-suhiy-toosecco-smak-vinograd-pasterizovaniy-ua-4820196933335
 ---
 **Сидр сухий toosecco**. Офіційний смак - виноград.
 

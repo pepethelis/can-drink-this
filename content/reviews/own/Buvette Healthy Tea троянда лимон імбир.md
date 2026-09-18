@@ -28,6 +28,8 @@ alco: 0
 availability: 3
 old_related: true
 tags:
+listexUrls:
+  - https://listex.info/product/napiy-buvette-healthy-tea-zi-smakom-troyandilimonu-ta-imbiru3h3-05l-ua-4820115402362
 ---
 **Buvette Healthy Tea**. Офіційний смак - **троянда, лимон, імбир**
 

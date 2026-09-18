@@ -28,6 +28,8 @@ alco: 0
 availability: 4
 favorite:
 tags:
+listexUrls:
+  - https://listex.info/uk/product/napiy-kokosoviy-z-risom-ultrapasterizovaniy-vega-milk-tpa-025-l-ua-4820192263573
 ---
 Плент-бейзд дрінк **Vega Milk coconut with rice**. Офіційний смак - кокос
 

@@ -17,6 +17,8 @@ volume:
 caffeine: 15
 externalUrl: https://t.me/ukr_satan/4468
 alco: 0
+listexUrls:
+  - https://listex.info/uk/product/napiy-energetichniy-big-bang-gazovaniy-zb-ua-8680746471320
 ---
 Турецьке #енергохарчування BIG BANG🙀  
 

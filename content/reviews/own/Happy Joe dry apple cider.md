@@ -32,7 +32,7 @@ related:
   - "[[Lomza radler cherry]]"
   - "[[Lomza radler watermelon]]"
   - "[[Gosser natur radler]]"
-  - "[[Toosecco, сидр сухий]]"
+  - "[[Toosecco виноград]]"
 tags:
   - package/canpack
 ---

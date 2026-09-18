@@ -35,6 +35,8 @@ related:
   - "[[Hike vibe income tax|Hike vibe income tax]]"
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/pivo-specialne-nefiltrovane-seor-sartel-lemo-033l-sklo-ua-4820002713786
 ---
 Типу гараж **Senor cartel lemon**. Офіційний смак - лимон
 

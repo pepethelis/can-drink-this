@@ -29,6 +29,8 @@ related:
   - "[[content/reviews/own/Bronx zero|Bronx zero]]"
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-revo-lav-iz-05l-ua-4820252124929
 ---
 **Revo love is (2025)**, чергова лімітка рева у лінійці love is. Застав лише рожевий варік, але і до того теж були кілька. Офіційний смак ніде не вказано. В інсті написали "смачний"/“зі смаком твого першого кохання”
 

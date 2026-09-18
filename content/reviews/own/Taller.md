@@ -28,6 +28,8 @@ caffeine: 0
 alco: 5
 availability: 3
 favorite:
+listexUrls:
+  - https://listex.info/uk/product/pivo-svitle-taller-taller-ua-4820034927618
 ---
 **Taller**, пиво світле. Офіційний смак - "Original Lager" lmao)
 

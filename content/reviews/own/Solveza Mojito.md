@@ -25,10 +25,12 @@ caffeine: 0
 alco: 4.5
 availability: 2
 related:
-  - "[[Toosecco, сидр сухий]]"
+  - "[[Toosecco виноград]]"
   - "[[Johan Freitag gin&tonic]]"
   - "[[Shake red]]"
 tags:
+listexUrls:
+  - https://listex.info/uk/product/solveza-pivo-mojito-svitle-033l-ua-5900535022469
 ---
 Якийсь пивний напій **Solveza Mojito**. Офіційний смак - мохіто
 

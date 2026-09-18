@@ -30,6 +30,8 @@ availability: 3
 favorite:
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-revo-enerdzhi-original-025l-ua-4820252125445
 ---
 **Revo energy original**. Офіційний смак на банці не вказано, але ми знаємо що там буде смак рева
 

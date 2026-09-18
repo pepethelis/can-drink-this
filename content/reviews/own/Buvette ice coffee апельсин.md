@@ -25,6 +25,8 @@ alco: 0
 availability: 3
 old_related: true
 tags:
+listexUrls:
+  - https://listex.info/product/napiy-buvette-ice-coffee-kava-z-sokom-apelsina-3h3-05l-ua-4820115402768
 ---
 **Buvette ice coffee**. Офіційний смак - **кава з соком апельсина**
 

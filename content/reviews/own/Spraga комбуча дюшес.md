@@ -29,6 +29,8 @@ availability: 3.5
 favorite:
 related:
   - "[[ДВІЖ|ДВІЖ]]"
+listexUrls:
+  - https://listex.info/uk/product/napiy-kombucha-spraga-grusha-dyushes-330-ml-zhb-lavka-tradiciy-ua-250015196889
 ---
 **Spraga комбуча**. Офіційний смак - дюшес
 

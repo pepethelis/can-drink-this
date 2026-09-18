@@ -1,3 +1,7 @@
+---
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-revo-enerdzhi-vinograd-025l-ua-4820252125407
+---
 ﻿---
 status: published
 tags:

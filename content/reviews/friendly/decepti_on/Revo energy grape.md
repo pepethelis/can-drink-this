@@ -19,5 +19,7 @@ alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33786
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/33785
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-revo-enerdzhi-vinograd-025l-ua-4820252125407
 ---
 Огляд на колінці на БЕЗАЛКОГОЛЬНЕ рево з виноградом
