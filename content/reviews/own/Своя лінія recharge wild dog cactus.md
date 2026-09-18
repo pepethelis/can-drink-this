@@ -24,7 +24,6 @@ caffeine: 30
 alco: 0
 availability: 4
 favorite: true
-old_related: true
 tags:
 ---
 **Wild dog cactus**. Офіційний смак - кактус

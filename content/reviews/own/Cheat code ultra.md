@@ -35,7 +35,6 @@ caffeine: 32
 alco: 0
 availability: 3
 favorite: true
-old_related: true
 tags:
   - package/bagpak
 listexUrls:

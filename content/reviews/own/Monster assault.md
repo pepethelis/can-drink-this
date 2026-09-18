@@ -29,7 +29,6 @@ alco: 0
 sponsor:
   - gdgood
 availability: 3
-old_related: true
 tags:
   - package/canpack
   - country/germany

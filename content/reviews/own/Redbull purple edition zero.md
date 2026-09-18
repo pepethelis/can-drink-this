@@ -24,7 +24,6 @@ sponsor:
   - makmed1337
 availability:
 favorite:
-old_related: true
 tags:
   - package/ball
 ---

@@ -26,10 +26,8 @@ views:
     filters:
       and:
         - file.folder.startsWith("content/reviews")
-        - old_related == true
     order:
       - file.name
-      - author
       - externalUrl
     sort:
       - property: alco

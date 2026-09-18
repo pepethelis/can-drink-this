@@ -25,7 +25,6 @@ volume:
 caffeine: 0
 alco: 7
 availability: 4
-old_related: true
 tags:
   - package/canpack
 listexUrls:

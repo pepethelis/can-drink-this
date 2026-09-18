@@ -26,7 +26,6 @@ alco: 0
 availability: 3
 favorite:
 related:
-old_related: true
 tags:
   - package/ball
 listexUrls:

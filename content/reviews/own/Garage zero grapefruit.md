@@ -24,7 +24,6 @@ volume:
 caffeine: 0
 alco: 0
 availability: 4
-old_related: true
 tags:
 listexUrls:
   - https://listex.info/uk/product/pivo-ba-spec-sethrileys-garage-fun-zero-0-taste-grapefruit-zb-05l-ua-4820250941948

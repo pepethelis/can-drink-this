@@ -28,7 +28,6 @@ volume:
 caffeine: 32
 alco: 0
 availability: 3
-old_related: true
 tags:
   - package/bagpak
   - package/ag

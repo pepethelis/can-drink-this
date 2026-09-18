@@ -24,7 +24,6 @@ volume:
 caffeine: 32
 alco: 0
 availability: 5
-old_related: true
 tags:
   - package/ball
 listexUrls:

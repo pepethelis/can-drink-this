@@ -30,7 +30,6 @@ caffeine: 0
 alco: 0
 availability:
 favorite:
-old_related: true
 tags:
 ---
 **Borjomi limonati citrus**. Офіційний смак - цитрус (або лимонний судячи з дизайну)

@@ -26,7 +26,6 @@ volume:
 caffeine: 30
 alco: 0
 availability: 3
-old_related: true
 tags:
   - package/crown
 ---

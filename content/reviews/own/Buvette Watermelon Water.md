@@ -21,7 +21,6 @@ volume:
 caffeine: 0
 alco: 0
 availability: 3
-old_related: true
 tags:
 listexUrls:
   - https://listex.info/uk/product/voda-buvette-zi-smakom-kavuna-075l-ua-4820115402447

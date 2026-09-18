@@ -38,7 +38,6 @@ sponsor:
   - gdgood
 availability: 2
 favorite: true
-old_related: true
 tags:
   - package/ag
   - country/france

@@ -19,11 +19,11 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/super_skrulling/2299
 contentTgPosts:
   - https://t.me/super_skrulling/2303
 listexUrls:
   - https://listex.info/product/500-can-x12-monster-rio-punch-2025-ua-ua-5056784903476
-externalUrl: https://t.me/super_skrulling/2299
 ---
 **PUNCH M∅NSTER RIO PUNCH**  
 

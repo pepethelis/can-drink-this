@@ -16,9 +16,9 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/super_skrulling/2466
 listexUrls:
   - https://listex.info/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-20-rokiv-limitovana-seriya-05-ua-4820252125636
-externalUrl: https://t.me/super_skrulling/2466
 ---
 **NON STOP 20 YEARS EDITION LIMITED**  
 

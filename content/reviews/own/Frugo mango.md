@@ -29,7 +29,6 @@ volume:
 caffeine: 15
 alco: 0
 availability: 3
-old_related: true
 tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-frugo-mango-balk-zb-ua-5900552088189

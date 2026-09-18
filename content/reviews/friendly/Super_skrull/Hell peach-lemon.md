@@ -18,9 +18,9 @@ volume:
   - "0.5"
 caffeine: 30
 alco: 0
+externalUrl: https://t.me/super_skrulling/162
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-gazovaniy-hell-peach-lemon-500-ml-ua-5999571051878
-externalUrl: https://t.me/super_skrulling/162
 ---
 **HELL PEACH-LEMON** від HELL ENERGY  
 Смак: червоний персик, лимон, лайм та тутті-фрутті  

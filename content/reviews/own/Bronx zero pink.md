@@ -32,7 +32,6 @@ aliases:
 types:
   - energy
 createdAt: 2025-06-30
-old_related: true
 ---
 **Bronx zero pomegranate**. Офіційний смак - гранат
 

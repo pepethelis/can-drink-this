@@ -18,11 +18,11 @@ caffeine: 32
 alco: 0
 related:
   - "[[content/reviews/own/Hell carnival cotton candy|Hell carnival cotton candy]]"
+externalUrl: https://t.me/sonechkin_rzekich/34090
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34088
   - https://t.me/sonechkin_rzekich/34089
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-gazovaniy-ba-cotton-candy-250-ml-ua-5999571058334
-externalUrl: https://t.me/sonechkin_rzekich/34090
 ---
 Огляд на хелл солодка вата 😄

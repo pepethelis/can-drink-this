@@ -33,7 +33,6 @@ sponsor:
 availability: 2
 favorite:
 related:
-old_related: true
 tags:
   - package/ag
   - country/france

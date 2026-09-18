@@ -29,7 +29,6 @@ volume:
 caffeine: 0
 alco: 6
 availability: 5
-old_related: true
 tags:
 listexUrls:
   - https://listex.info/uk/product/pivo-specialne-seth-and-rileys-garage-hardcore-taste-cherry-and-more-zb-05l-ua-4820250940156

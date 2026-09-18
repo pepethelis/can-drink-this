@@ -25,7 +25,6 @@ volume:
 caffeine: 33
 alco: 0
 availability: 3
-old_related: true
 tags:
   - package/ag
   - country/usa

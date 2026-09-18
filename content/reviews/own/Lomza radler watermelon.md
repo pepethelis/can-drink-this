@@ -25,7 +25,6 @@ volume:
 caffeine: 0
 alco: 0
 availability: 2
-old_related: true
 tags:
   - country/poland
 ---

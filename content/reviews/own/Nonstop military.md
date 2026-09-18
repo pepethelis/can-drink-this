@@ -28,7 +28,6 @@ alco: 0
 sponsor:
   - ukrainian_simple_guy
 availability: 1
-old_related: true
 tags:
 ---
 

@@ -32,7 +32,6 @@ sponsor:
   - gdgood
 availability: 2
 favorite:
-old_related: true
 tags:
   - package/crown
   - country/france

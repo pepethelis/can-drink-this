@@ -29,7 +29,6 @@ aliases:
 types:
   - energy
 createdAt: 2025-06-11
-old_related: true
 ---
 **Bronx zero**, безалкогольний коричневий бронкс. Офіційний смак - кола-кава
 

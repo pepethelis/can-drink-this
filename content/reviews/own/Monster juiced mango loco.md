@@ -37,7 +37,6 @@ caffeine: 32
 alco: 0
 availability: 4
 related:
-old_related: true
 tags:
   - package/bagpak
 listexUrls:

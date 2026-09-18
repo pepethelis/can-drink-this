@@ -18,10 +18,10 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
+externalUrl: https://t.me/super_skrulling/196
 listexUrls:
   - https://listex.info/product/monster-energy-ful-trotl-nul-cukru-napiy-bezalkogolniy-silnogazovaniy-energetichniy-ua-5056784913123
   - https://listex.info/uk/product/napiy-energetichniy-monster-hamilton-zero-ba-zb-ua-5060896625461
-externalUrl: https://t.me/super_skrulling/196
 ---
 **MONSTER ENERGY LEWIS HAMILTON ZERO SUGAR**  
 Смак: точно не вказано, я визначив як тропічний мультифрукт.  

@@ -4,6 +4,7 @@ aliases:
 status: published
 externalUrl: https://t.me/kallection/27983
 publishedAt: 2025-04-25
+updatedAt: 2026-09-18
 createdAt: 2025-02-20
 cover: "[[IMG_5402.jpg]]"
 types:
@@ -28,10 +29,8 @@ alco: 0
 sponsor:
   - gdgood
 availability: 2
-old_related: true
 tags:
   - package/amp
-updatedAt: 2026-09-18
 ---
 **Moloko**. Офіційний смак - **soft drink**
 

@@ -30,7 +30,6 @@ volume:
 caffeine: 32
 alco: 0
 availability: 5
-old_related: true
 tags:
 listexUrls:
   - https://listex.info/uk/product/non-stop-stalker-grin-napiy-bezalkogolniy-energetichniy-silnogazovaniy-05-l-ua-4820252124837

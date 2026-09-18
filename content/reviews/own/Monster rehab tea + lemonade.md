@@ -37,7 +37,6 @@ sponsor:
   - nastya
 availability: 3
 favorite: true
-old_related: true
 tags:
   - country/hungary
 ---

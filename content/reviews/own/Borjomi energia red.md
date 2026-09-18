@@ -25,7 +25,6 @@ caffeine: 30
 alco: 0
 availability:
 favorite:
-old_related: true
 tags:
 ---
 **Borjomi energia red**. Офіційний смак - ==СМАК==

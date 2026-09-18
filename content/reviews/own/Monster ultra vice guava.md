@@ -32,7 +32,6 @@ sponsor:
 availability: 3
 favorite:
 related:
-old_related: true
 tags:
   - package/canpack
   - country/poland

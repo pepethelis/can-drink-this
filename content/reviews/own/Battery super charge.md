@@ -28,7 +28,6 @@ caffeine: 40
 alco: 0
 availability: 3
 favorite:
-old_related: true
 tags:
   - package/canpack
 listexUrls:

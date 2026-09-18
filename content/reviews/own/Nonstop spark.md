@@ -29,7 +29,6 @@ caffeine: 32
 alco: 0
 availability: 4
 favorite:
-old_related: true
 tags:
 listexUrls:
   - https://listex.info/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-z-pidsolodzhuvachami-non-stop-spark-bez-cukru-05-ua-4820252125612

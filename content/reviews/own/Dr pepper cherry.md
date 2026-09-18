@@ -28,7 +28,6 @@ volume:
 caffeine: 0
 alco: 0
 availability: 4
-old_related: true
 tags:
   - package/amp
 listexUrls:

@@ -26,7 +26,6 @@ alco: 0
 sponsor:
   - gdgood
 availability: 5
-old_related: true
 tags:
   - package/ball
   - country/germany

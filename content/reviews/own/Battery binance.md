@@ -25,7 +25,6 @@ volume:
 caffeine: 32
 alco: 0
 availability: 1
-old_related: true
 tags:
 ---
 **Battery Energy x Binance**

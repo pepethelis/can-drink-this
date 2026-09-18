@@ -27,7 +27,6 @@ volume:
 caffeine: 0
 alco: 0
 availability: 3
-old_related: true
 tags:
 listexUrls:
   - https://listex.info/product/napiy-bezalkogolniy-sokovmisniy-silnogazovaniy-pasterizovaniy-sheyk-kokteyl-bitter-lemon-330ml-ua-4820252120174

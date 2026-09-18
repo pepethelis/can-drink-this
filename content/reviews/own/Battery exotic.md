@@ -28,7 +28,6 @@ volume:
 caffeine: 32
 alco: 0
 availability: 4
-old_related: true
 tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-battery-exotic-zb-05l-ua-4820250942990

@@ -27,7 +27,6 @@ volume:
 caffeine: 14
 alco: 0
 availability: 3
-old_related: true
 tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-frugo-wild-cherry-gaz-zb-ua-5900552087861
