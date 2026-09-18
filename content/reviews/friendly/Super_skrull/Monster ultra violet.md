@@ -15,8 +15,8 @@ container:
   - can
 volume:
   - "0.5"
-alco: 0
 caffeine: 32
+alco: 0
 ---
 **MONSTER ENERGY ULTRA VIOLET**  
 Смак: виноград  

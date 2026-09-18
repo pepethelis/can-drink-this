@@ -14,9 +14,9 @@ container:
   - plastic
 volume:
   - "0.5"
+caffeine: 32
 alco: 0
 externalUrl: https://t.me/ukr_satan/4364
-caffeine: 32
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-shalena-yagoda-crazy-berry-ppl-05-l-ua-4820229038792
 ---
