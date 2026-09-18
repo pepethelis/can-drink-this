@@ -29,13 +29,14 @@ pinned: true
 Маю цікаві огляди, які я сам навряд чи зроблю, а якщо і зроблю, то не скоро:
 ***Сатана:***
 - [[Pitbull army|PITBULL ARMY]]
-- [[Своя лінія reCharge]]
+- [[Своя лінія reCharge|Своя лінія reCharge]]
 - [[Monster mega lo-carb|Monster mega lo-carb 0,71]]
 - [[Monster rehab green tea|Monster Rehab зелений]]
-- [[Brainer]]
-- [[content/reviews/friendly/Sanb_s/Cult juicy ocean]]
-- [[Cult bubble gum]]
+- [[Brainer|Brainer]]
+- [[content/reviews/friendly/Sanb_s/Cult juicy ocean|Cult juicy ocean]]
+- [[Cult bubble gum|Cult bubble gum]]
 - [[content/reviews/friendly/Sanb_s/Monster Lando Norris|Monster Lando Norris]]
+- [[Arizona energy watermelon|Arizona energy watermelon]]
 ***Super_skrulling:***
 - [[content/reviews/friendly/Super_skrull/Monster juiced pipeline punch|Monster juiced pipleine punch]]
 - [[Monster ultra rosa|Monster ultra rosa]]
@@ -48,8 +49,8 @@ pinned: true
 - [[Pitbull X]]
 - [[Fanta white peach 0.3]]
 - [[Hell summer cool elderflower]]
-- [[Jett orange]]
-- [[Jett green]]
+- [[Jett orange|]]
+- [[Jett green|Jett green]]
 
 
 **Дописи з роздумами щодо теми:**
@@ -185,6 +186,7 @@ Monster ultra:
 - [[content/reviews/own/Monster ultra peachy keen|peachy keen]]
 - [[Monster ultra vice guava|vice guava]]
 - [[content/reviews/own/Monster ultra violet|violet]]
+- [[content/reviews/own/Monster ultra strawberry dreams|strawberry dreams]]
 Monster nitro: 
 - [[Monster nitro green|dry]]
 - [[content/reviews/own/Monster nitro cosmic peach|orange peach]]
@@ -267,6 +269,9 @@ Hell ice coffee:
 - [[Frugo watermelon-strawberry|watermelon-strawberry🩷]]
 - [[Frugo dragonfruit-chilli|dragonfruit-chilli⚫️]]
 
+**Cult:** 
+- [[content/reviews/own/Cult juicy ocean|juicy ocean]]
+- [[content/reviews/own/Cult watermelon dreams|watermelon dreams]]
 
 **Rockstar:** 
 - [[Rockstar mango|mango]]
@@ -312,6 +317,10 @@ Hell ice coffee:
 - [[B52 red|звичайний червоний]]
 - [[B52 blue|блакитний без цукру]]
 
+**NS (паль на нонстоп):** 
+- [[content/reviews/own/NS original|original]]
+- [[NS breeze|breeze]]
+- [[content/reviews/own/NS bubblegum|bubblegum]]
 
 - [[28 black sour mango kiwi]]
 - [[Booster energy drink absolute zero]]
