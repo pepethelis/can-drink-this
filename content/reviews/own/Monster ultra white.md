@@ -12,6 +12,7 @@ types:
 brand: monster/ultra
 taste:
   - ORIGINAL
+  - citrus
 sweeteners:
   - sucralose
   - acesulfame

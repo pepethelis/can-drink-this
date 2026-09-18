@@ -10,6 +10,7 @@ types:
 brand: monster/ultra
 taste:
   - ORIGINAL
+  - citrus
 container:
   - can
 volume:

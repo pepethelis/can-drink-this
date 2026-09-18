@@ -10,6 +10,7 @@ types:
   - energy
 brand: monster/nitro
 taste:
+  - blueberry
 container:
   - can
 volume:

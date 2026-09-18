@@ -10,6 +10,9 @@ types:
   - energy
 brand: monster
 taste:
+  - CLASSIC
+  - ORIGINAL
+  - ginseng
 container:
   - can
 volume:

@@ -10,9 +10,9 @@ types:
   - energy
 brand: monster
 taste:
-  - ginseng
   - CLASSIC
   - ORIGINAL
+  - ginseng
 sweeteners:
   - erythritol
   - sucralose
