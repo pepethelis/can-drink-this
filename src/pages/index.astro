@@ -8,7 +8,7 @@ import Socials from "@/components/Socials.astro";
 import LinkButton from "@/components/LinkButton.astro";
 import CardReview from "@/components/CardReview.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
-import defaultImage from "@/assets/images/default.png";
+import homeImage from "@/assets/images/home.png";
 import IconRss from "@/assets/icons/IconRss.svg";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
@@ -36,7 +36,7 @@ const sortedPinnedContent = getSortedPosts([...pinnedPosts, ...pinnedReviews]);
 
 const rssHref = `/${import.meta.env.BASE_URL}/rss.xml`.replace(/\/{2,}/g, "/");
 const homeOgImage = await getImage({
-  src: defaultImage,
+  src: homeImage,
   width: 1200,
   height: 630,
   format: "jpg",
