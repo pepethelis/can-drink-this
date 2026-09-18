@@ -80,7 +80,7 @@ const reviews = defineCollection({
       availability: z.number().min(0).max(5).nullish(), // 0-5 rating for availability in local stores
       primaryColors: z.array(z.string()).nullish(), // e.g. red, green, blue
       manufacturer: z.string().nullish(), // custom field for drink manufacturer
-      caffeine: z.number().min(14).max(100).nullish(), // mg per 100ml
+      caffeine: z.number().min(0).max(250).nullish(), // mg per 100ml
       alco: z.number().min(0).max(50).nullish(), // alcohol percentage
       volume: z.array(volumeType).nullish(), // liters
       packager: packagerType.nullish(), // custom field for drink packager

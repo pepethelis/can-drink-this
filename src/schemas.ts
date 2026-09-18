@@ -39,6 +39,7 @@ export const volumeType = z.enum([
   "0.25",
   "0.24",
   "0.15",
+  "0.06",
 ]);
 
 export const beverageType = z.enum([

@@ -186,6 +186,30 @@ Key fields:
 - **Active filter badges**: chip row above results, per filter key, with a "clear all" button
 - **Cross-filter availability**: options that would yield 0 results are disabled/dimmed (`dd-disabled` / `ms-disabled`)
 
+## Drinks Directory (`/drinks`)
+
+`src/pages/drinks/index.astro` lists every distinct drink reviewed on the site, one card per drink rather than per review. It fetches the `reviews` collection with `postFilter` only — **all three categories are included** (own, friendly and subscribers), so a drink reviewed solely by a subscriber still gets a card.
+
+### Grouping (`src/utils/groupReviewsByDrink.ts`)
+
+Reviews are merged into a `DrinkGroup` when they describe the same physical drink, even if different reviewers ordered their `aliases` differently:
+
+- Match keys are every normalized alias plus the normalized filename stem (lowercased, whitespace-collapsed)
+- Merging is transitive via union-find — A+B sharing an alias and B+C sharing a filename put all three in one group
+- The **representative** review (source of title, cover and brand) is picked by `compareReviews`: own reviews first, then most recently updated/published. Subscriber and friendly reviews therefore never displace an own review's cover
+- `aliases`, `types` are unioned across members; `cover` and `brand` fall back to the first member that has one
+- `id` is the slugified title, de-duplicated with a `-2`, `-3` suffix on collision
+- `letter` buckets the title's first character; non-alphabetic titles go to `#`
+- Groups are returned sorted by title
+
+### Rendering and filters
+
+- `DrinkLetterSection.astro` — one section per letter. Inside it, *consecutive* drinks sharing a `brandBase` get a small brand heading (`data-brand-cluster`). This is cosmetic only and relies on titles already starting with the brand name; it does not re-sort
+- `DrinkGroupCard.astro` — cover, title, brand/type line, secondary aliases, and one row per review linking to it with the author and date. A group with exactly one review makes the cover and title clickable shortcuts to it. Missing covers fall back to `default.png` when the representative is an own review and `default2.png` otherwise
+- `DrinkFilterControls.astro` — owns all client-side filtering. Free-text search over title and aliases, plus a brand dropdown reusing `reviews/FilterBrandDropdown.astro`. Brand matching mirrors `/reviews`: `?brand=monster` matches the base, `?brand=monster/ultra` matches exactly
+- Filtering hides empty letter sections, empty brand clusters and disables their letter-nav links; a result count and empty state are updated in the same pass
+- The sticky alphabet nav uses an `IntersectionObserver` scroll-spy to highlight the section in view
+
 ## OG Image Generation
 
 `src/utils/generateOgImages.ts` — Satori + resvg pipeline. Templates live in `src/utils/og-templates/` (`post.ts`, `review.ts`, `site.ts`).
@@ -237,6 +261,9 @@ Pages without frontmatter (`/posts`, `/reviews`, `/reviews/awaited`, `/drinks`, 
 | `reviews/FilterBrandDropdown.astro` | Single-select brand dropdown with base/sub-brand grouping |
 | `reviews/FilterMultiSelect.astro` | Multi-select checkbox dropdown (taste, color, availability) |
 | `reviews/FilterBoolToggle.astro` | Boolean toggle (favorite) |
+| `drinks/DrinkFilterControls.astro` | `/drinks` search + brand filter, letter nav, scroll-spy |
+| `drinks/DrinkLetterSection.astro` | One alphabet section of `/drinks`, with cosmetic brand clusters |
+| `drinks/DrinkGroupCard.astro` | One drink on `/drinks`, listing every review of it |
 
 ## Layouts
 

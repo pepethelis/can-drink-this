@@ -13,11 +13,7 @@ import { SITE } from "@/config";
 import { PAGE_META, ogImageFor } from "@/pageMeta";
 import type { BrandGroup } from "@/types/reviews";
 
-const allReviews = await getCollection(
-  "reviews",
-  ({ data }) =>
-    postFilter({ data }) && data.category !== "огляди від підписників"
-);
+const allReviews = await getCollection("reviews", postFilter);
 
 const drinkGroups = groupReviewsByDrink(allReviews);
 
