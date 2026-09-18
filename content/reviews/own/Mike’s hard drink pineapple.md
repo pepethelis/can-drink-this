@@ -35,6 +35,8 @@ related:
   - "[[Garage pineberry&mint]]"
   - "[[Garage hardcore exotic kiss]]"
   - "[[Garage hardcore pomegranate fizz]]"
+listexUrls:
+  - https://listex.info/uk/product/pivo-mikes-ananas-043l-spl-ua-4820034927373
 ---
 **Mike’s hard drink pineapple**. Офіційний смак - ананас
 

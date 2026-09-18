@@ -17,6 +17,8 @@ volume:
   - "0.473"
 alco: 0
 externalUrl: https://t.me/super_skrulling/2252
+listexUrls:
+  - https://listex.info/uk/product/napiy-energ-monster-reserve-orange-drmscle-gaz-zb-ua-70847890805-1
 ---
 **M∅NSTER ENERGY Reserve Orange Dreamsicle**
 

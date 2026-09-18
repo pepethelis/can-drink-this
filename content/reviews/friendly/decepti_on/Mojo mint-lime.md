@@ -21,5 +21,8 @@ externalUrl: https://t.me/sonechkin_rzekich/32224
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32222
   - https://t.me/sonechkin_rzekich/32223
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-sokovmisniy-silnogazovaniy-smak-myata-laym-tm-modzho-033-l-ua-4820252123199
+caffeine: 0
 ---
 Огляд на моджо!!!!!!!

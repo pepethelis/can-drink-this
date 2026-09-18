@@ -33,6 +33,8 @@ related:
   - "[[Vega Milk banana]]"
   - "[[Vega Milk coconut]]"
 tags:
+listexUrls:
+  - https://listex.info/uk/product/napiy-kavoviy-z-molokom-mokachino-jaffa-ice-coffee-tra-025l-ua-4820264290780
 ---
 **Jaffa ice coffee moccaccino**. Офіційний смак - мокачіно
 

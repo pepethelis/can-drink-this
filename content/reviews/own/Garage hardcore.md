@@ -31,6 +31,9 @@ alco: 6
 availability: 5
 old_related: true
 tags:
+listexUrls:
+  - https://listex.info/uk/product/pivo-specialne-seth-and-rileys-garage-hardcore-taste-cherry-and-more-zb-05l-ua-4820250940156
+  - https://listex.info/uk/product/pivo-specialne-pasterizovane-garage-hardcore-taste-starfruitmore-banka-05l-ua-4820250943638
 ---
 **Garage hardcore cherry та starfruit**, вони ж гараж хард рожевий та зелений. Два огляди за раз
 

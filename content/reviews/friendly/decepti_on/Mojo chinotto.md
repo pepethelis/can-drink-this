@@ -19,5 +19,7 @@ alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/32251
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/32250
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-na-aromatizatorah-silnogazovaniy-smak-chinotto-tm-modzho-033-l-ua-4820252123175
 ---
 Огляд на моджо жовте мені на сподобалось 🥸

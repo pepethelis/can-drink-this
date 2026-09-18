@@ -28,6 +28,8 @@ related:
   - "[[King’s bridge gin&tonic]]"
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-slaboalkogolniy-johfreitgintonic-05l-zhb-ua-4750142005758
 ---
 **Johan Freitag gin&tonic**. Офіційний смак мабуть джин+тонік, підкажіть чат
 

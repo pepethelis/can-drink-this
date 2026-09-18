@@ -31,6 +31,8 @@ related:
   - "[[Garage pineberry&mint]]"
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/pivo-specialne-hayk-vayb-zi-smakom-kokteylyu-inkom-taks-hike-vibe-with-taste-of-cocktail-income-tax-pasterizovane-zhb-05l-ua-4820193038996
 ---
 Типу гараж **Hike vibe income tax**. Офіційний смак - коктейль "income tax"
 

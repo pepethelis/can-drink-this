@@ -18,5 +18,8 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33687
   - https://t.me/sonechkin_rzekich/33688
 alco: 0
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-jett-zi-smakom-kivi-ta-yabluka-08l-pet-ua-4820002713991
+caffeine: 32
 ---
 Ранковий огляд на ноунейм енергетик з тайстри

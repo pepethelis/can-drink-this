@@ -27,6 +27,8 @@ availability: 4
 old_related: true
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/product/pivo-spec-seth-and-rileys-garage-fun-zero-0-taste-raspberry-zb-05l-ua-4820250941917
 ---
 **Garage fun zero**, рожевий. Офіційний смак - **raspberry**
 

@@ -20,5 +20,8 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/33701
   - https://t.me/sonechkin_rzekich/33702
 alco: 0
+listexUrls:
+  - https://listex.info/uk/product/energetichniy-bezalkogolniy-napiy-dzhett-zi-smakom-mango-ta-apelsina-jett-banka-033l-ua-4820002713601
+caffeine: 32
 ---
 Огляд на джетт манго апельсин

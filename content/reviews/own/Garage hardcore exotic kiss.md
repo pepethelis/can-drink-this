@@ -27,6 +27,8 @@ availability: 3
 favorite:
 tags:
 telegram_format: html
+listexUrls:
+  - https://listex.info/uk/product/pivo-specialne-pivo-spec-seth-and-rileys-garage-hardcore-exotic-kiss-pl044l-ua-4820250945106
 ---
 **Garage hardcore exotic kiss**. Офіційний смак не вказано
 

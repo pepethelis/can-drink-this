@@ -35,6 +35,8 @@ related:
   - "[[Lomza radler watermelon]]"
 tags:
   - package/crown
+listexUrls:
+  - https://listex.info/uk/product/pivo-gosser-limon-05l
 ---
 Радлер **Gösser natur radler**. Офіційний смак наче і не вказано
 

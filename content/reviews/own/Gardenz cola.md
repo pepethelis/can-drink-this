@@ -38,6 +38,8 @@ related:
   - "[[Львівське радлер лимон]]"
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/sidr-zvichayniy-gazovaniy-solodkiysmak-kola-ua-4820196932840
 ---
 Сидр **Gardenz cola**. Офіційний смак - кола
 

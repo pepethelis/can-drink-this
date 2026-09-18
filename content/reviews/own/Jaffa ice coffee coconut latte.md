@@ -32,6 +32,8 @@ related:
   - "[[Vega Milk banana]]"
   - "[[Vega Milk coconut]]"
 tags:
+listexUrls:
+  - https://listex.info/uk/product/napiy-kavoviy-z-kokosom-late-kokos-jaffa-ice-coffee-tra-025l-ua-4820264290773
 ---
 **Jaffa ice coffee coconut latte**. Офіційний смак - лате кокосове
 

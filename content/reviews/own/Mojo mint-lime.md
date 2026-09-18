@@ -35,6 +35,8 @@ availability: 5
 favorite:
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-sokovmisniy-silnogazovaniy-smak-myata-laym-tm-modzho-033-l-ua-4820252123199
 ---
 **Mojo mint-lime**. Офіційний смак - м'ята та лайм
 

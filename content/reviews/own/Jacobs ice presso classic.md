@@ -29,6 +29,8 @@ availability: 4
 favorite:
 related:
   - "[[Jacobs ice presso latte|Jacobs ice presso latte]]"
+listexUrls:
+  - https://listex.info/uk/product/napiy-molochniy-z-kavoyu-ayspresso-klasik-sterilizovaniy-250-ml-x-12-ua-8711000582077
 ---
 **Jacobs ice presso classic**. Офіційний смак - класичний, тобто просто кавовий
 

@@ -30,6 +30,8 @@ availability: 3
 favorite:
 tags:
   - package/bagpak
+listexUrls:
+  - https://listex.info/uk/product/napitok-energeticheskiy-komodo-gazirovannyy-zhb-ua-5906213008275
 ---
 **Komodo classic**. Офіційний смак - класичний
 
