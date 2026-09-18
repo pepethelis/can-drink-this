@@ -19,6 +19,7 @@ alco: 0
 externalUrl: https://t.me/ukr_satan/6926
 listexUrls:
   - https://listex.info/uk/product/energ-napiy-can-original-zhb-05l-cult-ua-4770477231806
+caffeine: 32
 ---
 CULT energy activator Original  
 

@@ -29,6 +29,8 @@ caffeine: 32
 alco: 0
 availability: 3
 favorite:
+listexUrls:
+  - https://listex.info/uk/product/energ-napiy-can-waterm-dreams-zhb-05l-cult-ua-4770477232414
 ---
 **Cult watermelon dreams**. Офіційний смак - кавунячий
 

@@ -32,6 +32,8 @@ alco: 0
 availability: 3
 favorite:
 tags:
+listexUrls:
+  - https://listex.info/uk/product/napiy-bezalkogolniy-bubble-tea-grapefruit-passion-fruit-mango-slabogazovaniy-330ml-zhb-ever-aid-ua-4820183002617
 ---
 **Ever aid bubble tea grapefruit passion fruit mango**. Офіційний смак - грейпфрут, маракуя, манго
 

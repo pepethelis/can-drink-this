@@ -42,6 +42,8 @@ related:
   - "[[Bronx orange]]"
 tags:
 telegram_format: html
+listexUrls:
+  - https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-enzo-alko-enerdzhi-enzo-alco-energy-tm-enzo-05-l-zhb-ua-4820271513063
 ---
 Алко-енержи **Enzo**, фактично близнюк [[Bummer]]. Офіційний смак не вказано, але ми знаємо що там типу рево має бути. В складі є ароматизатори апельсина, малини і тутті-фрутті
 

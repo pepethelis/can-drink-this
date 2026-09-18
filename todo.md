@@ -48,6 +48,8 @@
 - [[Ever aid bubble tea melon pineapple]]
 - [[Ever aid bubble tea peach]]
 - [[Ever aid bubble tea forest fruit]]
+- Erbe seaberry-ginger
+- Erbe raspberry-mint
 
 ### unavailable
 - [[Schöfferhofer pineapple]]

@@ -28,6 +28,8 @@ availability: 3
 favorite:
 old_related: true
 tags:
+listexUrls:
+  - https://listex.info/uk/product/energetichniy-napiy-black-ua-5900552075769
 ---
 **Frugo Wild Punch Black**. Офіційний смак - draginfruit & chilli
 

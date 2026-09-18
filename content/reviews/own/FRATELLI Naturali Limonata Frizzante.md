@@ -30,6 +30,8 @@ related:
   - "[[Моршинська лимонад апельсин та персик]]"
 tags:
   - package/canpack
+listexUrls:
+  - https://listex.info/product/napiy-bezalkogolniy-silnogazovaniy-na-smakoaromatichnih-dobavkah-fratelli-naturali-limonata-frizzante-fratelli-naturali-limonata-frizzante-tm-fratelli-033-l-ua-4820271512592
 ---
 **FRATELLI Naturali Limonata Frizzante**. Офіційний смак - "напій зі смаком лимону"
 

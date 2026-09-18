@@ -29,6 +29,8 @@ availability: 4
 old_related: true
 tags:
   - package/amp
+listexUrls:
+  - https://listex.info/uk/product/napiy-drpepper-gazovaniy-energetichniy-zb-330ml-h24
 ---
 **Dr pepper дефолтний**. Офіційний смак не вказано
 

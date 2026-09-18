@@ -31,6 +31,8 @@ availability: 4
 old_related: true
 tags:
   - package/amp
+listexUrls:
+  - https://listex.info/uk/product/napiy-drpepper-cherry-gazovaniy-033l-h12
 ---
 **Dr pepper cherry**. Офіційний смак - вишня
 
