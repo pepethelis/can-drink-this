@@ -2,25 +2,25 @@
 author: sanb_s
 aliases:
   - Black energy тропічні фрукти-канабіс
-publishedAt: 2025-05-02
+summary:
 status: published
+publishedAt: 2025-05-02
+cover: "[[photo_2025-05-02_13-48-29.jpg]]"
+types:
+  - energy
 brand: black
+taste:
+  - tropical
+  - cannabis
 container:
   - plastic
 volume:
   - "0.5"
-summary:
-taste:
-  - tropical
-  - cannabis
-types:
-  - energy
-cover: "[[photo_2025-05-02_13-48-29.jpg]]"
+caffeine: 32
+alco: 0
 externalUrl: https://t.me/ukr_satan/5400
 listexUrls:
   - https://listex.info/product/napiy-energetichniy-bezalkogolniy-z-smakom-tropichni-frukti-kanabis-sokovmisniy-silnogazovaniy-05l-pet-blek-ua-4820277911160
-caffeine: 32
-alco: 0
 ---
 Ну що заціняємо таке #енергохарчування 😆 BLACK тропічні фрукти-канабіс.  
 

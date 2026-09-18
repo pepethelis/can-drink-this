@@ -2,19 +2,19 @@
 author: sanb_s
 aliases:
   - Cult watermelon dreams
-publishedAt: 2025-10-20
+summary:
 status: published
+publishedAt: 2025-10-20
+cover:
+types:
+  - energy
 brand: cult
+taste:
+  - watermelon
 container:
   - can
 volume:
   - "0.5"
-summary:
-taste:
-  - watermelon
-types:
-  - energy
-cover:
 externalUrl: https://t.me/ukr_satan/6765
 contentTgPosts:
   - https://t.me/ukr_satan/6765

@@ -21,7 +21,6 @@ related:
   - "[[Nonstop original]]"
   - "[[Nonstop original zero|Nonstop original zero]]"
   - "[[content/reviews/own/NS original|NS original]]"
-re:
 ---
 "NS ORIGINAL" закос на класичний "NON-STOP" від російського бренду "World's best drinks"
 
