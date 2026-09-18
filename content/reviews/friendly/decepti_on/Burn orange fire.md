@@ -4,7 +4,7 @@ aliases:
   - Burn orange fire
 summary: Огляд на Берн з апельсином
 status: published
-publishedAt:
+publishedAt: 2025-06-20
 cover:
 types:
   - energy

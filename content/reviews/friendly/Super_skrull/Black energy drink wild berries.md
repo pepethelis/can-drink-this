@@ -4,7 +4,7 @@ aliases:
   - Black energy drink wild berries
 summary:
 status: published
-publishedAt:
+publishedAt: 2025-09-08
 cover: "[[photo_2025-06-10_08-58-21.jpg]]"
 types:
   - energy

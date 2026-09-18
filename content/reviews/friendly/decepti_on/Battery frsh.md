@@ -4,7 +4,7 @@ aliases:
   - Battery frsh
 summary: Ранковий огляд на батері фреш (хтось просив я зробила)
 status: published
-publishedAt:
+publishedAt: 0020-09-08
 cover:
 types:
   - energy

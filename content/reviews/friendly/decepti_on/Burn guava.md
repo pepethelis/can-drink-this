@@ -4,7 +4,7 @@ aliases:
   - Burn guava
 summary: Огляд на Берн гуава
 status: published
-publishedAt:
+publishedAt: 2025-06-12
 cover:
 types:
   - energy
