@@ -16,6 +16,7 @@ taste:
 container:
   - can
 volume:
+  - "0.25"
 alco: 0
 listexUrls:
   - https://listex.info/product/napiy-energetichniy-black-energy-zero-sugar-gaz-zb-ua-5900552021865

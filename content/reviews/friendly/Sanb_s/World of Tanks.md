@@ -4,7 +4,7 @@ aliases:
   - World of Tanks
 summary:
 status: published
-publishedAt:
+publishedAt: 2024-08-14
 cover:
 types:
   - energy
@@ -13,6 +13,7 @@ taste:
 container:
   - can
 volume:
+  - "0.5"
 caffeine: 32
 alco: 0
 externalUrl: https://t.me/ukr_satan/1453

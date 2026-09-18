@@ -15,6 +15,7 @@ taste:
 container:
   - can
 volume:
+  - "0.5"
 alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33636
 contentTgPosts:

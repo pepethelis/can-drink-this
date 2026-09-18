@@ -16,6 +16,7 @@ container:
 primaryColors:
 manufacturer:
 volume:
+  - "0.5"
 caffeine: 0
 alco: 0
 availability:

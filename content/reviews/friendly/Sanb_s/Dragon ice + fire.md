@@ -15,6 +15,7 @@ taste:
 container:
   - plastic
 volume:
+  - "0.5"
 caffeine: 35
 alco: 0
 externalUrl: https://t.me/ukr_satan/1871

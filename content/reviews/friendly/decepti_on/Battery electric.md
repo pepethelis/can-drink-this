@@ -10,9 +10,11 @@ types:
   - energy
 brand: battery
 taste:
+  - raspberry/blue
 container:
   - can
 volume:
+  - "0.48"
 caffeine: 32
 alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33959

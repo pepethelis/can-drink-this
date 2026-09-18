@@ -10,9 +10,11 @@ types:
   - energy
 brand: battery/juiced
 taste:
+  - apple
 container:
   - can
 volume:
+  - "0.5"
 caffeine: 32
 alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33673

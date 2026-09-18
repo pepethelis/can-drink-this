@@ -28,8 +28,8 @@ views:
         - file.folder.startsWith("content/reviews")
     order:
       - file.name
-      - listexUrls
       - volume
+      - taste
     sort:
       - property: file.name
         direction: ASC

@@ -10,9 +10,11 @@ types:
   - energy
 brand: monster/rehab
 taste:
+  - berries
 container:
   - can
 volume:
+  - "0.5"
 caffeine: 30
 alco: 0
 externalUrl: https://t.me/ukr_satan/7927
