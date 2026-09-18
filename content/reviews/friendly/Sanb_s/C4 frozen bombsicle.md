@@ -10,6 +10,8 @@ types:
   - energy
 brand: c4
 taste:
+  - cherry
+  - lime
 container:
   - can
 volume:

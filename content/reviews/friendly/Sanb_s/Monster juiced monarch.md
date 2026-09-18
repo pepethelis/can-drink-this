@@ -10,6 +10,8 @@ types:
   - energy
 brand: monster/juiced
 taste:
+  - peach
+  - nectarine
 container:
 volume:
   - "0.5"

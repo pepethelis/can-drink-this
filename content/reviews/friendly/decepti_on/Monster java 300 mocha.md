@@ -14,6 +14,7 @@ taste:
 container:
   - can
 volume:
+  - "0.5"
 caffeine: 60
 alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33079

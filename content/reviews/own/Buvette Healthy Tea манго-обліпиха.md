@@ -10,6 +10,8 @@ types:
   - tea
 brand: buevette
 taste:
+  - mango
+  - seaberry
 sweeteners:
 container:
   - plastic

@@ -10,9 +10,12 @@ types:
   - energy
 brand: hell/summer
 taste:
+  - guanabana
+  - soursop
 container:
   - can
 volume:
+  - "0.25"
 caffeine: 32
 alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/32846

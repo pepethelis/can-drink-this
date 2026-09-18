@@ -10,6 +10,7 @@ types:
   - energy
 brand: world of tanks
 taste:
+  - CLASSIC
 container:
   - can
 volume:

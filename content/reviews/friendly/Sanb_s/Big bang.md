@@ -10,6 +10,7 @@ types:
   - energy
 brand: big bang
 taste:
+  - CLASSIC
 container:
   - can
 volume:

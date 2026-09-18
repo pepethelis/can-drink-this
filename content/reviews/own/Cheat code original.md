@@ -10,6 +10,7 @@ types:
   - energy
 brand: cheat code
 taste:
+  - CLASSIC
 sweeteners:
 container:
   - can

@@ -10,6 +10,7 @@ types:
   - energy
 brand: burn
 taste:
+  - fruit punch
 container:
   - can
 volume:

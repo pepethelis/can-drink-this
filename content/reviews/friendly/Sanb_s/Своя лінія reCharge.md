@@ -10,6 +10,7 @@ types:
   - energy
 brand: своя лінія
 taste:
+  - CLASSIC
 container:
   - plastic
 volume:

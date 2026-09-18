@@ -10,6 +10,8 @@ types:
   - energy
 brand: battery
 taste:
+  - tropical
+  - ORIGINAL
 container:
   - can
 volume:

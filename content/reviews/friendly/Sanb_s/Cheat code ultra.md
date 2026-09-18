@@ -10,6 +10,8 @@ types:
   - energy
 brand: cheat code
 taste:
+  - elderflower
+  - lemon
 container:
   - can
 volume:

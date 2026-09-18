@@ -10,6 +10,7 @@ types:
   - energy
 brand: hell
 taste:
+  - grape
 container:
   - can
 volume:

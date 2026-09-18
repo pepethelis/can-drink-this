@@ -10,6 +10,8 @@ types:
   - energy
 brand: battery
 taste:
+  - passion fruit
+  - guava
 container:
   - can
 volume:

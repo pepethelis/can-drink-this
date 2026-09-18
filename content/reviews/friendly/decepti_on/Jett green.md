@@ -10,6 +10,8 @@ types:
   - energy
 brand: jett
 taste:
+  - kivi
+  - apple
 container:
   - can
 volume:
@@ -22,4 +24,4 @@ contentTgPosts:
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-jett-zi-smakom-kivi-ta-yabluka-08l-pet-ua-4820002713991
 ---
-Ранковий огляд на ноунейм енергетик з тайстри
+Ранковий огляд на ноунейм енергетик з та�

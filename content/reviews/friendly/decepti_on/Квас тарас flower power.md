@@ -10,6 +10,8 @@ types:
   - kvass
 brand: квас тарас
 taste:
+  - lemongrass
+  - elderflower
 container:
   - can
 volume:

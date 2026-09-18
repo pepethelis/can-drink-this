@@ -10,6 +10,9 @@ types:
   - energy
 brand: monster/juiced
 taste:
+  - orange
+  - tropical
+  - citrus
 container:
   - can
 volume:

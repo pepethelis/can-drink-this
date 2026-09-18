@@ -10,6 +10,7 @@ types:
   - energy
 brand: cult
 taste:
+  - ORIGINAL
 container:
   - can
 volume:

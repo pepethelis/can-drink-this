@@ -10,6 +10,7 @@ types:
   - energy
 brand: brainer
 taste:
+  - ORIGINAL
 container:
   - can
 volume:

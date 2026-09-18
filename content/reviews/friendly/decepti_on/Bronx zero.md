@@ -10,9 +10,11 @@ types:
   - energy
 brand: bronx/zero
 taste:
+  - ORIGINAL
 container:
   - can
 volume:
+  - "0.33"
 caffeine: 32
 alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33832

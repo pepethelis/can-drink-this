@@ -10,6 +10,7 @@ types:
   - tea
 brand: buevette
 taste:
+  - lemongrass
 sweeteners:
 container:
 primaryColors:

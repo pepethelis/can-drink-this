@@ -10,9 +10,13 @@ types:
   - energy
 brand: monster/juiced
 taste:
+  - orange
+  - tropical
+  - citrus
 container:
   - can
 volume:
+  - "0.5"
 caffeine: 32
 alco: 0
 externalUrl: https://t.me/sonechkin_rzekich/33539
