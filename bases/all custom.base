@@ -30,6 +30,11 @@ views:
       - file.name
       - volume
       - taste
+      - alco
     sort:
+      - property: alco
+        direction: ASC
       - property: file.name
         direction: ASC
+    columnSize:
+      note.taste: 205

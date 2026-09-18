@@ -20,5 +20,6 @@ contentTgPosts:
   - https://t.me/sonechkin_rzekich/34111
   - https://t.me/sonechkin_rzekich/34112
   - https://t.me/sonechkin_rzekich/34113
+alco: 0
 ---
 Огляд на пікмі редбул 👀 смак лісові ягоди 🥺
