@@ -111,7 +111,7 @@ export default function getReviewStats(
     const caffeineKey =
       review.data.caffeine != null
         ? `${review.data.caffeine} mg`
-        : "No caffeine";
+        : "UNKNOWN";
     caffeineMap.set(caffeineKey, (caffeineMap.get(caffeineKey) ?? 0) + 1);
     const alcoKey =
       review.data.alco != null && review.data.alco !== 0
