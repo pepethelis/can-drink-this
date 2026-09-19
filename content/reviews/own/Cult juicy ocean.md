@@ -2,9 +2,9 @@
 aliases:
   - Cult juicy ocean
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39006
+publishedAt: 2026-09-19
 createdAt: 2026-09-18
 cover: "[[IMG_8031.jpeg]]"
 types:

@@ -2,9 +2,9 @@
 aliases:
   - Cult watermelon dreams
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/38997
+publishedAt: 2026-09-19
 createdAt: 2026-09-17
 cover: "[[IMG_8005.jpeg]]"
 types:
