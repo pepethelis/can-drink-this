@@ -2,9 +2,9 @@
 aliases:
   - Monster lando norris
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39096
+publishedAt: 2026-09-23
 cover: "[[IMG_8133.jpeg]]"
 types:
   - energy

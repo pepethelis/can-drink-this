@@ -2,9 +2,9 @@
 aliases:
   - Tiger mango max
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39088
+publishedAt: 2026-09-23
 createdAt: 2026-09-20
 cover: "[[IMG_8096.jpeg]]"
 types:
