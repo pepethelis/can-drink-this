@@ -6,6 +6,7 @@ summary:
 status: to publish
 externalUrl:
 publishedAt:
+createdAt: 2026-09-22
 cover: "[[IMG_8191.jpeg]]"
 types:
   - energy
@@ -30,7 +31,6 @@ sponsor:
 availability: 3
 favorite: true
 tags:
-createdAt: 2026-09-22
 ---
 **Redbull wisnia sakura**. Офіційний смак - плоди сакури
 

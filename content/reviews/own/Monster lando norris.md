@@ -5,6 +5,7 @@ summary:
 status: to publish
 externalUrl:
 publishedAt:
+createdAt: 2026-09-20
 cover: "[[IMG_8133.jpeg]]"
 types:
   - energy
@@ -32,7 +33,6 @@ favorite:
 tags:
   - package/canpack
   - country/poland
-createdAt: 2026-09-20
 ---
 **Monster lando norris**. Офіційний смак на банці не вказано, але на сайті - "Refreshing Melon with Yuzu", тобто диня з мандарино-грейпфрутом. Так, ще один монстр з оголошеним цитрусом
 

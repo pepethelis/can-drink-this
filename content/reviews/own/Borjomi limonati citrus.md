@@ -5,6 +5,7 @@ summary:
 status: to publish
 externalUrl:
 publishedAt:
+createdAt: 2026-09-22
 cover: "[[IMG_8200.jpeg]]"
 types:
   - fizzy
@@ -31,7 +32,6 @@ alco: 0
 availability: 4
 favorite:
 tags:
-createdAt: 2026-09-22
 ---
 **Borjomi limonati citrus**. Офіційний смак - цитрус (або лимонний судячи з дизайну)
 

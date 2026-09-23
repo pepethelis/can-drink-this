@@ -1,0 +1,4 @@
+views:
+  - type: cards
+    name: all
+    image: file.file
