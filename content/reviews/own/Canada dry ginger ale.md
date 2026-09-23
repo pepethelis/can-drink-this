@@ -1,38 +1,43 @@
 ---
-status: prebuild
 aliases:
   - Canada dry ginger ale
+summary:
+status: prebuild
 externalUrl:
-brand: canada dry
+publishedAt:
+createdAt:
+cover: "[[default.png]]"
 types:
   - fizzy
+brand: canada dry
 taste:
-publishedAt:
-favorite:
-container:
+  - ginger ale
 sweeteners:
-cover: "[[default.png]]"
-availability: 4
-summary:
+  - sugar
+  - aspartame
+  - acesulfame
+container:
+  - can
 primaryColors:
   - green
   - golden
   - white
 manufacturer:
-caffeine: 0
 volume:
   - "0.33"
+caffeine: 0
 alco: 0
-createdAt:
+availability: 4
+favorite:
 ---
-**Canada dry ginger ale**. Офіційний смак - ==СМАК==
+**Canada dry ginger ale**. Офіційний смак - імбирний ель
 
 ==ОПИС ЗАПАХУ ЗАПАХУ==
 
 ==ОПИС ЗАПАХУ СМАКУ==
 
 
-Дизайн добрий та одночасно цікавий і стриманий. Навіть хз що сказати - 
+Дизайн добрий та одночасно цікавий і стриманий. Навіть хз що сказати - мені подобається. Якість друку теж на рівні, зроблено супер рівно і чітко
 
 Кольорове кодування в лінійці наявне загалом, але у нас на ринку є лише цей зелений
 
@@ -61,4 +66,4 @@ createdAt:
 Бляшанка від canpack
 
 
-По висновку - ==ВИСНОВОК
+По висновку - ==ВИСНОВОК==
