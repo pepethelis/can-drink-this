@@ -1,4 +1,28 @@
+filters:
+  and:
+    - file.folder.startsWith("content/assets")
 views:
   - type: cards
     name: all
+    order:
+      - file.name
+      - file.folder
+    image: file.file
+  - type: cards
+    name: own
+    filters:
+      and:
+        - '!file.folder.containsAny("FRIENDLY", "POSTS")'
+    order:
+      - file.name
+      - file.folder
+    image: file.file
+  - type: cards
+    name: friendly
+    filters:
+      and:
+        - file.folder.startsWith("content/assets/FRIENDLY")
+    order:
+      - file.name
+      - file.path
     image: file.file
