@@ -3,9 +3,9 @@ aliases:
   - Redbull spring edition
   - Redbull wisnia sakura
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39149
+publishedAt: 2026-09-26
 createdAt: 2026-09-22
 cover: "[[IMG_8191.jpeg]]"
 types:

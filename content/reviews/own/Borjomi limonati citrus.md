@@ -2,9 +2,9 @@
 aliases:
   - Borjomi limonati citrus
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39157
+publishedAt: 2026-09-26
 createdAt: 2026-09-22
 cover: "[[IMG_8200.jpeg]]"
 types:
