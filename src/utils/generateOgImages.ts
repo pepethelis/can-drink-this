@@ -16,12 +16,12 @@ function svgBufferToPngBuffer(svg: string) {
   return pngData.asPng();
 }
 
-function stripObsidianSyntax(value: string): string {
+export function stripObsidianSyntax(value: string): string {
   const match = value.trim().match(/\[\[(.+?)\]\]/);
   return match ? match[1].trim() : value.trim();
 }
 
-function findAssetByFilename(basename: string): string | undefined {
+export function findAssetByFilename(basename: string): string | undefined {
   if (!fs.existsSync(assetsRoot)) return undefined;
   const walk = (dir: string): string | undefined => {
     for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {

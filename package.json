@@ -36,7 +36,8 @@
     "slugify": "^1.6.6",
     "tailwindcss": "^4.1.18",
     "unicode-emoji-json": "^0.9.0",
-    "unist-util-visit": "^5.0.0"
+    "unist-util-visit": "^5.0.0",
+    "yaml": "^2.7.1"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.6",

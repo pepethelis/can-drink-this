@@ -20,6 +20,7 @@ import Divider from "@/components/Divider.astro";
 import { normalizeMediaLink, resolveImageAsset } from "@/utils";
 import getTitleFormAliases from "@/utils/getTitleFormAliases";
 import ReadingProgress from "@/components/ReadingProgress.astro";
+import LinkPreviewCard from "@/components/LinkPreviewCard.astro";
 
 type Props = {
   post: CollectionEntry<"reviews">;
@@ -135,6 +136,7 @@ const nextPost =
 
 <Layout {...layoutProps}>
   <ReadingProgress />
+  <LinkPreviewCard />
   <Header />
   <BackButton />
   <div

@@ -1,0 +1,191 @@
+---
+// Floating hover-preview card for internal links to other reviews.
+// The `<a>` tags themselves carry data-preview-* attributes (title, summary,
+// cover URL), attached at markdown-build time in astro.config.ts — this
+// component just renders the (initially hidden) card shell and the script
+// that shows/positions/hides it on hover or focus.
+---
+
+<div id="link-preview-card" class="link-preview-card" hidden>
+  <img class="lp-cover" alt="" decoding="async" />
+  <div class="lp-body">
+    <p class="lp-title"></p>
+    <p class="lp-meta"></p>
+    <p class="lp-summary"></p>
+  </div>
+</div>
+
+<style>
+  .link-preview-card {
+    position: fixed;
+    z-index: 60;
+    display: flex;
+    width: 280px;
+    max-width: calc(100vw - 2rem);
+    gap: 0.6rem;
+    border-radius: 0.75rem;
+    border: 1px solid var(--border);
+    background-color: var(--background);
+    box-shadow: 0 12px 32px -8px rgba(0, 0, 0, 0.35);
+    padding: 0.6rem;
+    cursor: pointer;
+  }
+  .lp-cover {
+    flex: none;
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: 0.5rem;
+    object-fit: cover;
+    background-color: var(--muted);
+  }
+  .lp-cover[hidden] {
+    display: none;
+  }
+  .lp-body {
+    min-width: 0;
+  }
+  .lp-title {
+    margin: 0 0 0.2rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--foreground);
+  }
+  .lp-meta {
+    margin: 0 0 0.3rem;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--foreground);
+    opacity: 0.6;
+  }
+  .lp-meta[hidden] {
+    display: none;
+  }
+  .lp-summary {
+    margin: 0;
+    font-size: 0.78rem;
+    line-height: 1.3;
+    color: var(--foreground);
+    opacity: 0.75;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .lp-summary[hidden] {
+    display: none;
+  }
+</style>
+
+<script is:inline data-astro-rerun>
+  function setupLinkPreviews() {
+    if (
+      !window.matchMedia ||
+      !window.matchMedia("(hover: hover) and (pointer: fine)").matches
+    ) {
+      return;
+    }
+
+    const links = document.querySelectorAll("a[data-preview-title]");
+    if (!links.length) return;
+
+    const card = document.getElementById("link-preview-card");
+    if (!card) return;
+
+    const img = card.querySelector(".lp-cover");
+    const titleEl = card.querySelector(".lp-title");
+    const metaEl = card.querySelector(".lp-meta");
+    const summaryEl = card.querySelector(".lp-summary");
+
+    let showTimer = null;
+    let hideTimer = null;
+    let activeLink = null;
+
+    function positionCard(link) {
+      const rect = link.getBoundingClientRect();
+      const margin = 8;
+      const cardWidth = card.offsetWidth || 280;
+      const cardHeight = card.offsetHeight || 100;
+
+      let left = rect.left;
+      const maxLeft = document.documentElement.clientWidth - cardWidth - margin;
+      left = Math.min(Math.max(left, margin), Math.max(margin, maxLeft));
+
+      let top = rect.bottom + margin;
+      if (top + cardHeight + margin > window.innerHeight) {
+        top = Math.max(margin, rect.top - cardHeight - margin);
+      }
+
+      card.style.left = `${left}px`;
+      card.style.top = `${top}px`;
+    }
+
+    function showCard(link) {
+      const title = link.dataset.previewTitle || "";
+      const summary = link.dataset.previewSummary || "";
+      const cover = link.dataset.previewCover || "";
+      const type = link.dataset.previewTypes || "";
+      const author = link.dataset.previewAuthor || "";
+      const meta = [type, author].filter(Boolean).join(" · ");
+
+      titleEl.textContent = title;
+      metaEl.textContent = meta;
+      metaEl.hidden = !meta;
+      summaryEl.textContent = summary;
+      summaryEl.hidden = !summary;
+
+      if (cover) {
+        img.src = cover;
+        img.alt = title;
+        img.hidden = false;
+      } else {
+        img.hidden = true;
+      }
+
+      activeLink = link;
+      card.hidden = false;
+      positionCard(link);
+    }
+
+    function hideCard() {
+      card.hidden = true;
+      activeLink = null;
+    }
+
+    function scheduleShow(link) {
+      clearTimeout(hideTimer);
+      clearTimeout(showTimer);
+      showTimer = setTimeout(() => showCard(link), 250);
+    }
+
+    function scheduleHide() {
+      clearTimeout(showTimer);
+      clearTimeout(hideTimer);
+      hideTimer = setTimeout(hideCard, 150);
+    }
+
+    for (const link of links) {
+      link.addEventListener("mouseenter", () => scheduleShow(link));
+      link.addEventListener("mouseleave", scheduleHide);
+      link.addEventListener("focus", () => showCard(link));
+      link.addEventListener("blur", scheduleHide);
+    }
+
+    card.addEventListener("mouseenter", () => clearTimeout(hideTimer));
+    card.addEventListener("mouseleave", scheduleHide);
+    card.addEventListener("click", () => {
+      if (activeLink) activeLink.click();
+    });
+
+    window.addEventListener("scroll", hideCard, { passive: true });
+  }
+
+  // The card markup sits near the top of the layout, above the article body,
+  // so on a hard navigation this script runs before the links it queries for
+  // exist in the DOM yet — wait for the rest of the document to parse first.
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", setupLinkPreviews);
+  } else {
+    setupLinkPreviews();
+  }
+</script>

@@ -20,6 +20,7 @@ import { Image } from "astro:assets";
 import { normalizeMediaLink, resolveImageAsset } from "@/utils";
 import getTitleFormAliases from "@/utils/getTitleFormAliases";
 import ReadingProgress from "@/components/ReadingProgress.astro";
+import LinkPreviewCard from "@/components/LinkPreviewCard.astro";
 
 type Props = {
   post: CollectionEntry<"posts">;
@@ -118,6 +119,7 @@ const nextPost =
 
 <Layout {...layoutProps}>
   <ReadingProgress />
+  <LinkPreviewCard />
   <Header />
   <BackButton />
   <div
