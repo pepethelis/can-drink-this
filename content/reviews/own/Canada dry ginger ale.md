@@ -2,7 +2,7 @@
 aliases:
   - Canada dry ginger ale
 summary:
-status: prebuild
+status: to create
 externalUrl:
 publishedAt:
 createdAt:
