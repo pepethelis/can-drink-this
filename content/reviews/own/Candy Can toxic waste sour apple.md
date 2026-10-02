@@ -5,6 +5,7 @@ summary:
 status: to publish
 externalUrl:
 publishedAt:
+createdAt: 2026-10-01
 cover: "[[IMG_8430.jpeg]]"
 types:
   - fizzy

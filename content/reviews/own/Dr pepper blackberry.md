@@ -1,31 +1,31 @@
 ---
-status: prebuild
 aliases:
   - Dr pepper blackberry
+summary:
+status: prebuild
 externalUrl:
-brand: dr pepper
+publishedAt:
+createdAt:
+cover: "[[default.png]]"
 types:
   - fizzy
+brand: dr pepper
 taste:
   - blackberry
-publishedAt:
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[default.png]]"
-availability:
-summary:
 primaryColors:
   - violet
   - red
   - white
 manufacturer:
-caffeine: 11.55
 volume:
   - "0.33"
+caffeine: 11.55
 alco: 0
-createdAt:
+availability:
+favorite:
 ---
 **Dr pepper blackberry**. Офіційний смак - ожина
 
