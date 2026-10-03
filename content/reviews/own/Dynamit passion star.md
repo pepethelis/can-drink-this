@@ -5,11 +5,11 @@ aliases:
   - Динамі:т маракуйя-ананас-ваніль
   - Динаміт маракуйя-ананас-ваніль
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39245
+publishedAt: 2026-10-03
 createdAt: 2026-10-02
-cover: "[[default.png]]"
+cover: "[[IMG_8451.jpeg]]"
 types:
   - energy
 brand: dynamit

@@ -5,9 +5,9 @@ aliases:
   - Рево синє
   - Рево блакитне
 summary: ШОК, перше рево, від якого не хочеться ВЄДАТЬ
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39252
+publishedAt: 2026-10-03
 createdAt: 2026-09-23
 cover: "[[IMG_8259.jpeg]]"
 types:
