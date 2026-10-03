@@ -2,9 +2,9 @@
 aliases:
   - Cola vanilla
 summary: Таку б колу до коньяку вперемішку🤤
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39261
+publishedAt: 2026-10-03
 createdAt: 2026-09-25
 cover: "[[IMG_8307.jpeg]]"
 types:
