@@ -14,7 +14,6 @@
 - [[Borjomi energia green]] - 
 - [[Borjomi energia yellow]] - torba
 - [[Borjomi energia blue]] - 
-- [[Borjomi limonati citrus]] - silpo, torba
 
 ### best shot
 - [[Best shot mango coconut]]

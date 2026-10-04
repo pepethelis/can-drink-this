@@ -337,6 +337,7 @@ Hell ice coffee:
 - [[Crazy tiger]]
 - [[Tiger energy]]
 - [[X2 Ice Boost Energy]]
+- [[Tiger mango max|Tiger mango max]]
 - [[Dynamit passion star]] - білоруська банка
 
 --- 
@@ -423,6 +424,7 @@ Hell ice coffee:
 - [[Somersby peach peach]]
 - [[Pinkel cider melon|Pinkel cider melon]]
 - [[Mike’s hard drink pineapple|Mike’s hard drink pineapple]]
+- [[Taller|Taller]] - пиво
 
 ---
 

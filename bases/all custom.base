@@ -3,7 +3,7 @@ views:
     name: own
     filters:
       and:
-        - file.folder == "content/reviews/own"
+        - "!author.isEmpty()"
     order:
       - file.name
       - related
