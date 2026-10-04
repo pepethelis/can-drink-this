@@ -4,9 +4,12 @@ views:
     filters:
       and:
         - "!author.isEmpty()"
+    groupBy:
+      property: author
+      direction: ASC
     order:
       - file.name
-      - related
+      - author
     sort:
       - property: file.size
         direction: DESC
