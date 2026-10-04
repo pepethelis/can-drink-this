@@ -166,7 +166,7 @@ Battery juiced:
 - [[Monster assault|assault]]
 - [[content/reviews/own/Monster lewis hamilton|Lewis Hamilton/Top Speed]]
 - [[content/reviews/own/Monster lando norris|Lando Norris]]
-Monster juiced: 
+Monster juiced:
 - [[content/reviews/own/Monster juiced mango loco|mango loco]]
 - [[content/reviews/own/Monster juiced pacific punch|pacific punch]]
 - [[content/reviews/own/Monster juiced aussie style lemonade|aussie style lemonade]]
@@ -175,7 +175,7 @@ Monster juiced:
 - [[content/reviews/own/Monster juiced khaotic|khaotic]]
 - [[content/reviews/own/Monster juiced pipeline punch|pipeline punch]]
 - [[content/reviews/own/Monster juiced rio punch|rio punch]]
-Monster ultra: 
+Monster ultra:
 - [[content/reviews/own/Monster ultra white|white]]
 - [[content/reviews/own/Monster ultra black|black]]
 - [[Monster ultra watermelon|watermelon]]
@@ -187,10 +187,11 @@ Monster ultra:
 - [[Monster ultra vice guava|vice guava]]
 - [[content/reviews/own/Monster ultra violet|violet]]
 - [[content/reviews/own/Monster ultra strawberry dreams|strawberry dreams]]
-Monster nitro: 
+- [[Monster ultra vice guava|vice guava]]
+Monster nitro:
 - [[Monster nitro green|dry]]
 - [[content/reviews/own/Monster nitro cosmic peach|orange peach]]
-Monster rehab: 
+Monster rehab:
 - [[content/reviews/own/Monster rehab tea + lemonade|tea+lemonade]]
 
 
@@ -202,6 +203,7 @@ Redbull edition:
 - [[content/reviews/own/Redbull green edition|green edition]]
 - [[Redbull apricot edition|apricot edition]]
 - [[Redbull white edition|white edition]]
+- [[Redbull spring edition|spring edition]]
 - [[Redbull winter edition|winter edition]]
 - [[Redbull lilac edition zero|lilac edition zero]]
 - [[Redbull purple edition zero|purple edition zero]]
@@ -223,7 +225,7 @@ Redbull organics:
 - [[content/reviews/own/Burn white gummy bear|white gummy bear]]
 
 
-**Hell:** 
+**Hell:**
 - [[Hell classic|classic]]
 - [[content/reviews/own/Hell peach-lemon|peach-lemon]]
 - [[content/reviews/own/Hell goji berry|goji berry]]
@@ -231,15 +233,16 @@ Redbull organics:
 - [[Hell green apple|green apple]]
 - [[content/reviews/own/Hell strawberry-banana|strawberry-banana]]
 - [[Hell watermelon|watermelon]]
+- [[Hell melon-prickly pear|melon-prickly pear]]
 - [[content/reviews/own/Hell sparkler|sparkler]]
-Hell plus: 
+Hell plus:
 - [[Hell classic plus|Hell classic+]]
 - [[Hell focus plus|focus+]]
 - [[Hell multi plus|multi+]]
-Hell summer: 
+Hell summer:
 - [[Hell Summer Groovy Grapefruit|groovy grapefruit]]
 - [[content/reviews/own/Hell Summer Chillin’ Guanabana|chillin' guanabana-mango]]
-Hell spritz: 
+Hell spritz:
 - [[content/reviews/own/Hell Spritz Maracuja|maracuja]]
 - [[content/reviews/own/Hell Spritz Lime|lime]]
 Hell carnival:
@@ -317,7 +320,7 @@ Hell ice coffee:
 - [[B52 red|звичайний червоний]]
 - [[B52 blue|блакитний без цукру]]
 
-**NS (паль на нонстоп):** 
+**NS (росіянська паль на нонстоп):** 
 - [[content/reviews/own/NS original|original]]
 - [[NS breeze|breeze]]
 - [[content/reviews/own/NS bubblegum|bubblegum]]
@@ -334,6 +337,7 @@ Hell ice coffee:
 - [[Crazy tiger]]
 - [[Tiger energy]]
 - [[X2 Ice Boost Energy]]
+- [[Dynamit passion star]] - білоруська банка
 
 --- 
 
@@ -510,6 +514,7 @@ Hell ice coffee:
 
 **Пепсі:**
 - [[Pepsi крем-сода|крем-сода]]
+- [[Pepsi полуниця-вершки|полуниця-вершки]]
 
 
 **Доктор пеппер:**
@@ -555,6 +560,7 @@ Hell ice coffee:
 - [[Borjomi limonati pear|pear]]
 - [[Borjomi limonati mandarin|mandarin]]
 - [[Borjomi limonati tarkhun|tarkhun]]
+- [[Borjomi limonati citrus|citrus]]
 
 
 - [[Buvette Watermelon Water]]
