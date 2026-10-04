@@ -2,7 +2,7 @@
 aliases:
   - Monster ultra vice guava
 summary:
-status: to create
+status: to publish
 externalUrl:
 publishedAt:
 cover: "[[IMG_8570.jpeg]]"
