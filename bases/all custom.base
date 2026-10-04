@@ -3,16 +3,11 @@ views:
     name: own
     filters:
       and:
-        - "!author.isEmpty()"
-    groupBy:
-      property: author
-      direction: ASC
+        - file.folder == "content/reviews/own"
     order:
       - file.name
-      - author
-    sort:
-      - property: file.size
-        direction: DESC
+      - availability
+    sort: []
   - type: table
     name: subscribers
     filters:
