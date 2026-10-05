@@ -34,3 +34,9 @@ views:
         direction: ASC
     columnSize:
       note.taste: 205
+  - type: kanban
+    name: Подання
+    groupBy:
+      property: status
+      direction: ASC
+    image: note.cover
