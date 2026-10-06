@@ -35,8 +35,12 @@ views:
     columnSize:
       note.taste: 205
   - type: kanban
-    name: Подання
+    name: kanban
+    filters:
+      and:
+        - file.folder.startsWith("content/reviews")
     groupBy:
       property: status
       direction: ASC
     image: note.cover
+    imageAspectRatio: 1.05
