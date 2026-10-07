@@ -2,9 +2,9 @@
 aliases:
   - Hell melon-prickly pear
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39316
+publishedAt: 2026-10-07
 createdAt: 2026-09-30
 cover: "[[IMG_8419.jpeg]]"
 types:

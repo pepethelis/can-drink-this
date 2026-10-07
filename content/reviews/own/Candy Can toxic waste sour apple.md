@@ -2,9 +2,9 @@
 aliases:
   - Candy Can toxic waste sour apple
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39323
+publishedAt: 2026-10-07
 createdAt: 2026-10-01
 cover: "[[IMG_8430.jpeg]]"
 types:

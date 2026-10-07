@@ -2,7 +2,7 @@
 aliases:
   - Burn guava
   - Бьорн гуава
-status: to publish
+status: published
 externalUrl: https://t.me/kallection/27096
 publishedAt: 2025-03-19
 createdAt: 2025-03-19
@@ -30,7 +30,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/250-can-x6-burn-guava-ua-5061013963206
-updatedAt: 2026-10-04
+updatedAt: 2026-10-07
 ---
 **Burn guava**, або ж ще один бьорн жовтий
 
