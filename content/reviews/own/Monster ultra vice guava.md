@@ -2,9 +2,9 @@
 aliases:
   - Monster ultra vice guava
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39366
+publishedAt: 2026-10-10
 cover: "[[IMG_8570.jpeg]]"
 types:
   - energy

@@ -1,13 +1,13 @@
 ---
-status: to publish
+status: published
 tags:
   - package/ball
   - country/germany
-externalUrl:
+externalUrl: https://t.me/kallection/39375
 brand: x2
 taste:
   - beer
-publishedAt:
+publishedAt: 2026-10-10
 favorite:
 container:
   - can
@@ -65,7 +65,7 @@ createdAt: 2026-10-03
 
 Виготовлено під німецький ринок. Має дві титульні частини, оформлені англійською, а бічні інформаційні оформлені
 
-Доступність БАЛИ з 5 можливих
+Доступність 2 бали з 5 можливих
 
 Бляшанка від BALL cans
 
