@@ -33,6 +33,8 @@ volume:
   - "0.473"
 alco: 0
 createdAt:
+sponsor:
+  - olexander
 ---
 **Monster juiced strawberry lemonade**. Офіційний смак - ==СМАК==
 
@@ -69,3 +71,5 @@ createdAt:
 
 
 По висновку - ==ВИСНОВОК==
+
+Огляд вийшов завдяки спонсору Олександру, подякуйте йому
