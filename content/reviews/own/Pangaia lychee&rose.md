@@ -2,10 +2,10 @@
 aliases:
   - Pangaia lychee&rose
 summary:
-status: to create
+status: to publish
 externalUrl:
 publishedAt:
-createdAt:
+createdAt: 2026-10-21
 cover: "[[IMG_9043.jpeg]]"
 types:
   - alco
