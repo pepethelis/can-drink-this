@@ -1,8 +1,8 @@
 ---
-status: to publish
+status: published
 aliases:
   - Hell ice coffee slim vanilla
-externalUrl:
+externalUrl: https://t.me/kallection/39587
 brand: hell/coffee
 types:
   - coffee
@@ -10,7 +10,7 @@ types:
 taste:
   - vanilla
   - coffee
-publishedAt:
+publishedAt: 2026-10-24
 favorite:
 container:
   - can

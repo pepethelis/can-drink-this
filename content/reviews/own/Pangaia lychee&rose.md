@@ -2,9 +2,9 @@
 aliases:
   - Pangaia lychee&rose
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39594
+publishedAt: 2026-10-24
 createdAt: 2026-10-21
 cover: "[[IMG_9043.jpeg]]"
 types:
