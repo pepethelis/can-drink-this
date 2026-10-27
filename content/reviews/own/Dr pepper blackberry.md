@@ -2,11 +2,11 @@
 aliases:
   - Dr pepper blackberry
 summary:
-status: to create
+status: to publish
 externalUrl:
 publishedAt:
-createdAt:
-cover: "[[default.png]]"
+createdAt: 2026-10-25
+cover: "[[IMG_9135.jpeg]]"
 types:
   - fizzy
 brand: dr pepper
