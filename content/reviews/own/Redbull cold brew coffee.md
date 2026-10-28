@@ -24,7 +24,7 @@ summary:
 primaryColors:
   - brown
   - golden
-manufacturer:
+manufacturer: T. C. Pharmaceutical Industries
 caffeine: 32
 volume:
   - "0.25"
