@@ -29,7 +29,7 @@ caffeine: 32
 volume:
   - "0.25"
 alco: 0
-createdAt:
+createdAt: 2026-10-25
 ---
 **Redbull cold brew coffee**. Офіційний смак - кава
 
