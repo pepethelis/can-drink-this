@@ -25,8 +25,6 @@
 - [[Best shot blueberry]]
 
 ### alco
-- [[Pangaia lychee&rose]]
-- [[Pangaia strawberry&mint]]
 - [[Revo strong]]
 - [[Hike vibe lemon drop]] - atb
 - 10 alco pops igritto
