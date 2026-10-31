@@ -1,14 +1,14 @@
 ---
-status: to publish
+status: published
 aliases:
   - Monster juiced strawberry lemonade
-externalUrl:
+externalUrl: https://t.me/kallection/39742
 brand: monster/juiced
 types:
   - energy
 taste:
   - strawberry
-publishedAt:
+publishedAt: 2026-10-31
 favorite:
 container:
   - can
@@ -35,6 +35,7 @@ alco: 0
 createdAt: 2026-10-24
 sponsor:
   - olexander
+telegram_format: md
 ---
 **Monster juiced strawberry lemonade**. Офіційний смак - полуничний лимонад
 
@@ -58,7 +59,7 @@ sponsor:
 
 Кофеїну +-33мг/100мл (160мг на банку)
 
-==178кДж або ж 42ккал== /100мл
+42ккал (скіко кДж на наліпці не видно) /100мл
 
 Вуглеводів 10.8г, серед них цукрів 10.8г /100мл
 

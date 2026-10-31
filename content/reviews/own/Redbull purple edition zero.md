@@ -2,9 +2,9 @@
 aliases:
   - Redbull purple edition zero
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39748
+publishedAt: 2026-10-31
 cover: "[[IMG_9053.jpeg]]"
 types:
   - energy
