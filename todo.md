@@ -42,6 +42,7 @@
 - Erbe seaberry-ginger
 - Erbe raspberry-mint
 - Jaffa ice coffee cappuorange
+- xixo
 
 ### unavailable
 - [[Schöfferhofer pineapple]]
