@@ -1,33 +1,31 @@
 ---
-aliases:
-  - Borjomi energia red
-summary:
 status: prebuild
+aliases:
+  - Jett mango-orange
+  - Jett orange
 externalUrl:
-publishedAt:
-cover: "[[default.png]]"
+brand:
 types:
   - energy
-brand: borjomi/energia
 taste:
-  - cherry
-sweeteners:
+  - mango
+  - orange
+publishedAt:
+favorite:
 container:
   - can
-primaryColors:
-  - red
-  - white
-  - blue
-manufacturer: IDS Borjomi Beverages Co. N.V.
-volume:
-  - "0.24"
-caffeine: 30
-alco: 0
+sweeteners:
+cover: "[[default.png]]"
 availability:
-favorite:
-tags:
+summary:
+primaryColors:
+manufacturer:
+caffeine:
+volume:
+alco: 0
+createdAt:
 ---
-**Borjomi energia red**. Офіційний смак - ==СМАК==
+**Jett mango-orange**. Офіційний смак - ==СМАК==
 
 ==ОПИС ЗАПАХУ ЗАПАХУ==
 

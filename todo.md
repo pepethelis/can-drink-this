@@ -1,7 +1,7 @@
 ### monster
 - Monster ultra golden pineapple
 - Monster ultra rosa
-- [[Monster ultra red]]
+- Monster ultra red
 - [[Monster ultra blue hawaii]]
 - [[Monster juiced mixxd punch]]
 - [[Monster juiced ripper]]
@@ -10,10 +10,8 @@
 - [[Monster rehab peach tea]]
 
 ### borjomi
-- [[Borjomi energia red]] - torba
-- [[Borjomi energia green]] - 
-- [[Borjomi energia yellow]] - torba
-- [[Borjomi energia blue]] - 
+- [[Borjomi energia cherry]] - torba, silpo
+- [[Borjomi energia apple-feijoa]] - torba, silpo
 
 ### best shot
 - [[Best shot mango coconut]]
@@ -22,7 +20,6 @@
 - [[Best shot zero]] - torba
 - [[Best shot acai]] - torba
 - [[Best shot watermelon melon]]
-- [[Best shot blueberry]]
 
 ### alco
 - [[Revo strong]]
@@ -35,11 +32,8 @@
 ### others
 - WOGонь - wog
 - Jett white - torba
-- Jett green
-- Jett orange
 - Pitbull pink
 - Pitbull blue
-- [[Pitbull brown]]
 - [[Aquarte anti-stress]] - torba, silpo
 - [[Aquarte support]] - torba, silpo
 - [[Ever aid bubble tea melon pineapple]]

@@ -1,6 +1,7 @@
 ---
 aliases:
-  - Borjomi energia green
+  - Borjomi energia cherry
+  - Borjomi energia red
 summary:
 status: prebuild
 externalUrl:
@@ -10,13 +11,12 @@ types:
   - energy
 brand: borjomi/energia
 taste:
-  - apple
-  - feijoa
+  - cherry
 sweeteners:
 container:
   - can
 primaryColors:
-  - green
+  - red
   - white
   - blue
 manufacturer: IDS Borjomi Beverages Co. N.V.
@@ -28,7 +28,7 @@ availability:
 favorite:
 tags:
 ---
-**Borjomi energia green**. Офіційний смак - ==СМАК==
+**Borjomi energia cherry**. Офіційний смак - вишня
 
 ==ОПИС ЗАПАХУ ЗАПАХУ==
 
