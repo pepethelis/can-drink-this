@@ -17,8 +17,10 @@ cover: "[[default.png]]"
 availability:
 summary:
 primaryColors:
-manufacturer:
-caffeine:
+  - blue
+  - white
+manufacturer: IDS Borjomi Beverages Co. N.V.
+caffeine: 30
 volume:
   - "0.24"
 alco: 0
@@ -40,11 +42,9 @@ createdAt:
 
 Колір напою - ==КОЛІР==
 
-Об'єм ==0,5л==, ==існує також==
+Об'єм 0,24л, ==існує також==
 
 Кофеїну ==32мг==/100мл
-
-==Алкоголю==
 
 ==178кДж або ж 42ккал== /100мл
 
