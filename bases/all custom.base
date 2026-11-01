@@ -4,9 +4,11 @@ views:
     filters:
       and:
         - file.folder == "content/reviews/own"
+        - brand == "buevette"
     order:
       - file.name
       - availability
+      - primaryColors
     sort: []
   - type: table
     name: subscribers
