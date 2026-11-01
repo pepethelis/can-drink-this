@@ -13,7 +13,7 @@ taste:
   - apple
 sweeteners:
   - sugar
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - sugar syrup
   - juice/apple
 container:

@@ -17,7 +17,7 @@ taste:
   - orange
 sweeteners:
   - sugar
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - juice
 container:
   - can

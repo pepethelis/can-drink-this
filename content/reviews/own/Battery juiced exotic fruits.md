@@ -14,7 +14,7 @@ taste:
   - exotic
 sweeteners:
   - sugar
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - juice/mango
   - juice/passion fruit
   - juice/orange

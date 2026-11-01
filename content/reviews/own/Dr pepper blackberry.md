@@ -13,6 +13,7 @@ brand: dr pepper
 taste:
   - blackberry
 sweeteners:
+  - syrup/corn
 container:
   - can
 primaryColors:
@@ -24,7 +25,7 @@ volume:
   - "0.33"
 caffeine: 11.55
 alco: 0
-availability:
+availability: 3.5
 favorite:
 ---
 **Dr pepper blackberry**. Офіційний смак - ожина

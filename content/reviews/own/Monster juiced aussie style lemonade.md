@@ -14,7 +14,7 @@ taste:
 sweeteners:
   - sugar
   - juice/lemon
-  - glucose syrup
+  - syrup/glucose
   - sucralose
 container:
   - can

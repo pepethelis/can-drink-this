@@ -12,7 +12,7 @@ brand: garage/zero
 taste:
   - grapefruit
 sweeteners:
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - extract/acacia
 container:
   - can

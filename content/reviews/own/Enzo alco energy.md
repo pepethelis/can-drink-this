@@ -14,7 +14,7 @@ brand: enzo
 taste:
   - ORIGINAL
 sweeteners:
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - extract/grape skin
   - extract/damiana
 container:

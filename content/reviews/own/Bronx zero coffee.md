@@ -1,3 +1,8 @@
+---
+sweeteners:
+  - sugar
+  - syrup/glucose-fructose
+---
 ﻿---
 status: published
 tags:

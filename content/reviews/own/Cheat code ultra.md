@@ -15,7 +15,7 @@ taste:
   - lemon
 sweeteners:
   - sugar
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - extract/apple
   - extract/damiana
   - extract/guarana

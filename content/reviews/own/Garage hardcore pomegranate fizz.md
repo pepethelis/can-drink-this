@@ -14,7 +14,7 @@ taste:
   - pomegranate
 sweeteners:
   - barley malt
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - juice/black carrot
 container:
   - glass

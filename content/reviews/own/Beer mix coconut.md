@@ -14,7 +14,7 @@ brand: beer mix
 taste:
   - coconut
 sweeteners:
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - sugar
   - barley malt
 container:

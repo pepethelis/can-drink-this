@@ -15,7 +15,7 @@ taste:
   - kivi
   - apple
 sweeteners:
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - sugar
 container:
   - can

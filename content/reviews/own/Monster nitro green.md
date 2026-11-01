@@ -16,7 +16,7 @@ taste:
   - citrus
 sweeteners:
   - sugar
-  - glucose syrup
+  - syrup/glucose
   - maltodextrin
   - sucralose
   - inositol

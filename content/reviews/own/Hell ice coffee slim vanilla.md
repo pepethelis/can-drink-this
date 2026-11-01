@@ -15,7 +15,7 @@ taste:
   - vanilla
   - coffee
 sweeteners:
-  - кукурудзяний декстрин
+  - dextrin/corn
 container:
   - can
 primaryColors:

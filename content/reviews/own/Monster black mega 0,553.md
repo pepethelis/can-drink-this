@@ -15,7 +15,7 @@ taste:
   - ginseng
 sweeteners:
   - sugar
-  - glucose syrup
+  - syrup/glucose
   - sucralose
   - maltodextrin
   - inositol

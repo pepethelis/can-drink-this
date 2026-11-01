@@ -14,7 +14,7 @@ taste:
   - cola
 sweeteners:
   - sugar
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - maltodextrin
 container:
   - can

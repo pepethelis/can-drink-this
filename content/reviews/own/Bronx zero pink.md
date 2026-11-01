@@ -1,3 +1,9 @@
+---
+sweeteners:
+  - sugar
+  - syrup/glucose-fructose
+  - juice
+---
 ﻿---
 status: published
 tags:

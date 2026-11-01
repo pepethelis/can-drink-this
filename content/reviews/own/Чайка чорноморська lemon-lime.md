@@ -15,7 +15,7 @@ taste:
   - lime
 sweeteners:
   - barley malt
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
 container:
   - can
 primaryColors:

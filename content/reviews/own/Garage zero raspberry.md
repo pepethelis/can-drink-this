@@ -12,7 +12,7 @@ brand: garage/zero
 taste:
   - raspberry
 sweeteners:
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - juice/black carrot
 container:
   - can

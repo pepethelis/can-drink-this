@@ -4,11 +4,10 @@ views:
     filters:
       and:
         - file.folder == "content/reviews/own"
-        - brand == "buevette"
+        - sweeteners.containsAny("sugar syrup")
     order:
       - file.name
-      - availability
-      - primaryColors
+      - sweeteners
     sort: []
   - type: table
     name: subscribers

@@ -56,7 +56,6 @@ views:
         - status == "prebuild"
     order:
       - file.name
-      - related
   - type: table
     name: Published
     filters:

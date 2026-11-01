@@ -15,7 +15,7 @@ taste:
   - cherry
 sweeteners:
   - sugar
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - extract/apple
   - extract/guarana
   - extract/ashwagandha

@@ -14,7 +14,7 @@ taste:
   - pineapple
 sweeteners:
   - barley malt
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - sugar
   - juice/lemon
 container:

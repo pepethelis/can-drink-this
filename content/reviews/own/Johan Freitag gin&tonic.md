@@ -13,7 +13,7 @@ taste:
   - gin
   - tonic
 sweeteners:
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
 container:
   - can
 primaryColors:

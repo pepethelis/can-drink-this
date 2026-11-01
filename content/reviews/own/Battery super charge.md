@@ -14,7 +14,7 @@ brand: battery
 taste:
   - ORIGINAL
 sweeteners:
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - maltodextrin
 container:
   - can

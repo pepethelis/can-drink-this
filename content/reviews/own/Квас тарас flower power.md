@@ -14,7 +14,7 @@ taste:
   - elderflower
 sweeteners:
   - sugar
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - extract/malt
 container:
   - can

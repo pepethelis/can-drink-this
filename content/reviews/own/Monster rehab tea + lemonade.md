@@ -15,7 +15,7 @@ taste:
   - lemonade
 sweeteners:
   - juice/lemon
-  - glucose syrup
+  - syrup/glucose
   - sucralose
   - acesulfame
   - coconut water

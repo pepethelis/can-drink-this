@@ -15,7 +15,7 @@ taste:
   - blueberry
 sweeteners:
   - sugar
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - extract/damiana
   - extract/guarana
 container:

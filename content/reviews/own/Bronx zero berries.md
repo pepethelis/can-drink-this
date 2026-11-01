@@ -13,7 +13,7 @@ brand: bronx/zero
 taste:
   - berries
 sweeteners:
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - sugar
   - extract/guarana
   - extract/damiana

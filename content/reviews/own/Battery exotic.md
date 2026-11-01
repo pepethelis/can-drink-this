@@ -15,7 +15,7 @@ taste:
   - guava
 sweeteners:
   - sugar
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - extract/acacia
 container:
   - can

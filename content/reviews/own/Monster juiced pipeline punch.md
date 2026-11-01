@@ -21,7 +21,7 @@ sweeteners:
   - juice/pineapple
   - juice/passion fruit
   - sugar
-  - glucose syrup
+  - syrup/glucose
   - maltodextrin
   - sucralose
   - inositol

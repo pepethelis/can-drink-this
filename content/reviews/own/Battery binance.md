@@ -14,7 +14,7 @@ taste:
   - CLASSIC
 sweeteners:
   - sugar
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
 container:
   - can
 primaryColors:

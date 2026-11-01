@@ -15,7 +15,7 @@ taste:
 sweeteners:
   - sugar
   - juice
-  - glucose syrup
+  - syrup/glucose
   - maltodextrin
   - sucralose
 container:

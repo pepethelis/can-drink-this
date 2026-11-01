@@ -12,7 +12,7 @@ brand: hike/vibe
 taste:
   - mojito
 sweeteners:
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - sugar
 container:
   - can

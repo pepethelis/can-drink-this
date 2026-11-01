@@ -13,7 +13,7 @@ taste:
   - peach
 sweeteners:
   - sugar
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - juice/apple
   - juice/lime
   - juice/black carrot

@@ -12,7 +12,7 @@ brand: fratelli
 taste:
   - lemon
 sweeteners:
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
 container:
   - can
 primaryColors:

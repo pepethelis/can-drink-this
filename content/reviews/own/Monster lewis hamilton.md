@@ -16,7 +16,7 @@ taste:
   - nectarine
 sweeteners:
   - sugar
-  - glucose syrup
+  - syrup/glucose
   - sucralose
   - erythritol
 container:

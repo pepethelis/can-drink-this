@@ -16,7 +16,7 @@ taste:
   - pineapple
 sweeteners:
   - sugar
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - juice/pineapple
   - juice/apple
   - juice/strawberry

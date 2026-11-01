@@ -13,7 +13,7 @@ taste:
   - mint
   - pineberry
 sweeteners:
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - extract/grape
 container:
   - can

@@ -12,7 +12,7 @@ brand: garage
 taste:
   - mandarin
 sweeteners:
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - extract/malt
 container:
   - plastic

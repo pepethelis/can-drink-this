@@ -15,7 +15,7 @@ taste:
   - lime
 sweeteners:
   - sugar
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - juice/black carrot
 container:
   - can

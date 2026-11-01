@@ -15,7 +15,7 @@ brand: battery
 taste:
   - raspberry/blue
 sweeteners:
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
   - sugar
   - maltodextrin
   - extract/guarana

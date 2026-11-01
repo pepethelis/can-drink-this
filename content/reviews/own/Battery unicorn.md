@@ -14,7 +14,7 @@ taste:
   - cotton candy
 sweeteners:
   - sugar
-  - glucose-fructose syrup
+  - syrup/glucose-fructose
 container:
   - can
 primaryColors:
