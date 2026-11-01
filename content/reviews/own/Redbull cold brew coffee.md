@@ -1,35 +1,35 @@
 ---
-status: to publish
 aliases:
   - Redbull cold brew coffee
+summary:
+status: to publish
 externalUrl:
-brand: redbull
+publishedAt:
+createdAt: 2026-10-25
+cover: "[[IMG_9155.jpeg]]"
 types:
   - energy
   - coffee
+brand: redbull
 taste:
   - coffee
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - inositol
   - sucralose
   - acesulfame
-cover: "[[IMG_9155.jpeg]]"
-availability: 2
-summary:
+container:
+  - can
 primaryColors:
   - brown
   - golden
 manufacturer: T. C. Pharmaceutical Industries
-caffeine: 32
 volume:
   - "0.25"
+caffeine: 32
 alco: 0
-createdAt: 2026-10-25
+availability: 2
+favorite:
 ---
 **Redbull cold brew coffee**. Офіційний смак - кава
 

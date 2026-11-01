@@ -5,6 +5,7 @@ summary:
 status: to publish
 externalUrl:
 publishedAt:
+createdAt: 2026-11-01
 cover: "[[IMG_9420.jpeg]]"
 types:
   - energy
@@ -33,7 +34,6 @@ related:
 tags:
   - package/ball
   - country/germany
-createdAt: 2026-11-01
 ---
 **Redbull winter edition**. Офіційний смак - яблуко фуджі і імбир
 

@@ -27,6 +27,8 @@ alco: 0
 availability:
 favorite:
 tags:
+listexUrls:
+  - https://listex.info/uk/product/napiy-ba-energiya-vid-borzhomi-024-l-zhb-zi-smakom-vishni-gaz-sok-h-12-pl-ua-4860019003647
 ---
 **Borjomi energia cherry**. Офіційний смак - вишня
 

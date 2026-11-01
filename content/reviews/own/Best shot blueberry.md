@@ -1,34 +1,34 @@
 ---
-status: to publish
 aliases:
   - Best shot blueberry
   - Best shot blue
+summary:
+status: to publish
 externalUrl:
-brand: best shot
+publishedAt:
+createdAt: 2026-10-31
+cover: "[[IMG_9315.jpeg]]"
 types:
   - energy
+brand: best shot
 taste:
   - blueberry
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - dextrose
-cover: "[[IMG_9315.jpeg]]"
-availability: 4
-summary:
+container:
+  - can
 primaryColors:
   - blue
   - black
   - white
 manufacturer: ПБК «Радомишль»
-caffeine: 30
 volume:
   - "0.25"
+caffeine: 30
 alco: 0
-createdAt: 2026-10-31
+availability: 4
+favorite:
 ---
 **Best shot blueberry**. Офіційний смак - лохина
 

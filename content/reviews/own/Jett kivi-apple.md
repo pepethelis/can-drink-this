@@ -1,34 +1,34 @@
 ---
-status: prebuild
 aliases:
   - Jett kivi-apple
   - Jett green
+summary:
+status: prebuild
 externalUrl:
-brand: jett
+publishedAt:
+createdAt:
+cover: "[[default.png]]"
 types:
   - energy
+brand: jett
 taste:
   - kivi
   - apple
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - glucose-fructose syrup
   - sugar
-cover: "[[default.png]]"
-availability:
-summary:
+container:
+  - can
 primaryColors:
   - orange
   - red
 manufacturer:
-caffeine: 32
 volume:
   - "0.33"
+caffeine: 32
 alco: 0
-createdAt:
+availability:
+favorite:
 ---
 **Jett kivi-apple**, також відомий як джет зелений. Офіційний смак - яблуко-ківі
 

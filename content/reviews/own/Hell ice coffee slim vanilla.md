@@ -1,32 +1,32 @@
 ---
-status: published
 aliases:
   - Hell ice coffee slim vanilla
+summary: кофіккк🤤
+status: published
 externalUrl: https://t.me/kallection/39587
-brand: hell/coffee
+publishedAt: 2026-10-24
+createdAt: 2026-10-19
+cover: "[[IMG_9021.jpeg]]"
 types:
   - coffee
   - energy
+brand: hell/coffee
 taste:
   - vanilla
   - coffee
-publishedAt: 2026-10-24
-favorite:
-container:
-  - can
 sweeteners:
   - кукурудзяний декстрин
-cover: "[[IMG_9021.jpeg]]"
-availability: 3.5
-summary: кофіккк🤤
+container:
+  - can
 primaryColors:
   - blue
 manufacturer: hell energy
-caffeine: 40
 volume:
   - "0.25"
+caffeine: 40
 alco: 0
-createdAt: 2026-10-19
+availability: 3.5
+favorite:
 ---
 **Hell ice coffee slim vanilla**. Офіційний смак - кава з ваніллю
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Borjomi energia apple-feijoa
+  - Borjomi energia green
 summary:
 status: prebuild
 externalUrl:
@@ -27,6 +28,8 @@ alco: 0
 availability:
 favorite:
 tags:
+listexUrls:
+  - https://listex.info/uk/product/napiy-ba-energiya-vid-borzhomi-024-l-zhb-zi-smakom-yabluka-ta-feyhoa-gaz-sok-h-12-pl-ua-4860019003722
 ---
 **Borjomi energia apple-feijoa**. Офіційний смак - яблоко-фейхоа
 

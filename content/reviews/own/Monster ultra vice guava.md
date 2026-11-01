@@ -5,6 +5,7 @@ summary:
 status: published
 externalUrl: https://t.me/kallection/39366
 publishedAt: 2026-10-10
+createdAt: 2026-10-04
 cover: "[[IMG_8570.jpeg]]"
 types:
   - energy
@@ -35,7 +36,6 @@ related:
 tags:
   - package/canpack
   - country/poland
-createdAt: 2026-10-04
 ---
 **Monster ultra vice guava**. Офіційний смак - гуава
 

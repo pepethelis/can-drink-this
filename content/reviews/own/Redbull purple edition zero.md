@@ -5,6 +5,7 @@ summary:
 status: published
 externalUrl: https://t.me/kallection/39748
 publishedAt: 2026-10-31
+createdAt: 2026-10-22
 cover: "[[IMG_9053.jpeg]]"
 types:
   - energy
@@ -27,14 +28,13 @@ sponsor:
   - makmed1337
 availability: 3
 favorite:
-tags:
-  - package/ball
 related:
   - "[[Monster ultra blue|Monster ultra blue]]"
   - "[[Redbull white edition|Redbull white edition]]"
   - "[[content/reviews/own/Воля синя|Воля синя]]"
   - "[[Effect habibi berry|Effect habibi berry]]"
-createdAt: 2026-10-22
+tags:
+  - package/ball
 ---
 **Redbull purple edition zero**. Офіційний смак - асаї
 

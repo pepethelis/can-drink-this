@@ -2,18 +2,18 @@
 author: decepti_on
 aliases:
   - Monster ultra red
-publishedAt: 2026-10-13
+summary: Огляд на червоний монстер ультра ред журавлина малина
 status: published
+publishedAt: 2026-10-13
+cover:
+types:
+  - energy
 brand: monster/ultra
+taste:
+  - berries
 container:
   - can
 volume:
-summary: Огляд на червоний монстер ультра ред журавлина малина
-taste:
-  - berries
-types:
-  - energy
-cover:
 externalUrl: https://t.me/sonechkin_rzekich/34150
 contentTgPosts:
   - https://t.me/sonechkin_rzekich/34148

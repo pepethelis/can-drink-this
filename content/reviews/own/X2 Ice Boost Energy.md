@@ -1,38 +1,38 @@
 ---
-status: published
-tags:
-  - package/ball
-  - country/germany
-externalUrl: https://t.me/kallection/39375
-brand: x2
-taste:
-  - beer
-publishedAt: 2026-10-10
-favorite:
-container:
-  - can
-sweeteners:
-  - barley malt
-  - sugar
-cover: "[[IMG_8500.jpeg]]"
-availability: 2
-summary:
-sponsor:
-  - gdgood
-alco: 5
-volume:
-  - "0.5"
-primaryColors:
-  - blue
-manufacturer: bitburger graugruppe
 aliases:
   - X2 Ice Boost Energy
+summary:
+status: published
+externalUrl: https://t.me/kallection/39375
+publishedAt: 2026-10-10
+createdAt: 2026-10-03
+cover: "[[IMG_8500.jpeg]]"
+gallery:
+  - "[[IMG_8497.jpeg]]"
 types:
   - alco
   - energy
-gallery:
-  - "[[IMG_8497.jpeg]]"
-createdAt: 2026-10-03
+brand: x2
+taste:
+  - beer
+sweeteners:
+  - barley malt
+  - sugar
+container:
+  - can
+primaryColors:
+  - blue
+manufacturer: bitburger graugruppe
+volume:
+  - "0.5"
+alco: 5
+sponsor:
+  - gdgood
+availability: 2
+favorite:
+tags:
+  - package/ball
+  - country/germany
 ---
 Бірмікс пиво + енергос **X2 Ice Boost Energy**. Офіційний смак - мікс пива
 

@@ -5,6 +5,7 @@ aliases:
 status: published
 externalUrl: https://t.me/kallection/27096
 publishedAt: 2025-03-19
+updatedAt: 2026-10-07
 createdAt: 2025-03-19
 cover: "[[IMG_9094.jpg]]"
 types:
@@ -30,7 +31,6 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/250-can-x6-burn-guava-ua-5061013963206
-updatedAt: 2026-10-07
 ---
 **Burn guava**, або ж ще один бьорн жовтий
 

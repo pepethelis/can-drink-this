@@ -1,32 +1,35 @@
 ---
-status: to enrich
 aliases:
   - Borjomi energia original
   - Borjomi energia blue
+summary:
+status: to publish
 externalUrl:
-brand: borjomi/energia
+publishedAt:
+createdAt: 2026-11-01
+cover: "[[IMG_9371.jpeg]]"
 types:
   - energy
+brand: borjomi/energia
 taste:
   - tutti-frutti
   - ORIGINAL
-publishedAt:
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[IMG_9371.jpeg]]"
-availability:
-summary:
 primaryColors:
   - blue
   - white
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine: 30
 volume:
   - "0.24"
+caffeine: 30
 alco: 0
-createdAt: 2026-11-01
+availability: 3.5
+favorite:
+availability_new: "3"
+listexUrls:
+  - https://listex.info/uk/product/napiy-ba-energiya-vid-borzhomi-024-l-zhb-originalniy-gazsok-h-12-pl-ua-4860019003623
 ---
 **Borjomi energia original**. Офіційний смак - тутті-фрутті
 
@@ -37,7 +40,7 @@ createdAt: 2026-11-01
 Смак насичк, без провалів чи перекосів. Баланс ближче до кислого, ніж до солодкого. Гази є, але не гострі. За цим параметром трохи нагадує азотні бульбашки, але все ж це різні речі 
 
 
-==Дизайн==
+Дизайн явно не дешевий, має свій власний характер і не надто сильно перетинається з дизайном [[Borjomi|води]] чи [[Borjomi limonati pear|лимонаду]]. Точніше зовсім не перетинається. Виглядає солідно і серйозно, має гарні шрифти і якісний друк. Але як на мене трохи перевантажений дизайн. Можна було б позбутися тих двох груп по три пункти з іконками, а ще надпису знизу про наукове підтвердження. Гірше б точно не стало
 
 Кольорове кодування в лінійці наявне, є чітке розрізнення по кольорах. Наразі є блакитний, жовтий, зелений та червоний. Загалом все зроблено гарно, за такого дизайн-коду можна ввести ще білька смаків спокійно. Наприклад рожевий чи фіолетовий
 
@@ -57,7 +60,7 @@ createdAt: 2026-11-01
 Підсолоджувач: яблучний сік, лимонний сік
 
 
-Імпортовано силами ТОВ "СТВ ЦЕНТР". Виготовлено "IDS Borjomi Beverages Co. N.V." на території боржомського муніципалітету грузії. Лицьова частина повністю англійською, а інформаційна  грузинською та українською
+Імпортовано силами ТОВ "СТВ ЦЕНТР". Виготовлено "IDS Borjomi Beverages Co. N.V." на території боржомського муніципалітету грузії. Лицьова частина повністю англійською, а інформаційна  повністю українською
 
 Доступність 3,5 бали з 5 можливих за старою системою оцінювання і 3/5 за новою
 

@@ -1,34 +1,34 @@
 ---
-status: prebuild
 aliases:
   - Jett mango-orange
   - Jett orange
+summary:
+status: prebuild
 externalUrl:
-brand:
+publishedAt:
+createdAt:
+cover: "[[default.png]]"
 types:
   - energy
+brand:
 taste:
   - mango
   - orange
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - glucose-fructose syrup
   - sugar
-cover: "[[default.png]]"
-availability:
-summary:
+container:
+  - can
 primaryColors:
   - orange
   - red
 manufacturer: оболонь
-caffeine: 30
 volume:
   - "0.33"
+caffeine: 30
 alco: 0
-createdAt:
+availability:
+favorite:
 ---
 **Jett mango-orange**, також відомий як джет помаранчевий. Офіційний смак - манго-апельсин
 

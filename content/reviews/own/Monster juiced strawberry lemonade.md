@@ -1,17 +1,17 @@
 ---
-status: published
 aliases:
   - Monster juiced strawberry lemonade
+summary:
+status: published
 externalUrl: https://t.me/kallection/39742
-brand: monster/juiced
+publishedAt: 2026-10-31
+createdAt: 2026-10-24
+cover: "[[IMG_9095.jpeg]]"
 types:
   - energy
+brand: monster/juiced
 taste:
   - strawberry
-publishedAt: 2026-10-31
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
   - glucose
@@ -20,21 +20,21 @@ sweeteners:
   - sucralose
   - inositol
   - maltodextrin
-cover: "[[IMG_9095.jpeg]]"
-availability: 3
-summary:
+container:
+  - can
 primaryColors:
   - red
   - blue
   - white
 manufacturer: monster energy limited
-caffeine: 33
 volume:
   - "0.473"
+caffeine: 33
 alco: 0
-createdAt: 2026-10-24
 sponsor:
   - olexander
+availability: 3
+favorite:
 telegram_format: md
 ---
 **Monster juiced strawberry lemonade**. Офіційний смак - полуничний лимонад

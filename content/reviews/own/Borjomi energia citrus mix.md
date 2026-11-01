@@ -1,32 +1,34 @@
 ---
-status: prebuild
 aliases:
   - Borjomi energia citrus mix
   - Borjomi energia yellow
+summary:
+status: prebuild
 externalUrl:
-brand: borjomi/energia
+publishedAt:
+createdAt:
+cover: "[[default.png]]"
 types:
   - energy
+brand: borjomi/energia
 taste:
   - citrus
-publishedAt:
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[default.png]]"
-availability:
-summary:
 primaryColors:
   - yellow
   - white
   - blue
 manufacturer: IDS Borjomi Beverages Co. N.V.
-caffeine: 30
 volume:
   - "0.24"
+caffeine: 30
 alco: 0
-createdAt:
+availability:
+favorite:
+listexUrls:
+  - https://listex.info/uk/product/napiy-ba-energiya-vid-borzhomi-024-l-zhb-zi-smakom-citrusovih-gaz-sok-h-12-pl-ua-4860019003685
 ---
 **Borjomi energia citrus mix**. Офіційний смак - ==СМАК==
 

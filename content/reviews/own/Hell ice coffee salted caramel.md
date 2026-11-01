@@ -1,29 +1,29 @@
 ---
-status: prebuild
 aliases:
   - Hell ice coffee salted caramel
+summary:
+status: prebuild
 externalUrl:
-brand: hell/coffee
+publishedAt:
+createdAt:
+cover: "[[default.png]]"
 types:
   - energy
   - coffee
+brand: hell/coffee
 taste:
   - caramel/salted
-publishedAt:
-favorite:
+sweeteners:
 container:
   - can
-sweeteners:
-cover: "[[default.png]]"
-availability:
-summary:
 primaryColors:
 manufacturer: hell energy
-caffeine: 40
 volume:
   - "0.25"
+caffeine: 40
 alco: 0
-createdAt:
+availability:
+favorite:
 ---
 **Hell ice coffee salted caramel**. Офіційний смак - кава солона карамель
 

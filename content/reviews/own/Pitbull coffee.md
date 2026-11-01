@@ -1,35 +1,35 @@
 ---
-status: to publish
 aliases:
   - Pitbull coffee
   - Pitbull brown
   - Пітбуль кава
   - Пітбуль коричневий
+summary:
+status: to publish
 externalUrl:
-brand: pitbull
+publishedAt:
+createdAt: 2026-10-25
+cover: "[[IMG_9130.jpeg]]"
 types:
   - energy
+brand: pitbull
 taste:
   - coffee
-publishedAt:
-favorite:
-container:
-  - can
 sweeteners:
   - sugar
-cover: "[[IMG_9130.jpeg]]"
-availability: 5
-summary:
+container:
+  - can
 primaryColors:
   - brown
   - black
   - white
 manufacturer: new products
-caffeine: 32
 volume:
   - "0.25"
+caffeine: 32
 alco: 0
-createdAt: 2026-10-25
+availability: 5
+favorite:
 ---
 **Pitbull coffee**. Офіційний смак - кава
 
