@@ -40,6 +40,7 @@ related:
 tags:
 listexUrls:
   - https://listex.info/product/napiy-bezalkogolniy-silnogazovaniy-na-aromatizatorah-bezkaloriyniy-pepsi-krem-soda-z-pidsolodzhuvachami-seriya-treats-tm-pepsi-033-l-zbsleek-rumuniya-ua-4823063131308
+availability_new: 4
 ---
 **Pepsi крем-сода**. Офіційний смак - власне крем-сода
 

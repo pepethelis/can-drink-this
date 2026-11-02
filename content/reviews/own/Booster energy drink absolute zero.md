@@ -30,6 +30,7 @@ availability: 2
 tags:
   - package/amp
   - country/germany
+availability_new: 1
 ---
 **Booster energy drink absolute zero**. Офіційний смак - не вказано
 

@@ -30,6 +30,7 @@ availability: 3
 favorite:
 listexUrls:
   - https://listex.info/uk/product/pivo-svitle-taller-taller-ua-4820034927618
+availability_new: 3
 ---
 **Taller**, пиво світле. Офіційний смак - "Original Lager" lmao)
 

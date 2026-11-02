@@ -28,6 +28,7 @@ availability: 4
 favorite:
 listexUrls:
   - https://listex.info/product/pivo-spec-seth-and-rileys-garage-hardcore-pomegranate-fizz-zi-smakom-granatu-pl044l-ua-4820250945113
+availability_new: 3
 ---
 **Garage hardcore pomegranate fizz**. Офіційний смак - гранатовий
 

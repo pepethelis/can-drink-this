@@ -30,6 +30,7 @@ availability: 2
 tags:
   - package/amp
   - country/germany
+availability_new: 1
 ---
 **The Real Cola by BOOSTER**. Офіційний смак - кола
 

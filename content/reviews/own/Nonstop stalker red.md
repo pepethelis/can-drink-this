@@ -34,6 +34,7 @@ tags:
 listexUrls:
   - https://listex.info/uk/product/non-stop-stalker-red-napiy-bezalkogolniy-energetichniy-silnogazovaniy-05-l-ua-4820252126336
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-stalker-red-025l-ua-4820252126343
+availability_new: 4
 ---
 **Nonstop stalker red**. Офіційний смак не вказано, але згідно сайту це вишня-ром з нотками ананасу
 

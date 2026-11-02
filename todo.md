@@ -43,6 +43,7 @@
 - Erbe raspberry-mint
 - Jaffa ice coffee cappuorange
 - xixo
+- garage zero pomegranate
 
 ### unavailable
 - [[Schöfferhofer pineapple]]

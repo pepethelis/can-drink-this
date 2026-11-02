@@ -30,6 +30,7 @@ favorite:
 tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-revo-strong-05-l-10-ua-4820252126527
+availability_new: 3
 ---
 **Revo strong**. Офіційний смак - ==СМАК==
 

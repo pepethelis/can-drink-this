@@ -29,6 +29,7 @@ alco: 0
 availability: 3.5
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-revo-enerdzhi-025l-ua-4820252126312
+availability_new: 3
 ---
 **Revo energy**. Офіційний смак - «смак рева»😳
 

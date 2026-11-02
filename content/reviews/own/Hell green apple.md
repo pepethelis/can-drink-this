@@ -31,6 +31,7 @@ tags:
   - package/quality
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-gazovaniy-hell-green-apple-500-ml-ua-5999571054732
+availability_new: 3
 ---
 **Hell green apple**. Офіційний смак - зелене яблуко
 

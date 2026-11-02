@@ -35,6 +35,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/sheyk-kokteyl-porn-star-napiy-slaboalkogolniy-silnogazovaniy-05l-ua-4820252124448
+availability_new: 3
 ---
 **Shake pornstar червоний**. Офіційний смак - має бути якийсь відомий коктейль, але ми знаємо що там зазвичай хімозна параша
 

@@ -32,6 +32,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/napiy-energ-frugo-watermelonstrawberry-gaz-ba-zb-ua-5900552087908
+availability_new: 2
 ---
 **Frugo watermelon strawberry**. Офіційний смак - кавун та полуниця
 
