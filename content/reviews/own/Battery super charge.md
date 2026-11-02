@@ -32,6 +32,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-battery-super-charge-banka-048l-ua-4820250945076
+availability_new: 4
 ---
 **Battery super charge**. Офіційний смак не зазначено
 

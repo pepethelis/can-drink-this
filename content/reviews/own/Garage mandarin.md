@@ -27,6 +27,7 @@ availability: 5
 tags:
 listexUrls:
   - https://listex.info/uk/product/pivo-specialne-pasterizovane-seth-and-rileys-garage-taste-mandarin-pl-044l-ua-4820250942921
+availability_new: 4
 ---
 **Garage Mandarin**🍊
 

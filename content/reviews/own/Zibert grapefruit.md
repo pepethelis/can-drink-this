@@ -36,6 +36,7 @@ related:
 tags:
 listexUrls:
   - https://listex.info/uk/product/pivo-bezalkogolne-zibert-grapefruit-05-zb-alk-00-ua-4820193035971
+availability_new: 4
 ---
 Радлер **Zibert grapefruit**. Офіційний смак - грейпфрут
 

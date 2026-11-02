@@ -37,6 +37,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/product/napiy-bezalkogolniy-sokovmisniy-silnogazovaniy-sheyk-kokteyl-hugo-330ml-ua-4820252120150
+availability_new: 4
 ---
 **Shake zero hugo**. Офіційний смак не вказано(не впевнений що ото маленьким шрифтом рахується)
 

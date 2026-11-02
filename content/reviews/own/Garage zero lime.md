@@ -27,6 +27,7 @@ availability: 4
 tags:
 listexUrls:
   - https://listex.info/product/pivo-ba-spec-sethrileys-garage-fun-zero-0-taste-lime-zb-05l-ua-4820250941894
+availability_new: 4
 ---
 **Garage fun zero**, зелений. Офіційний смак - **lime**
 
