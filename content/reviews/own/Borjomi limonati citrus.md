@@ -32,6 +32,7 @@ alco: 0
 availability: 4
 favorite:
 tags:
+availability_new: 4
 ---
 **Borjomi limonati citrus**. Офіційний смак - цитрус (або лимонний судячи з дизайну)
 

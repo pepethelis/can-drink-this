@@ -31,6 +31,7 @@ tags:
   - package/amp
 listexUrls:
   - https://listex.info/uk/product/napiy-molochniy-z-kavoyu-ayspresso-latte-sterilizovaniy-250mlx12-ua-8711000710227
+availability_new: 4
 ---
 **Jacobs ice presso latte**
 

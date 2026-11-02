@@ -34,6 +34,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-battery-electric-smak-sinya-malina-ua-4820250945014
+availability_new: 4
 ---
 **Battery electric**. Офіційний смак - "синя" малина
 

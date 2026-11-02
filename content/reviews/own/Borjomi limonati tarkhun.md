@@ -31,6 +31,7 @@ alco: 0
 availability: 4
 favorite:
 tags:
+availability_new: 4
 ---
 **Borjomi limonati tarkhun**. Офіційний смак - тархун
 

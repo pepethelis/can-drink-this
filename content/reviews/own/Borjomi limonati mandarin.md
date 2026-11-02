@@ -32,6 +32,7 @@ alco: 0
 availability: 5
 favorite:
 tags:
+availability_new: 4
 ---
 **Borjomi limonati mandarin**. Офіційний смак - мандарин
 

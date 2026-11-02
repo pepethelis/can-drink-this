@@ -26,6 +26,7 @@ caffeine: 0
 alco: 0
 availability: 4
 favorite:
+availability_new: 4
 ---
 Вода природна мінеральна донасичена газом, біокарбонатна натрівєва **Borjomi**. Офіційний смак - мінералка лол
 

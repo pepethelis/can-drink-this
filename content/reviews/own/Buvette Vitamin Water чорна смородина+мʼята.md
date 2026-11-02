@@ -27,6 +27,7 @@ availability: 3
 tags:
 listexUrls:
   - https://listex.info/product/napitok-buvette-vitamin-water-chorna-smorodina-myata-pet-05l-ua-4820115401914
+availability_new: 4
 ---
 **Buvette Vitamin Water**. Офіційний смак - **чорна смородина, мʼята**
 

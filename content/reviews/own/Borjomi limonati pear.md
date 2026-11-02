@@ -30,6 +30,7 @@ caffeine: 0
 alco: 0
 availability: 4
 favorite:
+availability_new: 4
 ---
 **Borjomi limonati pear**. Офіційний смак - груша
 
