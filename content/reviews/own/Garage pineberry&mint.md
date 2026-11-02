@@ -29,6 +29,7 @@ availability: 5
 tags:
 listexUrls:
   - https://listex.info/product/pivo-specialne-044l-45-pasterizovane-seth-and-rileys-garage-taste-pineberry-and-mint-pl-ua-4820250944178
+availability_new: 4
 ---
 **Garage pineberry&mint**. Офіційний смак - біла полуниця та м'ята
 

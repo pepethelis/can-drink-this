@@ -35,6 +35,7 @@ related:
 tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-slaboalkogolniy-serednogazovaniy-nemiroff-pangaia-bergamot-mint-blyashana-banka-033-l-ua-4820291040457
+availability_new: 4
 ---
 **Pangaia bergamot&mint**. Офіційний смак - бергамот-мʼята
 

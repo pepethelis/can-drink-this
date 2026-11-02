@@ -24,6 +24,7 @@ availability: 3
 tags:
 listexUrls:
   - https://listex.info/uk/product/voda-buvette-zi-smakom-kavuna-075l-ua-4820115402447
+availability_new: 4
 ---
 **Buvette Watermelon Water**. Офіційний смак - **кавун**
 

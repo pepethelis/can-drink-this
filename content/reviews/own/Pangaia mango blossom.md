@@ -30,6 +30,7 @@ favorite:
 tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-slaboalkogolniy-serednogazovaniy-nemiroff-pangaia-mango-blossom-blyashana-banka-033-l-ua-4820291040518
+availability_new: 4
 ---
 **Pangaia mango blossom**. Офіційний смак - манго
 

@@ -35,6 +35,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-revo-mango-05-l-zb-ua-4820252124578
+availability_new: 4
 ---
 **Revo mango**, тобто нове рево жовте. Офіційний смак - манго
 

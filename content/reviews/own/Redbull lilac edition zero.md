@@ -30,6 +30,7 @@ availability: 3.5
 favorite:
 tags:
   - package/ball
+availability_new: 2
 ---
 **Redbull lilac edition zero**. Офіційний смак - рожевий грейпфрут і трави
 

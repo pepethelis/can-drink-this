@@ -32,6 +32,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/pit-bul-silver-napiy-bezalkogolniy-energetichniy-silnogazovaniy-025-l-ua-4820252123533
+availability_new: 4
 ---
 **Pitbull silver**. Офіційний смак не вказано
 

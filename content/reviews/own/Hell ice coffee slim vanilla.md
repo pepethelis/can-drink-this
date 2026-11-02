@@ -27,6 +27,7 @@ caffeine: 40
 alco: 0
 availability: 3.5
 favorite:
+availability_new: 3
 ---
 **Hell ice coffee slim vanilla**. Офіційний смак - кава з ваніллю
 

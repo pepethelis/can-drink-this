@@ -35,6 +35,7 @@ tags:
   - package/crown
 listexUrls:
   - https://listex.info/uk/product/apiy-slaboalkogolniy-energetichniy-bronx-black-cherry-8-alk-ua-4820193034509
+availability_new: 4
 ---
 **Bronx black cherry**. Офіційний смак - вишня
 

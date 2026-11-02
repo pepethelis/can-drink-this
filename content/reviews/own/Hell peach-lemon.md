@@ -34,6 +34,7 @@ tags:
 telegram_format: html
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-gazovaniy-hell-peach-lemon-500-ml-ua-5999571051878
+availability_new: 3
 ---
 **Hell peach-lemon**, персиковий хелл
 

@@ -31,6 +31,7 @@ availability: 4
 favorite:
 tags:
 listexUrls:
+availability_new: 3
 ---
 **Pangaia lychee&rose**. Офіційний смак - лічі і роза
 

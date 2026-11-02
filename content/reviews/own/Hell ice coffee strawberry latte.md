@@ -29,6 +29,7 @@ tags:
   - package/quality
 listexUrls:
   - https://listex.info/product/holodna-kava-z-molokom-ice-coffee-pink-latte-ua-5999571053223
+availability_new: 3
 ---
 **Hell ice coffee pink latte**
 

@@ -31,6 +31,7 @@ tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-battery-frsh-zb-05l-ua-4820250943010
   - https://listex.info/uk/product/napiy-ba-energetichniy-silgaz-na-arom-battery-frsh-ban-033l-ua-4820250943423
+availability_new: 4
 ---
 **Battery Frsh**, тобто жовто-червона батарейка
 
