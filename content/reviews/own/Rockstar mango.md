@@ -36,6 +36,7 @@ related:
 tags:
   - package/amp
   - country/germany
+availability_new: 1
 ---
 **Rockstar energy**, блакитний. Офіційний смак - манго
 

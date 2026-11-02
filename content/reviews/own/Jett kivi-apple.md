@@ -27,8 +27,9 @@ volume:
   - "0.33"
 caffeine: 32
 alco: 0
-availability:
+availability: 3
 favorite:
+availability_new: 3
 ---
 **Jett kivi-apple**, також відомий як джет зелений. Офіційний смак - яблуко-ківі
 

@@ -29,6 +29,7 @@ sponsor:
 availability: 2
 tags:
   - package/bagpak
+availability_new: 1
 ---
 **Effect рожевий**, лімітка. Офіційний смак - habibi berry лол. Скоріше за все тут малина, виноград та чорна смородина
 

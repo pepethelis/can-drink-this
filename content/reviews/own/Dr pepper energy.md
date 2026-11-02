@@ -29,6 +29,7 @@ sponsor:
 availability: 2
 tags:
   - package/amp
+availability_new: 1
 ---
 **Dr Pepper energy**. Офіційний смак - доктор пеппер
 

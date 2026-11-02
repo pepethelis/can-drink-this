@@ -27,7 +27,7 @@ caffeine: 30
 alco: 0
 availability: 3.5
 favorite:
-availability_new: "3"
+availability_new: 3
 listexUrls:
   - https://listex.info/uk/product/napiy-ba-energiya-vid-borzhomi-024-l-zhb-originalniy-gazsok-h-12-pl-ua-4860019003623
 ---

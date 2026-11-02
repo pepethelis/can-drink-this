@@ -34,6 +34,7 @@ tags:
   - package/bagpak
 listexUrls:
   - https://listex.info/product/napiy-energetichniy-bezalkogolniy-silnogazovaniy-monster-energy-the-doctor-zb-500ml-ua-5060947547193
+availability_new: 5
 ---
 **Monster Energy The Doctor**. Офіційно смак на банці не вказаний, але на сайті відмічено смак - терпкий, освіжаючий, цитрусовий
 

@@ -15,7 +15,7 @@ taste:
   - cherry
 sweeteners:
   - sugar
-  - sugar syrup
+  - syrup/sugar
   - extract/guarana
 container:
   - can

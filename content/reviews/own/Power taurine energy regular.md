@@ -35,6 +35,7 @@ favorite:
 tags:
   - package/crown
   - country/france
+availability_new: 1
 ---
 **Power taurine energy regular**. Офіційний смак - regular, тому очікуємо класичний
 

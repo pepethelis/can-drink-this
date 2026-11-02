@@ -30,6 +30,7 @@ availability: 2
 tags:
   - package/ball
   - country/germany
+availability_new: 2
 ---
 **Organics by redbull - viva mate**. Найнеочікуваніший із усієї лінійки
 

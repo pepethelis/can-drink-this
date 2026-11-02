@@ -27,6 +27,7 @@ alco: 0
 availability: 2
 tags:
   - country/poland
+availability_new: 1
 ---
 **LOMZA Radler зі смаком кавуна та полуниці**
 

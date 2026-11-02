@@ -14,7 +14,7 @@ taste:
   - guarana
 sweeteners:
   - sugar
-  - sugar syrup
+  - syrup/sugar
 container:
   - can
 primaryColors:

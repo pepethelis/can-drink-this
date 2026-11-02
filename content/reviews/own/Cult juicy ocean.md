@@ -41,6 +41,7 @@ availability: 3
 favorite: true
 listexUrls:
   - https://listex.info/uk/product/energ-napiy-can-juicy-ocean-zhb-05l-cult-ua-4770477232421
+availability_new: 3
 ---
 **Cult juicy ocean**. Офіційний смак не вказано
 

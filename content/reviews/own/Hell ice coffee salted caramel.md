@@ -22,8 +22,9 @@ volume:
   - "0.25"
 caffeine: 40
 alco: 0
-availability:
+availability: 3
 favorite:
+availability_new: 3
 ---
 **Hell ice coffee salted caramel**. Офіційний смак - кава солона карамель
 

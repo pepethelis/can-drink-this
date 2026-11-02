@@ -31,6 +31,7 @@ alco: 0
 availability: 5
 tags:
   - package/bagpak
+availability_new: 5
 ---
 **Monster Energy**, він же монстр чорний
 

@@ -29,6 +29,7 @@ availability: 3
 tags:
   - package/canpack
   - country/netherlands
+availability_new: 3
 ---
 **B52**, несподівана енергуйка імені легендарного бомбера. Офіційний смак - не вказано
 

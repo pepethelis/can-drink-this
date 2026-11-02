@@ -35,6 +35,7 @@ related:
   - "[[Effect habibi berry|Effect habibi berry]]"
 tags:
   - package/ball
+availability_new: 2
 ---
 **Redbull purple edition zero**. Офіційний смак - асаї
 

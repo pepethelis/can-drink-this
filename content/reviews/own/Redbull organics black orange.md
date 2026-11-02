@@ -13,7 +13,7 @@ taste:
   - orange
 sweeteners:
   - sugar
-  - sugar syrup
+  - syrup/sugar
   - juice/lemon
 container:
   - can
@@ -33,6 +33,7 @@ tags:
   - country/germany
 listexUrls:
   - https://listex.info/uk/product/napiy-organics-black-orange-balk-gaz-zb-ua-90446986
+availability_new: 2
 ---
 **Organics by redbull - black orange**
 

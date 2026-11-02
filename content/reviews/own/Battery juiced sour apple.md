@@ -14,7 +14,7 @@ taste:
 sweeteners:
   - sugar
   - syrup/glucose-fructose
-  - sugar syrup
+  - syrup/sugar
   - juice/apple
 container:
   - can

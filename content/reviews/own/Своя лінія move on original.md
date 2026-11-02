@@ -33,6 +33,7 @@ availability: 4
 favorite:
 tags:
   - package/canpack
+availability_new: 4
 ---
 **Своя лінія move on original**. Офіційний смак - класичний
 

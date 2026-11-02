@@ -33,6 +33,7 @@ related:
 tags:
   - country/poland
   - package/bagpak
+availability_new: 3
 ---
 **Komodo cannabis limited**. Офіційний смак - трава
 

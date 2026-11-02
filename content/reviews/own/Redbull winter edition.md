@@ -34,6 +34,7 @@ related:
 tags:
   - package/ball
   - country/germany
+availability_new: 2
 ---
 **Redbull winter edition**. Офіційний смак - яблуко фуджі і імбир
 

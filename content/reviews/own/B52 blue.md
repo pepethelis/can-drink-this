@@ -28,6 +28,7 @@ availability: 3
 tags:
   - package/canpack
   - country/netherlands
+availability_new: 3
 ---
 **B52 zero sugar**, варіація [[B52 red|енергуйки імені легендарного бомбера]], але без цукру. Офіційний смак - не вказано
 

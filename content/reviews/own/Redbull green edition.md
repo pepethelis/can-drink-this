@@ -33,6 +33,7 @@ related:
   - "[[Crazy wolf blue kaktus-feigen|Crazy wolf blue kaktus-feigen]]"
 tags:
   - package/ball
+availability_new: 2
 ---
 **Redbull green edition**, тобто зелений редбул. Офіційний смак - kaktusfrucht/owoc kaktusa, а саме опунція(prickly pear) чи фрукт дракона(пітахая). Є думки, що мова саме про опунцію
 

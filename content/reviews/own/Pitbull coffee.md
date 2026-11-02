@@ -30,6 +30,7 @@ caffeine: 32
 alco: 0
 availability: 5
 favorite:
+availability_new: 5
 ---
 **Pitbull coffee**. Офіційний смак - кава
 

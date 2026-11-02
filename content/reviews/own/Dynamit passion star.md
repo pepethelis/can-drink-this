@@ -34,6 +34,7 @@ sponsor:
   - dggdyh
 availability: 2
 favorite: true
+availability_new: 1
 ---
 **Dynamit passion star**. Офіційний смак - маракуйа, ананас, ваніль
 

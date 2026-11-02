@@ -35,6 +35,7 @@ related:
 tags:
   - country/poland
   - package/amp
+availability_new: 3
 ---
 **Komodo frozen mojito**. Офіційний смак - мохіто
 

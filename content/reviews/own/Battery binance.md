@@ -26,6 +26,7 @@ caffeine: 32
 alco: 0
 availability: 1
 tags:
+availability_new: 0
 ---
 **Battery Energy x Binance**
 

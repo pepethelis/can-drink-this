@@ -27,6 +27,7 @@ caffeine: 11.55
 alco: 0
 availability: 3.5
 favorite:
+availability_new: 3
 ---
 **Dr pepper blackberry**. Офіційний смак - ожина
 

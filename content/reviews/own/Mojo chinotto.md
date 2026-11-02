@@ -35,6 +35,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-na-aromatizatorah-silnogazovaniy-smak-chinotto-tm-modzho-033-l-ua-4820252123175
+availability_new: 5
 ---
 **Mojo chinotto**. Офіційний смак - чінотто (така собі апельсинова альтернативна кола)
 

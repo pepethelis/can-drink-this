@@ -30,6 +30,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/product/napiy-energetichniy-bezalkogolniy-silnogazovaniy-monster-energy-ultra-zb-500ml-ua-5060947547162
+availability_new: 5
 ---
 **Monster Energy Ultra білий**. Офіційний смак не вказано, але на сайті "Легкий, освіжаючий, цитрусовий"
 

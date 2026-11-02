@@ -32,6 +32,7 @@ tags:
   - package/bagpak
 listexUrls:
   - https://listex.info/uk/product/nap-slalk-revo-energeticheskiy-85-zhb-05l
+availability_new: 5
 ---
 **Revo, також відоме як рево сіре**
 

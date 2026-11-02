@@ -33,6 +33,7 @@ availability: 4
 favorite:
 tags:
   - package/canpack
+availability_new: 4
 ---
 **Move on blueberry**, іншими словами чергова спроба ТМ своя лінія в енергоси. Офіційний смак - чорниця
 

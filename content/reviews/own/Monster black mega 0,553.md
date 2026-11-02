@@ -36,6 +36,7 @@ related:
 tags:
   - package/ag
   - country/france
+availability_new: 2
 ---
 **Monster black mega 0,553**. Офіційний смак згідно із сайтом - "Sweet and Salty - It tastes like Monster!"
 

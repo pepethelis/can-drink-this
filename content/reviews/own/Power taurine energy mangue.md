@@ -33,6 +33,7 @@ related:
 tags:
   - package/crown
   - country/france
+availability_new: 1
 ---
 **Power taurine energy mangue**. Офіційний смак - mangue, тобто манго
 

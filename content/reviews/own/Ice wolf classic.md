@@ -31,6 +31,7 @@ related:
   - "[[Nonstop original]]"
   - "[[Nonstop original zero]]"
 tags:
+availability_new: 2
 ---
 **Ice wolf classic/Крижаний вовк класичний**. Офіційний смак - класичний, хоча я не згоден
 

@@ -24,6 +24,7 @@ caffeine: 32
 alco: 0
 availability: 4
 tags:
+availability_new: 4
 ---
 **Wild dog classic**. Офіційний смак - не вказано
 

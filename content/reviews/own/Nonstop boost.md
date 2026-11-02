@@ -31,6 +31,7 @@ tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-bust-ua-4820097899167
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-bust-025-ua-4820252120020
+availability_new: 5
 ---
 **Nonstop boost**, більш відомий як фіолетовий нонстоп. Офіційний смак не вказано, але неофіційно він ананас-м'ята
 

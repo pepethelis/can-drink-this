@@ -31,6 +31,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-ultra-ua-4820097899952
+availability_new: 0
 ---
 **Nonstop ultra**, більш відомий як помаранчевий нонстоп
 

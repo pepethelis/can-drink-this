@@ -31,6 +31,7 @@ availability: 3
 favorite:
 listexUrls:
   - https://listex.info/uk/product/energ-napiy-can-waterm-dreams-zhb-05l-cult-ua-4770477232414
+availability_new: 3
 ---
 **Cult watermelon dreams**. Офіційний смак - кавунячий
 

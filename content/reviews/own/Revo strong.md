@@ -25,7 +25,7 @@ volume:
   - "0.5"
 caffeine: 30
 alco: 10
-availability:
+availability: 3.5
 favorite:
 tags:
 listexUrls:

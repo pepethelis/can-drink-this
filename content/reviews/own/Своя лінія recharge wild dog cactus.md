@@ -25,6 +25,7 @@ alco: 0
 availability: 4
 favorite: true
 tags:
+availability_new: 4
 ---
 **Wild dog cactus**. Офіційний смак - кактус
 

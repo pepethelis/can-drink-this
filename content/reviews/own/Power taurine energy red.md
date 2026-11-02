@@ -33,6 +33,7 @@ favorite:
 tags:
   - package/amp
   - country/france
+availability_new: 1
 ---
 **Power taurine energy red**. Офіційний смак не вказано, також не гуглиться. Нагадує по вайбу китайську(повстяну) вишню
 

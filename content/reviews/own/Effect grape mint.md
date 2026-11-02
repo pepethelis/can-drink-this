@@ -30,6 +30,7 @@ availability: 2
 favorite: true
 tags:
   - package/bagpak
+availability_new: 1
 ---
 **Effect блактитно-фіолетовий**, лімітка. Офіційний смак - виноград-мʼята
 

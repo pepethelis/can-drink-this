@@ -4,11 +4,13 @@ views:
     filters:
       and:
         - file.folder == "content/reviews/own"
-        - sweeteners.containsAny("sugar syrup")
     order:
       - file.name
-      - sweeteners
-    sort: []
+      - availability
+      - availability_new
+    sort:
+      - property: availability_new
+        direction: ASC
   - type: table
     name: subscribers
     filters:

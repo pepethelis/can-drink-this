@@ -25,12 +25,13 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-availability: 4
+availability: 1
 favorite: true
 tags:
   - package/canpack
 listexUrls:
   - https://listex.info/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-20-rokiv-limitovana-seriya-05-ua-4820252125636
+availability_new: 0
 ---
 **Nonstop 20 years edition**. Офіційний смак на банці не вказано, але судячи зі складу це вишня, а чутки перед релізом кажуть про вишневий брауні
 

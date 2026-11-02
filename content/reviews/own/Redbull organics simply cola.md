@@ -14,7 +14,7 @@ taste:
 sweeteners:
   - sugar
   - juice/lemon
-  - sugar syrup
+  - syrup/sugar
 container:
   - can
 primaryColors:
@@ -31,6 +31,7 @@ availability: 2
 tags:
   - package/ball
   - country/germany
+availability_new: 2
 ---
 **Organics by redbull - simply cola**
 

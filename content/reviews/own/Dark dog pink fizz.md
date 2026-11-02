@@ -34,6 +34,7 @@ favorite:
 tags:
   - package/canpack
   - country/france
+availability_new: 1
 ---
 **Dark dog pink fizz**. Офіційний смак - полуниця-кавун
 

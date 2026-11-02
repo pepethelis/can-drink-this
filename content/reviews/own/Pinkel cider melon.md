@@ -31,6 +31,7 @@ availability: 4
 favorite:
 listexUrls:
   - https://listex.info/uk/product/napiy-zbrodzheniy-gazovaniy-dinya-yabluko-pinkel-alk-50-zhb-05-l-ua-4820120801716
+availability_new: 3
 ---
 **Pinkel cider melon**. Офіційний смак - “диня-яблуко”
 

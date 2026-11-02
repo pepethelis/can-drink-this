@@ -34,6 +34,7 @@ related:
 tags:
   - package/ball
   - country/france
+availability_new: 2
 ---
 **Redbull apricot edition**. Офіційний смак - абрикос-полуниця
 

@@ -31,6 +31,7 @@ sponsor:
 availability: 3
 favorite: true
 tags:
+availability_new: 2
 ---
 **Redbull wisnia sakura**. Офіційний смак - плоди сакури
 

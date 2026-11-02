@@ -27,8 +27,9 @@ volume:
   - "0.33"
 caffeine: 30
 alco: 0
-availability:
+availability: 3
 favorite:
+availability_new: 3
 ---
 **Jett mango-orange**, також відомий як джет помаранчевий. Офіційний смак - манго-апельсин
 

@@ -29,6 +29,7 @@ sponsor:
 availability: 2
 tags:
   - package/amp
+availability_new: 1
 ---
 **Effect біло-червоний**. Офіційний смак - не вказано
 

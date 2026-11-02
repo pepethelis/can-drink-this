@@ -36,6 +36,7 @@ related:
   - "[[content/reviews/friendly/Sanb_s/Pulls заряд помсти|Pulls заряд помсти]]"
 tags:
   - package/canpack
+availability_new: 3
 ---
 **Pulls заряд помсти**. Офіційний смак - барбарис, гуарани та фрутміксу (єбуче тутті-фрутті😭)
 
