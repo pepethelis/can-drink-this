@@ -37,6 +37,7 @@ related:
   - "[[Happy Joe dry apple cider|Happy Joe dry apple cider]]"
 listexUrls:
   - https://listex.info/uk/product/somersby-sidr-z-grushevim-sokom-ban-05l-ua-4820250944840
+availability_new: 3
 ---
 **Somersby**. Офіційний смак - персик-гуава
 

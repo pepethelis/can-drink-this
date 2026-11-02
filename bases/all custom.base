@@ -4,6 +4,9 @@ views:
     filters:
       and:
         - file.folder == "content/reviews/own"
+    groupBy:
+      property: availability_new
+      direction: ASC
     order:
       - file.name
       - availability

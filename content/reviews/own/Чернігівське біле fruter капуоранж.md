@@ -39,6 +39,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/pivo-specialne-chernigivske-bile-fruter-kapuoranzh-zi-smakom-kavi-ta-apelsinu-ua-4820034927717
+availability_new: 4
 ---
 Радлер **Чернігівське біле fruter**. Офіційний смак - капуоранж/кава-апельсин/джміль
 

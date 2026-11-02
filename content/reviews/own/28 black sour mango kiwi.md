@@ -36,6 +36,7 @@ related:
 tags:
   - package/ball
   - country/germany
+availability_new: 1
 ---
 **28 black**. Офіційний смак - **sour mango-kivi**
 

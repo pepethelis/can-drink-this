@@ -28,7 +28,7 @@ tags:
   - package/ball
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-red-bull-the-summer-edition-025l-ua-9002490228491
-availability_new: 3
+availability_new: 4
 ---
 **Redbull yellow edition**, тобто жовтий редбул. Офіційний смак - тропічний. В деяких країнах це його офіційна назва
 

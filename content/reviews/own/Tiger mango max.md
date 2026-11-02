@@ -31,6 +31,7 @@ availability: 3
 favorite:
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-tiger-max-mango-balk-gazovaniy-ua-5900334015211
+availability_new: 3
 ---
 **Tiger mango max**. Офіційний смак - манго
 
