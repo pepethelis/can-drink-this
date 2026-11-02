@@ -32,6 +32,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-sokoviy-serednogazovaniy-battery-juiced-peach-lemonade-ua-4820250944239
+availability_new: 4
 ---
 **Battery juiced peach lemonade**. Офіційний смак - персиковий лимонад🍑
 

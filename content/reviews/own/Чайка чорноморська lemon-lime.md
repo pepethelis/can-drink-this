@@ -33,6 +33,7 @@ favorite:
 listexUrls:
   - https://listex.info/uk/product/chayka-chornomorska-limon-laym-05-zhb-ua-4820022693266
   - https://listex.info/uk/product/pivo-chayka-chornomorska-limon-laym-045l-sklo-ua-4820022693037
+availability_new: 3
 ---
 **Чайка чорноморська lemon-lime**. Офіційний смак - лимон та лайм
 

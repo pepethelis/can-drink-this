@@ -32,6 +32,7 @@ tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-battery-exotic-zb-05l-ua-4820250942990
   - https://listex.info/uk/product/napiy-ba-energetichniy-silgaz-na-arom-battery-exotic-ban-033l-ua-4820250943324
+availability_new: 3
 ---
 **Battery Exotic**, вона ж жовто-фіолетова батарейка. Офіційний смак - маракуйя+гуава. Дропаю огляд або зараз, або не дропаю взагалі
 

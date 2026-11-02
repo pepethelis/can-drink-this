@@ -30,6 +30,7 @@ tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-battery-zb-05l-ua-4820250943072
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-battery-zb-033l-ua-4820250943058
+availability_new: 3
 ---
 **Battery Energy Drink**, тобто дефолтна чорна батарейка
 

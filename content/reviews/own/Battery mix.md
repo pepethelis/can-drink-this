@@ -33,6 +33,7 @@ tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-battery-mix-zb-05l-ua-4820250943034
   - https://listex.info/uk/product/napiy-ba-energetichniy-silgaz-na-arom-battery-mix-ban-033l-ua-4820250943300
+availability_new: 3
 ---
 **Battery Mix**, тобто фіолетово-зелена батарейка
 

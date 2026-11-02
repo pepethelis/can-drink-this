@@ -30,6 +30,7 @@ availability: 3
 tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-frugo-wild-cherry-gaz-zb-ua-5900552087861
+availability_new: 3
 ---
 **Frugo Wild Cherry**. Офіційний смак - дика вишня
 

@@ -28,6 +28,7 @@ caffeine: 0
 alco: 0
 availability: 3.5
 favorite:
+availability_new: 3
 ---
 **Borjomi aromati cherry & pomegranate**. Офіційний смак - вишня і гранат
 

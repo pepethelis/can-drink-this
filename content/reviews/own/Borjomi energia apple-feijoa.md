@@ -30,6 +30,7 @@ favorite:
 tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-ba-energiya-vid-borzhomi-024-l-zhb-zi-smakom-yabluka-ta-feyhoa-gaz-sok-h-12-pl-ua-4860019003722
+availability_new: 3
 ---
 **Borjomi energia apple-feijoa**. Офіційний смак - яблоко-фейхоа
 

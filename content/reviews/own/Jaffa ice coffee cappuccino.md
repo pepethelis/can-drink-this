@@ -34,6 +34,7 @@ related:
 tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-kavoviy-z-molokom-kapuchino-jaffa-ice-coffee-tra-025l-ua-4820264290766
+availability_new: 3
 ---
 **Jaffa ice coffee cappuccino**. Офіційний смак - капучіно
 

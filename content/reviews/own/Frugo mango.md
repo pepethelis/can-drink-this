@@ -32,6 +32,7 @@ availability: 3
 tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-frugo-mango-balk-zb-ua-5900552088189
+availability_new: 3
 ---
 **Frugo mango**. Офіційний смак - манго
 

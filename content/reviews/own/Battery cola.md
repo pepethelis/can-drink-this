@@ -32,6 +32,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-battery-taste-cola-05l-zb-ua-4820250944628
+availability_new: 3
 ---
 **Battery cola**. Офіційний смак - кола
 

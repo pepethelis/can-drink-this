@@ -29,6 +29,7 @@ caffeine: 30
 alco: 0
 availability: 4
 favorite:
+availability_new: 3
 ---
 **Best shot blueberry**. Офіційний смак - лохина
 
