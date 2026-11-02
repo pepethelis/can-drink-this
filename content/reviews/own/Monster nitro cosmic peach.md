@@ -28,6 +28,7 @@ availability: 3
 tags:
   - package/ag
   - country/usa
+availability_new: 2
 ---
 **Monster nitro cosmic peach**, він же помаранчевий нітро. Офіційний смак - персик
 

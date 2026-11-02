@@ -36,6 +36,7 @@ sponsor:
 availability: 3
 favorite:
 telegram_format: md
+availability_new: 2
 ---
 **Monster juiced strawberry lemonade**. Офіційний смак - полуничний лимонад
 

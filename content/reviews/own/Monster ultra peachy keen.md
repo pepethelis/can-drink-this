@@ -36,6 +36,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-monster-energy-peachy-keen-zb-ua-5060947546332
+availability_new: 2
 ---
 **Monster ultra peachy keen**. Офіційний смак - персиковий, а згідно з сайтом - Refreshing Peach
 

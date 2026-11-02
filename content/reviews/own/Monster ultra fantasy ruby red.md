@@ -32,6 +32,7 @@ availability: 3
 tags:
   - package/canpack
   - country/poland
+availability_new: 2
 ---
 **Monster ultra fantasy ruby red**. Офіційний смак на банці не вказано, але на сайті - "Fresh Pink Pamplemousse", тобто помело або грейпфрут, тобто черговий цитрус
 

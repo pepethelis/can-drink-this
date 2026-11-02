@@ -31,6 +31,7 @@ favorite:
 tags:
   - package/canpack
   - country/poland
+availability_new: 2
 ---
 **Monster VR46 zero**. Офіційний смак на банці не вказано, але на сайті - "Light, crisp, refreshing citrus"
 

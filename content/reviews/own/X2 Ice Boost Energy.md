@@ -33,6 +33,7 @@ favorite:
 tags:
   - package/ball
   - country/germany
+availability_new: 1
 ---
 Бірмікс пиво + енергос **X2 Ice Boost Energy**. Офіційний смак - мікс пива
 

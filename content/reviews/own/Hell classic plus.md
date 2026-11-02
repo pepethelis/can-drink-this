@@ -30,6 +30,7 @@ availability: 4
 favorite:
 tags:
   - package/quality
+availability_new: 5
 ---
 **Hell classic+**. Офіційний смак - тутті-фрутті, яке також відоме як фруктове асорті, яке також заєбало вже
 

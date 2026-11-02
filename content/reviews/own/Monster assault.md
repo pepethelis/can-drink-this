@@ -32,6 +32,7 @@ availability: 3
 tags:
   - package/canpack
   - country/germany
+availability_new: 2
 ---
 **Monster Energy Assault**
 

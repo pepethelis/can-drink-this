@@ -2,6 +2,7 @@
 sweeteners:
   - sugar
   - syrup/glucose-fructose
+availability: 3
 ---
 ﻿---
 status: published

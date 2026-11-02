@@ -30,12 +30,13 @@ volume:
   - "0.5"
 caffeine: 32
 alco: 0
-availability: 3
+availability: 5
 favorite: true
 tags:
   - package/ag
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-monster-energy-bad-apple-zb-ua-5061013944830
+availability_new: 5
 ---
 **Monster Juiced Bad Apple**, офіційний смак - "Crisp, Dry apple flavour that ’s not too sweet and goes down smooth."
 

@@ -3,6 +3,8 @@ sweeteners:
   - sugar
   - syrup/glucose-fructose
   - juice
+availability: 3
+availability_new: 3
 ---
 ﻿---
 status: published

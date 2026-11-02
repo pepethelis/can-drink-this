@@ -36,6 +36,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-sokovmisniy-silnogazovaniy-pasterizovaniy-paynepl-tvist-tm-modzho-033-l-ua-4820252124646
+availability_new: 4
 ---
 **Mojo pineapple twist**. Офіційний смак - ананас/полуниця/лемонграс
 

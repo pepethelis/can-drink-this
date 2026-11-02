@@ -29,6 +29,7 @@ sponsor:
 availability: 2
 tags:
   - package/ball
+availability_new: 1
 ---
 **Crazy wolf блакитний**. Офіційний смак - kaktusfeigen, це щось типу драконячого фрукту
 

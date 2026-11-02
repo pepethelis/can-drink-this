@@ -34,6 +34,7 @@ related:
   - "[[Gosser natur radler|Gosser natur radler]]"
 tags:
   - package/ball
+availability_new: 2
 ---
 Радлер **Schofferhofer Wild Cherry**
 

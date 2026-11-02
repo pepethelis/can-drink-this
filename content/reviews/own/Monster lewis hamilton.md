@@ -33,13 +33,14 @@ alco: 0
 sponsor:
   - gdgood
   - verfolomei
-availability: 3
+availability: 4
 favorite: false
 tags:
   - package/canpack
 listexUrls:
   - https://listex.info/product/monster-energy-ful-trotl-nul-cukru-napiy-bezalkogolniy-silnogazovaniy-energetichniy-ua-5056784913123
   - https://listex.info/uk/product/napiy-energetichniy-monster-hamilton-zero-ba-zb-ua-5060896625461
+availability_new: 4
 ---
 **Monster Lewis Hamilton**, пізніше став відомим як **Monster full throttle** або **Monster top speed**. Офіційний смак на банці не вказано, але на сайті "Peach and Nectarine"
 

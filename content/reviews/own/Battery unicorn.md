@@ -36,6 +36,7 @@ tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-battery-unicorn-05-zb-ua-4820250943904
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-battery-unicorn-033-zb-ua-4820250943928
+availability_new: 5
 ---
 **Battery unicorn**, енергосік від карсберг. Офіційний смак - цукрова вата, неофіційний - каєфний
 

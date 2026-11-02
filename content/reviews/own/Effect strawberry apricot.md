@@ -29,6 +29,7 @@ sponsor:
 availability: 2
 tags:
   - package/bagpak
+availability_new: 1
 ---
 **Effect помаранчево-рожевий**, лімітка. Офіційний смак - полуниця-абрикос
 

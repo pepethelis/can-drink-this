@@ -32,6 +32,7 @@ tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-hell-classic-500-ml-ua-5999884034209
   - https://listex.info/uk/product/napiy-energetichniy-hell-zb-250ml
+availability_new: 5
 ---
 **Hell classic**, тобто дефолтний хелл
 

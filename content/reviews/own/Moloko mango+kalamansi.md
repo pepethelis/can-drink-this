@@ -29,6 +29,7 @@ sponsor:
 availability: 2
 tags:
   - package/amp
+availability_new: 2
 ---
 **Moloko**. Офіційний смак - **mango + kalamansi**. Не питайте, я хз що то таке
 

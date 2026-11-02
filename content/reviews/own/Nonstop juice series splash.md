@@ -42,6 +42,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-non-stop-sokova-seriya-splesh-05-l-ua-4820252125759
+availability_new: 5
 ---
 **Nonstop juice series splash**. Офіційний смак - ніде не вказано
 

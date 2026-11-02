@@ -32,6 +32,7 @@ favorite:
 related:
 tags:
   - package/quality
+availability_new: 1
 ---
 **Exstase bubble gum**. Офіційний смак - бубблегум
 

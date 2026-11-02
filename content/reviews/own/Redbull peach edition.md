@@ -30,6 +30,7 @@ tags:
   - package/ball
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-bezalkogolniy-red-bull-white-peach-zb-250ml-ua-90493911
+availability_new: 3
 ---
 **Redbull peach edition**. Офіційний смак - білий персик
 Пахне в принципі я і очікується - персиком. Такий собі конвенційний персик, нічого особливого. В принципі все як у [[Exstase white peach]]

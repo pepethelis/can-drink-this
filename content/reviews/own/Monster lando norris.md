@@ -2,7 +2,6 @@
 aliases:
   - Monster lando norris
 summary:
-
 status: published
 externalUrl: https://t.me/kallection/39096
 publishedAt: 2026-09-23
@@ -34,6 +33,7 @@ favorite:
 tags:
   - package/canpack
   - country/poland
+availability_new: 2
 ---
 **Monster lando norris**. Офіційний смак на банці не вказано, але на сайті - "Refreshing Melon with Yuzu", тобто диня з мандарино-грейпфрутом. Так, ще один монстр з оголошеним цитрусом
 

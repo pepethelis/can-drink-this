@@ -32,6 +32,7 @@ tags:
   - package/quality
 listexUrls:
   - https://listex.info/uk/product/hell-energy-focus-strong-ua-5999885747733
+availability_new: 5
 ---
 **Hell focus+**. Офіційний смак - манго, апельсин та фруктове асорті
 

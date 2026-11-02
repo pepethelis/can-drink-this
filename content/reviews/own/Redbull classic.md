@@ -32,6 +32,7 @@ tags:
 telegram_format: html
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-red-bull-025l-ua-9002490100070
+availability_new: 5
 ---
 **Redbull classic**. Офіційний смак не вказано, але ми розуміємо, що класичний
 

@@ -31,6 +31,7 @@ favorite: true
 tags:
   - package/canpack
   - country/poland
+availability_new: 2
 ---
 **Monster ultra paradise**. Офіційний смак на банці не вказано, але на сайті - "Kiwi Lime with a hint of Cucumber"
 

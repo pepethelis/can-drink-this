@@ -26,6 +26,7 @@ volume:
 alco: 0
 availability: 5
 tags:
+availability_new: 5
 ---
 **Coca cola**, тобто звичайна кола. Офіційний смак - кола лол
 

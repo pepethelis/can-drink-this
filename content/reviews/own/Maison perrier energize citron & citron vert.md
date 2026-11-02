@@ -32,6 +32,7 @@ favorite:
 tags:
   - package/amp
   - country/france
+availability_new: 1
 ---
 **Maison perrier energize citron & citron vert**. Офіційний смак - лимон та лайм
 

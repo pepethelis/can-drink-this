@@ -32,6 +32,7 @@ related:
 tags:
   - package/amp
   - country/france
+availability_new: 1
 ---
 **Maison perrier energize peche**. Офіційний смак - peche/персик
 

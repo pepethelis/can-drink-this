@@ -41,6 +41,7 @@ favorite: true
 tags:
   - package/ag
   - country/france
+availability_new: 2
 ---
 **Monster juiced pipeline punch**. Офіційний смак - апельсин, маракуя, гуава
 

@@ -27,6 +27,7 @@ availability: 3
 favorite:
 tags:
   - package/bagpak
+availability_new: 2
 ---
 **Monster ultra fiesta mango**. Офіційний смак - манго. Про смак зазначено і на банці, і на сайті
 

@@ -33,6 +33,7 @@ favorite: true
 tags:
   - package/canpack
   - country/poland
+availability_new: 2
 ---
 **Monster ultra violet**. Офіційний смак на банці не вказано, але на сайті - "Light Citrus and Grape". Так черговий цитрусовий монстр
 

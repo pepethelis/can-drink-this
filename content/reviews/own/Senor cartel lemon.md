@@ -37,6 +37,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/pivo-specialne-nefiltrovane-seor-sartel-lemo-033l-sklo-ua-4820002713786
+availability_new: 4
 ---
 Типу гараж **Senor cartel lemon**. Офіційний смак - лимон
 

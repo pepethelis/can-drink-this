@@ -31,6 +31,7 @@ tags:
   - country/germany
 listexUrls:
   - https://listex.info/uk/product/red-bull-red-edition-so-vkusom-arbuza-ua-90448874
+availability_new: 3
 ---
 **Redbull red edition**, тобто червоний редбул. Офіційний смак - кавун
 

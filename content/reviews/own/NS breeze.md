@@ -30,6 +30,7 @@ sponsor:
   - dggdyh
 availability: 2
 favorite:
+availability_new: 1
 ---
 **NS breeze**. Офіційний смак не вказано
 

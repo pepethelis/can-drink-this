@@ -36,6 +36,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/energetichniy-napiy-burn-yablukokivi-05l-ua-5060466510982
+availability_new: 5
 ---
 **Burn Apple-kiwi**, або ж зелений бьорн. Офіційний смак - яблуко-ківі
 

@@ -32,6 +32,7 @@ tags:
   - package/amp
   - country/france
 telegram_format: html
+availability_new: 1
 ---
 **Maison perrier energize mure**. Офіційний смак - mure/чорниця
 

@@ -42,6 +42,7 @@ tags:
 listexUrls:
   - https://listex.info/product/napiy-energetichniy-bezalkogolniy-silnogazovaniy-monster-energy-mango-loco-zb-500ml-ua-5060947547131
   - https://listex.info/uk/product/napiy-energetichniy-monster-mangoloco-ba-gaz-zbv-ua-5060639121700
+availability_new: 5
 ---
 **Monster Energy Juiced Mango Loco**, він же синій зі скелетами. Офіційний смак - манго
 

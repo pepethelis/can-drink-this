@@ -31,6 +31,7 @@ favorite:
 related:
 tags:
   - package/bagpak
+availability_new: 1
 ---
 **Exstase blueberry coconut**. Офіційний смак - чорниця та кокос
 

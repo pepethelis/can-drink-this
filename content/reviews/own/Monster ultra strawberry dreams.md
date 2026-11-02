@@ -31,6 +31,7 @@ sponsor:
 availability: 3
 favorite:
 tags:
+availability_new: 2
 ---
 **Monster ultra strawberry dreams**. Офіційний смак - полуниця
 

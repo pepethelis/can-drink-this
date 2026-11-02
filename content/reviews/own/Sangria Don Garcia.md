@@ -27,6 +27,7 @@ caffeine: 0
 alco: 7
 availability: 3
 tags:
+availability_new: 4
 ---
 **Напій на основі вина 1,5 л Don Garcia Сангрія червоний ароматизований 7% об ПЕТ Іспанія**
 

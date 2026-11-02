@@ -30,6 +30,7 @@ favorite:
 related:
 tags:
   - package/bagpak
+availability_new: 1
 ---
 **Exstase white peach**. Офіційний смак - білий персик
 

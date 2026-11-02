@@ -40,6 +40,7 @@ related:
 tags:
 listexUrls:
   - https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-bummer-bummer-tm-bummer-05-l-ua-4820271512554
+availability_new: 3
 ---
 Алко-енержи **Bummer**. Офіційний смак не вказано, але ми знаємо, що там типу рево має бути
 

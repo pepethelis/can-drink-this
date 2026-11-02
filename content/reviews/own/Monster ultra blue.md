@@ -28,6 +28,7 @@ alco: 0
 availability: 3
 tags:
   - package/crown
+availability_new: 2
 ---
 **Monster ultra blue**. Офіційний смак - на банці не вказано, але на сайті говорять про "Light Citrus and Berry"
 

@@ -32,6 +32,7 @@ availability: 4
 related:
 tags:
   - package/canpack
+availability_new: 4
 ---
 **Monster Energy black zero**, він же монстр чорний без цукру
 

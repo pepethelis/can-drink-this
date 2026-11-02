@@ -36,6 +36,7 @@ related:
 tags:
   - package/canpack
   - country/poland
+availability_new: 2
 ---
 **Monster ultra vice guava**. Офіційний смак - гуава
 

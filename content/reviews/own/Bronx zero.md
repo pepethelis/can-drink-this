@@ -30,6 +30,7 @@ tags:
   - package/bagpak
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-energetichniy-silnogazovaniy-bronx-zero-alco-033l-zb-ua-4820002713625
+availability_new: 4
 ---
 **Bronx zero**, він же безалкогольний. Офіційний смак - не вказано
 

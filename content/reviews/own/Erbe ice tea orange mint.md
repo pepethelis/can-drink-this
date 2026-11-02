@@ -31,6 +31,7 @@ availability: 3
 favorite:
 listexUrls:
   - https://listex.info/uk/product/napiy-bezalkogolniy-sokovmisniy-silnogazovaniy-zi-smakom-fruktovogo-chayu-apelsin-myata-tm-erbe-330-ml-ua-4820196933694
+availability_new: 3
 ---
 **Erbe ice tea orange mint**. Офіційний смак - "фруктовий чай апельсин-м'ята"
 

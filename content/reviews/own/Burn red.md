@@ -33,6 +33,7 @@ tags:
   - package/canpack
 listexUrls:
   - https://listex.info/uk/product/napiy-energetichniy-burn-klasichniy-05l-zhb-ua-5060466510951
+availability_new: 5
 ---
 **Burn original**, також відомий як червоний бьорн. Офіційний смак не вказано, але зрозуміло, що класік
 

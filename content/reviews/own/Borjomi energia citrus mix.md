@@ -29,6 +29,7 @@ availability:
 favorite:
 listexUrls:
   - https://listex.info/uk/product/napiy-ba-energiya-vid-borzhomi-024-l-zhb-zi-smakom-citrusovih-gaz-sok-h-12-pl-ua-4860019003685
+availability_new: 3
 ---
 **Borjomi energia citrus mix**. Офіційний смак - ==СМАК==
 

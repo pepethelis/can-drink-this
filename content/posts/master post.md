@@ -422,7 +422,7 @@ Hell ice coffee:
 - [[Happy Joe dry apple cider]]
 - [[Beer mix coconut]]
 - [[Чайка чорноморська lemon-lime]]
-- [[Somersby peach peach]]
+- [[Somersby peach guava]]
 - [[Pinkel cider melon|Pinkel cider melon]]
 - [[Mike’s hard drink pineapple|Mike’s hard drink pineapple]]
 - [[Taller|Taller]] - пиво

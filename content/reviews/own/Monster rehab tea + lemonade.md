@@ -39,6 +39,7 @@ availability: 3
 favorite: true
 tags:
   - country/hungary
+availability_new: 2
 ---
 Чай-енергос **Monster rehab tea + lemonade (🇭🇺)**. Офіційний смак - чай і лимонад, а на сайті - "Brewed Tea and Lemonade"
 

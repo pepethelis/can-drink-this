@@ -36,6 +36,7 @@ availability: 3
 tags:
   - package/ag
   - country/poland
+availability_new: 2
 ---
 **Monster nitro green**, банка, огляд на яку я мав замутити ще давно, але деякий гівнюк випив в соло і натомість підігнав мені рева. Офіційний смак - хуй зна, написано super dry. На сайті - "Refreshing Citrus"
 

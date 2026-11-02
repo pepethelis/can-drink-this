@@ -28,6 +28,7 @@ availability: 3
 tags:
   - package/canpack
   - country/poland
+availability_new: 2
 ---
 **Monster ultra black**. Офіційний смак згідно сайту - "Crisp and Refreshing Black Cherry"
 

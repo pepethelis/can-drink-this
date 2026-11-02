@@ -42,6 +42,7 @@ tags:
   - package/ag
 listexUrls:
   - https://listex.info/product/500-can-x12-monster-rio-punch-2025-ua-ua-5056784903476
+availability_new: 5
 ---
 **Monster juiced rio punch**. Офіційний смак на банці не вказано, але на сайті - "Солодка папайя, ванільне морозиво, нотка чорної смородини"
 

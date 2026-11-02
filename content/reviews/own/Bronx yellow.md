@@ -34,6 +34,7 @@ tags:
   - package/crown
 listexUrls:
   - https://listex.info/uk/product/bronks-bronx-05-zb-ua-4820193032390
+availability_new: 5
 ---
 **Bronx жовтий**. Офіційний смак не вказано
 

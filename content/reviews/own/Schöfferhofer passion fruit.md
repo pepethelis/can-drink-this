@@ -32,6 +32,7 @@ availability: 3
 favorite:
 tags:
   - package/ball
+availability_new: 2
 ---
 Радлер **Schöfferhofer passion fruit**. Офіційний смак - маракуйя
 
