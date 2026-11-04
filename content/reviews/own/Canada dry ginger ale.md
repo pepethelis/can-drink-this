@@ -2,9 +2,9 @@
 aliases:
   - Canada dry ginger ale
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39862
+publishedAt: 2026-11-04
 createdAt: 2026-10-23
 cover: "[[IMG_9024.jpeg]]"
 types:
