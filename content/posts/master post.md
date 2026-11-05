@@ -116,6 +116,7 @@ Battery juiced:
 **Pitbull:** 
 - [[Pitbull exotic|exotic]]
 - [[Pitbull silver|silver]]
+- [[content/reviews/own/Pitbull coffee|coffee]]
 - інші поки не в планах 
 
 
@@ -147,6 +148,15 @@ Battery juiced:
 - [[Cheat code original|original]]
 
 
+**Best shot:** 
+- [[Best shot blueberry|Best shot blueberry]]
+
+
+**Jett:** 
+- [[Jett mango-orange|Jett orange]]
+- [[Jett kivi-apple|Jett green]]
+
+
 - [[Ice wolf classic]]
 - [[ДВІЖ]]
 - [[content/reviews/own/Pulls заряд помсти|Pulls заряд помсти]]
@@ -175,6 +185,7 @@ Monster juiced:
 - [[content/reviews/own/Monster juiced khaotic|khaotic]]
 - [[content/reviews/own/Monster juiced pipeline punch|pipeline punch]]
 - [[content/reviews/own/Monster juiced rio punch|rio punch]]
+- [[Monster juiced strawberry lemonade|strawberry lemonade]]
 Monster ultra:
 - [[content/reviews/own/Monster ultra white|white]]
 - [[content/reviews/own/Monster ultra black|black]]
@@ -197,6 +208,7 @@ Monster rehab:
 
 **Redbull:** 
 - [[Redbull classic|original/класичний]]
+- [[Redbull cold brew coffee|cold brew coffee]]
 Redbull edition: 
 - [[content/reviews/own/Redbull red edition|red edition]]
 - [[Redbull yellow edition|yellow edition]]
@@ -251,6 +263,8 @@ Hell carnival:
 Hell ice coffee: 
 - [[Hell ice coffee latte|latte]]
 - [[content/reviews/own/Hell ice coffee strawberry latte|pink latte]]
+- [[Hell ice coffee slim vanilla|slim vanilla]]
+- [[Hell ice coffee salted caramel|salted caramel]]
 
 
 **Effect:** 
@@ -271,6 +285,10 @@ Hell ice coffee:
 - [[Frugo wild cherry|wild cherry🟣]]
 - [[Frugo watermelon-strawberry|watermelon-strawberry🩷]]
 - [[Frugo dragonfruit-chilli|dragonfruit-chilli⚫️]]
+
+**Cult:** 
+- [[Borjomi energia original|Borjomi energia original]]
+- [[content/reviews/own/Borjomi energia citrus mix|Borjomi energia citrus mix]]
 
 **Cult:** 
 - [[content/reviews/own/Cult juicy ocean|juicy ocean]]
@@ -406,7 +424,8 @@ Hell ice coffee:
 **Pangaia:**
 - [[Pangaia bergamot&mint|bergamot&mint]]
 - [[Pangaia mango blossom|mango blossom]]
-- є ще два смаки, але нема в планах 
+- [[Pangaia lychee&rose|lychee&rose]]
+- [[Pangaia strawberry&mint|strawberry&mint]]
 
 
 - [[Johan Freitag gin&tonic]]
