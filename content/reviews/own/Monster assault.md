@@ -1,6 +1,7 @@
 ---
 aliases:
   - Monster assault
+  - Монстр кола
 status: published
 externalUrl: https://t.me/kallection/27188
 publishedAt: 2025-03-22

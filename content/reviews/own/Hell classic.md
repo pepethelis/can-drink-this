@@ -2,6 +2,8 @@
 aliases:
   - Hell classic
   - Хелл червоний
+  - Хелл класичний
+  - Hell red
 status: published
 externalUrl: https://t.me/kallection/26789
 publishedAt: 2025-03-07

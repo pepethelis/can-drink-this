@@ -1,6 +1,9 @@
 ---
 aliases:
   - King’s bridge gin&basil
+  - King’s bridge green
+  - Кінгс брідж зелений
+  - Крінж брідж зелений
 status: published
 externalUrl: https://t.me/kallection/27827
 publishedAt: 2025-04-19

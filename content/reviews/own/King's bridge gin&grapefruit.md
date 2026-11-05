@@ -1,6 +1,9 @@
 ---
 aliases:
   - King's bridge gin&grapefruit
+  - King’s bridge pink
+  - Кінгс брідж рожевий
+  - Крінж брідж рожевий
 status: published
 externalUrl: https://t.me/kallection/27729
 publishedAt: 2025-04-14

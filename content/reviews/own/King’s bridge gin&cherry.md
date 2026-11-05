@@ -1,6 +1,9 @@
 ---
 aliases:
   - King’s bridge gin&cherry
+  - King’s bridge burgundy
+  - Кінгс брідж бордовий
+  - Крінж брідж бордовий
 status: published
 externalUrl: https://t.me/kallection/27319
 publishedAt: 2025-03-27

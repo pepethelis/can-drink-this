@@ -1,6 +1,7 @@
 ---
 aliases:
   - Hell sparkler
+  - Хелл спарклер
 summary:
 status: published
 externalUrl: https://t.me/kallection/34570

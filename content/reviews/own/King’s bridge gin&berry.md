@@ -1,6 +1,9 @@
 ---
 aliases:
   - King’s bridge gin&berry
+  - King’s bridge violet
+  - Кінгс брідж фіолетовий
+  - Крінж брідж фіолетовий
 status: published
 externalUrl: https://t.me/kallection/27996
 publishedAt: 2025-04-25

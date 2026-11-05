@@ -8,7 +8,9 @@ views:
       - file.name
       - availability
       - aliases
-    sort: []
+    sort:
+      - property: availability
+        direction: ASC
     columnSize:
       file.name: 271
   - type: table

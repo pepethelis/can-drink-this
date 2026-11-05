@@ -1,6 +1,7 @@
 ---
 aliases:
   - Cola zero 0.15
+  - Кола зіро 0,15
 summary: Можливо це найрідкісніша банка, що я мав у своїй колекції, але мені якось похуй
 status: published
 externalUrl: https://t.me/kallection/33363

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Komodo juicy watermelon
+  - Комодо кавун
 summary:
 status: published
 externalUrl: https://t.me/kallection/38037

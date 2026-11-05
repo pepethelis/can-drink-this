@@ -1,6 +1,7 @@
 ---
 aliases:
   - Booster cola
+  - The real cola by Booster
 status: published
 externalUrl: https://t.me/kallection/27181
 publishedAt: 2025-03-22

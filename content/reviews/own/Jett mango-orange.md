@@ -2,6 +2,8 @@
 aliases:
   - Jett mango-orange
   - Jett orange
+  - Джет манго-апельсин
+  - Джет помаранчевий
 summary:
 status: to create
 externalUrl:

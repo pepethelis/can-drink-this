@@ -3,7 +3,7 @@ aliases:
   - Hell peach-lemon
   - Hell yellow
   - Хелл персик-лимон
-  - Хклл жовтий
+  - Хелл жовтий
 status: published
 externalUrl: https://t.me/kallection/37109
 publishedAt: 2026-07-04

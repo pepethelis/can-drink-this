@@ -1,6 +1,7 @@
 ---
 aliases:
   - Hell multi+
+  - Хелл мульти+
 status: published
 externalUrl: https://t.me/kallection/29091
 publishedAt: 2025-06-05

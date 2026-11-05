@@ -1,6 +1,7 @@
 ---
 aliases:
   - Komodo wild strawberry
+  - Комодо полуниця
 summary:
 status: published
 externalUrl: https://t.me/kallection/38360

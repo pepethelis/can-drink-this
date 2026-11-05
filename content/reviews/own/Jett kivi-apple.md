@@ -2,6 +2,8 @@
 aliases:
   - Jett kivi-apple
   - Jett green
+  - Джет ківі-яблуко
+  - Джет зелений
 summary:
 status: to create
 externalUrl:
