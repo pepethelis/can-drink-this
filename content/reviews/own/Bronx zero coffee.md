@@ -1,38 +1,34 @@
 ---
-sweeteners:
-  - sugar
-  - syrup/glucose-fructose
-availability: 3
+aliases:
+  - Bronx zero coffee
+  - Бронкс зіро кава
 status: published
-tags:
-  - package/bagpak
 externalUrl: https://t.me/kallection/29304
+publishedAt: 2025-06-11
+createdAt: 2025-06-11
+cover: "[[IMG_7705.jpg]]"
+types:
+  - energy
 brand: bronx/zero
 taste:
   - coffee
   - cola
-container:
-  - can
-publishedAt: 2025-06-11
-cover: "[[IMG_7705.jpg]]"
 sweeteners:
   - sugar
-  - glucose-fructose syrup
-availability: 3
-caffeine: 32
-volume:
-  - "0.33"
-alco: 0
+  - syrup/glucose-fructose
+container:
+  - can
 primaryColors:
   - brown
   - golden
 manufacturer: оболонь
-aliases:
-  - Bronx zero coffee
-  - Бронкс зіро кава
-types:
-  - energy
-createdAt: 2025-06-11
+volume:
+  - "0.33"
+caffeine: 32
+alco: 0
+availability: 3
+tags:
+  - package/bagpak
 ---
 **Bronx zero**, безалкогольний коричневий бронкс. Офіційний смак - кола-кава
 

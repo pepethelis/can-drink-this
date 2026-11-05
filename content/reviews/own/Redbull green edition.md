@@ -1,6 +1,7 @@
 ---
 aliases:
   - Redbull green edition
+  - Редбул зелений
 status: published
 externalUrl: https://t.me/kallection/38442
 publishedAt: 2026-08-29

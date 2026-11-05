@@ -1,6 +1,7 @@
 ---
 aliases:
   - Redbull apricot edition
+  - Редбул помараневий
 summary:
 status: published
 externalUrl: https://t.me/kallection/37770

@@ -1,45 +1,38 @@
 ---
-sweeteners:
-  - sugar
-  - syrup/glucose-fructose
-  - juice
-availability: 3
-availability_new: 3
----
-﻿---
-status: published
-tags:
-  - package/bagpak
-externalUrl: https://t.me/kallection/30458
-brand: bronx/zero
-taste:
-  - pomegranate
-container:
-  - can
-publishedAt: 2025-07-28
-cover: "[[IMG_8409.jpg]]"
-sweeteners:
-  - sugar
-  - glucose-fructose syrup
-  - juice
-availability: 3
-favorite: true
-alco: 0
-volume:
-  - "0.33"
-caffeine: 32
-primaryColors:
-  - pink
-  - yellow
-manufacturer: оболонь
 aliases:
   - Bronx zero pink
   - Бронкс зіро рожевий
   - Bronx zero pomegranate
   - Бронкс зіро гранатовий
+status: published
+externalUrl: https://t.me/kallection/30458
+publishedAt: 2025-07-28
+createdAt: 2025-06-30
+cover: "[[IMG_8409.jpg]]"
 types:
   - energy
-createdAt: 2025-06-30
+brand: bronx/zero
+taste:
+  - pomegranate
+sweeteners:
+  - sugar
+  - syrup/glucose-fructose
+  - juice
+container:
+  - can
+primaryColors:
+  - pink
+  - yellow
+manufacturer: оболонь
+volume:
+  - "0.33"
+caffeine: 32
+alco: 0
+availability: 3
+favorite: true
+tags:
+  - package/bagpak
+availability_new: 3
 ---
 **Bronx zero pomegranate**. Офіційний смак - гранат
 

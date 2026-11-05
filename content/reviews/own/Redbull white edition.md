@@ -1,6 +1,7 @@
 ---
 aliases:
   - Redbull white edition
+  - Редбул білий
 summary:
 status: published
 externalUrl: https://t.me/kallection/38575
