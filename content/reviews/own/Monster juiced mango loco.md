@@ -1,6 +1,7 @@
 ---
 aliases:
   - Monster juiced mango loco
+  - Монстр манго локо
 status: published
 externalUrl: https://t.me/kallection/35223
 publishedAt: 2026-03-21

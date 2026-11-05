@@ -2,6 +2,7 @@
 aliases:
   - Pitbull silver
   - Пітбуль сірий
+  - Пітбуль срібний
 status: published
 externalUrl: https://t.me/kallection/32249
 publishedAt: 2025-02-19

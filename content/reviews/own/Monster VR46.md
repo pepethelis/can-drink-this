@@ -2,6 +2,7 @@
 aliases:
   - Monster the doctor
   - Monster VR46
+  - Монстр доктор
 status: needs update
 externalUrl: https://t.me/kallection/25521
 publishedAt: 2025-01-12

@@ -2,6 +2,8 @@
 aliases:
   - Nonstop original zero
   - Нонстоп оригінальний без цукру
+  - Нонстоп синій без цукру
+  - Нонстоп синій зіро
 status: published
 externalUrl: https://t.me/kallection/31725
 publishedAt: 2025-09-20

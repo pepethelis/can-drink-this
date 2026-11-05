@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Toosecco, сидр сухий
+  - Toosecco виноград
 status: published
 externalUrl: https://t.me/kallection/28731
 publishedAt: 2025-05-25

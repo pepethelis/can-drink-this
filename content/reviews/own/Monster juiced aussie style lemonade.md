@@ -1,6 +1,7 @@
 ---
 aliases:
   - Monster juiced aussie style lemonade
+  - Монстр пусі лимонад
 status: published
 externalUrl: https://t.me/kallection/24292
 publishedAt: 2024-11-19

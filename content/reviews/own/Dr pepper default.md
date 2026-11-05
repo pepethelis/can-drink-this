@@ -1,6 +1,7 @@
 ---
 aliases:
   - Dr pepper default
+  - Доктор пепер
 status: published
 externalUrl: https://t.me/kallection/30575
 publishedAt: 2025-08-02

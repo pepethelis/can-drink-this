@@ -4,15 +4,13 @@ views:
     filters:
       and:
         - file.folder == "content/reviews/own"
-        - brand == "buevette"
     order:
       - file.name
       - availability
-      - availability_new
-      - publishedAt
-    sort:
-      - property: publishedAt
-        direction: ASC
+      - aliases
+    sort: []
+    columnSize:
+      file.name: 271
   - type: table
     name: subscribers
     filters:

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Monster ultra watermelon
+  - Монстр ультра кавун
 status: published
 externalUrl: https://t.me/kallection/36113
 publishedAt: 2026-05-16

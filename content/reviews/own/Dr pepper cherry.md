@@ -1,6 +1,7 @@
 ---
 aliases:
   - Dr pepper cherry
+  - Доктор пеппер вишня
 status: published
 externalUrl: https://t.me/kallection/30579
 publishedAt: 2025-08-02

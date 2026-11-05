@@ -1,6 +1,7 @@
 ---
 aliases:
   - Monster lando norris
+  - Монстр лендо норріс
 summary:
 status: published
 externalUrl: https://t.me/kallection/39096

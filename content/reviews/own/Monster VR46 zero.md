@@ -1,6 +1,7 @@
 ---
 aliases:
   - Monster VR46 zero
+  - Монстр доктор зіро
 summary: Імпостер без цукру
 status: published
 externalUrl: https://t.me/kallection/38051

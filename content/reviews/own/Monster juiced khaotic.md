@@ -1,6 +1,7 @@
 ---
 aliases:
   - Monster juiced khaotic
+  - Монстр хаотік
 status: published
 externalUrl: https://t.me/kallection/30774
 publishedAt: 2025-08-10

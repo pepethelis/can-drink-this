@@ -1,6 +1,7 @@
 ---
 aliases:
   - Monster ultra black
+  - Монстр ультра чорний
 status: published
 externalUrl: https://t.me/kallection/29168
 publishedAt: 2025-06-08

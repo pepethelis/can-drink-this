@@ -1,6 +1,7 @@
 ---
 aliases:
   - Monster juiced rio punch
+  - Монстр ріо пунш
 summary: Згадував ще кілька днів потому цей смак
 status: published
 externalUrl: https://t.me/kallection/32812

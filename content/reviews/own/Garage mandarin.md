@@ -1,6 +1,7 @@
 ---
 aliases:
   - Garage mandarin
+  - Гараж мандарин
 status: published
 externalUrl: https://t.me/kallection/22005
 publishedAt: 2024-08-11

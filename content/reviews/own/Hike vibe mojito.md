@@ -1,6 +1,7 @@
 ---
 aliases:
   - Hike vibe mojito
+  - Хайк вайб мохіто
 status: published
 externalUrl: https://t.me/kallection/33807
 publishedAt: 2025-12-28

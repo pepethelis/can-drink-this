@@ -1,6 +1,7 @@
 ---
 aliases:
   - Komodo cactus
+  - Комодо кактус
 summary:
 status: published
 externalUrl: https://t.me/kallection/38434

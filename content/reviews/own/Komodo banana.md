@@ -1,6 +1,7 @@
 ---
 aliases:
   - Komodo banana
+  - Комодо банан
 summary:
 status: published
 externalUrl: https://t.me/kallection/37628
