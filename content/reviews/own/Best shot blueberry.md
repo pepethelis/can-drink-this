@@ -2,6 +2,8 @@
 aliases:
   - Best shot blueberry
   - Best shot blue
+  - Бест шот лохина
+  - Бест шот синій
 summary:
 status: to publish
 externalUrl:

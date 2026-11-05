@@ -1,6 +1,7 @@
 ---
 aliases:
   - Frugo dragonfruit-chilli
+  - Frugo black
 status: published
 externalUrl: https://t.me/kallection/32818
 publishedAt: 2025-11-13

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Frugo wild cherry
-  - Frugo black
 status: published
 externalUrl: https://t.me/kallection/25694
 publishedAt: 2025-01-20

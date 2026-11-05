@@ -1,6 +1,8 @@
 ---
 aliases:
   - Monster nitro cosmic peach
+  - Monster nitro orange
+  - Монстр нітро помаранчевий
 status: published
 externalUrl: https://t.me/kallection/28724
 publishedAt: 2025-05-25

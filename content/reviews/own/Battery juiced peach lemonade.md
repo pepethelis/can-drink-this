@@ -1,6 +1,7 @@
 ---
 aliases:
   - Battery juiced peach lemonade
+  - Батарейка персикова
 status: published
 externalUrl: https://t.me/kallection/28018
 publishedAt: 2025-04-27

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Monster ultra blue
+  - Монстр ультра блакитний
 status: published
 externalUrl: https://t.me/kallection/32459
 publishedAt: 2025-10-25

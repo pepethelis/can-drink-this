@@ -1,6 +1,7 @@
 ---
 aliases:
   - Redbull red edition
+  - Редбул червоний
 status: published
 externalUrl: https://t.me/kallection/27710
 publishedAt: 2025-04-14

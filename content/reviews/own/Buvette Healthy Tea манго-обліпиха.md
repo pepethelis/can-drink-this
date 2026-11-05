@@ -23,7 +23,7 @@ volume:
   - "0.5"
 caffeine: 0
 alco: 0
-availability:
+availability: 3.5
 favorite:
 listexUrls:
   - https://listex.info/product/napiy-buvette-healthy-tea-zi-smakom-mango-ta-oblipihi-3h3-05l-ua-4820115402751

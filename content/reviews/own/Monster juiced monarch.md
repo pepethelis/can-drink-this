@@ -1,6 +1,7 @@
 ---
 aliases:
   - Monster juiced monarch
+  - Монстр монарх
 status: needs update
 externalUrl: https://t.me/kallection/24500
 publishedAt: 2024-11-29

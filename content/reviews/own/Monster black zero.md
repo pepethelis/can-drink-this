@@ -1,6 +1,8 @@
 ---
 aliases:
   - Monster black zero
+  - Монстр чорний зіро
+  - Монстр чорний без цукру
 status: published
 externalUrl: https://t.me/kallection/36145
 publishedAt: 2026-05-17

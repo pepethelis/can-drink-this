@@ -1,6 +1,7 @@
 ---
 aliases:
   - Своя лінія move on blueberry
+  - Мувон фіолетовий
 summary:
 status: published
 externalUrl: https://t.me/kallection/35546

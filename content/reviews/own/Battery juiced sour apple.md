@@ -1,6 +1,7 @@
 ---
 aliases:
   - Battery juiced sour apple
+  - Батарейка яблучна
 status: published
 externalUrl: https://t.me/kallection/28112
 publishedAt: 2025-05-01

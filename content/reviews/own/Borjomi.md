@@ -1,6 +1,7 @@
 ---
 aliases:
   - Borjomi
+  - Боржомі
 summary:
 status: published
 externalUrl: https://t.me/kallection/37901

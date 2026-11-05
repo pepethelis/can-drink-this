@@ -1,6 +1,7 @@
 ---
 aliases:
   - Своя лінія move on original
+  - Мувон червоний
 summary:
 status: published
 externalUrl: https://t.me/kallection/35551

@@ -3,8 +3,6 @@ sweeteners:
   - sugar
   - syrup/glucose-fructose
 availability: 3
----
-﻿---
 status: published
 tags:
   - package/bagpak

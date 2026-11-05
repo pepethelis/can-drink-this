@@ -3,6 +3,7 @@ aliases:
   - Monster nitro
   - Monster nitro green
   - Monster nitro dry
+  - Монстр нітро зелений
 status: published
 externalUrl: https://t.me/kallection/37892
 publishedAt: 2026-08-05

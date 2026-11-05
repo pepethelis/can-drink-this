@@ -1,6 +1,8 @@
 ---
 aliases:
   - Monster rehab tea + lemonade
+  - Monster rehab yellow
+  - Монстр рехаб жовтий
 status: published
 externalUrl: https://t.me/kallection/34291
 publishedAt: 2026-01-23

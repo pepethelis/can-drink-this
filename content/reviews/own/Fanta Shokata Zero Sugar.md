@@ -1,6 +1,7 @@
 ---
 aliases:
   - Fanta Shokata Zero Sugar
+  - Фанта шоката зіро
 status: published
 externalUrl: https://t.me/kallection/25629
 publishedAt: 2025-01-17

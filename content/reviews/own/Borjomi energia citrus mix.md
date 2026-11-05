@@ -27,7 +27,7 @@ volume:
   - "0.24"
 caffeine: 30
 alco: 0
-availability:
+availability: 3
 favorite:
 listexUrls:
   - https://listex.info/uk/product/napiy-ba-energiya-vid-borzhomi-024-l-zhb-zi-smakom-citrusovih-gaz-sok-h-12-pl-ua-4860019003685

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Komodo frozen mojito
+  - Комодо мохіто
 summary:
 status: published
 externalUrl: https://t.me/kallection/36909
