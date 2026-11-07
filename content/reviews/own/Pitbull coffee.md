@@ -5,9 +5,9 @@ aliases:
   - Пітбуль кава
   - Пітбуль коричневий
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39921
+publishedAt: 2026-11-07
 createdAt: 2026-10-25
 cover: "[[IMG_9130.jpeg]]"
 types:
@@ -31,6 +31,7 @@ alco: 0
 availability: 5
 favorite:
 availability_new: 5
+telegram_format: html
 ---
 **Pitbull coffee**. Офіційний смак - кава
 

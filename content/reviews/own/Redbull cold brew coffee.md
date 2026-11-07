@@ -2,9 +2,9 @@
 aliases:
   - Redbull cold brew coffee
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/39914
+publishedAt: 2026-11-07
 createdAt: 2026-10-25
 cover: "[[IMG_9155.jpeg]]"
 types:
