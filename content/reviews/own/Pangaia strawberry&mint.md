@@ -2,9 +2,9 @@
 aliases:
   - Pangaia strawberry&mint
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/40075
+publishedAt: 2026-11-14
 createdAt: 2026-10-29
 cover: "[[IMG_9296.jpeg]]"
 types:
@@ -32,6 +32,7 @@ favorite:
 tags:
 listexUrls:
 availability_new: 3
+telegram_format: html
 ---
 **Pangaia strawberry&mint**. Офіційний смак - полуниця і м'ята
 

@@ -3,9 +3,9 @@ aliases:
   - Borjomi energia original
   - Borjomi energia blue
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/40069
+publishedAt: 2026-11-14
 createdAt: 2026-11-01
 cover: "[[IMG_9371.jpeg]]"
 types:
@@ -32,6 +32,7 @@ listexUrls:
   - https://listex.info/uk/product/napiy-ba-energiya-vid-borzhomi-024-l-zhb-originalniy-gazsok-h-12-pl-ua-4860019003623
 sponsor:
   - olexander
+telegram_format: html
 ---
 **Borjomi energia original**. Офіційний смак - тутті-фрутті
 
