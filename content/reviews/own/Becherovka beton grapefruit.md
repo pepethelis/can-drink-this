@@ -8,9 +8,14 @@ publishedAt:
 createdAt:
 cover: "[[default.png]]"
 types:
-brand:
+  - alco
+brand: becherovka
 taste:
+  - grapefruit
+  - lemonade
+  - ORIGINAL
 sweeteners:
+  - sugar
 container:
   - can
 primaryColors:
@@ -18,10 +23,11 @@ primaryColors:
   - yellow
   - white
   - blue
-manufacturer:
+manufacturer: Bofillex s.r.o.
 volume:
-caffeine:
-alco:
+  - "0.25"
+caffeine: 0
+alco: 4.5
 availability:
 availability_new:
 favorite:
@@ -42,24 +48,24 @@ favorite:
 
 Колір напою - ==КОЛІР==
 
-Об'єм ==0,5л==, ==існує також==
+Об'єм 0,25л
 
-Кофеїну ==32мг==/100мл
+Кофеїну нема
 
-==Алкоголю==
+Алкоголю 4,5%
 
-==178кДж або ж 42ккал== /100мл
+225кДж або ж 54ккал /100мл
 
-Вуглеводів ==10г==, серед них цукрів ==10г== /100мл
+Вуглеводів невідомо
 
-Підсолоджувач: ==цукор==
+Підсолоджувач: цукор
 
 
 ==ІМПОРТ чи походження, мови та регіони==
 
 Доступність ==БАЛИ== з 5 можливих
 
-Бляшанка від ==AG/AMP/BALL/canpack/bagpack/quality==
+Бляшанка від canpack
 
 
 По висновку - ==ВИСНОВОК==
