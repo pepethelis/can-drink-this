@@ -5,10 +5,10 @@ aliases:
   - Джет ківі-яблуко
   - Джет зелений
 summary:
-status: to create
+status: to publish
 externalUrl:
 publishedAt:
-createdAt:
+createdAt: 2026-11-14
 cover: "[[IMG_9810.jpeg]]"
 types:
   - energy
@@ -24,7 +24,7 @@ container:
 primaryColors:
   - orange
   - red
-manufacturer:
+manufacturer: оболонь
 volume:
   - "0.33"
 caffeine: 32
