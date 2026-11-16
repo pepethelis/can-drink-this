@@ -159,6 +159,7 @@ Battery juiced:
 
 - [[Ice wolf classic]]
 - [[ДВІЖ]]
+- [[Двіж чайний|Двіж чайний]]
 - [[content/reviews/own/Pulls заряд помсти|Pulls заряд помсти]]
 
 ---
@@ -487,6 +488,7 @@ Hell ice coffee:
 - [[Buvette Healthy Tea каркаде журавлина мʼята]]
 - [[Buvette Healthy Tea абрикос тангерин]]
 - [[Buvette Healthy Tea троянда лимон імбир]]
+- [[Buvette Healthy Tea манго-обліпиха|Buvette Healthy Tea манго-обліпиха]]
 
 
 - [[Buvette ice coffee апельсин]]
@@ -607,5 +609,6 @@ Hell ice coffee:
 - [[Erbe ice tea orange mint|Erbe ice tea orange mint]]
 - [[Молокія йогурт персик+обіпиха]]
 - [[Canada dry ginger ale|Canada dry ginger ale]]
+- [[Otaka комбуча персик|Otaka комбуча персик]]
 
 ---

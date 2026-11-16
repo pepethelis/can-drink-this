@@ -34,6 +34,10 @@
 - Jett white - torba
 - Pitbull pink
 - Pitbull blue
+- pitbull juice punch
+- nonstop shot blue
+- nonstop shot yellow
+- nonstop shot orange
 - [[Aquarte anti-stress]] - torba, silpo
 - [[Aquarte support]] - torba, silpo
 - [[Ever aid bubble tea melon pineapple]]
@@ -44,6 +48,9 @@
 - Jaffa ice coffee cappuorange
 - xixo
 - garage zero pomegranate
+- otaka комбуча червона (малина)
+- otaka комбуча блактина (кокос)
+- otaka комбуча жовта (класична)
 
 ### unavailable
 - [[Schöfferhofer pineapple]]
