@@ -186,6 +186,7 @@ Monster juiced:
 - [[content/reviews/own/Monster juiced pipeline punch|pipeline punch]]
 - [[content/reviews/own/Monster juiced rio punch|rio punch]]
 - [[Monster juiced strawberry lemonade|strawberry lemonade]]
+- [[content/reviews/own/Monster juiced viking berry|viking berry]]
 Monster ultra:
 - [[content/reviews/own/Monster ultra white|white]]
 - [[content/reviews/own/Monster ultra black|black]]
@@ -519,6 +520,7 @@ Hell ice coffee:
 - [[content/reviews/own/Mojo mint-lime|mint-lime]]
 - [[content/reviews/own/Mojo chinotto|chinotto]]
 - [[Mojo pineapple twist|pineapple twist]]
+- [[Mojo aloe vera-lychee|aloe vera-lychee]]
 
 
 **Garage fun zero:**
