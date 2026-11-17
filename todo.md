@@ -23,6 +23,7 @@
 
 ### alco
 - [[Revo strong]]
+- [[Bronx blueberry]] - [listex](https://listex.info/uk/product/napiy-slaboalkogolniy-energetichniy-silnogazovaniy-zi-smakom-chornici-bronks-bronx-chornicya-05l-zb-ua-4820193039955)
 - [[Hike vibe lemon drop]] - atb
 - 10 alco pops igritto
 - 10 alco pops amore
