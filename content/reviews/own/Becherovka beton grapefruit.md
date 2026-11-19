@@ -31,6 +31,8 @@ alco: 4.5
 availability:
 availability_new:
 favorite:
+sponsor:
+  - olexander
 ---
 **Becherovka beton grapefruit**. Офіційний смак - тонік та грейпфрутовий лимонад
 
@@ -69,3 +71,5 @@ favorite:
 
 
 По висновку - ==ВИСНОВОК==
+
+Огляд вийшов завдяки спонсору Олександру, подякуйте йому
