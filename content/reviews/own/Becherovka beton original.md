@@ -5,7 +5,7 @@ summary: Шок, я пʼю БЕТОН
 status: to enrich
 externalUrl:
 publishedAt:
-createdAt:
+createdAt: 2026-11-19
 cover: "[[IMG_0014.jpeg]]"
 types:
   - alco
@@ -16,6 +16,7 @@ taste:
 sweeteners:
   - sugar
 container:
+  - can
 primaryColors:
   - green
   - yellow
