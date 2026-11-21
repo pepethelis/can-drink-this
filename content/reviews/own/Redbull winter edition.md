@@ -2,9 +2,9 @@
 aliases:
   - Redbull winter edition
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/40242
+publishedAt: 2026-11-21
 createdAt: 2026-11-01
 cover: "[[IMG_9420.jpeg]]"
 types:
@@ -35,6 +35,8 @@ tags:
   - package/ball
   - country/germany
 availability_new: 2
+telegram_format: html
+updatedAt: 2026-11-21
 ---
 **Redbull winter edition**. Офіційний смак - яблуко фуджі і імбир
 

@@ -2,9 +2,9 @@
 aliases:
   - Buvette Healthy Tea манго-обліпиха
 summary:
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/40247
+publishedAt: 2026-11-21
 cover: "[[IMG_9382.jpeg]]"
 types:
   - tea
@@ -29,6 +29,7 @@ listexUrls:
   - https://listex.info/product/napiy-buvette-healthy-tea-zi-smakom-mango-ta-oblipihi-3h3-05l-ua-4820115402751
 availability_new: 4
 createdAt: 2026-11-06
+telegram_format: html
 ---
 **Buvette Healthy Tea**. Офіційний смак - манго-обліпиха
 
