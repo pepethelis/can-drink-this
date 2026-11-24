@@ -12,6 +12,7 @@ export default async (title = SITE.title, desc = SITE.desc) => {
       type: "div",
       props: {
         style: {
+          boxSizing: "border-box",
           background: "#fefbfb",
           width: "100%",
           height: "100%",
@@ -24,6 +25,7 @@ export default async (title = SITE.title, desc = SITE.desc) => {
             type: "div",
             props: {
               style: {
+                boxSizing: "border-box",
                 position: "absolute",
                 top: "-1px",
                 right: "-1px",
@@ -43,6 +45,8 @@ export default async (title = SITE.title, desc = SITE.desc) => {
             type: "div",
             props: {
               style: {
+                boxSizing: "border-box",
+                position: "relative",
                 border: "4px solid #000",
                 background: "#fefbfb",
                 borderRadius: "4px",
@@ -56,6 +60,7 @@ export default async (title = SITE.title, desc = SITE.desc) => {
                 type: "div",
                 props: {
                   style: {
+                    boxSizing: "border-box",
                     display: "flex",
                     flexDirection: "column",
                     justifyContent: "space-between",
@@ -68,6 +73,7 @@ export default async (title = SITE.title, desc = SITE.desc) => {
                       type: "div",
                       props: {
                         style: {
+                          boxSizing: "border-box",
                           display: "flex",
                           flexDirection: "column",
                           justifyContent: "center",
@@ -81,14 +87,19 @@ export default async (title = SITE.title, desc = SITE.desc) => {
                           {
                             type: "p",
                             props: {
-                              style: { fontSize: 72, fontWeight: "bold" },
+                              style: {
+                                fontSize: 72,
+                                fontWeight: "bold",
+                                margin: "0 0 31px",
+                                width: "100%",
+                              },
                               children: title,
                             },
                           },
                           {
                             type: "p",
                             props: {
-                              style: { fontSize: 28 },
+                              style: { fontSize: 28, margin: 0, width: "100%" },
                               children: desc,
                             },
                           },
@@ -99,6 +110,7 @@ export default async (title = SITE.title, desc = SITE.desc) => {
                       type: "div",
                       props: {
                         style: {
+                          boxSizing: "border-box",
                           display: "flex",
                           justifyContent: "flex-end",
                           width: "100%",

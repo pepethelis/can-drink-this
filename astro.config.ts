@@ -2,6 +2,7 @@ import { defineConfig, envField, fontProviders } from "astro/config";
 import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
 import react from "@astrojs/react";
+import { unified } from "@astrojs/markdown-remark";
 import { visit } from "unist-util-visit";
 import { parse as parseYaml } from "yaml";
 import remarkToc from "remark-toc";
@@ -62,8 +63,7 @@ const readReviewPreviewMeta = (
     const data = parseYaml(match[1]) as Record<string, unknown>;
     const aliases = Array.isArray(data.aliases) ? data.aliases : [];
     const title = aliases.find(a => typeof a === "string") as
-      | string
-      | undefined;
+      string | undefined;
     if (!title) return undefined;
     const summary = typeof data.summary === "string" ? data.summary : undefined;
     const types = Array.isArray(data.types)
@@ -196,6 +196,9 @@ export default defineConfig({
   site: process.env.PUBLIC_SITE_URL || SITE.website,
   base: SITE.base,
   trailingSlash: "never",
+  // Astro 7 defaults to "jsx" whitespace rules, which drop spaces between
+  // inline elements written on separate lines. Keep the Astro 5 behaviour.
+  compressHTML: true,
   integrations: [
     react(),
     sitemap({
@@ -203,96 +206,99 @@ export default defineConfig({
     }),
   ],
   markdown: {
-    remarkPlugins: [
-      remarkReadingTime,
-      remarkToc,
-      [remarkCollapse, { test: "Table of contents" }],
-      remarkObsidianImage,
-      [
-        remarkWikiLink,
-        {
-          aliasDivider: "|",
-          pageResolver: (name: string) => [resolveWikiSlug(name)],
-          hrefTemplate: (permalink: string) => resolveWikiHref(permalink),
+    processor: unified({
+      remarkPlugins: [
+        remarkReadingTime,
+        remarkToc,
+        [remarkCollapse, { test: "Table of contents" }],
+        remarkObsidianImage,
+        [
+          remarkWikiLink,
+          {
+            aliasDivider: "|",
+            pageResolver: (name: string) => [resolveWikiSlug(name)],
+            hrefTemplate: (permalink: string) => resolveWikiHref(permalink),
+          },
+        ],
+        rewriteWikiLinks,
+        remarkSpoiler,
+      ],
+      rehypePlugins: [
+        () => tree => {
+          visit(tree, "element", (node: any) => {
+            if (!/^h[2-6]$/.test(node.tagName)) return;
+            if (node.properties?.id) return;
+
+            const text = node.children
+              ?.filter((child: any) => child.type === "text")
+              .map((child: any) => child.value)
+              .join(" ")
+              .trim();
+
+            if (!text) return;
+            node.properties = node.properties || {};
+            node.properties.id = slugifyStr(text);
+          });
+        },
+        () => tree => {
+          visit(tree, "element", (node: any) => {
+            if (node.tagName !== "a" || !node.properties?.href) return;
+            const href = String(node.properties.href);
+            node.properties.href = withBase(href);
+
+            // Attach hover-preview data to internal links to other reviews so a
+            // client-side script can show a title/summary/cover card on hover.
+            const withoutSiteBase =
+              siteBase && href.startsWith(siteBase)
+                ? href.slice(siteBase.length)
+                : href;
+
+            const isReviewLink = withoutSiteBase.startsWith("/reviews/");
+            const isPostLink = withoutSiteBase.startsWith("/posts/");
+            if (!isReviewLink && !isPostLink) return;
+
+            const slug = withoutSiteBase
+              .replace(isReviewLink ? /^\/reviews\// : /^\/posts\//, "")
+              .replace(/\/$/, "");
+            // /reviews/awaited is a real static page, not a review slug — skip it.
+            if (isReviewLink && slug === "awaited") return;
+
+            contentIndex = contentIndex ?? buildContentIndex();
+            const entry = contentIndex.byFull.get(slug);
+
+            if (isPostLink) {
+              // A short-form wikilink whose target doesn't match any review or
+              // post falls back to /posts/<slug> (see resolveWikiHref) — if
+              // nothing actually exists there either, it's the same "doesn't
+              // exist yet" case as an unpublished review link.
+              if (!entry) markLinkPending(node);
+              return;
+            }
+
+            const review =
+              entry?.base === "reviews" ? entry.preview : undefined;
+
+            if (!review || !review.published) {
+              // Link points at a review that doesn't exist yet or isn't
+              // published — flag it visually instead of showing a hover card.
+              markLinkPending(node);
+              return;
+            }
+
+            node.properties["data-preview-title"] = review.title;
+            if (review.summary) {
+              node.properties["data-preview-summary"] = review.summary;
+            }
+            if (review.types && review.types.length > 0) {
+              node.properties["data-preview-types"] = review.types.join(", ");
+            }
+            node.properties["data-preview-author"] = review.author;
+            node.properties["data-preview-cover"] =
+              `${siteBase}/reviews/${slug}/preview.jpg`;
+          });
         },
       ],
-      rewriteWikiLinks,
-      remarkSpoiler,
-    ],
-    rehypePlugins: [
-      () => tree => {
-        visit(tree, "element", (node: any) => {
-          if (!/^h[2-6]$/.test(node.tagName)) return;
-          if (node.properties?.id) return;
-
-          const text = node.children
-            ?.filter((child: any) => child.type === "text")
-            .map((child: any) => child.value)
-            .join(" ")
-            .trim();
-
-          if (!text) return;
-          node.properties = node.properties || {};
-          node.properties.id = slugifyStr(text);
-        });
-      },
-      () => tree => {
-        visit(tree, "element", (node: any) => {
-          if (node.tagName !== "a" || !node.properties?.href) return;
-          const href = String(node.properties.href);
-          node.properties.href = withBase(href);
-
-          // Attach hover-preview data to internal links to other reviews so a
-          // client-side script can show a title/summary/cover card on hover.
-          const withoutSiteBase =
-            siteBase && href.startsWith(siteBase)
-              ? href.slice(siteBase.length)
-              : href;
-
-          const isReviewLink = withoutSiteBase.startsWith("/reviews/");
-          const isPostLink = withoutSiteBase.startsWith("/posts/");
-          if (!isReviewLink && !isPostLink) return;
-
-          const slug = withoutSiteBase
-            .replace(isReviewLink ? /^\/reviews\// : /^\/posts\//, "")
-            .replace(/\/$/, "");
-          // /reviews/awaited is a real static page, not a review slug — skip it.
-          if (isReviewLink && slug === "awaited") return;
-
-          contentIndex = contentIndex ?? buildContentIndex();
-          const entry = contentIndex.byFull.get(slug);
-
-          if (isPostLink) {
-            // A short-form wikilink whose target doesn't match any review or
-            // post falls back to /posts/<slug> (see resolveWikiHref) — if
-            // nothing actually exists there either, it's the same "doesn't
-            // exist yet" case as an unpublished review link.
-            if (!entry) markLinkPending(node);
-            return;
-          }
-
-          const review = entry?.base === "reviews" ? entry.preview : undefined;
-
-          if (!review || !review.published) {
-            // Link points at a review that doesn't exist yet or isn't
-            // published — flag it visually instead of showing a hover card.
-            markLinkPending(node);
-            return;
-          }
-
-          node.properties["data-preview-title"] = review.title;
-          if (review.summary) {
-            node.properties["data-preview-summary"] = review.summary;
-          }
-          if (review.types && review.types.length > 0) {
-            node.properties["data-preview-types"] = review.types.join(", ");
-          }
-          node.properties["data-preview-author"] = review.author;
-          node.properties["data-preview-cover"] =
-            `${siteBase}/reviews/${slug}/preview.jpg`;
-        });
-      },
-    ],
+    }),
     shikiConfig: {
       // For more themes, visit https://shiki.style/themes
       themes: { light: "min-light", dark: "night-owl" },
@@ -307,10 +313,6 @@ export default defineConfig({
     },
   },
   vite: {
-    // eslint-disable-next-line
-    // @ts-ignore
-    // This will be fixed in Astro 6 with Vite 7 support
-    // See: https://github.com/withastro/astro/issues/14030
     plugins: [tailwindcss()],
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
@@ -329,17 +331,13 @@ export default defineConfig({
       }),
     },
   },
-  experimental: {
-    preserveScriptOrder: true,
-    fonts: [
-      {
-        name: "Fira Code",
-        cssVariable: "--font-fira-code",
-        provider: fontProviders.google(),
-        fallbacks: ["monospace"],
-        weights: [300, 400, 500, 600, 700],
-        styles: ["normal", "italic"],
-      },
-    ],
-  },
+  fonts: [
+    {
+      name: "Fira Code",
+      cssVariable: "--font-fira-code",
+      provider: fontProviders.google(),
+      fallbacks: ["monospace"],
+      weights: [300, 400, 500, 600, 700],
+    },
+  ],
 });

@@ -2,9 +2,10 @@
 
 ## Overview
 
-A beverage review blog (primarily energy drinks) built on Astro 5. Content is written in Markdown using Obsidian vault conventions. The site is deployed to GitHub Pages under `reviews.pepethelis.top`.
+A beverage review blog (primarily energy drinks) built on Astro 7. Content is written in Markdown using Obsidian vault conventions. The site is deployed to GitHub Pages under `reviews.pepethelis.top`.
 
-- **Framework**: Astro 5.16.6
+- **Framework**: Astro 7.4 (AstroPaper v7.2.1 baseline)
+- **Node.js**: `>=22.23.4` (required by Astro 7; `bun --bun run …` works on an older Node)
 - **Package manager**: Bun
 - **Styling**: Tailwind CSS v4
 - **Language**: TypeScript (strict)
@@ -74,6 +75,17 @@ Both collections are defined in `src/content.config.ts` with Zod schemas in `src
 - `remark-wiki-link` — Obsidian wiki links `[[Note|alias]]`
 - `remark-spoiler` — custom: spoiler blocks
 - Custom `rewriteWikiLinks` — remaps internal link URLs
+
+### Markdown processor (Astro 7)
+
+Astro 7's default Markdown processor is Sätteri, which ignores `remarkPlugins`/`rehypePlugins`. All plugins above are wired through `markdown.processor: unified({ ... })` from `@astrojs/markdown-remark` in `astro.config.ts` — add new remark/rehype plugins there. Astro still appends `rehypeHeadingIds` after the custom rehype plugins.
+
+### Astro 7 compatibility notes
+
+- `compressHTML: true` is set explicitly to keep Astro 5 whitespace handling; Astro 7's default `"jsx"` would drop spaces between inline elements on separate lines
+- `z` is imported from `astro/zod` (the `astro:content` re-export is deprecated)
+- Astro 7 puts `<Image>` responsive styles in `@layer astro.images`; `global.css` re-declares them unlayered so Tailwind height utilities on images don't override `height: auto` (keeps the pre-upgrade look)
+- Satori 0.63 defaults to `box-sizing: content-box` and paints later absolute siblings on top: OG templates set `boxSizing: "border-box"` on every style and `position: "relative"` on the site card's front panel
 
 ### Rehype plugins (HTML processing)
 - Auto-link headings

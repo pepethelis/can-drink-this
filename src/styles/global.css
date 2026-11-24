@@ -29,6 +29,22 @@ html[data-theme="dark"] {
   --color-border: var(--border);
 }
 
+/*
+ * Astro 7 moved its responsive <Image> styles into `@layer astro.images`, so
+ * Tailwind utilities (h-5, h-20, h-72…) on images now win over them. In Astro 5
+ * these rules were unlayered and kept images at their natural aspect ratio —
+ * restore that so cards look the same as before the upgrade.
+ */
+:where([data-astro-image]) {
+  height: auto;
+}
+:where([data-astro-image="full-width"]) {
+  width: 100%;
+}
+:where([data-astro-image="constrained"]) {
+  max-width: 100%;
+}
+
 @layer base {
   * {
     @apply border-border outline-accent/75;
@@ -36,7 +52,7 @@ html[data-theme="dark"] {
     scrollbar-color: var(--color-muted) transparent;
   }
   html {
-    @apply overflow-y-scroll scroll-smooth;
+    @apply overflow-y-scroll motion-safe:scroll-smooth;
   }
   body {
     @apply flex min-h-svh flex-col bg-background font-app text-foreground selection:bg-accent/75 selection:text-background;

@@ -324,7 +324,12 @@ const { brandGroups, letters } = Astro.props;
       const targetEl = targetId ? document.getElementById(targetId) : null;
       if (targetEl) {
         e.preventDefault();
-        targetEl.scrollIntoView({ behavior: "smooth", block: "start" });
+        targetEl.scrollIntoView({
+          behavior: matchMedia("(prefers-reduced-motion: reduce)").matches
+            ? "auto"
+            : "smooth",
+          block: "start",
+        });
         history.replaceState({}, "", `#${targetId}`);
       }
       return;

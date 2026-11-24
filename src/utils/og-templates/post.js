@@ -14,6 +14,7 @@ export default async (post, imageBase64) => {
     type: "div",
     props: {
       style: {
+        boxSizing: "border-box",
         display: "flex",
         flexDirection: "column",
         justifyContent: "space-between",
@@ -26,6 +27,7 @@ export default async (post, imageBase64) => {
           type: "span",
           props: {
             style: {
+              boxSizing: "border-box",
               fontSize: 18,
               fontWeight: 700,
               color: "#6b7280",
@@ -38,6 +40,7 @@ export default async (post, imageBase64) => {
           type: "p",
           props: {
             style: {
+              boxSizing: "border-box",
               fontSize,
               fontWeight: 700,
               color: "#f9fafb",
@@ -54,6 +57,7 @@ export default async (post, imageBase64) => {
               type: "p",
               props: {
                 style: {
+                  boxSizing: "border-box",
                   fontSize: 22,
                   color: "#9ca3af",
                   lineHeight: 1.4,
@@ -69,6 +73,7 @@ export default async (post, imageBase64) => {
           type: "div",
           props: {
             style: {
+              boxSizing: "border-box",
               display: "flex",
               alignItems: "center",
               gap: "8px",
@@ -95,6 +100,7 @@ export default async (post, imageBase64) => {
     type: "div",
     props: {
       style: {
+        boxSizing: "border-box",
         width: "40%",
         height: "100%",
         display: "flex",
@@ -109,6 +115,7 @@ export default async (post, imageBase64) => {
           width: 480,
           height: 630,
           style: {
+            boxSizing: "border-box",
             width: "100%",
             height: "100%",
             objectFit: "cover",
@@ -126,6 +133,7 @@ export default async (post, imageBase64) => {
       type: "div",
       props: {
         style: {
+          boxSizing: "border-box",
           background: "#0d1117",
           width: "100%",
           height: "100%",
@@ -145,6 +153,7 @@ export default async (post, imageBase64) => {
           summary +
           " " +
           author +
+          " by" +
           " " +
           SITE.title +
           " " +
