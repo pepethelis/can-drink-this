@@ -28,23 +28,6 @@ export const resolveImageAsset = (
   return undefined;
 };
 
-export const resolveImageSrc = (
-  src: string,
-  imageAssets: Record<string, unknown>
-) => {
-  if (src.startsWith("http") || src.startsWith("/")) return src;
-
-  const normalizedSrc = src.replace(/^\.\//, "");
-
-  const match = Object.entries(imageAssets).find(([path]) =>
-    path.endsWith(`/${normalizedSrc}`)
-  );
-  if (match) {
-    return match[1] as string;
-  }
-  return src;
-};
-
 export const resolveVideoSrc = (
   src: string,
   videoAssets: Record<string, unknown>

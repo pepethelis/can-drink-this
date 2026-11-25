@@ -16,7 +16,7 @@ import defaultImage from "@/assets/images/default.png";
 import { SITE } from "@/config";
 import { AUTHORS } from "@/constants";
 import Divider from "@/components/Divider.astro";
-import { Image } from "astro:assets";
+import { Image, getImage } from "astro:assets";
 import { normalizeMediaLink, resolveImageAsset } from "@/utils";
 import getTitleFormAliases from "@/utils/getTitleFormAliases";
 import ReadingProgress from "@/components/ReadingProgress.astro";
@@ -50,25 +50,25 @@ const title = getTitleFormAliases(aliases);
 
 const { Content, remarkPluginFrontmatter, headings } = await render(post);
 
-let rawPhotoUrl: string | undefined;
-
-// Resolve the raw photo (used for gallery display only)
-if (typeof initOgImage === "string") {
-  const resolved = resolveImageAsset(
-    normalizeMediaLink(initOgImage),
-    imageAssets
-  );
-  rawPhotoUrl = typeof resolved === "string" ? resolved : resolved?.src;
-} else if (initOgImage?.src) {
-  rawPhotoUrl = initOgImage.src;
-}
+// Photo as ImageMetadata (or an external/absolute URL string). Never read
+// `.src` on ImageMetadata here — that makes Astro ship the original file to
+// dist; <Gallery> and getImage() produce optimized copies instead.
+const rawPhoto =
+  typeof initOgImage === "string"
+    ? resolveImageAsset(normalizeMediaLink(initOgImage), imageAssets)
+    : (initOgImage ?? undefined);
 
 // For meta og:image, always prefer the generated branded image when dynamic OG is on
 let ogImageUrl: string | undefined;
 if (SITE.dynamicOgImage) {
   ogImageUrl = `${getPath(post.id, post.filePath)}/index.png`;
+} else if (typeof rawPhoto === "string") {
+  ogImageUrl = rawPhoto;
+} else if (rawPhoto) {
+  ogImageUrl = (await getImage({ src: rawPhoto, width: 1200, format: "jpg" }))
+    .src;
 } else {
-  ogImageUrl = rawPhotoUrl ?? SITE.ogImage;
+  ogImageUrl = SITE.ogImage;
 }
 
 // Resolve OG image URL (or fallback to SITE.ogImage / default `og.png`)
@@ -76,10 +76,9 @@ const ogImage = ogImageUrl
   ? new URL(ogImageUrl, Astro.url.origin).href
   : undefined;
 
-const galleryItems = [
-  initOgImage ? rawPhotoUrl : null,
-  ...(gallery || []),
-].filter((item): item is NonNullable<typeof item> => Boolean(item));
+const galleryItems = [initOgImage ? rawPhoto : null, ...(gallery || [])].filter(
+  (item): item is NonNullable<typeof item> => Boolean(item)
+);
 
 const layoutProps = {
   title: `${title} | ${SITE.title}`,

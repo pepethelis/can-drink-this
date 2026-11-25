@@ -38,6 +38,39 @@ export function findAssetByFilename(basename: string): string | undefined {
   return walk(assetsRoot);
 }
 
+// Astro image assets carry these next to the public `src`. Reading `src`
+// itself marks the original file as used, so Astro copies it into dist — use
+// the absolute file path (or the untracked raw src) instead.
+const RAW_SRC = Symbol.for("astro:image-asset:raw-src");
+
+/**
+ * Absolute path of the local file behind a cover/photo value: an Obsidian or
+ * plain string (`[[photo.jpg]]`) or an Astro ImageMetadata. Does not touch
+ * ImageMetadata's tracked `src` getter.
+ */
+export function resolveImageFilePath(value: unknown): string | undefined {
+  if (!value) return undefined;
+
+  if (typeof value === "string") {
+    return findAssetByFilename(path.basename(stripObsidianSyntax(value)));
+  }
+
+  if (typeof value !== "object") return undefined;
+  const asset = value as { fsPath?: unknown; [RAW_SRC]?: unknown };
+
+  if (typeof asset.fsPath === "string" && fs.existsSync(asset.fsPath)) {
+    return asset.fsPath;
+  }
+
+  const rawSrc = asset[RAW_SRC];
+  if (typeof rawSrc === "string") {
+    return findAssetByFilename(
+      decodeURIComponent(path.basename(rawSrc.split("?")[0]))
+    );
+  }
+  return undefined;
+}
+
 async function imageToBase64DataUrl(filePath: string): Promise<string> {
   const raw = fs.readFileSync(filePath);
   // Auto-rotate, then crop to right-panel dimensions so the data URL stays small
@@ -52,24 +85,7 @@ async function imageToBase64DataUrl(filePath: string): Promise<string> {
 async function resolveOgImageBase64(
   ogImage: unknown
 ): Promise<string | undefined> {
-  if (!ogImage) return undefined;
-
-  let filename: string;
-  if (typeof ogImage === "string") {
-    const normalized = stripObsidianSyntax(ogImage);
-    filename = path.basename(normalized);
-  } else if (
-    typeof ogImage === "object" &&
-    ogImage !== null &&
-    "src" in ogImage
-  ) {
-    const src = (ogImage as { src: string }).src;
-    filename = path.basename(src.split("?")[0]);
-  } else {
-    return undefined;
-  }
-
-  const filePath = findAssetByFilename(filename);
+  const filePath = resolveImageFilePath(ogImage);
   if (!filePath) return undefined;
   return imageToBase64DataUrl(filePath);
 }

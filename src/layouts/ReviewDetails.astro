@@ -14,6 +14,7 @@ import { slugifyStr } from "@/utils/slugify";
 import IconChevronLeft from "@/assets/icons/IconChevronLeft.svg";
 import IconChevronRight from "@/assets/icons/IconChevronRight.svg";
 import { SITE } from "@/config";
+import { getImage } from "astro:assets";
 import TgPost from "@/components/TgPost.astro";
 import { AUTHORS, SPONSORS } from "@/constants";
 import Divider from "@/components/Divider.astro";
@@ -66,25 +67,25 @@ const title = getTitleFormAliases(aliases);
 
 const { Content, remarkPluginFrontmatter, headings } = await render(post);
 
-// Resolve product photo URL (for gallery display)
-let productPhotoUrl: string | undefined;
-if (typeof initOgImage === "string") {
-  const resolved = resolveImageAsset(
-    normalizeMediaLink(initOgImage),
-    imageAssets
-  );
-  productPhotoUrl = typeof resolved === "string" ? resolved : resolved?.src;
-} else if (initOgImage?.src) {
-  productPhotoUrl = initOgImage.src;
-}
+// Product photo as ImageMetadata (or an external/absolute URL string). Never
+// read `.src` on ImageMetadata here — that makes Astro ship the original file
+// to dist; <Gallery> and getImage() produce optimized copies instead.
+const productPhoto =
+  typeof initOgImage === "string"
+    ? resolveImageAsset(normalizeMediaLink(initOgImage), imageAssets)
+    : (initOgImage ?? undefined);
 
 // OG image for social sharing: use generated image (photo + title + category + type)
-// when dynamic OG is enabled; otherwise fall back to the raw product photo
+// when dynamic OG is enabled; otherwise fall back to an optimized product photo
 let ogImageUrl: string | undefined;
 if (SITE.dynamicOgImage) {
   ogImageUrl = `${getPath(post.id, post.filePath)}/index.png`;
-} else {
-  ogImageUrl = productPhotoUrl ?? SITE.ogImage;
+} else if (typeof productPhoto === "string") {
+  ogImageUrl = productPhoto;
+} else if (productPhoto) {
+  ogImageUrl = (
+    await getImage({ src: productPhoto, width: 1200, format: "jpg" })
+  ).src;
 }
 if (!ogImageUrl) ogImageUrl = SITE.ogImage;
 
@@ -94,7 +95,7 @@ const ogImage = ogImageUrl
   : undefined;
 
 const galleryItems = [
-  initOgImage ? productPhotoUrl : null,
+  initOgImage ? productPhoto : null,
   ...(gallery || []),
 ].filter((item): item is NonNullable<typeof item> => Boolean(item));
 

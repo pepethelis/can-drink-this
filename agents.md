@@ -96,6 +96,16 @@ Astro 7's default Markdown processor is Sätteri, which ignores `remarkPlugins`/
 - The `reviews` loader drops `digest`, so `entry.digest` is not available for reviews
 - `astro build --force` ignores the cache; `astro build --timings` prints a per-phase report
 
+### Images and the GitHub Pages size limit (1 GB)
+
+Astro copies an image's **original** file into `dist/_astro` when code imports it with a query (`?url`) or reads `.src` on its `ImageMetadata` during render (the getter records it; `fsPath`, `width`, `height` don't). Originals of images that only get transformed are deleted after the build. Phone photos in `src/data/assets` are ~750 MB, so leaking them overflows the 1 GB Pages limit.
+
+- `Gallery.astro` takes `ImageMetadata` (or strings resolved via a plain `import.meta.glob`, never `?url`) and renders `getImage()` webp: carousel at 640px tall, single image at 1600px wide with an 800/1600 `srcset`. SVG/GIF deliberately ship the original
+- `ReviewDetails` / `PostDetails` pass the cover `ImageMetadata` to `<Gallery>`; the photo `og:image` fallback (only when `SITE.dynamicOgImage` is off) uses `getImage(... width 1200, jpg)`
+- OG / preview generators and `imageCacheKey` locate the cover file via `resolveImageFilePath()` (`fsPath`, then the untracked raw src) in `src/utils/generateOgImages.ts`
+- Known leftover: the eager image globs in cards/layouts emit *every* file in `src/data/assets`; files no review references (orphans in the vault, ~35 / ~50 MB) are never transformed, so Astro never deletes them
+- Check after changes: `find dist/_astro -iname '*.jp*g' | wc -l` and `du -sh dist` on a build with the real content from `main`
+
 ### Rehype plugins (HTML processing)
 - Auto-link headings
 - Link URL rewriting

@@ -2,24 +2,14 @@ import { type CollectionEntry } from "astro:content";
 import fs from "node:fs";
 import path from "node:path";
 import sharp from "sharp";
-import { findAssetByFilename, stripObsidianSyntax } from "./generateOgImages";
+import { resolveImageFilePath } from "./generateOgImages";
 
 const projectRoot = process.cwd();
 const PREVIEW_SIZE = 300;
 
+/** Local file behind a review cover; see resolveImageFilePath. */
 export function resolveCoverFilePath(cover: unknown): string | undefined {
-  if (!cover) return undefined;
-
-  let filename: string;
-  if (typeof cover === "string") {
-    filename = path.basename(stripObsidianSyntax(cover));
-  } else if (typeof cover === "object" && cover !== null && "src" in cover) {
-    filename = path.basename((cover as { src: string }).src.split("?")[0]);
-  } else {
-    return undefined;
-  }
-
-  return findAssetByFilename(filename);
+  return resolveImageFilePath(cover);
 }
 
 export async function generatePreviewImageForReview(
