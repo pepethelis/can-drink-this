@@ -1,3 +1,5 @@
+import fs from "node:fs";
+import path from "node:path";
 import emojiNameData from "unicode-emoji-json/data-by-emoji.json";
 
 const emojiCache = new Map<string, string>();
@@ -52,78 +54,65 @@ export async function loadAdditionalAsset(
   }
 }
 
-async function loadGoogleFont(
-  font: string,
-  text: string,
-  weight: number
-): Promise<ArrayBuffer> {
-  const API = `https://fonts.googleapis.com/css2?family=${font}:wght@${weight}&text=${encodeURIComponent(text)}`;
+// OG fonts are read from disk, not fetched from Google Fonts. Every OG image
+// used to make 4 requests (CSS + TTF x 2 weights); with parallel prerendering
+// hundreds of them ran at once, Google started dropping connections and a
+// single "fetch failed" aborted the whole build in CI.
+//
+// IBM Plex Mono, SIL Open Font License 1.1 — see src/assets/fonts/OFL.txt.
+const FONT_DIR = path.resolve(process.cwd(), "src/assets/fonts");
 
-  const css = await (
-    await fetch(API, {
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; de-at) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1",
-      },
-    })
-  ).text();
+const fontsConfig = [
+  {
+    name: "IBM Plex Mono",
+    file: "IBMPlexMono-Regular.ttf",
+    weight: 400 as const,
+    style: "normal" as const,
+  },
+  {
+    name: "IBM Plex Mono",
+    file: "IBMPlexMono-Bold.ttf",
+    weight: 700 as const,
+    style: "normal" as const,
+  },
+];
 
-  const resource = css.match(
-    /src: url\((.+?)\) format\('(opentype|truetype)'\)/
-  );
+type OgFont = {
+  name: string;
+  data: ArrayBuffer;
+  weight: 400 | 700;
+  style: "normal";
+};
 
-  if (!resource) throw new Error("Failed to download dynamic font");
+let fontsPromise: Promise<OgFont[]> | undefined;
 
-  const res = await fetch(resource[1]);
-
-  if (!res.ok) {
-    throw new Error("Failed to download dynamic font. Status: " + res.status);
-  }
-
-  const buffer = await res.arrayBuffer();
-
+async function readFont(file: string): Promise<ArrayBuffer> {
+  const buf = await fs.promises.readFile(path.join(FONT_DIR, file));
   // Validate TTF (0x00010000) or OTF (OTTO) magic bytes
-  if (buffer.byteLength < 4) {
-    throw new Error("Font buffer too small — likely a truncated response");
-  }
-  const magic = new DataView(buffer).getUint32(0, false);
+  const magic = buf.length >= 4 ? buf.readUInt32BE(0) : 0;
   if (magic !== 0x00010000 && magic !== 0x4f54544f) {
-    throw new Error(
-      `Invalid font data (magic 0x${magic.toString(16).padStart(8, "0")}) — Google Fonts may have returned an error page`
-    );
+    throw new Error(`Invalid font file ${file}`);
   }
-
-  return buffer;
+  return buf.buffer.slice(buf.byteOffset, buf.byteOffset + buf.byteLength);
 }
 
-async function loadGoogleFonts(
-  text: string
-): Promise<
-  Array<{ name: string; data: ArrayBuffer; weight: number; style: string }>
-> {
-  const fontsConfig = [
-    {
-      name: "IBM Plex Mono",
-      font: "IBM+Plex+Mono",
-      weight: 400,
-      style: "normal",
-    },
-    {
-      name: "IBM Plex Mono",
-      font: "IBM+Plex+Mono",
-      weight: 700,
-      style: "bold",
-    },
-  ];
-
-  const fonts = await Promise.all(
-    fontsConfig.map(async ({ name, font, weight, style }) => {
-      const data = await loadGoogleFont(font, text, weight);
-      return { name, data, weight, style };
-    })
-  );
-
-  return fonts;
+/**
+ * Fonts for satori OG templates (full font files, loaded once per process).
+ * Templates still pass the rendered text as an argument; it is not needed.
+ */
+async function loadGoogleFonts(): Promise<OgFont[]> {
+  fontsPromise ??= Promise.all(
+    fontsConfig.map(async ({ name, file, weight, style }) => ({
+      name,
+      data: await readFont(file),
+      weight,
+      style,
+    }))
+  ).catch(err => {
+    fontsPromise = undefined;
+    throw err;
+  });
+  return fontsPromise;
 }
 
 export default loadGoogleFonts;

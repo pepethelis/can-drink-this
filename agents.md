@@ -248,7 +248,7 @@ Reviews are merged into a `DrinkGroup` when they describe the same physical drin
 - **Reviews**: `src/pages/reviews/[...slug]/index.png.ts` — dark-themed card with title, summary, category/type chips, product photo (right panel when `cover` present). Falls back to the post template on error
 - **Posts**: `src/pages/posts/[...slug]/index.png.ts` — dark-themed card with title, summary, author, optional photo (uses `ogImage`)
 - Images are resized to 480×630 JPEG q82 before base64 encoding into Satori SVG
-- `src/utils/loadGoogleFont.ts` validates TTF (`0x00010000`) or OTF (`0x4f54544f`) magic bytes before passing fonts to Satori
+- `src/utils/loadGoogleFont.ts` reads IBM Plex Mono (400/700) from `src/assets/fonts/` (OFL, see `OFL.txt`) once per process — no network. It used to fetch per-image subsets from Google Fonts; with `parallelPrerender` that flooded Google and a single `fetch failed` aborted CI builds. Emoji (`loadAdditionalAsset`) are still fetched from jsDelivr, failures are swallowed
 - **Listing / utility pages**: `src/pages/og/[slug].png.ts` — one image per key of `PAGE_META` (`src/pageMeta.ts`), rendered with the site template and that page's own title/description
 - Gated by `SITE.dynamicOgImage` flag
 
