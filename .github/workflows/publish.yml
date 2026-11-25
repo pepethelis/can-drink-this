@@ -46,8 +46,36 @@ jobs:
           cp -r vault/content/reviews site/src/data/reviews
           cp -r vault/content/assets site/src/data/assets
 
+      # Astro 7 requires Node >=22.23.4; the `astro` binary runs on the system
+      # Node via its shebang, so pin the major version instead of relying on
+      # whatever the runner image ships.
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
+
+      # Incremental build cache (manifest + copies of rendered OG/preview images).
+      # Unique key per run + prefix restore-keys: each run restores the latest
+      # previous cache and saves a new entry (only on success). Astro itself
+      # invalidates the cache when the config or lockfile changes.
+      - name: Restore Astro build cache
+        uses: actions/cache@v4
+        with:
+          path: site/node_modules/.astro
+          key: astro-build-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            astro-build-${{ runner.os }}-
+
+      - name: Cache Bun downloads
+        uses: actions/cache@v4
+        with:
+          path: ~/.bun/install/cache
+          key: bun-${{ runner.os }}-${{ hashFiles('site/bun.lock') }}
+          restore-keys: |
+            bun-${{ runner.os }}-
 
       - name: Install dependencies
         working-directory: site
