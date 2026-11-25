@@ -22,9 +22,6 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout content (main)
         uses: actions/checkout@v4
@@ -90,6 +87,36 @@ jobs:
         with:
           path: site/dist
 
+  # Deploy runs as its own job (GitHub's starter-workflow layout) instead of
+  # right after the upload in `build`. deploy-pages looks the artifact up
+  # through a backend that can lag the upload by a moment; called ~0.3 s after
+  # upload-pages-artifact it intermittently got "Found 0 artifact(s)" /
+  # "No artifacts named github-pages" (actions/deploy-pages#451). Starting a
+  # new job gives it time, and one delayed retry covers the rest.
+  #
+  # Keeping deploy out of `build` also lets the build job succeed on its own,
+  # so the Astro cache's post step actually saves the cache.
+  #
+  # Don't fix a failed deploy with "Re-run failed jobs" on `build`: that uploads
+  # a second github-pages artifact to the run and deploy then fails with
+  # "Multiple artifacts". Re-run only `deploy`, or start a new run.
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment-retry.outputs.page_url }}
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Wait before retrying deploy
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 30
+
+      - name: Deploy to GitHub Pages (retry)
+        id: deployment-retry
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
