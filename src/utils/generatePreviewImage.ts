@@ -7,7 +7,7 @@ import { findAssetByFilename, stripObsidianSyntax } from "./generateOgImages";
 const projectRoot = process.cwd();
 const PREVIEW_SIZE = 300;
 
-function resolveCoverFilePath(cover: unknown): string | undefined {
+export function resolveCoverFilePath(cover: unknown): string | undefined {
   if (!cover) return undefined;
 
   let filename: string;

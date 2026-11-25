@@ -3,6 +3,7 @@ import { getCollection, type CollectionEntry } from "astro:content";
 import { getPath } from "@/utils/getPath";
 import { generateOgImageForPost } from "@/utils/generateOgImages";
 import { SITE } from "@/config";
+import { imageCacheKey } from "@/utils/imageCacheKey";
 
 export async function getStaticPaths() {
   if (!SITE.dynamicOgImage) {
@@ -16,6 +17,15 @@ export async function getStaticPaths() {
   return posts.map(post => ({
     params: { slug: getPath(post.id, post.filePath, false) },
     props: post,
+    // Only the fields the OG card draws (see og-templates/post.js) + photo.
+    cacheKey: imageCacheKey(
+      {
+        aliases: post.data.aliases,
+        summary: post.data.summary,
+        author: post.data.author,
+      },
+      post.data.ogImage
+    ),
   }));
 }
 

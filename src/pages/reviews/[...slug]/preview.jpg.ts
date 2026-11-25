@@ -3,6 +3,7 @@ import { getCollection, type CollectionEntry } from "astro:content";
 import { getPath } from "@/utils/getPath";
 import { generatePreviewImageForReview } from "@/utils/generatePreviewImage";
 import postFilter from "@/utils/postFilter";
+import { imageCacheKey } from "@/utils/imageCacheKey";
 
 export async function getStaticPaths() {
   const reviews = await getCollection("reviews", postFilter);
@@ -10,6 +11,8 @@ export async function getStaticPaths() {
   return reviews.map(post => ({
     params: { slug: getPath(post.id, post.filePath, false) },
     props: post,
+    // Category picks the fallback image when there is no cover.
+    cacheKey: imageCacheKey({ category: post.data.category }, post.data.cover),
   }));
 }
 

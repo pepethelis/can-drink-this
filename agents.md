@@ -87,6 +87,15 @@ Astro 7's default Markdown processor is Sätteri, which ignores `remarkPlugins`/
 - Astro 7 puts `<Image>` responsive styles in `@layer astro.images`; `global.css` re-declares them unlayered so Tailwind height utilities on images don't override `height: auto` (keeps the pre-upgrade look)
 - Satori 0.63 defaults to `box-sizing: content-box` and paints later absolute siblings on top: OG templates set `boxSizing: "border-box"` on every style and `position: "relative"` on the site card's front panel
 
+### Build performance
+
+- `experimental.parallelPrerender` renders pages on all CPU cores but one (works under Node and `bun --bun`). Full build: ~280s → ~95s on 8 cores
+- `experimental.incrementalBuild` skips pages whose `cacheKey` and route code are unchanged; the cache (manifest + previous output, ~40 MB) lives in `node_modules/.astro/`. Warm build: ~23s
+- Only the generated images return a `cacheKey` — `/reviews/*/index.png`, `/reviews/*/preview.jpg`, `/posts/*/index.png`, `/og/*.png` — built by `src/utils/imageCacheKey.ts` from the fields each image draws plus a content hash of the cover file (read via `fs`, so invisible to Astro's module graph). **When an OG template starts drawing a new field, add it to that route's `cacheKey`**
+- HTML pages deliberately have no `cacheKey`: they depend on the whole collection (sidebar counts, related reviews, link previews) and on `Date.now()` via `postFilter`
+- The `reviews` loader drops `digest`, so `entry.digest` is not available for reviews
+- `astro build --force` ignores the cache; `astro build --timings` prints a per-phase report
+
 ### Rehype plugins (HTML processing)
 - Auto-link headings
 - Link URL rewriting

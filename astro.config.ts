@@ -340,4 +340,13 @@ export default defineConfig({
       weights: [300, 400, 500, 600, 700],
     },
   ],
+  experimental: {
+    // Render static pages on several CPU cores — OG image generation
+    // (satori + resvg + sharp) dominates the build time.
+    parallelPrerender: true,
+    // Skip pages whose `cacheKey` (from getStaticPaths) and code are unchanged
+    // since the last build. Only the generated OG/preview images return one —
+    // see src/utils/imageCacheKey.ts. Cache: node_modules/.astro/.
+    incrementalBuild: true,
+  },
 });

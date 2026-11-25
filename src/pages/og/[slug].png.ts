@@ -6,6 +6,7 @@ export const getStaticPaths = (() =>
   Object.entries(PAGE_META).map(([slug, meta]) => ({
     params: { slug },
     props: { meta },
+    cacheKey: JSON.stringify(meta),
   }))) satisfies GetStaticPaths;
 
 export const GET: APIRoute = async ({ props }) => {
