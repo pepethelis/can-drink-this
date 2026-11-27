@@ -4,7 +4,7 @@ aliases:
   - Mojo pink-green
   - Моджо алое-лічі
 summary:
-status: to create
+status: to publish
 externalUrl:
 publishedAt:
 createdAt: 2026-11-27
