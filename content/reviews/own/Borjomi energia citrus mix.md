@@ -3,9 +3,9 @@ aliases:
   - Borjomi energia citrus mix
   - Borjomi energia yellow
 summary: Це скоріше гараж, ніж енергос
-status: to publish
-externalUrl:
-publishedAt:
+status: published
+externalUrl: https://t.me/kallection/40393
+publishedAt: 2026-11-28
 createdAt: 2026-11-06
 cover: "[[IMG_9529.jpeg]]"
 types:
@@ -34,6 +34,7 @@ listexUrls:
 availability_new: 3
 sponsor:
   - olexander
+telegram_format: html
 ---
 **Borjomi energia citrus mix**. Офіційний смак - цитрусові
 
